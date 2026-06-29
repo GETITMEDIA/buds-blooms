@@ -1,0 +1,357 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Maternity Wear - BUDS & Blooms</title>
+    <meta
+      name="description"
+      content="Browse all premium newborn products under Baby Care, from body lotions and woolen sweaters to cloth nappies and organic dresses."
+    />
+    <link rel="stylesheet" href="style.css?v=6" />
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Quicksand:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+  </head>
+
+  <body class="shape-2">
+    <!-- HEADER -->
+    <header class="header" id="mainHeader">
+      <div class="header-top-row">
+        <!-- Left: Locations -->
+        <div class="header-locations">
+          <a
+            href="https://maps.app.goo.gl/9ik651KTJ5uJDEZBA"
+            target="_blank"
+            class="loc-link"
+          >
+            <span class="loc-pin"><i class="fas fa-map-marker-alt"></i></span>
+            <span class="loc-text">Reddiyarpalayam</span>
+          </a>
+          <a
+            href="https://www.google.com/maps/search/Nehru+Street"
+            target="_blank"
+            class="loc-link"
+          >
+            <span class="loc-pin"><i class="fas fa-map-marker-alt"></i></span>
+            <span class="loc-text">Nehru Street</span>
+          </a>
+        </div>
+
+        <!-- Center: Logo -->
+        <a href="index.html" class="header-logo">
+          <img
+            src="logo/Buds and bloom.png"
+            alt="Buds & Blooms"
+            class="brand-logo"
+          />
+        </a>
+
+        <!-- Right: Actions -->
+        <div class="header-actions">
+          
+          <a href="#" class="action-item" id="headerWishlistBtn"
+            ><i class="far fa-heart"></i> WISHLIST <span class="wishlist-badge">0</span></a
+          >
+          <a href="#" class="action-item" id="headerCartBtn"
+            ><i class="fas fa-shopping-cart"></i> CART <span class="cart-badge">0</span></a
+          >
+
+        </div>
+      </div>
+
+      <!-- SECONDARY NAVBAR -->
+      <nav class="navbar sticky-navbar">
+        <!-- CENTER NAV LINKS -->
+        <ul class="nav-links">
+          <div class="nav-hover-pill" id="navHoverPill"></div>
+          <li class="nav-item">
+            <a href="baby-care.html" class="nav-link">Baby Care</a>
+          </li>
+          <li class="nav-item">
+            <a href="index.html?scroll=Baby Dress" class="nav-link">Baby Dress</a>
+          </li>
+          <li class="nav-item">
+            <a href="bedding.html" class="nav-link">Bedding</a>
+          </li>
+          <li class="nav-item">
+            <a href="baby-safety.html" class="nav-link">Baby Safety</a>
+          </li>
+          <li class="nav-item">
+            <a href="footwear.html" class="nav-link">Footwear</a>
+          </li>
+          <li class="nav-item">
+            <a href="maternity-wear.html" class="nav-link">Maternity Wear</a>
+          </li>
+          <li class="nav-item">
+            <a href="mother-care.html" class="nav-link">Mother Care</a>
+          </li>
+          <li class="nav-item">
+            <a href="toys.html" class="nav-link">Toys</a>
+          </li>
+          <li class="nav-item">
+            <a href="party-time.html" class="nav-link">Party Time</a>
+          </li>
+          <li class="nav-item">
+            <a href="pre-school-care.html" class="nav-link">Pre School care</a>
+          </li>
+          <li class="nav-item">
+            <a href="baby-charms.html" class="nav-link">Baby Charms</a>
+          </li>
+          <li class="nav-item">
+            <a href="baby-gear.html" class="nav-link">Baby Gear</a>
+          </li>
+        </ul>
+
+        <!-- HAMBURGER (mobile) -->
+        <button class="hamburger" id="hamburger" aria-label="Open menu">
+          <span></span><span></span><span></span>
+        </button>
+      </nav>
+    </header>
+
+    <!-- MOBILE DRAWER -->
+    <div class="mobile-overlay" id="mobileOverlay"></div>
+    <aside class="mobile-drawer" id="mobileDrawer">
+      <button class="drawer-close" id="drawerClose">&#10005;</button>
+      <a href="index.html" class="mobile-logo">BUDS</a>
+      <nav class="mobile-nav">
+        <a href="baby-care.html" class="mobile-nav-link-flat">Baby Care</a>
+        <a href="index.html?scroll=Baby Dress" class="mobile-nav-link-flat">Baby Dress</a>
+        <a href="bedding.html" class="mobile-nav-link-flat">Bedding</a>
+        <a href="baby-safety.html" class="mobile-nav-link-flat">Baby Safety</a>
+        <a href="footwear.html" class="mobile-nav-link-flat">Footwear</a>
+        <a href="maternity-wear.html" class="mobile-nav-link-flat">Maternity Wear</a>
+        <a href="mother-care.html" class="mobile-nav-link-flat">Mother Care</a>
+        <a href="toys.html" class="mobile-nav-link-flat">Toys</a>
+        <a href="party-time.html" class="mobile-nav-link-flat">Party Time</a>
+        <a href="pre-school-care.html" class="mobile-nav-link-flat">Pre School care</a>
+        <a href="baby-charms.html" class="mobile-nav-link-flat">Baby Charms</a>
+        <a href="baby-gear.html" class="mobile-nav-link-flat">Baby Gear</a>
+      </nav>
+    </aside>
+
+    <main>
+      <!-- Hero Banner -->
+      <style>
+        .baby-care-hero {
+          background-image: url('assets/baby-care/baby_care_hero_bg.png') !important;
+          background-size: cover !important;
+          background-position: center center !important;
+          background-repeat: no-repeat !important;
+          /* A very soft white overlay to ensure text readability over the image */
+          box-shadow: inset 0 0 0 2000px rgba(255, 255, 255, 0.4) !important;
+        }
+      </style>
+      <section class="about-hero baby-care-hero">
+        <div class="floating-orbs-container">
+          <div class="glow-orb orb-1"></div>
+          <div class="glow-orb orb-3"></div>
+        </div>
+        <div class="about-hero-content reveal visible">
+          <div class="cta-badge-sticker cta-badge-yellow bob-slow" style="top: -30px; left: -20px;">
+            <i class="fas fa-female text-pink"></i>
+            <span>Premium Maternity Wear</span>
+          </div>
+          <div class="cta-badge-sticker cta-badge-blue bob-fast" style="bottom: -60px; right: 10%;">
+            <i class="fas fa-feather-alt"></i>
+            <span>100% Skin Safe</span>
+          </div>
+          <h1 class="about-title">Maternity Wear</h1>
+          <p class="about-subtitle">Comfortable and stylish maternity wear designed to support you through every trimester.</p>
+        </div>
+      </section>
+
+      <!-- Sub-Category Grid & Search Section -->
+      <section class="subcat-section">
+        <!-- Floating background details -->
+        <div class="floating-orbs-container">
+          <div class="glow-orb orb-2" style="top: 25%; left: 5%;"></div>
+          <div class="glow-orb orb-3" style="bottom: 15%; right: 5%;"></div>
+        </div>
+
+        <!-- Playful Background Detail Shapes -->
+        <div class="subcat-bg-shape" style="top: 12%; left: 6%; font-size: 24px;"><i class="fas fa-cloud text-blue" style="opacity: 0.25;"></i></div>
+        <div class="subcat-bg-shape" style="top: 38%; right: 8%; font-size: 32px; animation-duration: 28s;"><i class="fas fa-heart text-pink" style="opacity: 0.25;"></i></div>
+        <div class="subcat-bg-shape" style="top: 65%; left: 10%; font-size: 28px; animation-duration: 22s;"><i class="fas fa-star text-yellow" style="opacity: 0.25;"></i></div>
+        <div class="subcat-bg-shape" style="top: 85%; right: 12%; font-size: 26px; animation-duration: 32s;"><i class="fas fa-smile text-pink" style="opacity: 0.25;"></i></div>
+
+        <div class="subcat-filters reveal">
+          <div class="subcat-search-box">
+            <input type="text" id="subcatSearch" placeholder="Search maternity wear..." />
+            <i class="fas fa-search"></i>
+          </div>
+
+          <div class="subcat-tabs">
+            <button class="subcat-tab-btn active" data-filter="all">All Items</button>
+          </div>
+        </div>
+
+        <div class="subcat-grid">
+          <!-- 1. Maternity Tops -->
+          <div class="subcat-card reveal visible" data-category="all" data-name="maternity tops">
+            <div class="subcat-img-wrapper">
+              <div class="subcat-img-inner">
+                <img src="assets/maternity-wear/Maternity Wear.png" alt="Maternity Tops" />
+              </div>
+            </div>
+            <button class="subcat-title-pill">Maternity Tops</button>
+          </div>
+
+          <!-- 2. Maternity Dresses -->
+          <div class="subcat-card reveal visible" data-category="all" data-name="maternity dresses">
+            <div class="subcat-img-wrapper">
+              <div class="subcat-img-inner">
+                <img src="assets/maternity-wear/Maternity.png" alt="Maternity Dresses" />
+              </div>
+            </div>
+            <button class="subcat-title-pill">Maternity Dresses</button>
+          </div>
+
+          <!-- 3. Nursing Bras -->
+          <div class="subcat-card reveal visible" data-category="all" data-name="nursing bras">
+            <div class="subcat-img-wrapper">
+              <div class="subcat-img-inner">
+                <img src="assets/maternity-wear/nursing_bras.png" alt="Nursing Bras" />
+              </div>
+            </div>
+            <button class="subcat-title-pill">Nursing Bras</button>
+          </div>
+
+          <!-- 4. Maternity Leggings -->
+          <div class="subcat-card reveal visible" data-category="all" data-name="maternity leggings">
+            <div class="subcat-img-wrapper">
+              <div class="subcat-img-inner">
+                <img src="assets/maternity-wear/Maternity yoga.png" alt="Maternity Leggings" />
+              </div>
+            </div>
+            <button class="subcat-title-pill">Maternity Leggings</button>
+          </div>
+
+        </div>
+      </section>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-top">
+        <div class="footer-col">
+          <a href="index.html" class="footer-logo">BUDS</a>
+          <p class="footer-about">
+            Premium fashion for the modern Indian family. Quality fabrics,
+            trending designs, and timeless style — all under one roof.
+          </p>
+          <div class="footer-socials">
+            <a href="#" aria-label="Instagram"
+              ><i class="fab fa-instagram"></i
+            ></a>
+            <a href="#" aria-label="Facebook"
+              ><i class="fab fa-facebook-f"></i
+            ></a>
+            <a href="#" aria-label="Twitter"
+              ><i class="fa-brands fa-x-twitter"></i
+            ></a>
+            <a href="#" aria-label="Pinterest"
+              ><i class="fab fa-pinterest-p"></i
+            ></a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h4>Shop</h4>
+          <a href="#">Men</a>
+          <a href="#">Women</a>
+          <a href="#">Kids</a>
+          <a href="#">New Arrivals</a>
+          <a href="#">Sale</a>
+        </div>
+        <div class="footer-col">
+          <h4>Company</h4>
+          <a href="about.html">About Us</a>
+          <a href="#">Careers</a>
+          <a href="#">Store Locator</a>
+          <a href="#">Blog</a>
+        </div>
+        <div class="footer-col">
+          <h4>Help</h4>
+          <a href="contact.html">Contact Us</a>
+          <a href="#">Shipping Info</a>
+          <a href="#">Returns & Exchanges</a>
+          <a href="#">FAQ</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 BUDS Clothing. All rights reserved.</p>
+        <div class="footer-payments">
+          <i class="fab fa-cc-visa"></i>
+          <i class="fab fa-cc-mastercard"></i>
+          <i class="fab fa-google-pay"></i>
+          <i class="fab fa-cc-paypal"></i>
+        </div>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    
+    <!-- Local filter interaction script -->
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const searchInput = document.getElementById("subcatSearch");
+        const cards = document.querySelectorAll(".subcat-card");
+        const tabBtns = document.querySelectorAll(".subcat-tab-btn");
+        let activeFilter = "all";
+
+        function filterGrid() {
+          const query = searchInput.value.toLowerCase().trim();
+          cards.forEach((card) => {
+            const name = card.getAttribute("data-name");
+            const category = card.getAttribute("data-category");
+            const matchesSearch = name.includes(query);
+            const matchesFilter = activeFilter === "all" || category === activeFilter;
+
+            if (matchesSearch && matchesFilter) {
+              card.classList.remove("hidden");
+              // Retrigger intersection reveal classes
+              setTimeout(() => card.classList.add("visible"), 50);
+            } else {
+              card.classList.add("hidden");
+              card.classList.remove("visible");
+            }
+          });
+        }
+
+        if (searchInput) {
+          searchInput.addEventListener("input", filterGrid);
+        }
+
+        tabBtns.forEach((btn) => {
+          btn.addEventListener("click", () => {
+            tabBtns.forEach((b) => b.classList.remove("active"));
+            btn.classList.add("active");
+            activeFilter = btn.getAttribute("data-filter");
+            filterGrid();
+          });
+        });
+
+        // Add click listener to cards to open Sub-Category Page
+        cards.forEach((card) => {
+          card.style.cursor = "pointer";
+          card.addEventListener("click", () => {
+            const rawName = card.getAttribute("data-name");
+            // Replace spaces with dashes
+            const urlName = rawName.replace(/\s+/g, '-');
+            window.location.href = `sub-category.html?category=${urlName}`;
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
+

@@ -1,0 +1,1055 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BUDS - Premium Fashion & Clothing</title>
+    <meta
+      name="description"
+      content="BUDS - Discover premium fashion for Men, Women & Kids. Shop curated collections of modern casual, ethnic & formal wear."
+    />
+    <link rel="stylesheet" href="style.css?v=5" />
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Quicksand:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <header class="header" id="mainHeader">
+      <div class="header-top-row">
+        <!-- Left: Locations -->
+        <div class="header-locations">
+          <a
+            href="https://maps.app.goo.gl/9ik651KTJ5uJDEZBA"
+            target="_blank"
+            class="loc-link"
+          >
+            <span class="loc-pin"><i class="fas fa-map-marker-alt"></i></span>
+            <span class="loc-text">Reddiyarpalayam</span>
+          </a>
+          <a
+            href="https://www.google.com/maps/search/Nehru+Street"
+            target="_blank"
+            class="loc-link"
+          >
+            <span class="loc-pin"><i class="fas fa-map-marker-alt"></i></span>
+            <span class="loc-text">Nehru Street</span>
+          </a>
+        </div>
+
+        <!-- Center: Logo -->
+        <a href="index.html" class="header-logo">
+          <img
+            src="logo/Buds and bloom.png"
+            alt="Buds & Blooms"
+            class="brand-logo"
+          />
+        </a>
+
+        <!-- Right: Actions -->
+        <div class="header-actions">
+          
+          <a href="#" class="action-item" id="headerWishlistBtn"
+            ><i class="far fa-heart"></i> WISHLIST <span class="wishlist-badge">0</span></a
+          >
+          <a href="#" class="action-item" id="headerCartBtn"
+            ><i class="fas fa-shopping-cart"></i> CART <span class="cart-badge">0</span></a
+          >
+
+        </div>
+      </div>
+
+      <!-- SECONDARY NAVBAR (Original) -->
+      <nav class="navbar sticky-navbar">
+        <!-- CENTER NAV LINKS -->
+        <ul class="nav-links">
+          <div class="nav-hover-pill" id="navHoverPill"></div>
+
+          <li class="nav-item">
+            <a href="baby-care.html" class="nav-link">Baby Care</a>
+          </li>
+          <li class="nav-item">
+            <a href="baby-dress.html" class="nav-link">Baby Dress</a>
+          </li>
+          <li class="nav-item">
+            <a href="bedding.html" class="nav-link">Bedding</a>
+          </li>
+          <li class="nav-item">
+            <a href="baby-safety.html" class="nav-link">Baby Safety</a>
+          </li>
+          <li class="nav-item">
+            <a href="footwear.html" class="nav-link">Footwear</a>
+          </li>
+          <li class="nav-item">
+            <a href="maternity-wear.html" class="nav-link">Maternity Wear</a>
+          </li>
+          <li class="nav-item">
+            <a href="mother-care.html" class="nav-link">Mother Care</a>
+          </li>
+          <li class="nav-item">
+            <a href="toys.html" class="nav-link">Toys</a>
+          </li>
+          <li class="nav-item">
+            <a href="party-time.html" class="nav-link">Party Time</a>
+          </li>
+          <li class="nav-item">
+            <a href="pre-school-care.html" class="nav-link">Pre School care</a>
+          </li>
+          <li class="nav-item">
+            <a href="baby-charms.html" class="nav-link">Baby Charms</a>
+          </li>
+          <li class="nav-item">
+            <a href="baby-gear.html" class="nav-link">Baby Gear</a>
+          </li>
+
+        </ul>
+
+        <!-- HAMBURGER (mobile) -->
+        <button class="hamburger" id="hamburger" aria-label="Open menu">
+          <span></span><span></span><span></span>
+        </button>
+      </nav>
+    </header>
+
+    <!-- MOBILE DRAWER -->
+    <div class="mobile-overlay" id="mobileOverlay"></div>
+    <aside class="mobile-drawer" id="mobileDrawer">
+      <button class="drawer-close" id="drawerClose">&#10005;</button>
+      <a href="#" class="mobile-logo">BUDS</a>
+      <nav class="mobile-nav">
+        <a href="baby-care.html" class="mobile-nav-link-flat">Baby Care</a>
+        <a href="baby-dress.html" class="mobile-nav-link-flat">Baby Dress</a>
+        <a href="bedding.html" class="mobile-nav-link-flat">Bedding</a>
+        <a href="baby-safety.html" class="mobile-nav-link-flat">Baby Safety</a>
+        <a href="footwear.html" class="mobile-nav-link-flat">Footwear</a>
+        <a href="maternity-wear.html" class="mobile-nav-link-flat">Maternity Wear</a>
+        <a href="mother-care.html" class="mobile-nav-link-flat">Mother Care</a>
+        <a href="toys.html" class="mobile-nav-link-flat">Toys</a>
+        <a href="party-time.html" class="mobile-nav-link-flat">Party Time</a>
+        <a href="pre-school-care.html" class="mobile-nav-link-flat">Pre School care</a>
+        <a href="baby-charms.html" class="mobile-nav-link-flat">Baby Charms</a>
+        <a href="baby-gear.html" class="mobile-nav-link-flat">Baby Gear</a>
+
+      </nav>
+    </aside>
+
+    <!-- PAGE CONTENT -->
+    <main>
+      <!-- Hero Carousel -->
+      <section class="hero-carousel" id="heroCarousel">
+        <!-- Background Slides (Right 50%) -->
+        <div
+          class="hero-slide active"
+          style="background-image: url(&quot;assets/carousel/baby.png&quot;)"
+        ></div>
+        <div
+          class="hero-slide"
+          style="background-image: url(&quot;assets/carousel/baby&mom carosal.png&quot;)"
+        ></div>
+        <div
+          class="hero-slide"
+          style="background-image: url(&quot;assets/carousel/Maternity_carosal.png&quot;)"
+        ></div>
+        <div
+          class="hero-slide"
+          style="background-image: url(&quot;assets/carousel/toys_carosal.png&quot;)"
+        ></div>
+
+        <!-- Static Text Overlay (Left 50%) -->
+        <div class="hero-overlay-split">
+          <div class="hero-text-split reveal visible">
+            <span class="hero-brand-split">BUDS Kids</span>
+            <h1>Playful Summer '26</h1>
+            <p>
+              Bright, comfortable, and super cute styles for your little ones!
+            </p>
+            <span class="prize-split">Flat 40% Off</span>
+            <a href="#" class="hero-cta-split">Shop Collection &#8594;</a>
+          </div>
+        </div>
+
+        <!-- Carousel Indicators -->
+        <div class="carousel-indicators">
+          <div class="indicator active" data-slide="0"></div>
+          <div class="indicator" data-slide="1"></div>
+          <div class="indicator" data-slide="2"></div>
+          <div class="indicator" data-slide="3"></div>
+        </div>
+      </section>
+
+      <!-- Marquee Banner -->
+      <div class="marquee-banner">
+        <div class="marquee-track">
+          <span>🔥 SUMMER SALE — FLAT 40% OFF</span>
+          <span>✦ FREE SHIPPING ON ₹999+</span>
+          <span>🎁 NEW ARRIVALS EVERY WEEK</span>
+          <span>⚡ PREMIUM QUALITY GUARANTEED</span>
+          <span>🔥 SUMMER SALE — FLAT 40% OFF</span>
+          <span>✦ FREE SHIPPING ON ₹999+</span>
+          <span>🎁 NEW ARRIVALS EVERY WEEK</span>
+          <span>⚡ PREMIUM QUALITY GUARANTEED</span>
+        </div>
+      </div>
+
+      <!-- Fashion Showcase Section Removed as requested -->
+      <!-- Video Grid Section -->
+      <section class="section-pad video-section" id="videoSection">
+        <div class="showcase-header reveal">
+          <span class="section-eyebrow">Watch & Shop</span>
+          <h2 class="section-title-lg">Our Products</h2>
+          <p class="section-subtitle">
+            Scroll to see the looks come alive — tap any to explore
+          </p>
+        </div>
+        <div id="videoGrid" class="v-grid">
+          <!-- Products injected by JS -->
+        </div>
+      </section>
+
+      <!-- Call To Action Section -->
+      <section class="cta-section-premium reveal">
+        <div class="cta-container">
+          <!-- Floating Sticker Badges -->
+          <div class="cta-badge-sticker cta-badge-yellow">
+            <i class="fas fa-star"></i>
+            <span>Expert Advice</span>
+          </div>
+          <div class="cta-badge-sticker cta-badge-blue">
+            <i class="fas fa-heart text-pink"></i>
+            <span>100% Free Consultation</span>
+          </div>
+
+          <div class="cta-left">
+            <div class="cta-image-wrapper">
+              <div class="cta-image-backdrop"></div>
+              <img src="assets/carousel/c6.png" alt="Baby Collection Support" />
+              <div class="cta-image-overlay-info">
+                <i class="fas fa-magic text-pink"></i> Let's Find the Perfect
+                Fit
+              </div>
+            </div>
+          </div>
+
+          <div class="cta-right">
+            <div class="cta-tag-eyebrow">
+              <i class="fas fa-comment-alt text-pink"></i>
+              <span>Personalized Support</span>
+            </div>
+            <h2 class="cta-title">
+              Need help choosing <span class="highlight-pink">the best</span>?
+            </h2>
+            <p class="cta-text">
+              Our dedicated baby care experts are just a quick phone call away.
+              Let us guide you through our premium organic collections to find
+              exactly what your baby needs.
+            </p>
+
+            <div class="cta-action-row">
+              <a href="tel:+919876543210" class="cta-btn-modern">
+                <span class="btn-pulse-icon">
+                  <i class="fas fa-phone-alt"></i>
+                </span>
+                <span class="btn-label-group">
+                  <span class="btn-main-label">Call Our Experts</span>
+                  <span class="btn-sub-label">+91 98765 43210</span>
+                </span>
+              </a>
+            </div>
+
+            <div class="cta-reassurance-row">
+              <div class="reassurance-tag">
+                <i class="fas fa-check text-pink"></i>
+                <span>No Buying Obligations</span>
+              </div>
+              <div class="reassurance-tag">
+                <i class="fas fa-clock text-blue"></i>
+                <span>Daily 9 AM - 9 PM Support</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Video Modal -->
+      <div id="videoModal" class="video-modal">
+        <div class="video-modal-content">
+          <div class="video-container">
+            <video id="modalVideo" loop playsinline></video>
+            <div id="noVideoMsg" class="no-video-msg">No video available</div>
+            <button id="muteBtn" class="modal-mute" aria-label="Mute/Unmute">
+              <i class="fas fa-volume-mute"></i>
+            </button>
+            <button
+              id="closeModalBtn"
+              class="modal-close"
+              aria-label="Close modal"
+            >
+              <i class="fas fa-times"></i>
+            </button>
+            <button
+              id="prevBtn"
+              class="modal-nav prev-nav"
+              aria-label="Previous product"
+            >
+              <i class="fas fa-chevron-left"></i>
+            </button>
+            <button
+              id="nextBtn"
+              class="modal-nav next-nav"
+              aria-label="Next product"
+            >
+              <i class="fas fa-chevron-right"></i>
+            </button>
+            <div
+              class="modal-overlay-card"
+              style="
+                justify-content: center;
+                padding: 16px;
+                border-radius: 12px;
+                background: rgba(255, 255, 255, 0.95);
+                box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.1);
+              "
+            >
+              <h4
+                id="modalTitle"
+                style="
+                  font-size: 20px;
+                  text-align: center;
+                  margin: 0;
+                  width: 100%;
+                  color: #222;
+                "
+              >
+                Product Title
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Interactive Hotspot Showcase Section -->
+      <section class="hotspot-showcase-section section-pad">
+        <div class="showcase-header reveal">
+          <h2 class="section-title-lg"><span style="color: var(--primary-pink);">LookBook</span> products</h2>
+          <p class="section-subtitle">
+            Choose your favorite products through our collection
+          </p>
+        </div>
+
+        <div class="hotspot-container reveal">
+          <!-- Left side: Lifestyle Image with Hotspots -->
+          <div class="hotspot-image-col">
+            <div class="hotspot-image-wrapper">
+              <img src="assets/carousel/lookbook_newborn.png" alt="Newborn Lifestyle Look" class="lifestyle-img" />
+              
+              <!-- Hotspot 1: Baby Cap -->
+              <div class="hotspot-marker active" style="top: 25%; left: 45%;" data-index="0">
+                <div class="hotspot-pulse"></div>
+                <div class="hotspot-dot"></div>
+                
+                <div class="hotspot-tooltip">
+                  <img src="assets/baby-care/cap_sets.png" alt="Newborn Cap Set" />
+                  <div class="tooltip-info">
+                    <h4>Newborn Cap Set</h4>
+                    <p class="price">₹199.00 <span class="old-price">₹299.00</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Hotspot 2: Mittens -->
+              <div class="hotspot-marker" style="top: 60%; left: 35%;" data-index="1">
+                <div class="hotspot-pulse"></div>
+                <div class="hotspot-dot"></div>
+                
+                <div class="hotspot-tooltip">
+                  <img src="assets/baby-care/lookbook_mittens.png" alt="Cotton Mittens" />
+                  <div class="tooltip-info">
+                    <h4>Cotton Mittens</h4>
+                    <p class="price">₹120.00 <span class="old-price">₹199.00</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Hotspot 3: Booties -->
+              <div class="hotspot-marker" style="top: 75%; left: 65%;" data-index="2">
+                <div class="hotspot-pulse"></div>
+                <div class="hotspot-dot"></div>
+                
+                <div class="hotspot-tooltip">
+                  <img src="assets/baby-care/booties.png" alt="Soft Sole Booties" />
+                  <div class="tooltip-info">
+                    <h4>Soft Sole Booties</h4>
+                    <p class="price">₹349.00 <span class="old-price">₹499.00</span></p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Hotspot 4: Baby Blanket / Towel -->
+              <div class="hotspot-marker" style="top: 85%; left: 45%;" data-index="3">
+                <div class="hotspot-pulse"></div>
+                <div class="hotspot-dot"></div>
+                
+                <div class="hotspot-tooltip">
+                  <img src="assets/baby-care/lookbook_towel.png" alt="Premium Cotton Towel" />
+                  <div class="tooltip-info">
+                    <h4>Premium Cotton Towel</h4>
+                    <p class="price">₹499.00 <span class="old-price">₹699.00</span></p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <!-- Right side: Featured Product Showcase -->
+          <div class="hotspot-featured-col">
+            <div class="featured-product-card premium-showcase-card">
+              <div class="premium-card-bg"></div>
+              <div class="featured-image-wrap">
+                <img src="assets/baby-care/cap_sets.png" id="featuredHotspotImg" alt="Featured Product" />
+                <div class="hotspot-badge">Top Pick</div>
+                <div class="hotspot-nav-arrows">
+                  <button id="hotspotPrev" class="h-nav-btn"><i class="fas fa-arrow-left"></i></button>
+                  <button id="hotspotNext" class="h-nav-btn"><i class="fas fa-arrow-right"></i></button>
+                </div>
+              </div>
+              
+              <div class="featured-product-details">
+                <div class="hotspot-meta-row">
+                  <div class="slide-indicator" id="hotspotSlideIndicator">01 / 04</div>
+                  <div class="f-stars">
+                    <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                  </div>
+                </div>
+                
+                <h3 class="featured-title" id="featuredHotspotTitle">Newborn Cap Set</h3>
+                
+                <div class="featured-price-row">
+                  <span class="f-price" id="featuredHotspotPrice">₹199.00</span>
+                  <span class="f-old-price" id="featuredHotspotOldPrice">₹299.00</span>
+                  <span class="f-discount" id="featuredHotspotDiscount">Save 33%</span>
+                </div>
+                
+                <a href="product-detail.html?product=newborn-cap-set" class="btn-hotspot-action" id="featuredHotspotLink">
+                  <span>View Full Details</span>
+                  <i class="fas fa-arrow-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Creative Brands Section -->
+      <section class="brands-section-creative section-pad">
+        <div
+          class="showcase-header reveal"
+          style="position: relative; z-index: 2"
+        >
+          <span class="section-eyebrow" style="color: var(--primary-pink)"
+            >Top Quality</span
+          >
+          <h2 class="section-title-lg">Brands You Love</h2>
+          <p class="section-subtitle">
+            We partner with the best to give your kids the best.
+          </p>
+        </div>
+
+        <div
+          class="brands-track-container"
+          style="position: relative; z-index: 2"
+        >
+          <!-- Track 1: Moving Left -->
+          <div class="brand-track track-left">
+            <div class="brand-pill">
+              <img src="assets/brands/Cetaphil.png" alt="Cetaphil" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/Chicco.png" alt="Chicco" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/Himalaya.png" alt="Himalaya" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/cucumber.jpg" alt="Cucumber" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/meemee-logo.jpg" alt="Mee Mee" />
+            </div>
+            <!-- Duplicates for seamless loop -->
+            <div class="brand-pill">
+              <img src="assets/brands/Cetaphil.png" alt="Cetaphil" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/Chicco.png" alt="Chicco" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/Himalaya.png" alt="Himalaya" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/cucumber.jpg" alt="Cucumber" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/meemee-logo.jpg" alt="Mee Mee" />
+            </div>
+          </div>
+
+          <!-- Track 2: Moving Right -->
+          <div class="brand-track track-right">
+            <div class="brand-pill">
+              <img src="assets/brands/philips Avent.png" alt="Philips Avent" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/pigeon-1.jpg" alt="Pigeon" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/seba_med.jpg" alt="Seba Med" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/tiny_care.png" alt="Tiny Care" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/zero.jpg" alt="Zero" />
+            </div>
+            <!-- Duplicates for seamless loop -->
+            <div class="brand-pill">
+              <img src="assets/brands/philips Avent.png" alt="Philips Avent" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/pigeon-1.jpg" alt="Pigeon" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/seba_med.jpg" alt="Seba Med" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/tiny_care.png" alt="Tiny Care" />
+            </div>
+            <div class="brand-pill">
+              <img src="assets/brands/zero.jpg" alt="Zero" />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Premium Google Testimonials Section -->
+      <section class="testimonials-section-premium section-pad">
+        <div
+          class="showcase-header reveal"
+          style="position: relative; z-index: 2"
+        >
+          <div class="google-rating-badge-premium">
+            <img src="logo/google.png" alt="Google" class="g-logo-sm" />
+            <div class="badge-content">
+              <span class="rating-number">4.9</span>
+              <div class="rating-stars">
+                <i class="fas fa-star"></i><i class="fas fa-star"></i
+                ><i class="fas fa-star"></i><i class="fas fa-star"></i
+                ><i class="fas fa-star"></i>
+              </div>
+            </div>
+            <span class="badge-divider"></span>
+            <span class="rating-text">150+ Verified Reviews</span>
+          </div>
+          <h2 class="section-title-lg">What Parents Say</h2>
+          <p class="section-subtitle">
+            Real experiences from our lovely customers.
+          </p>
+        </div>
+
+        <div
+          class="testimonials-grid-premium reveal"
+          id="testi-grid"
+          style="position: relative; z-index: 2"
+        >
+          <!-- Review 1 -->
+          <div class="testi-card-premium">
+            <div class="t-card-header">
+              <div class="t-user-profile">
+                <div
+                  class="t-avatar-premium"
+                  style="
+                    background: linear-gradient(
+                      135deg,
+                      #ff9a9e 0%,
+                      #fecfef 100%
+                    );
+                    color: #d81b60;
+                  "
+                >
+                  M
+                </div>
+                <div class="t-user-info-premium">
+                  <h4>Murugaiya K</h4>
+                  <span>a month ago</span>
+                </div>
+              </div>
+              <div class="t-google-icon">
+                <img src="logo/google.png" alt="Google" />
+              </div>
+            </div>
+            <div class="t-card-stars">
+              <i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i>
+            </div>
+            <p class="t-text-premium">
+              Very satisfied with my purchase of baby oil, wipes, and feeding
+              accessories. The products feel gentle and original. Plus, they
+              provide regular price reductions on most items, so I don’t have to
+              hunt for offers elsewhere in Pondicherry. This is a trustworthy
+              place for parents. I bought an activity toy and a soft plush toy
+              for my baby, and both are durable and safe. The shop also runs
+              frequent promotional discounts on mother care wear, which is a big
+              help for new moms.
+            </p>
+            <button
+              class="read-more-btn"
+              onclick="
+                this.previousElementSibling.classList.toggle('expanded');
+                if (this.innerText === 'Read more') {
+                  this.innerText = 'Show less';
+                } else {
+                  this.innerText = 'Read more';
+                }
+              "
+            >
+              Read more
+            </button>
+          </div>
+
+          <!-- Review 2 -->
+          <div class="testi-card-premium">
+            <div class="t-card-header">
+              <div class="t-user-profile">
+                <div
+                  class="t-avatar-premium"
+                  style="
+                    background: linear-gradient(
+                      135deg,
+                      #a18cd1 0%,
+                      #fbc2eb 100%
+                    );
+                    color: #4a148c;
+                  "
+                >
+                  N
+                </div>
+                <div class="t-user-info-premium">
+                  <h4>nandini 17</h4>
+                  <span>2 weeks ago</span>
+                </div>
+              </div>
+              <div class="t-google-icon">
+                <img src="logo/google.png" alt="Google" />
+              </div>
+            </div>
+            <div class="t-card-stars">
+              <i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i>
+            </div>
+            <p class="t-text-premium">
+              The shop has an excellent collection for newborn babies, kids and
+              mothers 🤱🍼 From baby dresses, toys, walkers, feeding products,
+              maternity essentials and gift items 🎁 everything is available in
+              one place with good quality and reasonable price ✨. Highly
+              recommended place for baby shopping, maternity shopping and
+              newborn essentials in Puducherry
+            </p>
+            <button
+              class="read-more-btn"
+              onclick="
+                this.previousElementSibling.classList.toggle('expanded');
+                if (this.innerText === 'Read more') {
+                  this.innerText = 'Show less';
+                } else {
+                  this.innerText = 'Read more';
+                }
+              "
+            >
+              Read more
+            </button>
+          </div>
+
+          <!-- Review 3 -->
+          <div class="testi-card-premium">
+            <div class="t-card-header">
+              <div class="t-user-profile">
+                <div
+                  class="t-avatar-premium"
+                  style="
+                    background: linear-gradient(
+                      135deg,
+                      #84fab0 0%,
+                      #8fd3f4 100%
+                    );
+                    color: #00695c;
+                  "
+                >
+                  A
+                </div>
+                <div class="t-user-info-premium">
+                  <h4>arunraj37</h4>
+                  <span>2 months ago</span>
+                </div>
+              </div>
+              <div class="t-google-icon">
+                <img src="logo/google.png" alt="Google" />
+              </div>
+            </div>
+            <div class="t-card-stars">
+              <i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i>
+            </div>
+            <p class="t-text-premium">
+              I am so impressed with the quality of the toys from this shop! You
+              can tell they are made with care and durable materials that can
+              actually stand up to toddler play. It’s such a relief to find a
+              place that prioritizes safety without sacrificing style. Highly
+              recommend!
+            </p>
+            <button
+              class="read-more-btn"
+              onclick="
+                this.previousElementSibling.classList.toggle('expanded');
+                if (this.innerText === 'Read more') {
+                  this.innerText = 'Show less';
+                } else {
+                  this.innerText = 'Read more';
+                }
+              "
+            >
+              Read more
+            </button>
+          </div>
+
+          <!-- Review 4 -->
+          <div class="testi-card-premium">
+            <div class="t-card-header">
+              <div class="t-user-profile">
+                <div
+                  class="t-avatar-premium"
+                  style="
+                    background: linear-gradient(
+                      135deg,
+                      #fccb90 0%,
+                      #d57eeb 100%
+                    );
+                    color: #880e4f;
+                  "
+                >
+                  P
+                </div>
+                <div class="t-user-info-premium">
+                  <h4>PUSHPARAJ K</h4>
+                  <span>a month ago</span>
+                </div>
+              </div>
+              <div class="t-google-icon">
+                <img src="logo/google.png" alt="Google" />
+              </div>
+            </div>
+            <div class="t-card-stars">
+              <i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i>
+            </div>
+            <p class="t-text-premium">
+              This place offers good deals on daliy baby essentials like wipes,
+              diaper and lotion. The staff also guide properly about items|
+            </p>
+          </div>
+
+          <!-- Review 5 -->
+          <div class="testi-card-premium">
+            <div class="t-card-header">
+              <div class="t-user-profile">
+                <div
+                  class="t-avatar-premium"
+                  style="
+                    background: linear-gradient(
+                      135deg,
+                      #e0c3fc 0%,
+                      #8ec5fc 100%
+                    );
+                    color: #1a237e;
+                  "
+                >
+                  S
+                </div>
+                <div class="t-user-info-premium">
+                  <h4>Santhosh Kumar</h4>
+                  <span>2 months ago</span>
+                </div>
+              </div>
+              <div class="t-google-icon">
+                <img src="logo/google.png" alt="Google" />
+              </div>
+            </div>
+            <div class="t-card-stars">
+              <i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i>
+            </div>
+            <p class="t-text-premium">
+              They're highly praised for using 100%organic cotton kid's wear and
+              feeding bottle 🍼 good quality and price affordable …
+            </p>
+          </div>
+
+          <!-- Review 6 -->
+          <div class="testi-card-premium">
+            <div class="t-card-header">
+              <div class="t-user-profile">
+                <div
+                  class="t-avatar-premium"
+                  style="
+                    background: linear-gradient(
+                      135deg,
+                      #f6d365 0%,
+                      #fda085 100%
+                    );
+                    color: #e65100;
+                  "
+                >
+                  G
+                </div>
+                <div class="t-user-info-premium">
+                  <h4>Ganga Gowtham</h4>
+                  <span>a month ago</span>
+                </div>
+              </div>
+              <div class="t-google-icon">
+                <img src="logo/google.png" alt="Google" />
+              </div>
+            </div>
+            <div class="t-card-stars">
+              <i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i>
+            </div>
+            <p class="t-text-premium">
+              I found many mothers care essential here. Brought feeding kurti
+              very good affordable prices
+            </p>
+          </div>
+
+          <!-- Review 7 -->
+          <div class="testi-card-premium">
+            <div class="t-card-header">
+              <div class="t-user-profile">
+                <div
+                  class="t-avatar-premium"
+                  style="
+                    background: linear-gradient(
+                      135deg,
+                      #ff9a9e 0%,
+                      #fecfef 100%
+                    );
+                    color: #d81b60;
+                  "
+                >
+                  A
+                </div>
+                <div class="t-user-info-premium">
+                  <h4>Anna lois</h4>
+                  <span>Local Guide · 3 weeks ago</span>
+                </div>
+              </div>
+              <div class="t-google-icon">
+                <img src="logo/google.png" alt="Google" />
+              </div>
+            </div>
+            <div class="t-card-stars">
+              <i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i>
+            </div>
+            <p class="t-text-premium">
+              Been purchasing here from the start .they have all the things
+              needed for babies.happy they are opening a new store
+            </p>
+          </div>
+
+          <!-- Review 8 -->
+          <div class="testi-card-premium">
+            <div class="t-card-header">
+              <div class="t-user-profile">
+                <div
+                  class="t-avatar-premium"
+                  style="
+                    background: linear-gradient(
+                      135deg,
+                      #a18cd1 0%,
+                      #fbc2eb 100%
+                    );
+                    color: #4a148c;
+                  "
+                >
+                  J
+                </div>
+                <div class="t-user-info-premium">
+                  <h4>Jayasri Barath</h4>
+                  <span>Local Guide · 2 months ago</span>
+                </div>
+              </div>
+              <div class="t-google-icon">
+                <img src="logo/google.png" alt="Google" />
+              </div>
+            </div>
+            <div class="t-card-stars">
+              <i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i><i class="fas fa-star"></i
+              ><i class="fas fa-star"></i>
+            </div>
+            <p class="t-text-premium">
+              Without doubt go for it .all the items and newly arrived and also
+              budget friendly.everthing under one roof .one of the best shop in
+              pondicherry
+            </p>
+          </div>
+        </div>
+
+        <!-- Navigation Arrows -->
+        <div
+          class="testi-arrows-container"
+          style="
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 30px;
+            position: relative;
+            z-index: 2;
+          "
+        >
+          <button
+            class="testi-arrow"
+            aria-label="Previous reviews"
+            onclick="
+              document
+                .getElementById('testi-grid')
+                .scrollBy({ left: -360, behavior: 'smooth' })
+            "
+          >
+            <i class="fas fa-chevron-left"></i>
+          </button>
+          <button
+            class="testi-arrow"
+            aria-label="Next reviews"
+            onclick="
+              document
+                .getElementById('testi-grid')
+                .scrollBy({ left: 360, behavior: 'smooth' })
+            "
+          >
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </div>
+      </section>
+
+      <!-- Features Strip -->
+      <section class="features-strip">
+        <div class="feature-item reveal">
+          <i class="fas fa-truck"></i>
+          <div>
+            <h4>Free Shipping</h4>
+            <p>On orders above ₹999</p>
+          </div>
+        </div>
+        <div class="feature-item reveal">
+          <i class="fas fa-sync-alt"></i>
+          <div>
+            <h4>Easy Returns</h4>
+            <p>7-day hassle-free returns</p>
+          </div>
+        </div>
+        <div class="feature-item reveal">
+          <i class="fas fa-shield-alt"></i>
+          <div>
+            <h4>Premium Quality</h4>
+            <p>Handpicked fabrics only</p>
+          </div>
+        </div>
+        <div class="feature-item reveal">
+          <i class="fas fa-headset"></i>
+          <div>
+            <h4>24/7 Support</h4>
+            <p>We're always here to help</p>
+          </div>
+        </div>
+      </section>
+
+      
+     
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-top">
+        <div class="footer-col">
+          <a href="#" class="footer-logo">BUDS</a>
+          <p class="footer-about">
+            Premium fashion for the modern Indian family. Quality fabrics,
+            trending designs, and timeless style — all under one roof.
+          </p>
+          <div class="footer-socials">
+            <a href="#" aria-label="Instagram"
+              ><i class="fab fa-instagram"></i
+            ></a>
+            <a href="#" aria-label="Facebook"
+              ><i class="fab fa-facebook-f"></i
+            ></a>
+            <a href="#" aria-label="Twitter"
+              ><i class="fa-brands fa-x-twitter"></i
+            ></a>
+            <a href="#" aria-label="Pinterest"
+              ><i class="fab fa-pinterest-p"></i
+            ></a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h4>Shop</h4>
+          <a href="#">Men</a>
+          <a href="#">Women</a>
+          <a href="#">Kids</a>
+          <a href="#">New Arrivals</a>
+          <a href="#">Sale</a>
+        </div>
+        <div class="footer-col">
+          <h4>Company</h4>
+          <a href="about.html">About Us</a>
+          <a href="#">Careers</a>
+          <a href="#">Store Locator</a>
+          <a href="#">Blog</a>
+        </div>
+        <div class="footer-col">
+          <h4>Help</h4>
+          <a href="contact.html">Contact Us</a>
+          <a href="#">Shipping Info</a>
+          <a href="#">Returns & Exchanges</a>
+          <a href="#">FAQ</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 BUDS Clothing. All rights reserved.</p>
+        <div class="footer-payments">
+          <i class="fab fa-cc-visa"></i>
+          <i class="fab fa-cc-mastercard"></i>
+          <i class="fab fa-google-pay"></i>
+          <i class="fab fa-cc-paypal"></i>
+        </div>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
