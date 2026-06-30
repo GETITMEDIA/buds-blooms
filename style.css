@@ -101,7 +101,7 @@ body {
   justify-content: space-between;
   padding: 0 40px;
   min-height: 100px;
-  max-width: 1440px;
+  /* max-width: 1440px; */
   margin: 0 auto;
 }
 
@@ -257,7 +257,7 @@ body {
   height: var(--nav-h);
   padding: 0 16px;
   position: relative;
-  max-width: 1440px;
+  /* max-width: 1440px; */
   margin: 0 auto;
   overflow-x: auto;
   scrollbar-width: none;
