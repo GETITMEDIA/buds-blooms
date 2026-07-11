@@ -2,6 +2,471 @@
    BUDS PREMIUM — PRODUCT DATABASE (112 Products)
    ============================================= */
 const PRODUCT_DB = {
+  "footwear-slippers-1": {
+    "name": "slippers-014",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "slippers",
+    "img": "assets/footwear/Sub catogory of  Slipper/slippers-014.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-slippers-2": {
+    "name": "slippers-02",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "slippers",
+    "img": "assets/footwear/Sub catogory of  Slipper/slippers-02.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-slippers-3": {
+    "name": "slippers-03",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "slippers",
+    "img": "assets/footwear/Sub catogory of  Slipper/slippers-03.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-slippers-4": {
+    "name": "slippers-04",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "slippers",
+    "img": "assets/footwear/Sub catogory of  Slipper/slippers-04.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-slippers-5": {
+    "name": "slippers-05",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "slippers",
+    "img": "assets/footwear/Sub catogory of  Slipper/slippers-05.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-slippers-6": {
+    "name": "slippers",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "slippers",
+    "img": "assets/footwear/Sub catogory of  Slipper/slippers.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-casual-shoes-1": {
+    "name": "Untitled-26-2",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "casual shoes",
+    "img": "assets/footwear/Sub catogory of Casual Shoes/Untitled-26-2.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-casual-shoes-2": {
+    "name": "Untitled-45",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "casual shoes",
+    "img": "assets/footwear/Sub catogory of Casual Shoes/Untitled-45.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-casual-shoes-3": {
+    "name": "Untitled-46",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "casual shoes",
+    "img": "assets/footwear/Sub catogory of Casual Shoes/Untitled-46.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-casual-shoes-4": {
+    "name": "Untitled-47",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "casual shoes",
+    "img": "assets/footwear/Sub catogory of Casual Shoes/Untitled-47.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-chu-chu-shoes-1": {
+    "name": "chu-chu-shoes-01",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "chu chu shoes",
+    "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes-01.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-chu-chu-shoes-2": {
+    "name": "chu-chu-shoes-02",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "chu chu shoes",
+    "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes-02.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-chu-chu-shoes-3": {
+    "name": "chu-chu-shoes-03",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "chu chu shoes",
+    "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes-03.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-chu-chu-shoes-4": {
+    "name": "chu-chu-shoes-04",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "chu chu shoes",
+    "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes-04.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-chu-chu-shoes-5": {
+    "name": "chu-chu-shoes-05",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "chu chu shoes",
+    "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes-05.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-chu-chu-shoes-6": {
+    "name": "chu-chu-shoes",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "chu chu shoes",
+    "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-crocks-1": {
+    "name": "crocks01",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "crocks",
+    "img": "assets/footwear/Sub catogory of Crocks/crocks01.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-crocks-2": {
+    "name": "crocks02",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "crocks",
+    "img": "assets/footwear/Sub catogory of Crocks/crocks02.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-crocks-3": {
+    "name": "crocks03",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "crocks",
+    "img": "assets/footwear/Sub catogory of Crocks/crocks03.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-crocks-4": {
+    "name": "crocks04",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "crocks",
+    "img": "assets/footwear/Sub catogory of Crocks/crocks04.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-crocks-5": {
+    "name": "crocks05",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "crocks",
+    "img": "assets/footwear/Sub catogory of Crocks/crocks05.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-1": {
+    "name": "fancy-shoes",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-2": {
+    "name": "fancy-shoes01",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes01.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-3": {
+    "name": "fancy-shoes010",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes010.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-4": {
+    "name": "fancy-shoes011",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes011.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-5": {
+    "name": "fancy-shoes02",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes02.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-6": {
+    "name": "fancy-shoes03",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes03.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-7": {
+    "name": "fancy-shoes05",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes05.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-8": {
+    "name": "fancy-shoes06",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes06.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-9": {
+    "name": "fancy-shoes07",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes07.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-10": {
+    "name": "fancy-shoes08",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes08.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-fancy-shoes-11": {
+    "name": "fancy-shoes09",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "fancy shoes",
+    "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes09.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-light-shoes-1": {
+    "name": "light-shoes",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "light shoes",
+    "img": "assets/footwear/Sub catogory of Light shoes/light-shoes.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-light-shoes-2": {
+    "name": "light-shoes01",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "light shoes",
+    "img": "assets/footwear/Sub catogory of Light shoes/light-shoes01.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-light-shoes-3": {
+    "name": "light-shoes02",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "light shoes",
+    "img": "assets/footwear/Sub catogory of Light shoes/light-shoes02.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-light-shoes-4": {
+    "name": "light-shoes03",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "light shoes",
+    "img": "assets/footwear/Sub catogory of Light shoes/light-shoes03.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-light-shoes-5": {
+    "name": "light-shoes04",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "light shoes",
+    "img": "assets/footwear/Sub catogory of Light shoes/light-shoes04.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-light-shoes-6": {
+    "name": "light-shoes05",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "light shoes",
+    "img": "assets/footwear/Sub catogory of Light shoes/light-shoes05.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-light-shoes-7": {
+    "name": "light-shoes06",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "light shoes",
+    "img": "assets/footwear/Sub catogory of Light shoes/light-shoes06.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-sandals-1": {
+    "name": "sandals-02",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "sandals",
+    "img": "assets/footwear/Sub catogory of Sandals/sandals-02.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-sandals-2": {
+    "name": "sandals-03",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "sandals",
+    "img": "assets/footwear/Sub catogory of Sandals/sandals-03.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-sandals-3": {
+    "name": "sandals-04",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "sandals",
+    "img": "assets/footwear/Sub catogory of Sandals/sandals-04.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-sandals-4": {
+    "name": "sandals-05",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "sandals",
+    "img": "assets/footwear/Sub catogory of Sandals/sandals-05.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-sandals-5": {
+    "name": "sandals-06",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "sandals",
+    "img": "assets/footwear/Sub catogory of Sandals/sandals-06.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-sandals-6": {
+    "name": "sandals-1",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "sandals",
+    "img": "assets/footwear/Sub catogory of Sandals/sandals-1.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-sandals-7": {
+    "name": "sandals",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "sandals",
+    "img": "assets/footwear/Sub catogory of Sandals/sandals.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-stocking-1": {
+    "name": "stockings-01",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "stocking",
+    "img": "assets/footwear/Sub catogory og Stocking/stockings-01.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-stocking-2": {
+    "name": "stockings-02",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "stocking",
+    "img": "assets/footwear/Sub catogory og Stocking/stockings-02.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-stocking-3": {
+    "name": "stockings-03",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "stocking",
+    "img": "assets/footwear/Sub catogory og Stocking/stockings-03.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-stocking-4": {
+    "name": "stockings",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "stocking",
+    "img": "assets/footwear/Sub catogory og Stocking/stockings.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-booties-1": {
+    "name": "51ahUKOxyHL",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "booties",
+    "img": "assets/footwear/Sud catogory of Booties/51ahUKOxyHL.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-booties-2": {
+    "name": "71mXd0ZGEyL._SY879_",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "booties",
+    "img": "assets/footwear/Sud catogory of Booties/71mXd0ZGEyL._SY879_.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-booties-3": {
+    "name": "Untitled-10-1",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "booties",
+    "img": "assets/footwear/Sud catogory of Booties/Untitled-10-1.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-booties-4": {
+    "name": "Untitled-11-1",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "booties",
+    "img": "assets/footwear/Sud catogory of Booties/Untitled-11-1.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-booties-5": {
+    "name": "Untitled-12",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "booties",
+    "img": "assets/footwear/Sud catogory of Booties/Untitled-12.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-booties-6": {
+    "name": "Untitled-7b-1",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "booties",
+    "img": "assets/footwear/Sud catogory of Booties/Untitled-7b-1.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-booties-7": {
+    "name": "Untitled-8b",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "booties",
+    "img": "assets/footwear/Sud catogory of Booties/Untitled-8b.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+  "footwear-booties-8": {
+    "name": "Untitled-9-1",
+    "price": 499,
+    "oldPrice": 699,
+    "category": "booties",
+    "img": "assets/footwear/Sud catogory of Booties/Untitled-9-1.jpg",
+    "desc": "Comfortable and stylish footwear for your little one."
+  },
+
   "moisturizing-body-lotion": {
     "name": "Moisturizing Body Lotion",
     "price": 349,
@@ -3326,13 +3791,21 @@ const PRODUCT_DB = {
 };
 
 const CATEGORY_PRODUCTS = {
+  "slippers": ["footwear-slippers-1", "footwear-slippers-2", "footwear-slippers-3", "footwear-slippers-4", "footwear-slippers-5", "footwear-slippers-6"],
+  "casual-shoes": ["footwear-casual-shoes-1", "footwear-casual-shoes-2", "footwear-casual-shoes-3", "footwear-casual-shoes-4"],
+  "chu-chu-shoes": ["footwear-chu-chu-shoes-1", "footwear-chu-chu-shoes-2", "footwear-chu-chu-shoes-3", "footwear-chu-chu-shoes-4", "footwear-chu-chu-shoes-5", "footwear-chu-chu-shoes-6"],
+  "crocks": ["footwear-crocks-1", "footwear-crocks-2", "footwear-crocks-3", "footwear-crocks-4", "footwear-crocks-5"],
+  "fancy-shoes": ["footwear-fancy-shoes-1", "footwear-fancy-shoes-2", "footwear-fancy-shoes-3", "footwear-fancy-shoes-4", "footwear-fancy-shoes-5", "footwear-fancy-shoes-6", "footwear-fancy-shoes-7", "footwear-fancy-shoes-8", "footwear-fancy-shoes-9", "footwear-fancy-shoes-10", "footwear-fancy-shoes-11"],
+  "light-shoes": ["footwear-light-shoes-1", "footwear-light-shoes-2", "footwear-light-shoes-3", "footwear-light-shoes-4", "footwear-light-shoes-5", "footwear-light-shoes-6", "footwear-light-shoes-7"],
+  "sandals": ["footwear-sandals-1", "footwear-sandals-2", "footwear-sandals-3", "footwear-sandals-4", "footwear-sandals-5", "footwear-sandals-6", "footwear-sandals-7"],
+  "stocking": ["footwear-stocking-1", "footwear-stocking-2", "footwear-stocking-3", "footwear-stocking-4"],
+  "booties": ["footwear-booties-1", "footwear-booties-2", "footwear-booties-3", "footwear-booties-4", "footwear-booties-5", "footwear-booties-6", "footwear-booties-7", "footwear-booties-8"],
   "body-lotions": ["moisturizing-body-lotion", "aloe-vera-body-lotion", "milk-protein-body-lotion", "daily-care-baby-lotion"],
   "baby-gift-box": ["newborn-gift-box", "premium-baby-gift-box", "baby-care-gift-set", "welcome-baby-gift-pack"],
   "baby-socks": ["cotton-baby-socks", "anti-slip-baby-socks", "winter-baby-socks", "cartoon-baby-socks"],
   "baby-soft-sweaters": ["full-sleeve-soft-sweater", "knitted-baby-sweater", "button-soft-sweater", "hooded-baby-sweater"],
   "baby-woollen-sweater": ["winter-woollen-sweater", "hand-knit-sweater", "premium-woollen-sweater", "thick-warm-sweater"],
-  "booties": ["cotton-booties", "winter-booties", "soft-sole-booties", "cartoon-booties"],
-  "bottle-wash": ["natural-bottle-wash", "foaming-bottle-wash", "fruit-based-bottle-wash", "anti-bacterial-bottle-wash"],
+    "bottle-wash": ["natural-bottle-wash", "foaming-bottle-wash", "fruit-based-bottle-wash", "anti-bacterial-bottle-wash"],
   "cap-sets": ["newborn-cap-set", "winter-cap-set", "cotton-cap-set", "printed-cap-set"],
   "cloth-nappies": ["reusable-cloth-nappies", "organic-cloth-nappies", "soft-cotton-nappies", "adjustable-nappies"],
   "cotton-towels": ["premium-cotton-towel", "soft-baby-towel", "quick-dry-cotton-towel", "extra-absorbent-towel"],
@@ -3406,15 +3879,7 @@ const CATEGORY_PRODUCTS = {
   "car-seats": ["standard-car-seats", "premium-car-seats", "advanced-car-seats", "compact-car-seats"],
   "high-chairs": ["standard-high-chairs", "premium-high-chairs", "advanced-high-chairs", "compact-high-chairs"],
   "baby-carriers": ["standard-baby-carriers", "premium-baby-carriers", "advanced-baby-carriers", "compact-baby-carriers"],
-  "stocking": ["standard-stocking", "premium-stocking", "party-stocking", "casual-stocking"],
-  "casual-shoes": ["standard-casual-shoes", "premium-casual-shoes", "party-casual-shoes", "casual-casual-shoes"],
-  "chu-chu-shoes": ["standard-chu-chu-shoes", "premium-chu-chu-shoes", "party-chu-chu-shoes", "casual-chu-chu-shoes"],
-  "crocks": ["standard-crocks", "premium-crocks", "party-crocks", "casual-crocks"],
-  "fancy-shoes": ["standard-fancy-shoes", "premium-fancy-shoes", "party-fancy-shoes", "casual-fancy-shoes"],
-  "light-shoes": ["standard-light-shoes", "premium-light-shoes", "party-light-shoes", "casual-light-shoes"],
-  "sandals": ["standard-sandals", "premium-sandals", "party-sandals", "casual-sandals"],
-  "slippers": ["standard-slippers", "premium-slippers", "party-slippers", "casual-slippers"],
-"activity-walker": ["activity-walker-01","activity-walker-02","activity-walker"],
+                "activity-walker": ["activity-walker-01","activity-walker-02","activity-walker"],
   "battery-bike": ["battery-bike-01","battery-bike-02","battery-bike"],
   "battery-car": ["battery-car-01","battery-car-02","battery-car-03","battery-car"],
   "bouncer": ["2","v"],
