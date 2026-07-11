@@ -2,6 +2,814 @@
    BUDS PREMIUM — PRODUCT DATABASE (112 Products)
    ============================================= */
 const PRODUCT_DB = {
+  "baby-dress-baby-panties-1": {
+    "name": "baby-panties-013",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Baby Panties",
+    "img": "assets/baby-dress/Sub catogory of Baby Panties/baby-panties-013.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-baby-panties-2": {
+    "name": "baby-panties",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Baby Panties",
+    "img": "assets/baby-dress/Sub catogory of Baby Panties/baby-panties.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-boy-dress-1": {
+    "name": "BOY-BABY-01",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-01.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-boy-dress-2": {
+    "name": "BOY-BABY-02",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-02.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-boy-dress-3": {
+    "name": "BOY-BABY-03",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-03.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-boy-dress-4": {
+    "name": "BOY-BABY-04",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-04.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-boy-dress-5": {
+    "name": "BOY-BABY-05",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-05.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-boy-dress-6": {
+    "name": "BOY-BABY-06",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-06.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-boy-dress-7": {
+    "name": "BOY-BABY-07",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-07.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-boy-dress-8": {
+    "name": "BOY-BABY",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-diaper-panties-1": {
+    "name": "diaper-panties-01",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Diaper Panties",
+    "img": "assets/baby-dress/Sub catogory of Diaper Panties/diaper-panties-01.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-diaper-panties-2": {
+    "name": "diaper-panties-03",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Diaper Panties",
+    "img": "assets/baby-dress/Sub catogory of Diaper Panties/diaper-panties-03.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-diaper-panties-3": {
+    "name": "diaper-panties",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Diaper Panties",
+    "img": "assets/baby-dress/Sub catogory of Diaper Panties/diaper-panties.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-1": {
+    "name": "front-open-top-01",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-01.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-2": {
+    "name": "front-open-top-02",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-02.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-3": {
+    "name": "front-open-top-03",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-03.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-4": {
+    "name": "front-open-top-04",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-04.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-5": {
+    "name": "front-open-top-05",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-05.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-6": {
+    "name": "front-open-top-06",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-06.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-7": {
+    "name": "front-open-top-07",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-07.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-8": {
+    "name": "front-open-top-08",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-08.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-9": {
+    "name": "front-open-top-09",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-09.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-10": {
+    "name": "front-open-top-11",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-11.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-11": {
+    "name": "front-open-top-12",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-12.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-front-open-top-12": {
+    "name": "front-open-top-13",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-13.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pant-sets-1": {
+    "name": "full-pants-02",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-02.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pant-sets-2": {
+    "name": "full-pants-03",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-03.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pant-sets-3": {
+    "name": "full-pants-04",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-04.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pant-sets-4": {
+    "name": "full-pants-05",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-05.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pant-sets-5": {
+    "name": "full-pants-10",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-10.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pant-sets-6": {
+    "name": "full-pants",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pants-1": {
+    "name": "full-pants-sets-01",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets-01.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pants-2": {
+    "name": "full-pants-sets",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pants-3": {
+    "name": "full-pants-sets02",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets02.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pants-4": {
+    "name": "full-pants-sets03",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets03.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pants-5": {
+    "name": "full-pants-sets04",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets04.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pants-6": {
+    "name": "full-pants-sets05",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets05.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pants-7": {
+    "name": "full-pants-sets06",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets06.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pants-8": {
+    "name": "full-pants-sets08",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets08.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-pants-9": {
+    "name": "full-pants-sets09",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets09.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-romper-1": {
+    "name": "full-Romper-01",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-01.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-romper-2": {
+    "name": "full-Romper-02",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-02.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-romper-3": {
+    "name": "full-Romper-03",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-03.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-romper-4": {
+    "name": "full-Romper-04",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-04.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-romper-5": {
+    "name": "full-Romper-05",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-05.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-full-romper-6": {
+    "name": "full-Romper",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-1": {
+    "name": "07",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/07.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-2": {
+    "name": "GIRL-BABY",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-3": {
+    "name": "GIRL-BABY01",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY01.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-4": {
+    "name": "GIRL-BABY010",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY010.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-5": {
+    "name": "GIRL-BABY011",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY011.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-6": {
+    "name": "GIRL-BABY013",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY013.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-7": {
+    "name": "GIRL-BABY015",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY015.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-8": {
+    "name": "GIRL-BABY016",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY016.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-9": {
+    "name": "GIRL-BABY017",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY017.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-10": {
+    "name": "GIRL-BABY018",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY018.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-11": {
+    "name": "GIRL-BABY019",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY019.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-12": {
+    "name": "GIRL-BABY02",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY02.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-13": {
+    "name": "GIRL-BABY020",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY020.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-14": {
+    "name": "GIRL-BABY03",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY03.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-15": {
+    "name": "GIRL-BABY04",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY04.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-16": {
+    "name": "GIRL-BABY05",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY05.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-17": {
+    "name": "GIRL-BABY06",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY06.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-18": {
+    "name": "GIRL-BABY07",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY07.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-19": {
+    "name": "GIRL-BABY08",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY08.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-girl-dress-20": {
+    "name": "GIRL-BABY09",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY09.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-half-romper-1": {
+    "name": "half-romper",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Half Romper",
+    "img": "assets/baby-dress/Sub catogory of Half Romper/half-romper.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-half-romper-2": {
+    "name": "half-romper01",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Half Romper",
+    "img": "assets/baby-dress/Sub catogory of Half Romper/half-romper01.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-half-romper-3": {
+    "name": "half-romper02",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Half Romper",
+    "img": "assets/baby-dress/Sub catogory of Half Romper/half-romper02.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-muslin-dress-1": {
+    "name": "muslin-dress-01",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-01.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-muslin-dress-2": {
+    "name": "muslin-dress-02",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-02.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-muslin-dress-3": {
+    "name": "muslin-dress-03",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-03.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-muslin-dress-4": {
+    "name": "muslin-dress-04",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-04.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-muslin-dress-5": {
+    "name": "muslin-dress-05",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-05.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-muslin-dress-6": {
+    "name": "MUSLIN-DRESS-1",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/MUSLIN-DRESS-1.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-muslin-dress-7": {
+    "name": "muslin-dress-2",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-2.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-muslin-dress-8": {
+    "name": "MUSLIN-DRESS",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/MUSLIN-DRESS.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-organic-dress-1": {
+    "name": "Organic-Dress-01",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-Dress-01.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-organic-dress-2": {
+    "name": "Organic-Dress-02",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-Dress-02.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-organic-dress-3": {
+    "name": "Organic-dress-1-1",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-1-1.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-organic-dress-4": {
+    "name": "Organic-dress-3",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-3.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-organic-dress-5": {
+    "name": "Organic-dress-4",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-4.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-organic-dress-6": {
+    "name": "Organic-dress-5",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-5.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-organic-dress-7": {
+    "name": "Organic-dress-7",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-7.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-resuable-diaper-1": {
+    "name": "Reusable-Diapers-01",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Resuable Diaper",
+    "img": "assets/baby-dress/Sub catogory of Resuable Diaper/Reusable-Diapers-01.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-resuable-diaper-2": {
+    "name": "Reusable-Diapers",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Resuable Diaper",
+    "img": "assets/baby-dress/Sub catogory of Resuable Diaper/Reusable-Diapers.jpg",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-1": {
+    "name": "thermal-wear-1",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-1.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-2": {
+    "name": "thermal-wear-10",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-10.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-3": {
+    "name": "thermal-wear-11",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-11.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-4": {
+    "name": "thermal-wear-12",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-12.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-5": {
+    "name": "thermal-wear-13",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-13.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-6": {
+    "name": "thermal-wear-14",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-14.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-7": {
+    "name": "thermal-wear-15",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-15.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-8": {
+    "name": "thermal-wear-2",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-2.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-9": {
+    "name": "thermal-wear-3",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-3.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-10": {
+    "name": "thermal-wear-4",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-4.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-11": {
+    "name": "thermal-wear-5",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-5.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-12": {
+    "name": "thermal-wear-6",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-6.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-13": {
+    "name": "thermal-wear-7",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-7.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-14": {
+    "name": "thermal-wear-8",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-8.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
+  "baby-dress-thermal-wear-15": {
+    "name": "thermal-wear-9",
+    "price": 399,
+    "oldPrice": 599,
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-9.png",
+    "desc": "Beautiful and comfortable baby dress."
+  },
   "toys-action-figure-toys-1": {
     "name": "Untitled-1-1",
     "price": 599,
@@ -4983,6 +5791,19 @@ const PRODUCT_DB = {
 };
 
 const CATEGORY_PRODUCTS = {
+  "baby-panties": ["baby-dress-baby-panties-1", "baby-dress-baby-panties-2"],
+  "boy-dress": ["baby-dress-boy-dress-1", "baby-dress-boy-dress-2", "baby-dress-boy-dress-3", "baby-dress-boy-dress-4", "baby-dress-boy-dress-5", "baby-dress-boy-dress-6", "baby-dress-boy-dress-7", "baby-dress-boy-dress-8"],
+  "diaper-panties": ["baby-dress-diaper-panties-1", "baby-dress-diaper-panties-2", "baby-dress-diaper-panties-3"],
+  "front-open-top": ["baby-dress-front-open-top-1", "baby-dress-front-open-top-2", "baby-dress-front-open-top-3", "baby-dress-front-open-top-4", "baby-dress-front-open-top-5", "baby-dress-front-open-top-6", "baby-dress-front-open-top-7", "baby-dress-front-open-top-8", "baby-dress-front-open-top-9", "baby-dress-front-open-top-10", "baby-dress-front-open-top-11", "baby-dress-front-open-top-12"],
+  "full-pant-sets": ["baby-dress-full-pant-sets-1", "baby-dress-full-pant-sets-2", "baby-dress-full-pant-sets-3", "baby-dress-full-pant-sets-4", "baby-dress-full-pant-sets-5", "baby-dress-full-pant-sets-6"],
+  "full-pants": ["baby-dress-full-pants-1", "baby-dress-full-pants-2", "baby-dress-full-pants-3", "baby-dress-full-pants-4", "baby-dress-full-pants-5", "baby-dress-full-pants-6", "baby-dress-full-pants-7", "baby-dress-full-pants-8", "baby-dress-full-pants-9"],
+  "full-romper": ["baby-dress-full-romper-1", "baby-dress-full-romper-2", "baby-dress-full-romper-3", "baby-dress-full-romper-4", "baby-dress-full-romper-5", "baby-dress-full-romper-6"],
+  "girl-dress": ["baby-dress-girl-dress-1", "baby-dress-girl-dress-2", "baby-dress-girl-dress-3", "baby-dress-girl-dress-4", "baby-dress-girl-dress-5", "baby-dress-girl-dress-6", "baby-dress-girl-dress-7", "baby-dress-girl-dress-8", "baby-dress-girl-dress-9", "baby-dress-girl-dress-10", "baby-dress-girl-dress-11", "baby-dress-girl-dress-12", "baby-dress-girl-dress-13", "baby-dress-girl-dress-14", "baby-dress-girl-dress-15", "baby-dress-girl-dress-16", "baby-dress-girl-dress-17", "baby-dress-girl-dress-18", "baby-dress-girl-dress-19", "baby-dress-girl-dress-20"],
+  "half-romper": ["baby-dress-half-romper-1", "baby-dress-half-romper-2", "baby-dress-half-romper-3"],
+  "muslin-dress": ["baby-dress-muslin-dress-1", "baby-dress-muslin-dress-2", "baby-dress-muslin-dress-3", "baby-dress-muslin-dress-4", "baby-dress-muslin-dress-5", "baby-dress-muslin-dress-6", "baby-dress-muslin-dress-7", "baby-dress-muslin-dress-8"],
+  "organic-dress": ["baby-dress-organic-dress-1", "baby-dress-organic-dress-2", "baby-dress-organic-dress-3", "baby-dress-organic-dress-4", "baby-dress-organic-dress-5", "baby-dress-organic-dress-6", "baby-dress-organic-dress-7"],
+  "resuable-diaper": ["baby-dress-resuable-diaper-1", "baby-dress-resuable-diaper-2"],
+  "thermal-wear": ["baby-dress-thermal-wear-1", "baby-dress-thermal-wear-2", "baby-dress-thermal-wear-3", "baby-dress-thermal-wear-4", "baby-dress-thermal-wear-5", "baby-dress-thermal-wear-6", "baby-dress-thermal-wear-7", "baby-dress-thermal-wear-8", "baby-dress-thermal-wear-9", "baby-dress-thermal-wear-10", "baby-dress-thermal-wear-11", "baby-dress-thermal-wear-12", "baby-dress-thermal-wear-13", "baby-dress-thermal-wear-14", "baby-dress-thermal-wear-15"],
   "action-figure-toys": ["toys-action-figure-toys-1", "toys-action-figure-toys-2", "toys-action-figure-toys-3", "toys-action-figure-toys-4", "toys-action-figure-toys-5", "toys-action-figure-toys-6"],
   "animal-toys": ["toys-animal-toys-1", "toys-animal-toys-2", "toys-animal-toys-3", "toys-animal-toys-4", "toys-animal-toys-5"],
   "bath-toys": ["toys-bath-toys-1", "toys-bath-toys-2", "toys-bath-toys-3", "toys-bath-toys-4"],
@@ -5039,9 +5860,7 @@ const CATEGORY_PRODUCTS = {
   "massage-oil": ["coconut-massage-oil", "herbal-massage-oil", "almond-massage-oil", "nourishing-massage-oil"],
   "mittens": ["cotton-mittens", "winter-mittens", "anti-scratch-mittens", "printed-mittens"],
   "mosquitoes-net": ["foldable-mosquito-net", "baby-bed-mosquito-net", "portable-mosquito-net", "premium-protection-net"],
-  "muslin-dress": ["printed-muslin-dress", "floral-muslin-dress", "soft-muslin-dress", "premium-muslin-outfit"],
-  "organic-dress": ["organic-cotton-dress", "eco-friendly-dress", "organic-baby-wear", "premium-organic-outfit"],
-  "baby-powder": ["herbal-baby-powder", "talc-free-powder", "sensitive-skin-powder", "daily-care-powder"],
+      "baby-powder": ["herbal-baby-powder", "talc-free-powder", "sensitive-skin-powder", "daily-care-powder"],
   "quick-dry-sheets": ["waterproof-quick-dry-sheet", "premium-dry-sheet", "reusable-dry-sheet", "travel-dry-sheet"],
   "reusable-diapers": ["adjustable-reusable-diaper", "washable-diaper", "organic-reusable-diaper", "eco-friendly-diaper"],
   "towels": ["bath-towel", "baby-towel", "soft-towel", "premium-towel"],
@@ -5053,18 +5872,7 @@ const CATEGORY_PRODUCTS = {
   "baby-monitor": ["standard-baby-monitor", "premium-baby-monitor", "advanced-baby-monitor", "compact-baby-monitor"],
   "bed-rails": ["standard-bed-rails", "premium-bed-rails", "advanced-bed-rails", "compact-bed-rails"],
 
-  "baby-panties": ["standard-baby-panties", "premium-baby-panties", "organic-baby-panties", "printed-baby-panties"],
-  "boy-dress": ["standard-boy-dress", "premium-boy-dress", "organic-boy-dress", "printed-boy-dress"],
-  "diaper-panties": ["standard-diaper-panties", "premium-diaper-panties", "organic-diaper-panties", "printed-diaper-panties"],
-  "front-open-top": ["standard-front-open-top", "premium-front-open-top", "organic-front-open-top", "printed-front-open-top"],
-  "full-pants": ["standard-full-pants", "premium-full-pants", "organic-full-pants", "printed-full-pants"],
-  "full-pant-sets": ["standard-full-pant-sets", "premium-full-pant-sets", "organic-full-pant-sets", "printed-full-pant-sets"],
-  "full-romper": ["standard-full-romper", "premium-full-romper", "organic-full-romper", "printed-full-romper"],
-  "girl-dress": ["standard-girl-dress", "premium-girl-dress", "organic-girl-dress", "printed-girl-dress"],
-  "half-romper": ["standard-half-romper", "premium-half-romper", "organic-half-romper", "printed-half-romper"],
-  "thermal-wear": ["standard-thermal-wear", "premium-thermal-wear", "organic-thermal-wear", "printed-thermal-wear"],
-  "resuable-diaper": ["standard-resuable-diaper", "premium-resuable-diaper", "organic-resuable-diaper", "printed-resuable-diaper"],
-              "maternity-tops": ["standard-maternity-tops", "premium-maternity-tops", "advanced-maternity-tops", "compact-maternity-tops"],
+                                    "maternity-tops": ["standard-maternity-tops", "premium-maternity-tops", "advanced-maternity-tops", "compact-maternity-tops"],
   "maternity-dresses": ["standard-maternity-dresses", "premium-maternity-dresses", "advanced-maternity-dresses", "compact-maternity-dresses"],
   "nursing-bras": ["standard-nursing-bras", "premium-nursing-bras", "advanced-nursing-bras", "compact-nursing-bras"],
   "maternity-leggings": ["standard-maternity-leggings", "premium-maternity-leggings", "advanced-maternity-leggings", "compact-maternity-leggings"],
