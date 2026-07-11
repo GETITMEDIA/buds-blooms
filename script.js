@@ -2,6 +2,1198 @@
    BUDS PREMIUM — PRODUCT DATABASE (112 Products)
    ============================================= */
 const PRODUCT_DB = {
+  "toys-action-figure-toys-1": {
+    "name": "Untitled-1-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Action figure toys",
+    "img": "assets/toys/Sub catogary of Action figure toys/Untitled-1-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-action-figure-toys-2": {
+    "name": "Untitled-2-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Action figure toys",
+    "img": "assets/toys/Sub catogary of Action figure toys/Untitled-2-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-action-figure-toys-3": {
+    "name": "Untitled-3-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Action figure toys",
+    "img": "assets/toys/Sub catogary of Action figure toys/Untitled-3-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-action-figure-toys-4": {
+    "name": "Untitled-4-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Action figure toys",
+    "img": "assets/toys/Sub catogary of Action figure toys/Untitled-4-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-action-figure-toys-5": {
+    "name": "Untitled-5-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Action figure toys",
+    "img": "assets/toys/Sub catogary of Action figure toys/Untitled-5-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-action-figure-toys-6": {
+    "name": "Untitled-6-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Action figure toys",
+    "img": "assets/toys/Sub catogary of Action figure toys/Untitled-6-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-animal-toys-1": {
+    "name": "Untitled-10-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Animal Toys",
+    "img": "assets/toys/Sub catogary of Animal Toys/Untitled-10-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-animal-toys-2": {
+    "name": "Untitled-11-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Animal Toys",
+    "img": "assets/toys/Sub catogary of Animal Toys/Untitled-11-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-animal-toys-3": {
+    "name": "Untitled-12-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Animal Toys",
+    "img": "assets/toys/Sub catogary of Animal Toys/Untitled-12-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-animal-toys-4": {
+    "name": "Untitled-7-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Animal Toys",
+    "img": "assets/toys/Sub catogary of Animal Toys/Untitled-7-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-animal-toys-5": {
+    "name": "Untitled-8-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Animal Toys",
+    "img": "assets/toys/Sub catogary of Animal Toys/Untitled-8-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-bath-toys-1": {
+    "name": "Untitled-13-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Bath Toys",
+    "img": "assets/toys/Sub catogary of Bath Toys/Untitled-13-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-bath-toys-2": {
+    "name": "Untitled-14-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Bath Toys",
+    "img": "assets/toys/Sub catogary of Bath Toys/Untitled-14-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-bath-toys-3": {
+    "name": "Untitled-15-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Bath Toys",
+    "img": "assets/toys/Sub catogary of Bath Toys/Untitled-15-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-bath-toys-4": {
+    "name": "Untitled-16-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Bath Toys",
+    "img": "assets/toys/Sub catogary of Bath Toys/Untitled-16-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-1": {
+    "name": "Untitled-17-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-17-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-2": {
+    "name": "Untitled-19-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-19-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-3": {
+    "name": "Untitled-20-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-20-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-4": {
+    "name": "Untitled-21-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-21-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-5": {
+    "name": "Untitled-22-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-22-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-6": {
+    "name": "Untitled-23-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-23-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-7": {
+    "name": "Untitled-24-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-24-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-8": {
+    "name": "Untitled-25-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-25-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-9": {
+    "name": "Untitled-26-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-26-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-10": {
+    "name": "Untitled-27-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-27-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-11": {
+    "name": "Untitled-28-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-28-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-battery-toys-12": {
+    "name": "Untitled-29-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Battery Toys",
+    "img": "assets/toys/Sub catogary of Battery Toys/Untitled-29-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-blocks-1": {
+    "name": "Untitled-1-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Blocks",
+    "img": "assets/toys/Sub catogary of Blocks/Untitled-1-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-blocks-2": {
+    "name": "Untitled-2-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Blocks",
+    "img": "assets/toys/Sub catogary of Blocks/Untitled-2-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-blocks-3": {
+    "name": "Untitled-3-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Blocks",
+    "img": "assets/toys/Sub catogary of Blocks/Untitled-3-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-blocks-4": {
+    "name": "Untitled-5-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Blocks",
+    "img": "assets/toys/Sub catogary of Blocks/Untitled-5-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-blocks-5": {
+    "name": "Untitled-6-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Blocks",
+    "img": "assets/toys/Sub catogary of Blocks/Untitled-6-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-blocks-6": {
+    "name": "Untitled-7-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Blocks",
+    "img": "assets/toys/Sub catogary of Blocks/Untitled-7-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-chu-chu-toys-1": {
+    "name": "unnamed-file",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Chu-chu Toys",
+    "img": "assets/toys/Sub catogary of Chu-chu Toys/unnamed-file.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-chu-chu-toys-2": {
+    "name": "Untitled-10-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Chu-chu Toys",
+    "img": "assets/toys/Sub catogary of Chu-chu Toys/Untitled-10-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-chu-chu-toys-3": {
+    "name": "Untitled-8-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Chu-chu Toys",
+    "img": "assets/toys/Sub catogary of Chu-chu Toys/Untitled-8-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-chu-chu-toys-4": {
+    "name": "Untitled-9-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Chu-chu Toys",
+    "img": "assets/toys/Sub catogary of Chu-chu Toys/Untitled-9-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-craft-toys-1": {
+    "name": "Untitled-11-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Craft Toys",
+    "img": "assets/toys/Sub catogary of Craft Toys/Untitled-11-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-craft-toys-2": {
+    "name": "Untitled-12-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Craft Toys",
+    "img": "assets/toys/Sub catogary of Craft Toys/Untitled-12-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-craft-toys-3": {
+    "name": "Untitled-13-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Craft Toys",
+    "img": "assets/toys/Sub catogary of Craft Toys/Untitled-13-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-craft-toys-4": {
+    "name": "Untitled-14-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Craft Toys",
+    "img": "assets/toys/Sub catogary of Craft Toys/Untitled-14-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-creativity-toys-1": {
+    "name": "Untitled-15-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Creativity Toys",
+    "img": "assets/toys/Sub catogary of Creativity Toys/Untitled-15-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-creativity-toys-2": {
+    "name": "Untitled-16-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Creativity Toys",
+    "img": "assets/toys/Sub catogary of Creativity Toys/Untitled-16-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-creativity-toys-3": {
+    "name": "Untitled-17-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Creativity Toys",
+    "img": "assets/toys/Sub catogary of Creativity Toys/Untitled-17-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-creativity-toys-4": {
+    "name": "Untitled-18-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Creativity Toys",
+    "img": "assets/toys/Sub catogary of Creativity Toys/Untitled-18-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-creativity-toys-5": {
+    "name": "Untitled-19-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Creativity Toys",
+    "img": "assets/toys/Sub catogary of Creativity Toys/Untitled-19-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-cube-1": {
+    "name": "Untitled-21-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Cube",
+    "img": "assets/toys/Sub catogary of Cube/Untitled-21-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-cube-2": {
+    "name": "Untitled-22-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Cube",
+    "img": "assets/toys/Sub catogary of Cube/Untitled-22-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-cube-3": {
+    "name": "Untitled-23-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Cube",
+    "img": "assets/toys/Sub catogary of Cube/Untitled-23-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-cube-4": {
+    "name": "Untitled-24-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Cube",
+    "img": "assets/toys/Sub catogary of Cube/Untitled-24-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-dolls-1": {
+    "name": "Untitled-25-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Dolls",
+    "img": "assets/toys/Sub catogary of Dolls/Untitled-25-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-dolls-2": {
+    "name": "Untitled-26-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Dolls",
+    "img": "assets/toys/Sub catogary of Dolls/Untitled-26-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-dolls-3": {
+    "name": "Untitled-27-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Dolls",
+    "img": "assets/toys/Sub catogary of Dolls/Untitled-27-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-dolls-4": {
+    "name": "Untitled-28-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Dolls",
+    "img": "assets/toys/Sub catogary of Dolls/Untitled-28-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-dolls-5": {
+    "name": "Untitled-29-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Dolls",
+    "img": "assets/toys/Sub catogary of Dolls/Untitled-29-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-dolls-6": {
+    "name": "Untitled-30-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Dolls",
+    "img": "assets/toys/Sub catogary of Dolls/Untitled-30-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-educational-toys-1": {
+    "name": "Untitled-31-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Educational Toys",
+    "img": "assets/toys/Sub catogary of Educational Toys/Untitled-31-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-educational-toys-2": {
+    "name": "Untitled-32-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Educational Toys",
+    "img": "assets/toys/Sub catogary of Educational Toys/Untitled-32-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-educational-toys-3": {
+    "name": "Untitled-33-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Educational Toys",
+    "img": "assets/toys/Sub catogary of Educational Toys/Untitled-33-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-educational-toys-4": {
+    "name": "Untitled-34-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Educational Toys",
+    "img": "assets/toys/Sub catogary of Educational Toys/Untitled-34-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-educational-toys-5": {
+    "name": "Untitled-35-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Educational Toys",
+    "img": "assets/toys/Sub catogary of Educational Toys/Untitled-35-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-key-toys-1": {
+    "name": "Untitled-38-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Key Toys",
+    "img": "assets/toys/Sub catogary of Key Toys/Untitled-38-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-key-toys-2": {
+    "name": "Untitled-39-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Key Toys",
+    "img": "assets/toys/Sub catogary of Key Toys/Untitled-39-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-key-toys-3": {
+    "name": "Untitled-40-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Key Toys",
+    "img": "assets/toys/Sub catogary of Key Toys/Untitled-40-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-key-toys-4": {
+    "name": "Untitled-41-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Key Toys",
+    "img": "assets/toys/Sub catogary of Key Toys/Untitled-41-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-key-toys-5": {
+    "name": "Untitled-42-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Key Toys",
+    "img": "assets/toys/Sub catogary of Key Toys/Untitled-42-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-key-toys-6": {
+    "name": "Untitled-43-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Key Toys",
+    "img": "assets/toys/Sub catogary of Key Toys/Untitled-43-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-key-toys-7": {
+    "name": "Untitled-44-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Key Toys",
+    "img": "assets/toys/Sub catogary of Key Toys/Untitled-44-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-key-toys-8": {
+    "name": "Untitled-45-1",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Key Toys",
+    "img": "assets/toys/Sub catogary of Key Toys/Untitled-45-1.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-kitchen-sets-1": {
+    "name": "Untitled-47",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Kitchen Sets",
+    "img": "assets/toys/Sub catogary of Kitchen Sets/Untitled-47.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-kitchen-sets-2": {
+    "name": "Untitled-48",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Kitchen Sets",
+    "img": "assets/toys/Sub catogary of Kitchen Sets/Untitled-48.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-kitchen-sets-3": {
+    "name": "Untitled-49",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Kitchen Sets",
+    "img": "assets/toys/Sub catogary of Kitchen Sets/Untitled-49.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-kitchen-sets-4": {
+    "name": "Untitled-50",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Kitchen Sets",
+    "img": "assets/toys/Sub catogary of Kitchen Sets/Untitled-50.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-lego-style-toys-1": {
+    "name": "Untitled-51",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Lego Style Toys",
+    "img": "assets/toys/Sub catogary of Lego Style Toys/Untitled-51.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-lego-style-toys-2": {
+    "name": "Untitled-53",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Lego Style Toys",
+    "img": "assets/toys/Sub catogary of Lego Style Toys/Untitled-53.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-lego-style-toys-3": {
+    "name": "Untitled-54",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Lego Style Toys",
+    "img": "assets/toys/Sub catogary of Lego Style Toys/Untitled-54.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-lego-style-toys-4": {
+    "name": "Untitled-55",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Lego Style Toys",
+    "img": "assets/toys/Sub catogary of Lego Style Toys/Untitled-55.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-merry-go-round-1": {
+    "name": "Untitled-56",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Merry Go Round",
+    "img": "assets/toys/Sub catogary of Merry Go Round/Untitled-56.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-merry-go-round-2": {
+    "name": "Untitled-57",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Merry Go Round",
+    "img": "assets/toys/Sub catogary of Merry Go Round/Untitled-57.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-merry-go-round-3": {
+    "name": "Untitled-58",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Merry Go Round",
+    "img": "assets/toys/Sub catogary of Merry Go Round/Untitled-58.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-pull-along-toys-1": {
+    "name": "Untitled-59",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Pull along Toys",
+    "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-59.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-pull-along-toys-2": {
+    "name": "Untitled-60",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Pull along Toys",
+    "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-60.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-pull-along-toys-3": {
+    "name": "Untitled-61",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Pull along Toys",
+    "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-61.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-pull-along-toys-4": {
+    "name": "Untitled-62",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Pull along Toys",
+    "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-62.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-pull-along-toys-5": {
+    "name": "Untitled-63",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Pull along Toys",
+    "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-63.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-pull-along-toys-6": {
+    "name": "Untitled-64",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Pull along Toys",
+    "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-64.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-pull-along-toys-7": {
+    "name": "Untitled-65",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Pull along Toys",
+    "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-65.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-pull-along-toys-8": {
+    "name": "Untitled-66",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Pull along Toys",
+    "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-66.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-pull-along-toys-9": {
+    "name": "Untitled-67",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Pull along Toys",
+    "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-67.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-pull-along-toys-10": {
+    "name": "Untitledw-58",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Pull along Toys",
+    "img": "assets/toys/Sub catogary of Pull along Toys/Untitledw-58.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-puzzle-toys-1": {
+    "name": "Untitled-68",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Puzzle Toys",
+    "img": "assets/toys/Sub catogary of Puzzle Toys/Untitled-68.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-puzzle-toys-2": {
+    "name": "Untitled-69",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Puzzle Toys",
+    "img": "assets/toys/Sub catogary of Puzzle Toys/Untitled-69.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-puzzle-toys-3": {
+    "name": "Untitled-70",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Puzzle Toys",
+    "img": "assets/toys/Sub catogary of Puzzle Toys/Untitled-70.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-puzzle-toys-4": {
+    "name": "Untitled-71",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Puzzle Toys",
+    "img": "assets/toys/Sub catogary of Puzzle Toys/Untitled-71.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-puzzle-toys-5": {
+    "name": "Untitled-72",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Puzzle Toys",
+    "img": "assets/toys/Sub catogary of Puzzle Toys/Untitled-72.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-rattle-1": {
+    "name": "rattle-01",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Rattle",
+    "img": "assets/toys/Sub catogary of Rattle/rattle-01.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-rattle-2": {
+    "name": "rattle-02",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Rattle",
+    "img": "assets/toys/Sub catogary of Rattle/rattle-02.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-rattle-3": {
+    "name": "rattle-03",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Rattle",
+    "img": "assets/toys/Sub catogary of Rattle/rattle-03.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-rattle-4": {
+    "name": "rattle-04",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Rattle",
+    "img": "assets/toys/Sub catogary of Rattle/rattle-04.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-rattle-5": {
+    "name": "rattle-05",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Rattle",
+    "img": "assets/toys/Sub catogary of Rattle/rattle-05.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-rattle-6": {
+    "name": "rattle-06",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Rattle",
+    "img": "assets/toys/Sub catogary of Rattle/rattle-06.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-rattle-7": {
+    "name": "rattle-07-2",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Rattle",
+    "img": "assets/toys/Sub catogary of Rattle/rattle-07-2.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-rattle-8": {
+    "name": "rattle-08",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Rattle",
+    "img": "assets/toys/Sub catogary of Rattle/rattle-08.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-rattle-9": {
+    "name": "rattle-09",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Rattle",
+    "img": "assets/toys/Sub catogary of Rattle/rattle-09.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-rattle-10": {
+    "name": "rattle",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Rattle",
+    "img": "assets/toys/Sub catogary of Rattle/rattle.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-sleep-toys-1": {
+    "name": "Untitled-73",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Sleep Toys",
+    "img": "assets/toys/Sub catogary of Sleep Toys/Untitled-73.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-sleep-toys-2": {
+    "name": "Untitled-74",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Sleep Toys",
+    "img": "assets/toys/Sub catogary of Sleep Toys/Untitled-74.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-soft-toys-1": {
+    "name": "Untitled-75",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Soft Toys",
+    "img": "assets/toys/Sub catogary of Soft Toys/Untitled-75.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-soft-toys-2": {
+    "name": "Untitled-76",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Soft Toys",
+    "img": "assets/toys/Sub catogary of Soft Toys/Untitled-76.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-soft-toys-3": {
+    "name": "Untitled-77",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Soft Toys",
+    "img": "assets/toys/Sub catogary of Soft Toys/Untitled-77.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-sports-toys-1": {
+    "name": "Untitled-78",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Sports Toys",
+    "img": "assets/toys/Sub catogary of Sports Toys/Untitled-78.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-sports-toys-2": {
+    "name": "Untitled-79",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Sports Toys",
+    "img": "assets/toys/Sub catogary of Sports Toys/Untitled-79.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-sports-toys-3": {
+    "name": "Untitled-80",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Sports Toys",
+    "img": "assets/toys/Sub catogary of Sports Toys/Untitled-80.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-sports-toys-4": {
+    "name": "Untitled-81",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Sports Toys",
+    "img": "assets/toys/Sub catogary of Sports Toys/Untitled-81.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-sports-toys-5": {
+    "name": "Untitled-82",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Sports Toys",
+    "img": "assets/toys/Sub catogary of Sports Toys/Untitled-82.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-sports-toys-6": {
+    "name": "Untitled-83",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Sports Toys",
+    "img": "assets/toys/Sub catogary of Sports Toys/Untitled-83.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-sports-toys-7": {
+    "name": "Untitled-84",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Sports Toys",
+    "img": "assets/toys/Sub catogary of Sports Toys/Untitled-84.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-sports-toys-8": {
+    "name": "Untitled-85",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Sports Toys",
+    "img": "assets/toys/Sub catogary of Sports Toys/Untitled-85.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-tent-house-1": {
+    "name": "Untitled-86",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Tent House",
+    "img": "assets/toys/Sub catogary of Tent House/Untitled-86.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-tent-house-2": {
+    "name": "Untitled-87",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Tent House",
+    "img": "assets/toys/Sub catogary of Tent House/Untitled-87.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "toys-tent-house-3": {
+    "name": "Untitled-88",
+    "price": 599,
+    "oldPrice": 899,
+    "category": "Tent House",
+    "img": "assets/toys/Sub catogary of Tent House/Untitled-88.jpg",
+    "desc": "Engaging and fun toy to stimulate your baby's development."
+  },
+  "bedding-carry-bed-1": {
+    "name": "carry-bed-01",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "carry bed",
+    "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed-01.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-carry-bed-2": {
+    "name": "carry-bed-02",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "carry bed",
+    "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed-02.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-carry-bed-3": {
+    "name": "carry-bed-03",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "carry bed",
+    "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed-03.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-carry-bed-4": {
+    "name": "carry-bed-04",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "carry bed",
+    "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed-04.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-carry-bed-5": {
+    "name": "carry-bed-05",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "carry bed",
+    "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed-05.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-carry-bed-6": {
+    "name": "carry-bed",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "carry bed",
+    "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-cradle-net-1": {
+    "name": "cradle-net-01",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "cradle net",
+    "img": "assets/bedding/Sub catogary of Cradle Net/cradle-net-01.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-cradle-net-2": {
+    "name": "cradle-net-02",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "cradle net",
+    "img": "assets/bedding/Sub catogary of Cradle Net/cradle-net-02.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-cradle-net-3": {
+    "name": "cradle-net",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "cradle net",
+    "img": "assets/bedding/Sub catogary of Cradle Net/cradle-net.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-cradle-net-4": {
+    "name": "Cradle-Nets",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "cradle net",
+    "img": "assets/bedding/Sub catogary of Cradle Net/Cradle-Nets.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-neck-pillow-1": {
+    "name": "neck-pillow-01",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "neck pillow",
+    "img": "assets/bedding/Sub catogary of Neck Pillow/neck-pillow-01.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-neck-pillow-2": {
+    "name": "neck-pillow-02",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "neck pillow",
+    "img": "assets/bedding/Sub catogary of Neck Pillow/neck-pillow-02.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-neck-pillow-3": {
+    "name": "neck-pillow-03",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "neck pillow",
+    "img": "assets/bedding/Sub catogary of Neck Pillow/neck-pillow-03.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-neck-pillow-4": {
+    "name": "neck-pillow-04",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "neck pillow",
+    "img": "assets/bedding/Sub catogary of Neck Pillow/neck-pillow-04.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-neck-pillow-5": {
+    "name": "neck-pillow",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "neck pillow",
+    "img": "assets/bedding/Sub catogary of Neck Pillow/neck-pillow.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-play-gym-1": {
+    "name": "play-gym-01",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "play gym",
+    "img": "assets/bedding/Sub catogary of Play Gym/play-gym-01.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-play-gym-2": {
+    "name": "play-gym-02",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "play gym",
+    "img": "assets/bedding/Sub catogary of Play Gym/play-gym-02.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-play-gym-3": {
+    "name": "play-gym",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "play gym",
+    "img": "assets/bedding/Sub catogary of Play Gym/play-gym.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-side-pillow-1": {
+    "name": "side-pillow-01",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "side pillow",
+    "img": "assets/bedding/Sub catogary of Side Pillow/side-pillow-01.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-side-pillow-2": {
+    "name": "side-pillow-02",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "side pillow",
+    "img": "assets/bedding/Sub catogary of Side Pillow/side-pillow-02.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-side-pillow-3": {
+    "name": "side-pillow-03",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "side pillow",
+    "img": "assets/bedding/Sub catogary of Side Pillow/side-pillow-03.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-side-pillow-4": {
+    "name": "side-pillow-04",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "side pillow",
+    "img": "assets/bedding/Sub catogary of Side Pillow/side-pillow-04.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-side-pillow-5": {
+    "name": "side-pillow",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "side pillow",
+    "img": "assets/bedding/Sub catogary of Side Pillow/side-pillow.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-sleep-bed-1": {
+    "name": "side-pillow-03",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "sleep bed",
+    "img": "assets/bedding/Sub catogary of Sleep Bed/side-pillow-03.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-sleep-bed-2": {
+    "name": "sleep-bed-01",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "sleep bed",
+    "img": "assets/bedding/Sub catogary of Sleep Bed/sleep-bed-01.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-sleep-bed-3": {
+    "name": "sleep-bed-02",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "sleep bed",
+    "img": "assets/bedding/Sub catogary of Sleep Bed/sleep-bed-02.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-sleep-bed-4": {
+    "name": "sleep-bed-03",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "sleep bed",
+    "img": "assets/bedding/Sub catogary of Sleep Bed/sleep-bed-03.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
+  "bedding-sleep-bed-5": {
+    "name": "sleep-bed",
+    "price": 899,
+    "oldPrice": 1299,
+    "category": "sleep bed",
+    "img": "assets/bedding/Sub catogary of Sleep Bed/sleep-bed.jpg",
+    "desc": "Premium comfort for your baby's peaceful sleep."
+  },
   "footwear-slippers-1": {
     "name": "slippers-014",
     "price": 499,
@@ -3791,6 +4983,34 @@ const PRODUCT_DB = {
 };
 
 const CATEGORY_PRODUCTS = {
+  "action-figure-toys": ["toys-action-figure-toys-1", "toys-action-figure-toys-2", "toys-action-figure-toys-3", "toys-action-figure-toys-4", "toys-action-figure-toys-5", "toys-action-figure-toys-6"],
+  "animal-toys": ["toys-animal-toys-1", "toys-animal-toys-2", "toys-animal-toys-3", "toys-animal-toys-4", "toys-animal-toys-5"],
+  "bath-toys": ["toys-bath-toys-1", "toys-bath-toys-2", "toys-bath-toys-3", "toys-bath-toys-4"],
+  "battery-toys": ["toys-battery-toys-1", "toys-battery-toys-2", "toys-battery-toys-3", "toys-battery-toys-4", "toys-battery-toys-5", "toys-battery-toys-6", "toys-battery-toys-7", "toys-battery-toys-8", "toys-battery-toys-9", "toys-battery-toys-10", "toys-battery-toys-11", "toys-battery-toys-12"],
+  "blocks": ["toys-blocks-1", "toys-blocks-2", "toys-blocks-3", "toys-blocks-4", "toys-blocks-5", "toys-blocks-6"],
+  "chu-chu-toys": ["toys-chu-chu-toys-1", "toys-chu-chu-toys-2", "toys-chu-chu-toys-3", "toys-chu-chu-toys-4"],
+  "craft-toys": ["toys-craft-toys-1", "toys-craft-toys-2", "toys-craft-toys-3", "toys-craft-toys-4"],
+  "creativity-toys": ["toys-creativity-toys-1", "toys-creativity-toys-2", "toys-creativity-toys-3", "toys-creativity-toys-4", "toys-creativity-toys-5"],
+  "cube": ["toys-cube-1", "toys-cube-2", "toys-cube-3", "toys-cube-4"],
+  "dolls": ["toys-dolls-1", "toys-dolls-2", "toys-dolls-3", "toys-dolls-4", "toys-dolls-5", "toys-dolls-6"],
+  "educational-toys": ["toys-educational-toys-1", "toys-educational-toys-2", "toys-educational-toys-3", "toys-educational-toys-4", "toys-educational-toys-5"],
+  "key-toys": ["toys-key-toys-1", "toys-key-toys-2", "toys-key-toys-3", "toys-key-toys-4", "toys-key-toys-5", "toys-key-toys-6", "toys-key-toys-7", "toys-key-toys-8"],
+  "kitchen-sets": ["toys-kitchen-sets-1", "toys-kitchen-sets-2", "toys-kitchen-sets-3", "toys-kitchen-sets-4"],
+  "lego-style-toys": ["toys-lego-style-toys-1", "toys-lego-style-toys-2", "toys-lego-style-toys-3", "toys-lego-style-toys-4"],
+  "merry-go-round": ["toys-merry-go-round-1", "toys-merry-go-round-2", "toys-merry-go-round-3"],
+  "pull-along-toys": ["toys-pull-along-toys-1", "toys-pull-along-toys-2", "toys-pull-along-toys-3", "toys-pull-along-toys-4", "toys-pull-along-toys-5", "toys-pull-along-toys-6", "toys-pull-along-toys-7", "toys-pull-along-toys-8", "toys-pull-along-toys-9", "toys-pull-along-toys-10"],
+  "puzzle-toys": ["toys-puzzle-toys-1", "toys-puzzle-toys-2", "toys-puzzle-toys-3", "toys-puzzle-toys-4", "toys-puzzle-toys-5"],
+  "rattle": ["toys-rattle-1", "toys-rattle-2", "toys-rattle-3", "toys-rattle-4", "toys-rattle-5", "toys-rattle-6", "toys-rattle-7", "toys-rattle-8", "toys-rattle-9", "toys-rattle-10"],
+  "sleep-toys": ["toys-sleep-toys-1", "toys-sleep-toys-2"],
+  "soft-toys": ["toys-soft-toys-1", "toys-soft-toys-2", "toys-soft-toys-3"],
+  "sports-toys": ["toys-sports-toys-1", "toys-sports-toys-2", "toys-sports-toys-3", "toys-sports-toys-4", "toys-sports-toys-5", "toys-sports-toys-6", "toys-sports-toys-7", "toys-sports-toys-8"],
+  "tent-house": ["toys-tent-house-1", "toys-tent-house-2", "toys-tent-house-3"],
+  "carry-bed": ["bedding-carry-bed-1", "bedding-carry-bed-2", "bedding-carry-bed-3", "bedding-carry-bed-4", "bedding-carry-bed-5", "bedding-carry-bed-6"],
+  "cradle-net": ["bedding-cradle-net-1", "bedding-cradle-net-2", "bedding-cradle-net-3", "bedding-cradle-net-4"],
+  "neck-pillow": ["bedding-neck-pillow-1", "bedding-neck-pillow-2", "bedding-neck-pillow-3", "bedding-neck-pillow-4", "bedding-neck-pillow-5"],
+  "play-gym": ["bedding-play-gym-1", "bedding-play-gym-2", "bedding-play-gym-3"],
+  "side-pillow": ["bedding-side-pillow-1", "bedding-side-pillow-2", "bedding-side-pillow-3", "bedding-side-pillow-4", "bedding-side-pillow-5"],
+  "sleep-bed": ["bedding-sleep-bed-1", "bedding-sleep-bed-2", "bedding-sleep-bed-3", "bedding-sleep-bed-4", "bedding-sleep-bed-5"],
   "slippers": ["footwear-slippers-1", "footwear-slippers-2", "footwear-slippers-3", "footwear-slippers-4", "footwear-slippers-5", "footwear-slippers-6"],
   "casual-shoes": ["footwear-casual-shoes-1", "footwear-casual-shoes-2", "footwear-casual-shoes-3", "footwear-casual-shoes-4"],
   "chu-chu-shoes": ["footwear-chu-chu-shoes-1", "footwear-chu-chu-shoes-2", "footwear-chu-chu-shoes-3", "footwear-chu-chu-shoes-4", "footwear-chu-chu-shoes-5", "footwear-chu-chu-shoes-6"],
@@ -3809,8 +5029,7 @@ const CATEGORY_PRODUCTS = {
   "cap-sets": ["newborn-cap-set", "winter-cap-set", "cotton-cap-set", "printed-cap-set"],
   "cloth-nappies": ["reusable-cloth-nappies", "organic-cloth-nappies", "soft-cotton-nappies", "adjustable-nappies"],
   "cotton-towels": ["premium-cotton-towel", "soft-baby-towel", "quick-dry-cotton-towel", "extra-absorbent-towel"],
-  "cradle-nets": ["premium-cradle-net", "mosquito-protection-net", "foldable-cradle-net", "breathable-cradle-net"],
-  "cradle-sticks-and-ropes": ["wooden-cradle-stick", "steel-cradle-stick", "cotton-cradle-rope", "heavy-duty-cradle-rope"],
+    "cradle-sticks-and-ropes": ["wooden-cradle-stick", "steel-cradle-stick", "cotton-cradle-rope", "heavy-duty-cradle-rope"],
   "diaper-rash-cream": ["aloe-rash-cream", "herbal-rash-cream", "sensitive-skin-rash-cream", "protective-rash-cream"],
   "disposable-diapers": ["newborn-diapers", "premium-dry-diapers", "overnight-diapers", "ultra-soft-diapers"],
   "face-napkin": ["cotton-face-napkin", "printed-face-napkin", "soft-face-cloth", "baby-cleaning-napkin"],
@@ -3845,13 +5064,7 @@ const CATEGORY_PRODUCTS = {
   "half-romper": ["standard-half-romper", "premium-half-romper", "organic-half-romper", "printed-half-romper"],
   "thermal-wear": ["standard-thermal-wear", "premium-thermal-wear", "organic-thermal-wear", "printed-thermal-wear"],
   "resuable-diaper": ["standard-resuable-diaper", "premium-resuable-diaper", "organic-resuable-diaper", "printed-resuable-diaper"],
-  "carry-bed": ["standard-carry-bed", "premium-carry-bed", "organic-carry-bed", "printed-carry-bed"],
-  "cradle-net": ["standard-cradle-net", "premium-cradle-net", "organic-cradle-net", "printed-cradle-net"],
-  "neck-pillow": ["standard-neck-pillow", "premium-neck-pillow", "organic-neck-pillow", "printed-neck-pillow"],
-  "play-gym": ["standard-play-gym", "premium-play-gym", "organic-play-gym", "printed-play-gym"],
-  "side-pillow": ["standard-side-pillow", "premium-side-pillow", "organic-side-pillow", "printed-side-pillow"],
-  "sleep-bed": ["standard-sleep-bed", "premium-sleep-bed", "organic-sleep-bed", "printed-sleep-bed"],
-  "maternity-tops": ["standard-maternity-tops", "premium-maternity-tops", "advanced-maternity-tops", "compact-maternity-tops"],
+              "maternity-tops": ["standard-maternity-tops", "premium-maternity-tops", "advanced-maternity-tops", "compact-maternity-tops"],
   "maternity-dresses": ["standard-maternity-dresses", "premium-maternity-dresses", "advanced-maternity-dresses", "compact-maternity-dresses"],
   "nursing-bras": ["standard-nursing-bras", "premium-nursing-bras", "advanced-nursing-bras", "compact-nursing-bras"],
   "maternity-leggings": ["standard-maternity-leggings", "premium-maternity-leggings", "advanced-maternity-leggings", "compact-maternity-leggings"],
@@ -3859,11 +5072,7 @@ const CATEGORY_PRODUCTS = {
   "nursing-pads": ["standard-nursing-pads", "premium-nursing-pads", "advanced-nursing-pads", "compact-nursing-pads"],
   "postpartum-belts": ["standard-postpartum-belts", "premium-postpartum-belts", "advanced-postpartum-belts", "compact-postpartum-belts"],
   "nipple-creams": ["standard-nipple-creams", "premium-nipple-creams", "advanced-nipple-creams", "compact-nipple-creams"],
-  "rattles": ["standard-rattles", "premium-rattles", "advanced-rattles", "compact-rattles"],
-  "soft-toys": ["standard-soft-toys", "premium-soft-toys", "advanced-soft-toys", "compact-soft-toys"],
-  "educational-toys": ["standard-educational-toys", "premium-educational-toys", "advanced-educational-toys", "compact-educational-toys"],
-  "action-figures": ["standard-action-figures", "premium-action-figures", "advanced-action-figures", "compact-action-figures"],
-  "party-dresses": ["standard-party-dresses", "premium-party-dresses", "advanced-party-dresses", "compact-party-dresses"],
+          "party-dresses": ["standard-party-dresses", "premium-party-dresses", "advanced-party-dresses", "compact-party-dresses"],
   "party-suits": ["standard-party-suits", "premium-party-suits", "advanced-party-suits", "compact-party-suits"],
   "birthday-decor": ["standard-birthday-decor", "premium-birthday-decor", "advanced-birthday-decor", "compact-birthday-decor"],
   "party-hats": ["standard-party-hats", "premium-party-hats", "advanced-party-hats", "compact-party-hats"],
