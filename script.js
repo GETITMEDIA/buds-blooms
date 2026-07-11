@@ -2,6 +2,918 @@
    BUDS PREMIUM — PRODUCT DATABASE (112 Products)
    ============================================= */
 const PRODUCT_DB = {
+  "preschool-activity-books-1": {
+    "name": "interactive-and-activity-books-011",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Activity Books",
+    "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-011.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-activity-books-2": {
+    "name": "interactive-and-activity-books-012",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Activity Books",
+    "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-012.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-activity-books-3": {
+    "name": "interactive-and-activity-books-013",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Activity Books",
+    "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-013.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-activity-books-4": {
+    "name": "interactive-and-activity-books-014",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Activity Books",
+    "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-014.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-activity-books-5": {
+    "name": "interactive-and-activity-books-015",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Activity Books",
+    "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-015.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-activity-books-6": {
+    "name": "interactive-and-activity-books-016",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Activity Books",
+    "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-016.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-activity-books-7": {
+    "name": "interactive-and-activity-books-07",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Activity Books",
+    "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-07.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-activity-books-8": {
+    "name": "interactive-and-activity-books-09",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Activity Books",
+    "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-09.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-bags-1": {
+    "name": "school-bag-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Bags",
+    "img": "assets/pre-school-care/Sub product of Bags/school-bag-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-bags-2": {
+    "name": "school-bag-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Bags",
+    "img": "assets/pre-school-care/Sub product of Bags/school-bag-03.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-bags-3": {
+    "name": "school-bag-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Bags",
+    "img": "assets/pre-school-care/Sub product of Bags/school-bag-04.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-bags-4": {
+    "name": "school-bag-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Bags",
+    "img": "assets/pre-school-care/Sub product of Bags/school-bag-05.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-bags-5": {
+    "name": "school-bag",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Bags",
+    "img": "assets/pre-school-care/Sub product of Bags/school-bag.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-boarding-books-1": {
+    "name": "Board-books-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Boarding Books",
+    "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-boarding-books-2": {
+    "name": "Board-books-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Boarding Books",
+    "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-boarding-books-3": {
+    "name": "Board-books-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Boarding Books",
+    "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books-03.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-boarding-books-4": {
+    "name": "Board-books-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Boarding Books",
+    "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books-04.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-boarding-books-5": {
+    "name": "Board-books-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Boarding Books",
+    "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books-05.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-boarding-books-6": {
+    "name": "Board-books",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Boarding Books",
+    "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-caps-1": {
+    "name": "caps-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Caps",
+    "img": "assets/pre-school-care/Sub product of Caps/caps-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-caps-2": {
+    "name": "caps-0103",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Caps",
+    "img": "assets/pre-school-care/Sub product of Caps/caps-0103.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-caps-3": {
+    "name": "caps-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Caps",
+    "img": "assets/pre-school-care/Sub product of Caps/caps-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-caps-4": {
+    "name": "caps-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Caps",
+    "img": "assets/pre-school-care/Sub product of Caps/caps-03.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-caps-5": {
+    "name": "caps-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Caps",
+    "img": "assets/pre-school-care/Sub product of Caps/caps-04.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-caps-6": {
+    "name": "caps-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Caps",
+    "img": "assets/pre-school-care/Sub product of Caps/caps-05.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-caps-7": {
+    "name": "caps",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Caps",
+    "img": "assets/pre-school-care/Sub product of Caps/caps.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-charts-1": {
+    "name": "chart-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Charts",
+    "img": "assets/pre-school-care/Sub product of Charts/chart-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-charts-2": {
+    "name": "chart-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Charts",
+    "img": "assets/pre-school-care/Sub product of Charts/chart-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-charts-3": {
+    "name": "chart",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Charts",
+    "img": "assets/pre-school-care/Sub product of Charts/chart.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-coloring-book-1": {
+    "name": "colouring-books-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Coloring Book",
+    "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-coloring-book-2": {
+    "name": "colouring-books-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Coloring Book",
+    "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-coloring-book-3": {
+    "name": "colouring-books-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Coloring Book",
+    "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-03.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-coloring-book-4": {
+    "name": "colouring-books-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Coloring Book",
+    "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-04.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-coloring-book-5": {
+    "name": "colouring-books-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Coloring Book",
+    "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-05.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-coloring-book-6": {
+    "name": "colouring-books-06",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Coloring Book",
+    "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-06.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-coloring-book-7": {
+    "name": "colouring-books",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Coloring Book",
+    "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-1": {
+    "name": "early-learning-books-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-2": {
+    "name": "early-learning-books-010",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-010.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-3": {
+    "name": "early-learning-books-011",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-011.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-4": {
+    "name": "early-learning-books-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-5": {
+    "name": "early-learning-books-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-04.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-6": {
+    "name": "early-learning-books-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-05.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-7": {
+    "name": "early-learning-books-06",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-06.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-8": {
+    "name": "early-learning-books-07",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-07.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-9": {
+    "name": "early-learning-books-08",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-08.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-10": {
+    "name": "early-learning-books-09",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-09.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-early-learning-books-11": {
+    "name": "early-learning-books",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Early Learning Books",
+    "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-lunch-box-1": {
+    "name": "lunch 1",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Lunch Box",
+    "img": "assets/pre-school-care/Sub product of Lunch Box/lunch 1.png",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-lunch-box-2": {
+    "name": "lunch2",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Lunch Box",
+    "img": "assets/pre-school-care/Sub product of Lunch Box/lunch2.png",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-lunch-box-3": {
+    "name": "lunch3",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Lunch Box",
+    "img": "assets/pre-school-care/Sub product of Lunch Box/lunch3.png",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-lunch-box-4": {
+    "name": "pngwing.com",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Lunch Box",
+    "img": "assets/pre-school-care/Sub product of Lunch Box/pngwing.com.png",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-plates-&-bowl-1": {
+    "name": "plates-and-bowl-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Plates & Bowl",
+    "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-plates-&-bowl-2": {
+    "name": "plates-and-bowl-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Plates & Bowl",
+    "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-plates-&-bowl-3": {
+    "name": "plates-and-bowl-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Plates & Bowl",
+    "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-03.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-plates-&-bowl-4": {
+    "name": "plates-and-bowl-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Plates & Bowl",
+    "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-04.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-plates-&-bowl-5": {
+    "name": "plates-and-bowl-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Plates & Bowl",
+    "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-05.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-plates-&-bowl-6": {
+    "name": "plates-and-bowl-06",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Plates & Bowl",
+    "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-06.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-plates-&-bowl-7": {
+    "name": "plates-and-bowl-07",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Plates & Bowl",
+    "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-07.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-plates-&-bowl-8": {
+    "name": "plates-and-bowl",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Plates & Bowl",
+    "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-1": {
+    "name": "Snacks-box-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-2": {
+    "name": "Snacks-box-010",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-010.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-3": {
+    "name": "Snacks-box-011",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-011.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-4": {
+    "name": "Snacks-box-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-5": {
+    "name": "Snacks-box-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-03.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-6": {
+    "name": "Snacks-box-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-04.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-7": {
+    "name": "Snacks-box-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-05.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-8": {
+    "name": "Snacks-box-06",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-06.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-9": {
+    "name": "Snacks-box-07",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-07.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-10": {
+    "name": "Snacks-box-08",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-08.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-11": {
+    "name": "Snacks-box-09",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-09.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-snacks-box-12": {
+    "name": "Snacks-box",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Snacks Box",
+    "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-spoons-1": {
+    "name": "spoons-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Spoons",
+    "img": "assets/pre-school-care/Sub product of Spoons/spoons-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-spoons-2": {
+    "name": "spoons-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Spoons",
+    "img": "assets/pre-school-care/Sub product of Spoons/spoons-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-spoons-3": {
+    "name": "spoons-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Spoons",
+    "img": "assets/pre-school-care/Sub product of Spoons/spoons-03.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-spoons-4": {
+    "name": "spoons",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Spoons",
+    "img": "assets/pre-school-care/Sub product of Spoons/spoons.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-stationaries-1": {
+    "name": "stationaries-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Stationaries",
+    "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-stationaries-2": {
+    "name": "stationaries-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Stationaries",
+    "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-stationaries-3": {
+    "name": "stationaries-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Stationaries",
+    "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-03.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-stationaries-4": {
+    "name": "stationaries-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Stationaries",
+    "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-04.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-stationaries-5": {
+    "name": "stationaries-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Stationaries",
+    "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-05.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-stationaries-6": {
+    "name": "stationaries-06",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Stationaries",
+    "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-06.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-stationaries-7": {
+    "name": "stationaries-07",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Stationaries",
+    "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-07.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-stationaries-8": {
+    "name": "stationaries-08",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Stationaries",
+    "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-08.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-stationaries-9": {
+    "name": "stationaries-09",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Stationaries",
+    "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-09.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-stationaries-10": {
+    "name": "stationaries",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Stationaries",
+    "img": "assets/pre-school-care/Sub product of Stationaries/stationaries.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-story-books-1": {
+    "name": "story-books-1",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Story Books",
+    "img": "assets/pre-school-care/Sub product of Story Books/story-books-1.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-story-books-2": {
+    "name": "story-books-2",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Story Books",
+    "img": "assets/pre-school-care/Sub product of Story Books/story-books-2.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-story-books-3": {
+    "name": "story-books-3",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Story Books",
+    "img": "assets/pre-school-care/Sub product of Story Books/story-books-3.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-story-books-4": {
+    "name": "story-books-4",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Story Books",
+    "img": "assets/pre-school-care/Sub product of Story Books/story-books-4.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-story-books-5": {
+    "name": "story-books-5",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Story Books",
+    "img": "assets/pre-school-care/Sub product of Story Books/story-books-5.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-story-books-6": {
+    "name": "story-books",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Story Books",
+    "img": "assets/pre-school-care/Sub product of Story Books/story-books.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-sun-glasses-1": {
+    "name": "baby-sun-glasses-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Sun Glasses",
+    "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-sun-glasses-2": {
+    "name": "baby-sun-glasses-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Sun Glasses",
+    "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-sun-glasses-3": {
+    "name": "baby-sun-glasses-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Sun Glasses",
+    "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses-03.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-sun-glasses-4": {
+    "name": "baby-sun-glasses-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Sun Glasses",
+    "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses-04.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-sun-glasses-5": {
+    "name": "baby-sun-glasses-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Sun Glasses",
+    "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses-05.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-sun-glasses-6": {
+    "name": "baby-sun-glasses",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Sun Glasses",
+    "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-towels-1": {
+    "name": "lunch-towel-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Towels",
+    "img": "assets/pre-school-care/Sub product of Towels/lunch-towel-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-towels-2": {
+    "name": "lunch-towel-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Towels",
+    "img": "assets/pre-school-care/Sub product of Towels/lunch-towel-02.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-towels-3": {
+    "name": "lunch-towel",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Towels",
+    "img": "assets/pre-school-care/Sub product of Towels/lunch-towel.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-1": {
+    "name": "waterbottle-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-01.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-2": {
+    "name": "waterbottle-010",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-010.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-3": {
+    "name": "waterbottle-015",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-015.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-4": {
+    "name": "waterbottle-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-05.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-5": {
+    "name": "waterbottle-052",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-052.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-6": {
+    "name": "waterbottle-06",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-06.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-7": {
+    "name": "waterbottle-07",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-07.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-8": {
+    "name": "waterbottle-08",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-08.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-9": {
+    "name": "waterbottle-09",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-09.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-10": {
+    "name": "waterbottle-11",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-11.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-11": {
+    "name": "waterbottle-12",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-12.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-12": {
+    "name": "waterbottle-13",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-13.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-13": {
+    "name": "waterbottle-14",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-14.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
+  "preschool-water-bottles-14": {
+    "name": "waterbottle",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Water Bottles",
+    "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle.jpg",
+    "desc": "Perfect early learning and school essential for your child."
+  },
   "baby-dress-baby-panties-1": {
     "name": "baby-panties-013",
     "price": 399,
@@ -5791,6 +6703,22 @@ const PRODUCT_DB = {
 };
 
 const CATEGORY_PRODUCTS = {
+  "activity-books": ["preschool-activity-books-1", "preschool-activity-books-2", "preschool-activity-books-3", "preschool-activity-books-4", "preschool-activity-books-5", "preschool-activity-books-6", "preschool-activity-books-7", "preschool-activity-books-8"],
+  "bags": ["preschool-bags-1", "preschool-bags-2", "preschool-bags-3", "preschool-bags-4", "preschool-bags-5"],
+  "boarding-books": ["preschool-boarding-books-1", "preschool-boarding-books-2", "preschool-boarding-books-3", "preschool-boarding-books-4", "preschool-boarding-books-5", "preschool-boarding-books-6"],
+  "caps": ["preschool-caps-1", "preschool-caps-2", "preschool-caps-3", "preschool-caps-4", "preschool-caps-5", "preschool-caps-6", "preschool-caps-7"],
+  "charts": ["preschool-charts-1", "preschool-charts-2", "preschool-charts-3"],
+  "coloring-book": ["preschool-coloring-book-1", "preschool-coloring-book-2", "preschool-coloring-book-3", "preschool-coloring-book-4", "preschool-coloring-book-5", "preschool-coloring-book-6", "preschool-coloring-book-7"],
+  "early-learning-books": ["preschool-early-learning-books-1", "preschool-early-learning-books-2", "preschool-early-learning-books-3", "preschool-early-learning-books-4", "preschool-early-learning-books-5", "preschool-early-learning-books-6", "preschool-early-learning-books-7", "preschool-early-learning-books-8", "preschool-early-learning-books-9", "preschool-early-learning-books-10", "preschool-early-learning-books-11"],
+  "lunch-box": ["preschool-lunch-box-1", "preschool-lunch-box-2", "preschool-lunch-box-3", "preschool-lunch-box-4"],
+  "plates-&-bowl": ["preschool-plates-&-bowl-1", "preschool-plates-&-bowl-2", "preschool-plates-&-bowl-3", "preschool-plates-&-bowl-4", "preschool-plates-&-bowl-5", "preschool-plates-&-bowl-6", "preschool-plates-&-bowl-7", "preschool-plates-&-bowl-8"],
+  "snacks-box": ["preschool-snacks-box-1", "preschool-snacks-box-2", "preschool-snacks-box-3", "preschool-snacks-box-4", "preschool-snacks-box-5", "preschool-snacks-box-6", "preschool-snacks-box-7", "preschool-snacks-box-8", "preschool-snacks-box-9", "preschool-snacks-box-10", "preschool-snacks-box-11", "preschool-snacks-box-12"],
+  "spoons": ["preschool-spoons-1", "preschool-spoons-2", "preschool-spoons-3", "preschool-spoons-4"],
+  "stationaries": ["preschool-stationaries-1", "preschool-stationaries-2", "preschool-stationaries-3", "preschool-stationaries-4", "preschool-stationaries-5", "preschool-stationaries-6", "preschool-stationaries-7", "preschool-stationaries-8", "preschool-stationaries-9", "preschool-stationaries-10"],
+  "story-books": ["preschool-story-books-1", "preschool-story-books-2", "preschool-story-books-3", "preschool-story-books-4", "preschool-story-books-5", "preschool-story-books-6"],
+  "sun-glasses": ["preschool-sun-glasses-1", "preschool-sun-glasses-2", "preschool-sun-glasses-3", "preschool-sun-glasses-4", "preschool-sun-glasses-5", "preschool-sun-glasses-6"],
+  "towels": ["preschool-towels-1", "preschool-towels-2", "preschool-towels-3"],
+  "water-bottles": ["preschool-water-bottles-1", "preschool-water-bottles-2", "preschool-water-bottles-3", "preschool-water-bottles-4", "preschool-water-bottles-5", "preschool-water-bottles-6", "preschool-water-bottles-7", "preschool-water-bottles-8", "preschool-water-bottles-9", "preschool-water-bottles-10", "preschool-water-bottles-11", "preschool-water-bottles-12", "preschool-water-bottles-13", "preschool-water-bottles-14"],
   "baby-panties": ["baby-dress-baby-panties-1", "baby-dress-baby-panties-2"],
   "boy-dress": ["baby-dress-boy-dress-1", "baby-dress-boy-dress-2", "baby-dress-boy-dress-3", "baby-dress-boy-dress-4", "baby-dress-boy-dress-5", "baby-dress-boy-dress-6", "baby-dress-boy-dress-7", "baby-dress-boy-dress-8"],
   "diaper-panties": ["baby-dress-diaper-panties-1", "baby-dress-diaper-panties-2", "baby-dress-diaper-panties-3"],
@@ -5863,8 +6791,7 @@ const CATEGORY_PRODUCTS = {
       "baby-powder": ["herbal-baby-powder", "talc-free-powder", "sensitive-skin-powder", "daily-care-powder"],
   "quick-dry-sheets": ["waterproof-quick-dry-sheet", "premium-dry-sheet", "reusable-dry-sheet", "travel-dry-sheet"],
   "reusable-diapers": ["adjustable-reusable-diaper", "washable-diaper", "organic-reusable-diaper", "eco-friendly-diaper"],
-  "towels": ["bath-towel", "baby-towel", "soft-towel", "premium-towel"],
-  "baby-soap": ["herbal-baby-soap", "milk-baby-soap", "moisturizing-baby-soap", "sensitive-skin-soap"],
+    "baby-soap": ["herbal-baby-soap", "milk-baby-soap", "moisturizing-baby-soap", "sensitive-skin-soap"],
   "corner-guards": ["standard-corner-guards", "premium-corner-guards", "advanced-corner-guards", "compact-corner-guards"],
   "safety-gates": ["standard-safety-gates", "premium-safety-gates", "advanced-safety-gates", "compact-safety-gates"],
   "cabinet-locks": ["standard-cabinet-locks", "premium-cabinet-locks", "advanced-cabinet-locks", "compact-cabinet-locks"],
@@ -5886,8 +6813,7 @@ const CATEGORY_PRODUCTS = {
   "party-hats": ["standard-party-hats", "premium-party-hats", "advanced-party-hats", "compact-party-hats"],
   "backpacks": ["standard-backpacks", "premium-backpacks", "advanced-backpacks", "compact-backpacks"],
   "lunch-boxes": ["standard-lunch-boxes", "premium-lunch-boxes", "advanced-lunch-boxes", "compact-lunch-boxes"],
-  "water-bottles": ["standard-water-bottles", "premium-water-bottles", "advanced-water-bottles", "compact-water-bottles"],
-  "art-supplies": ["standard-art-supplies", "premium-art-supplies", "advanced-art-supplies", "compact-art-supplies"],
+    "art-supplies": ["standard-art-supplies", "premium-art-supplies", "advanced-art-supplies", "compact-art-supplies"],
   "silver-anklets": ["standard-silver-anklets", "premium-silver-anklets", "advanced-silver-anklets", "compact-silver-anklets"],
   "gold-bracelets": ["standard-gold-bracelets", "premium-gold-bracelets", "advanced-gold-bracelets", "compact-gold-bracelets"],
   "protection-charms": ["standard-protection-charms", "premium-protection-charms", "advanced-protection-charms", "compact-protection-charms"],
