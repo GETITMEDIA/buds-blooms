@@ -2,6 +2,414 @@
    BUDS PREMIUM — PRODUCT DATABASE (112 Products)
    ============================================= */
 const PRODUCT_DB = {
+  "party-cake-topper-1": {
+    "name": "Untitled-1",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Cake Topper",
+    "img": "assets/party-time/Sub product of Cake Topper/Untitled-1.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-cake-topper-2": {
+    "name": "Untitled-2",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Cake Topper",
+    "img": "assets/party-time/Sub product of Cake Topper/Untitled-2.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-cake-topper-3": {
+    "name": "Untitled-4",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Cake Topper",
+    "img": "assets/party-time/Sub product of Cake Topper/Untitled-4.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-cake-topper-4": {
+    "name": "Untitled-62-1",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Cake Topper",
+    "img": "assets/party-time/Sub product of Cake Topper/Untitled-62-1.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-curtains-1": {
+    "name": "Untitled-28",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Curtains",
+    "img": "assets/party-time/Sub product of Curtains/Untitled-28.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-curtains-2": {
+    "name": "Untitled-29",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Curtains",
+    "img": "assets/party-time/Sub product of Curtains/Untitled-29.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-curtains-3": {
+    "name": "Untitled-30",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Curtains",
+    "img": "assets/party-time/Sub product of Curtains/Untitled-30.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-curtains-4": {
+    "name": "Untitled-31",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Curtains",
+    "img": "assets/party-time/Sub product of Curtains/Untitled-31.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-foil-balloons-1": {
+    "name": "Untitled-10",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Foil balloons",
+    "img": "assets/party-time/Sub product of Foil balloons/Untitled-10.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-foil-balloons-2": {
+    "name": "Untitled-11",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Foil balloons",
+    "img": "assets/party-time/Sub product of Foil balloons/Untitled-11.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-foil-balloons-3": {
+    "name": "Untitled-12",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Foil balloons",
+    "img": "assets/party-time/Sub product of Foil balloons/Untitled-12.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-foil-balloons-4": {
+    "name": "Untitled-13",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Foil balloons",
+    "img": "assets/party-time/Sub product of Foil balloons/Untitled-13.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-foil-balloons-5": {
+    "name": "Untitled-14",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Foil balloons",
+    "img": "assets/party-time/Sub product of Foil balloons/Untitled-14.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-foil-balloons-6": {
+    "name": "Untitled-5",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Foil balloons",
+    "img": "assets/party-time/Sub product of Foil balloons/Untitled-5.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-foil-balloons-7": {
+    "name": "Untitled-6",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Foil balloons",
+    "img": "assets/party-time/Sub product of Foil balloons/Untitled-6.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-foil-balloons-8": {
+    "name": "Untitled-7",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Foil balloons",
+    "img": "assets/party-time/Sub product of Foil balloons/Untitled-7.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-foil-balloons-9": {
+    "name": "Untitled-8",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Foil balloons",
+    "img": "assets/party-time/Sub product of Foil balloons/Untitled-8.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-foil-balloons-10": {
+    "name": "Untitled-9",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Foil balloons",
+    "img": "assets/party-time/Sub product of Foil balloons/Untitled-9.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-part-banner-1": {
+    "name": "Untitled-21",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Part Banner",
+    "img": "assets/party-time/Sub product of Part Banner/Untitled-21.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-part-banner-2": {
+    "name": "Untitled-22",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Part Banner",
+    "img": "assets/party-time/Sub product of Part Banner/Untitled-22.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-part-banner-3": {
+    "name": "Untitled-23",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Part Banner",
+    "img": "assets/party-time/Sub product of Part Banner/Untitled-23.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-part-banner-4": {
+    "name": "Untitled-24",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Part Banner",
+    "img": "assets/party-time/Sub product of Part Banner/Untitled-24.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-accessories-1": {
+    "name": "Untitled-15",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Accessories",
+    "img": "assets/party-time/Sub product of Party Accessories/Untitled-15.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-accessories-2": {
+    "name": "Untitled-16",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Accessories",
+    "img": "assets/party-time/Sub product of Party Accessories/Untitled-16.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-accessories-3": {
+    "name": "Untitled-17",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Accessories",
+    "img": "assets/party-time/Sub product of Party Accessories/Untitled-17.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-accessories-4": {
+    "name": "Untitled-18",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Accessories",
+    "img": "assets/party-time/Sub product of Party Accessories/Untitled-18.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-accessories-5": {
+    "name": "Untitled-19",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Accessories",
+    "img": "assets/party-time/Sub product of Party Accessories/Untitled-19.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-accessories-6": {
+    "name": "Untitled-20",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Accessories",
+    "img": "assets/party-time/Sub product of Party Accessories/Untitled-20.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-accessories-7": {
+    "name": "Untitled-21",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Accessories",
+    "img": "assets/party-time/Sub product of Party Accessories/Untitled-21.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-accessories-8": {
+    "name": "Untitled-22",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Accessories",
+    "img": "assets/party-time/Sub product of Party Accessories/Untitled-22.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-accessories-9": {
+    "name": "Untitled-23",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Accessories",
+    "img": "assets/party-time/Sub product of Party Accessories/Untitled-23.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-accessories-10": {
+    "name": "Untitled-24",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Accessories",
+    "img": "assets/party-time/Sub product of Party Accessories/Untitled-24.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-balloons-1": {
+    "name": "Untitled-42",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Balloons",
+    "img": "assets/party-time/Sub product of Party Balloons/Untitled-42.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-balloons-2": {
+    "name": "Untitled-43",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Balloons",
+    "img": "assets/party-time/Sub product of Party Balloons/Untitled-43.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-balloons-3": {
+    "name": "Untitled-44",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Balloons",
+    "img": "assets/party-time/Sub product of Party Balloons/Untitled-44.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-balloons-4": {
+    "name": "Untitled-45",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Balloons",
+    "img": "assets/party-time/Sub product of Party Balloons/Untitled-45.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-caps-1": {
+    "name": "Untitled-25",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Caps",
+    "img": "assets/party-time/Sub product of Party Caps/Untitled-25.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-caps-2": {
+    "name": "Untitled-26",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Caps",
+    "img": "assets/party-time/Sub product of Party Caps/Untitled-26.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-caps-3": {
+    "name": "Untitled-27",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Caps",
+    "img": "assets/party-time/Sub product of Party Caps/Untitled-27.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-glasses-1": {
+    "name": "Untitled-33",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Glasses",
+    "img": "assets/party-time/Sub product of Party Glasses/Untitled-33.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-glasses-2": {
+    "name": "Untitled-34",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Glasses",
+    "img": "assets/party-time/Sub product of Party Glasses/Untitled-34.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-glasses-3": {
+    "name": "Untitled-35",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Glasses",
+    "img": "assets/party-time/Sub product of Party Glasses/Untitled-35.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-glasses-4": {
+    "name": "Untitled-36",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Glasses",
+    "img": "assets/party-time/Sub product of Party Glasses/Untitled-36.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-glasses-5": {
+    "name": "Untitled-37",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Glasses",
+    "img": "assets/party-time/Sub product of Party Glasses/Untitled-37.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-glasses-6": {
+    "name": "Untitled-38",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Glasses",
+    "img": "assets/party-time/Sub product of Party Glasses/Untitled-38.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-popper-1": {
+    "name": "Untitled-39",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Popper",
+    "img": "assets/party-time/Sub product of Party Popper/Untitled-39.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-popper-2": {
+    "name": "Untitled-40",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Popper",
+    "img": "assets/party-time/Sub product of Party Popper/Untitled-40.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-popper-3": {
+    "name": "Untitled-70-1",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Popper",
+    "img": "assets/party-time/Sub product of Party Popper/Untitled-70-1.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-swirls-1": {
+    "name": "Untitled-40",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Swirls",
+    "img": "assets/party-time/Sub product of Party Swirls/Untitled-40.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-swirls-2": {
+    "name": "Untitled-41",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Swirls",
+    "img": "assets/party-time/Sub product of Party Swirls/Untitled-41.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
+  "party-party-swirls-3": {
+    "name": "Untitled-71-1",
+    "price": 199,
+    "oldPrice": 399,
+    "category": "Party Swirls",
+    "img": "assets/party-time/Sub product of Party Swirls/Untitled-71-1.jpg",
+    "desc": "Make your baby's party memorable with these beautiful accessories."
+  },
   "preschool-activity-books-1": {
     "name": "interactive-and-activity-books-011",
     "price": 299,
@@ -6703,6 +7111,16 @@ const PRODUCT_DB = {
 };
 
 const CATEGORY_PRODUCTS = {
+  "cake-topper": ["party-cake-topper-1", "party-cake-topper-2", "party-cake-topper-3", "party-cake-topper-4"],
+  "curtains": ["party-curtains-1", "party-curtains-2", "party-curtains-3", "party-curtains-4"],
+  "foil-balloons": ["party-foil-balloons-1", "party-foil-balloons-2", "party-foil-balloons-3", "party-foil-balloons-4", "party-foil-balloons-5", "party-foil-balloons-6", "party-foil-balloons-7", "party-foil-balloons-8", "party-foil-balloons-9", "party-foil-balloons-10"],
+  "part-banner": ["party-part-banner-1", "party-part-banner-2", "party-part-banner-3", "party-part-banner-4"],
+  "party-accessories": ["party-party-accessories-1", "party-party-accessories-2", "party-party-accessories-3", "party-party-accessories-4", "party-party-accessories-5", "party-party-accessories-6", "party-party-accessories-7", "party-party-accessories-8", "party-party-accessories-9", "party-party-accessories-10"],
+  "party-balloons": ["party-party-balloons-1", "party-party-balloons-2", "party-party-balloons-3", "party-party-balloons-4"],
+  "party-caps": ["party-party-caps-1", "party-party-caps-2", "party-party-caps-3"],
+  "party-glasses": ["party-party-glasses-1", "party-party-glasses-2", "party-party-glasses-3", "party-party-glasses-4", "party-party-glasses-5", "party-party-glasses-6"],
+  "party-popper": ["party-party-popper-1", "party-party-popper-2", "party-party-popper-3"],
+  "party-swirls": ["party-party-swirls-1", "party-party-swirls-2", "party-party-swirls-3"],
   "activity-books": ["preschool-activity-books-1", "preschool-activity-books-2", "preschool-activity-books-3", "preschool-activity-books-4", "preschool-activity-books-5", "preschool-activity-books-6", "preschool-activity-books-7", "preschool-activity-books-8"],
   "bags": ["preschool-bags-1", "preschool-bags-2", "preschool-bags-3", "preschool-bags-4", "preschool-bags-5"],
   "boarding-books": ["preschool-boarding-books-1", "preschool-boarding-books-2", "preschool-boarding-books-3", "preschool-boarding-books-4", "preschool-boarding-books-5", "preschool-boarding-books-6"],
