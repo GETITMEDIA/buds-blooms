@@ -2922,6 +2922,407 @@ const PRODUCT_DB = {
     "img": "assets/footwear/Cozy Koala Slippers.png",
     "desc": "Everyday casual slippers."
   }
+,
+"2": {
+      "name": "2",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Bouncer",
+      "img": "assets/baby-gear/Sub catogory of Bouncer/2.jpg",
+      "desc": "Premium quality bouncer for your baby."
+  },
+  "activity-walker-01": {
+      "name": "Activity Walker 01",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Activity Walker",
+      "img": "assets/baby-gear/Sub catogory of Activity Walker/Activity-walker-01.jpg",
+      "desc": "Premium quality activity walker for your baby."
+  },
+  "activity-walker-02": {
+      "name": "Activity Walker 02",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Activity Walker",
+      "img": "assets/baby-gear/Sub catogory of Activity Walker/Activity-walker-02.jpg",
+      "desc": "Premium quality activity walker for your baby."
+  },
+  "activity-walker": {
+      "name": "Activity Walker",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Activity Walker",
+      "img": "assets/baby-gear/Sub catogory of Activity Walker/Activity-walker.jpg",
+      "desc": "Premium quality activity walker for your baby."
+  },
+  "battery-bike-01": {
+      "name": "Battery Bike 01",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Battery Bike",
+      "img": "assets/baby-gear/Sub catogory of Battery Bike/Battery-bike-01.jpg",
+      "desc": "Premium quality battery bike for your baby."
+  },
+  "battery-bike-02": {
+      "name": "Battery Bike 02",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Battery Bike",
+      "img": "assets/baby-gear/Sub catogory of Battery Bike/Battery-bike-02.jpg",
+      "desc": "Premium quality battery bike for your baby."
+  },
+  "battery-bike": {
+      "name": "Battery Bike",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Battery Bike",
+      "img": "assets/baby-gear/Sub catogory of Battery Bike/Battery-bike.jpg",
+      "desc": "Premium quality battery bike for your baby."
+  },
+  "battery-car-01": {
+      "name": "Battery Car 01",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Battery Car",
+      "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car-01.jpg",
+      "desc": "Premium quality battery car for your baby."
+  },
+  "battery-car-02": {
+      "name": "Battery Car 02",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Battery Car",
+      "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car-02.jpg",
+      "desc": "Premium quality battery car for your baby."
+  },
+  "battery-car-03": {
+      "name": "Battery Car 03",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Battery Car",
+      "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car-03.jpg",
+      "desc": "Premium quality battery car for your baby."
+  },
+  "battery-car": {
+      "name": "Battery Car",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Battery Car",
+      "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car.jpg",
+      "desc": "Premium quality battery car for your baby."
+  },
+  "v": {
+      "name": "V",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Bouncer",
+      "img": "assets/baby-gear/Sub catogory of Bouncer/v.jpg",
+      "desc": "Premium quality bouncer for your baby."
+  },
+  "cradle-014": {
+      "name": "Cradle 014",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Cradle",
+      "img": "assets/baby-gear/Sub catogory of Cradle/cradle-014.jpg",
+      "desc": "Premium quality cradle for your baby."
+  },
+  "cradle": {
+      "name": "Cradle",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Cradle",
+      "img": "assets/baby-gear/Sub catogory of Cradle/cradle.jpg",
+      "desc": "Premium quality cradle for your baby."
+  },
+  "cradle02": {
+      "name": "Cradle02",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Cradle",
+      "img": "assets/baby-gear/Sub catogory of Cradle/cradle02.jpg",
+      "desc": "Premium quality cradle for your baby."
+  },
+  "cradle03": {
+      "name": "Cradle03",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Cradle",
+      "img": "assets/baby-gear/Sub catogory of Cradle/cradle03.jpg",
+      "desc": "Premium quality cradle for your baby."
+  },
+  "cradle04": {
+      "name": "Cradle04",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Cradle",
+      "img": "assets/baby-gear/Sub catogory of Cradle/cradle04.jpg",
+      "desc": "Premium quality cradle for your baby."
+  },
+  "cradle06": {
+      "name": "Cradle06",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Cradle",
+      "img": "assets/baby-gear/Sub catogory of Cradle/cradle06.jpg",
+      "desc": "Premium quality cradle for your baby."
+  },
+  "magic-car-1": {
+      "name": "Magic Car 1",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Magic Car",
+      "img": "assets/baby-gear/Sub catogory of Magic Car/magic-car-1.jpg",
+      "desc": "Premium quality magic car for your baby."
+  },
+  "magic-car-2": {
+      "name": "Magic Car 2",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Magic Car",
+      "img": "assets/baby-gear/Sub catogory of Magic Car/magic-car-2.jpg",
+      "desc": "Premium quality magic car for your baby."
+  },
+  "magic-car": {
+      "name": "Magic Car",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Magic Car",
+      "img": "assets/baby-gear/Sub catogory of Magic Car/magic-car.jpg",
+      "desc": "Premium quality magic car for your baby."
+  },
+  "rideon-01": {
+      "name": "Rideon 01",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Rideon",
+      "img": "assets/baby-gear/Sub catogory of Rideon/Rideon-01.jpg",
+      "desc": "Premium quality rideon for your baby."
+  },
+  "rideon-02": {
+      "name": "Rideon 02",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Rideon",
+      "img": "assets/baby-gear/Sub catogory of Rideon/Rideon-02.jpg",
+      "desc": "Premium quality rideon for your baby."
+  },
+  "rideon-03": {
+      "name": "Rideon 03",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Rideon",
+      "img": "assets/baby-gear/Sub catogory of Rideon/Rideon-03.jpg",
+      "desc": "Premium quality rideon for your baby."
+  },
+  "rideon": {
+      "name": "Rideon",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Rideon",
+      "img": "assets/baby-gear/Sub catogory of Rideon/Rideon.jpg",
+      "desc": "Premium quality rideon for your baby."
+  },
+  "rocker-01": {
+      "name": "Rocker 01",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Rocker",
+      "img": "assets/baby-gear/Sub catogory of Rocker/Rocker-01.jpg",
+      "desc": "Premium quality rocker for your baby."
+  },
+  "rocker-02": {
+      "name": "Rocker 02",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Rocker",
+      "img": "assets/baby-gear/Sub catogory of Rocker/Rocker-02.jpg",
+      "desc": "Premium quality rocker for your baby."
+  },
+  "rocker": {
+      "name": "Rocker",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Rocker",
+      "img": "assets/baby-gear/Sub catogory of Rocker/Rocker.jpg",
+      "desc": "Premium quality rocker for your baby."
+  },
+  "skating-scooter-02": {
+      "name": "Skating Scooter 02",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Skating Scooter",
+      "img": "assets/baby-gear/Sub catogory of Skating Scooter/Skating-scooter-02.jpg",
+      "desc": "Premium quality skating scooter for your baby."
+  },
+  "skating-scooter-03": {
+      "name": "Skating Scooter 03",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Skating Scooter",
+      "img": "assets/baby-gear/Sub catogory of Skating Scooter/Skating-scooter-03.jpg",
+      "desc": "Premium quality skating scooter for your baby."
+  },
+  "skating-scooter-04": {
+      "name": "Skating Scooter 04",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Skating Scooter",
+      "img": "assets/baby-gear/Sub catogory of Skating Scooter/Skating-scooter-04.jpg",
+      "desc": "Premium quality skating scooter for your baby."
+  },
+  "skating-scooter": {
+      "name": "Skating Scooter",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Skating Scooter",
+      "img": "assets/baby-gear/Sub catogory of Skating Scooter/Skating-scooter.jpg",
+      "desc": "Premium quality skating scooter for your baby."
+  },
+  "stroller-01": {
+      "name": "Stroller 01",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Stroller",
+      "img": "assets/baby-gear/Sub catogory of Stroller/stroller-01.jpg",
+      "desc": "Premium quality stroller for your baby."
+  },
+  "stroller-02": {
+      "name": "Stroller 02",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Stroller",
+      "img": "assets/baby-gear/Sub catogory of Stroller/stroller-02.jpg",
+      "desc": "Premium quality stroller for your baby."
+  },
+  "stroller-03": {
+      "name": "Stroller 03",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Stroller",
+      "img": "assets/baby-gear/Sub catogory of Stroller/stroller-03.jpg",
+      "desc": "Premium quality stroller for your baby."
+  },
+  "stroller": {
+      "name": "Stroller",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Stroller",
+      "img": "assets/baby-gear/Sub catogory of Stroller/stroller.jpg",
+      "desc": "Premium quality stroller for your baby."
+  },
+  "tricycle-01": {
+      "name": "Tricycle 01",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Tricycle",
+      "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-01.jpg",
+      "desc": "Premium quality tricycle for your baby."
+  },
+  "tricycle-02": {
+      "name": "Tricycle 02",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Tricycle",
+      "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-02.jpg",
+      "desc": "Premium quality tricycle for your baby."
+  },
+  "tricycle-03": {
+      "name": "Tricycle 03",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Tricycle",
+      "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-03.jpg",
+      "desc": "Premium quality tricycle for your baby."
+  },
+  "tricycle-04": {
+      "name": "Tricycle 04",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Tricycle",
+      "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-04.jpg",
+      "desc": "Premium quality tricycle for your baby."
+  },
+  "tricycle-05": {
+      "name": "Tricycle 05",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Tricycle",
+      "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-05.jpg",
+      "desc": "Premium quality tricycle for your baby."
+  },
+  "tricycle-06": {
+      "name": "Tricycle 06",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Tricycle",
+      "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-06.jpg",
+      "desc": "Premium quality tricycle for your baby."
+  },
+  "tricycle": {
+      "name": "Tricycle",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Tricycle",
+      "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle.jpg",
+      "desc": "Premium quality tricycle for your baby."
+  },
+  "walker_01_225-300": {
+      "name": "Walker 01",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Walker",
+      "img": "assets/baby-gear/Sub catogory of Walker/walker_01_225-300.jpg",
+      "desc": "Premium quality walker for your baby."
+  },
+  "walker_02_225-300": {
+      "name": "Walker 02",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Walker",
+      "img": "assets/baby-gear/Sub catogory of Walker/walker_02_225-300.jpg",
+      "desc": "Premium quality walker for your baby."
+  },
+  "walker_03_225-300": {
+      "name": "Walker 03",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Walker",
+      "img": "assets/baby-gear/Sub catogory of Walker/walker_03_225-300.jpg",
+      "desc": "Premium quality walker for your baby."
+  },
+  "walker_04_225-300": {
+      "name": "Walker 04",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Walker",
+      "img": "assets/baby-gear/Sub catogory of Walker/walker_04_225-300.jpg",
+      "desc": "Premium quality walker for your baby."
+  },
+  "walker_05_225-300": {
+      "name": "Walker 05",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Walker",
+      "img": "assets/baby-gear/Sub catogory of Walker/walker_05_225-300.jpg",
+      "desc": "Premium quality walker for your baby."
+  },
+  "walker_06_225-300": {
+      "name": "Walker 06",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Walker",
+      "img": "assets/baby-gear/Sub catogory of Walker/walker_06_225-300.jpg",
+      "desc": "Premium quality walker for your baby."
+  },
+  "walker_225-300": {
+      "name": "Walker",
+      "price": 1999,
+      "oldPrice": 2499,
+      "category": "Walker",
+      "img": "assets/baby-gear/Sub catogory of Walker/walker_225-300.jpg",
+      "desc": "Premium quality walker for your baby."
+  },
 };
 
 const CATEGORY_PRODUCTS = {
@@ -3012,7 +3413,20 @@ const CATEGORY_PRODUCTS = {
   "fancy-shoes": ["standard-fancy-shoes", "premium-fancy-shoes", "party-fancy-shoes", "casual-fancy-shoes"],
   "light-shoes": ["standard-light-shoes", "premium-light-shoes", "party-light-shoes", "casual-light-shoes"],
   "sandals": ["standard-sandals", "premium-sandals", "party-sandals", "casual-sandals"],
-  "slippers": ["standard-slippers", "premium-slippers", "party-slippers", "casual-slippers"],};
+  "slippers": ["standard-slippers", "premium-slippers", "party-slippers", "casual-slippers"],
+"activity-walker": ["activity-walker-01","activity-walker-02","activity-walker"],
+  "battery-bike": ["battery-bike-01","battery-bike-02","battery-bike"],
+  "battery-car": ["battery-car-01","battery-car-02","battery-car-03","battery-car"],
+  "bouncer": ["2","v"],
+  "cradle": ["cradle-014","cradle","cradle02","cradle03","cradle04","cradle06"],
+  "magic-car": ["magic-car-1","magic-car-2","magic-car"],
+  "rideon": ["rideon-01","rideon-02","rideon-03","rideon"],
+  "rocker": ["rocker-01","rocker-02","rocker"],
+  "skating-scooter": ["skating-scooter-02","skating-scooter-03","skating-scooter-04","skating-scooter"],
+  "stroller": ["stroller-01","stroller-02","stroller-03","stroller"],
+  "tricycle": ["tricycle-01","tricycle-02","tricycle-03","tricycle-04","tricycle-05","tricycle-06","tricycle"],
+  "walker": ["walker_01_225-300","walker_02_225-300","walker_03_225-300","walker_04_225-300","walker_05_225-300","walker_06_225-300","walker_225-300"],
+};
 
 function initializeBUDS() {
   /* ---- ON LOAD SCROLL CHECK ---- */
@@ -4182,9 +4596,9 @@ function initializeBUDS() {
         <button class="subcat-title-pill">${p.name}</button>
       `;
       
-      card.addEventListener("click", () => {
+      /* card.addEventListener("click", () => {
         window.location.href = `product-detail.html?product=${k}`;
-      });
+      }); */
       
       grid.appendChild(card);
       setTimeout(() => card.classList.add("visible"), index * 75);
@@ -4230,6 +4644,16 @@ function initializeBUDS() {
       const breadcrumbCat = document.getElementById("breadcrumb-category-name");
       const subcatTitle = document.getElementById("subcatTitle");
       
+      const breadcrumbs = document.querySelectorAll(".pdp-breadcrumbs a");
+      if (breadcrumbs.length > 1) {
+        const parentParam = urlParams.get('parent');
+        const parentLinkParam = urlParams.get('parentLink');
+        if (parentParam && parentLinkParam) {
+          breadcrumbs[1].textContent = parentParam;
+          breadcrumbs[1].href = parentLinkParam;
+        }
+      }
+      
       if (breadcrumbCat) breadcrumbCat.textContent = categoryTitle;
       if (subcatTitle) {
         // Find if there's any span in the title, or replace content
@@ -4264,24 +4688,13 @@ function initializeBUDS() {
                   <img src="${product.img}" alt="${product.name}" />
                 </div>
               </div>
-              <div class="subcat-reviews" style="display: flex; gap: 6px; font-size: 13px; margin-bottom: 8px; align-items: center; justify-content: center;">
-                <div class="stars">${starsHTML}</div>
-                <span class="review-count" style="color: var(--gray-600); font-weight: 700;">4.8 (124)</span>
-              </div>
-              <h3 style="font-family: var(--font-display); font-size: 18px; font-weight: 800; text-align: center; margin-bottom: 12px; color: var(--black); min-height: 48px; display: flex; align-items: center; justify-content: center;">${product.name}</h3>
-              <div class="subcat-price-wrap" style="display: flex; align-items: center; justify-content: center; gap: 8px; margin-bottom: 20px;">
-                <span class="subcat-price" style="font-size: 18px; font-weight: 800; color: var(--primary-pink);">₹${product.price.toFixed(2)}</span>
-                <span class="subcat-price-old" style="font-size: 14px; color: var(--gray-400); text-decoration: line-through;">₹${product.oldPrice.toFixed(2)}</span>
-                <span style="background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%); color: #fff; padding: 2px 8px; border-radius: 100px; font-size: 10px; font-weight: 800;">Save ${Math.round(((product.oldPrice - product.price) / product.oldPrice) * 100)}%</span>
-              </div>
-              <button class="subcat-title-pill" style="width: 100%; max-width: 160px; margin: 0 auto;">View Details</button>
             `;
             
-            card.addEventListener("click", (e) => {
+            /* card.addEventListener("click", (e) => {
               if (!e.target.closest(".subcat-wishlist-btn")) {
                 window.location.href = `product-detail.html?product=${k}`;
               }
-            });
+            }); */
             
             grid.appendChild(card);
             setTimeout(() => card.classList.add("visible"), index * 75);
@@ -4789,7 +5202,7 @@ function initializeBUDS() {
         featuredPrice.textContent = data.price;
         featuredOldPrice.textContent = data.oldPrice;
         if (featuredDiscount) featuredDiscount.textContent = data.discount;
-        if (actionBtn) actionBtn.href = `product-detail.html?product=${data.key}`;
+        // if (actionBtn) actionBtn.href = `product-detail.html?product=${data.key}`;
         slideIndicator.textContent = `0${currentIndex + 1} / 0${hotspotData.length}`;
         
         // Animation in
