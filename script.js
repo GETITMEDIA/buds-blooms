@@ -2,6 +2,1938 @@
    BUDS PREMIUM — PRODUCT DATABASE (112 Products)
    ============================================= */
 const PRODUCT_DB = {
+  "baby-care-baby-gift-box-1": {
+    "name": "Baby Gift Box",
+    "category": "Baby Gift Box",
+    "img": "assets/baby-care/Sub catogory of Baby Gift Box/Untitled-1-1.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-gift-box-2": {
+    "name": "Baby Gift Box",
+    "category": "Baby Gift Box",
+    "img": "assets/baby-care/Sub catogory of Baby Gift Box/Untitled-2-1.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-gift-box-3": {
+    "name": "Baby Gift Box",
+    "category": "Baby Gift Box",
+    "img": "assets/baby-care/Sub catogory of Baby Gift Box/Untitled-3bg.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-soap-1": {
+    "name": "Baby Soap",
+    "category": "Baby Soap",
+    "img": "assets/baby-care/Sub catogory of Baby Soap/powder01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-socks-1": {
+    "name": "Baby Socks",
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-4.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-socks-2": {
+    "name": "Baby Socks",
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-5fs.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-socks-3": {
+    "name": "Baby Socks",
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-6ks.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-socks-4": {
+    "name": "Baby Socks",
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-7sf.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-socks-5": {
+    "name": "Baby Socks",
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-8ffs.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-soft-sweaters-1": {
+    "name": "Baby Soft Sweaters",
+    "category": "Baby Soft Sweaters",
+    "img": "assets/baby-care/Sub catogory of Baby Soft Sweaters/Untitled-10.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-soft-sweaters-2": {
+    "name": "Baby Soft Sweaters",
+    "category": "Baby Soft Sweaters",
+    "img": "assets/baby-care/Sub catogory of Baby Soft Sweaters/Untitled-11.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-soft-sweaters-3": {
+    "name": "Baby Soft Sweaters",
+    "category": "Baby Soft Sweaters",
+    "img": "assets/baby-care/Sub catogory of Baby Soft Sweaters/Untitled-9.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-wollen-sweater-1": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-1-2.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-wollen-sweater-2": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-2-2.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-wollen-sweater-3": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-3W.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-wollen-sweater-4": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-4W.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-wollen-sweater-5": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-5w.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-baby-wollen-sweater-6": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-6w.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-body-lotions-1": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/11177793a-247x300.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-body-lotions-2": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-2.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-body-lotions-3": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-3j.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-body-lotions-4": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-5s.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-body-lotions-5": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-6m.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-body-lotions-6": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-7c.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-booties-1": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/51ahUKOxyHL.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-booties-2": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/71mXd0ZGEyL._SY879_.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-booties-3": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-10-1.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-booties-4": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-11-1.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-booties-5": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-12.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-booties-6": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-7b-1.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-booties-7": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-8b.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-booties-8": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-9-1.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-bottle-wash-1": {
+    "name": "Bottle Wash",
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/534810a-2.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-bottle-wash-2": {
+    "name": "Bottle Wash",
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/71-lPD685HL._SL1500_.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-bottle-wash-3": {
+    "name": "Bottle Wash",
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/Untitled-13.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-bottle-wash-4": {
+    "name": "Bottle Wash",
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/Untitled-14.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-bottle-wash-5": {
+    "name": "Bottle Wash",
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/Untitled-15-1.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cap-sets-1": {
+    "name": "Cap Sets",
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-2-3.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cap-sets-2": {
+    "name": "Cap Sets",
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-33.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cap-sets-3": {
+    "name": "Cap Sets",
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-44.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cap-sets-4": {
+    "name": "Cap Sets",
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-55.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cloth-nappies-1": {
+    "name": "Cloth Nappies",
+    "category": "Cloth Nappies",
+    "img": "assets/baby-care/Sub catogory of Cloth Nappies/Cloth-Nappies-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cloth-nappies-2": {
+    "name": "Cloth Nappies",
+    "category": "Cloth Nappies",
+    "img": "assets/baby-care/Sub catogory of Cloth Nappies/Cloth-Nappies-02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cloth-nappies-3": {
+    "name": "Cloth Nappies",
+    "category": "Cloth Nappies",
+    "img": "assets/baby-care/Sub catogory of Cloth Nappies/Cloth-Nappies.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cotton-towels-1": {
+    "name": "Cotton Towels",
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cotton-towels-2": {
+    "name": "Cotton Towels",
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels-02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cotton-towels-3": {
+    "name": "Cotton Towels",
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels-03.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cotton-towels-4": {
+    "name": "Cotton Towels",
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cradle-nets-1": {
+    "name": "Cradle Nets",
+    "category": "Cradle Nets",
+    "img": "assets/baby-care/Sub catogory of Cradle Nets/Cradle-Nets.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cradle-sticks-and-ropes-1": {
+    "name": "Cradle Sticks and Ropes",
+    "category": "Cradle Sticks and Ropes",
+    "img": "assets/baby-care/Sub catogory of Cradle Sticks and Ropes/Cradle-Sticks-And-Ropes-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cradle-sticks-and-ropes-2": {
+    "name": "Cradle Sticks and Ropes",
+    "category": "Cradle Sticks and Ropes",
+    "img": "assets/baby-care/Sub catogory of Cradle Sticks and Ropes/Cradle-Sticks-And-Ropes-02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-cradle-sticks-and-ropes-3": {
+    "name": "Cradle Sticks and Ropes",
+    "category": "Cradle Sticks and Ropes",
+    "img": "assets/baby-care/Sub catogory of Cradle Sticks and Ropes/Cradle-Sticks-And-Ropes.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-diaper-rash-cream-1": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-diaper-rash-cream-2": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-diaper-rash-cream-3": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-03.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-diaper-rash-cream-4": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-04.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-diaper-rash-cream-5": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-05.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-diaper-rash-cream-6": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-disposable-diapers-1": {
+    "name": "Disposable Diapers",
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/baby_pants.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-disposable-diapers-2": {
+    "name": "Disposable Diapers",
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/ggies.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-disposable-diapers-3": {
+    "name": "Disposable Diapers",
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/mampako.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-disposable-diapers-4": {
+    "name": "Disposable Diapers",
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/pampers-diaper-pants-medium.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-disposable-diapers-5": {
+    "name": "Disposable Diapers",
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/teddy.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-face-napkin-1": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-face-napkin-2": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-face-napkin-3": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-03.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-face-napkin-4": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-04.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-face-napkin-5": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-05.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-face-napkin-6": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-06.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-face-napkin-7": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-07.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-face-napkin-8": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hair-oil-1": {
+    "name": "Hair Oil",
+    "category": "Hair Oil",
+    "img": "assets/baby-care/Sub catogory of Hair Oil/hair-oil-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hair-oil-2": {
+    "name": "Hair Oil",
+    "category": "Hair Oil",
+    "img": "assets/baby-care/Sub catogory of Hair Oil/hair-oil-02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hair-oil-3": {
+    "name": "Hair Oil",
+    "category": "Hair Oil",
+    "img": "assets/baby-care/Sub catogory of Hair Oil/hair-oil.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-1": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-2": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-3": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels010.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-4": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-5": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels03.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-6": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels04.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-7": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels05.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-8": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels06.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-9": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels07.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-10": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels08.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-hooded-towels-11": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels09.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-laundry-wash-1": {
+    "name": "Laundry Wash",
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-laundry-wash-2": {
+    "name": "Laundry Wash",
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-laundry-wash-3": {
+    "name": "Laundry Wash",
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-laundry-wash-4": {
+    "name": "Laundry Wash",
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash03.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-massage-oil-1": {
+    "name": "Massage Oil",
+    "category": "Massage Oil",
+    "img": "assets/baby-care/Sub catogory of Massage Oil/massage-oil-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-massage-oil-2": {
+    "name": "Massage Oil",
+    "category": "Massage Oil",
+    "img": "assets/baby-care/Sub catogory of Massage Oil/massage-oil.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-mittens-1": {
+    "name": "Mittens",
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-mittens-2": {
+    "name": "Mittens",
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-mittens-3": {
+    "name": "Mittens",
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-mittens-4": {
+    "name": "Mittens",
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens03.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-mittens-5": {
+    "name": "Mittens",
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens04.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-mosquitoes-net-1": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-mosquitoes-net-2": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net-02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-mosquitoes-net-3": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net-03.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-mosquitoes-net-4": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-muslin-dress-1": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-care/Sub catogory of Muslin Dress/MUSLIN-DRESS-1.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-muslin-dress-2": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-care/Sub catogory of Muslin Dress/MUSLIN-DRESS.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-organic-dress-1": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-organic-dress-2": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress-02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-organic-dress-3": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress-03.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-organic-dress-4": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-powder-1": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-powder-2": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-powder-3": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-powder-4": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder03.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-powder-5": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder04.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-powder-6": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder05.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-quick-dry-sheets-1": {
+    "name": "Quick Dry Sheets",
+    "category": "Quick Dry Sheets",
+    "img": "assets/baby-care/Sub catogory of Quick Dry Sheets/quick-dry-sheet-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-quick-dry-sheets-2": {
+    "name": "Quick Dry Sheets",
+    "category": "Quick Dry Sheets",
+    "img": "assets/baby-care/Sub catogory of Quick Dry Sheets/quick-dry-sheet-02.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-quick-dry-sheets-3": {
+    "name": "Quick Dry Sheets",
+    "category": "Quick Dry Sheets",
+    "img": "assets/baby-care/Sub catogory of Quick Dry Sheets/quick-dry-sheet.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-reusable-diapers-1": {
+    "name": "Reusable Diapers",
+    "category": "Reusable Diapers",
+    "img": "assets/baby-care/Sub catogory of Reusable Diapers/Reusable-Diapers-01.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-reusable-diapers-2": {
+    "name": "Reusable Diapers",
+    "category": "Reusable Diapers",
+    "img": "assets/baby-care/Sub catogory of Reusable Diapers/Reusable-Diapers.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-1": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1512-PINK.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-2": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1515-BLUE.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-3": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1515-RED.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-4": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1516-BLUE.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-5": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1516-NAVY-BLUE.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-6": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1537-BLUE.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-7": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1537-GREEN.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-8": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1544.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-9": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1545-blue.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-10": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1545-d-blue.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-11": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1545-pink.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-12": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1548-1523-PINK.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-13": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1549-PINK.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-14": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1550-GREEN.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-15": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1550-PINK.png",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-16": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-010.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-17": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-011.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-18": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-012.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-19": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-013.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-20": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-09.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-care-towels-21": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels08.jpg",
+    "desc": "Premium care for your baby."
+  },
+  "baby-gift-box-1": {
+    "name": "Untitled-1-1",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Gift Box",
+    "img": "assets/baby-care/Sub catogory of Baby Gift Box/Untitled-1-1.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-gift-box-2": {
+    "name": "Untitled-2-1",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Gift Box",
+    "img": "assets/baby-care/Sub catogory of Baby Gift Box/Untitled-2-1.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-gift-box-3": {
+    "name": "Untitled-3bg",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Gift Box",
+    "img": "assets/baby-care/Sub catogory of Baby Gift Box/Untitled-3bg.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-soap-1": {
+    "name": "powder01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Soap",
+    "img": "assets/baby-care/Sub catogory of Baby Soap/powder01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-socks-1": {
+    "name": "Untitled-4",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-4.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-socks-2": {
+    "name": "Untitled-5fs",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-5fs.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-socks-3": {
+    "name": "Untitled-6ks",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-6ks.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-socks-4": {
+    "name": "Untitled-7sf",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-7sf.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-socks-5": {
+    "name": "Untitled-8ffs",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-8ffs.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-soft-sweaters-1": {
+    "name": "Untitled-10",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Soft Sweaters",
+    "img": "assets/baby-care/Sub catogory of Baby Soft Sweaters/Untitled-10.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-soft-sweaters-2": {
+    "name": "Untitled-11",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Soft Sweaters",
+    "img": "assets/baby-care/Sub catogory of Baby Soft Sweaters/Untitled-11.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-soft-sweaters-3": {
+    "name": "Untitled-9",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Soft Sweaters",
+    "img": "assets/baby-care/Sub catogory of Baby Soft Sweaters/Untitled-9.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-wollen-sweater-1": {
+    "name": "Untitled-1-2",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-1-2.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-wollen-sweater-2": {
+    "name": "Untitled-2-2",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-2-2.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-wollen-sweater-3": {
+    "name": "Untitled-3W",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-3W.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-wollen-sweater-4": {
+    "name": "Untitled-4W",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-4W.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-wollen-sweater-5": {
+    "name": "Untitled-5w",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-5w.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "baby-wollen-sweater-6": {
+    "name": "Untitled-6w",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-6w.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "body-lotions-1": {
+    "name": "11177793a-247x300",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/11177793a-247x300.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "body-lotions-2": {
+    "name": "Untitled-2",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-2.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "body-lotions-3": {
+    "name": "Untitled-3j",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-3j.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "body-lotions-4": {
+    "name": "Untitled-5s",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-5s.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "body-lotions-5": {
+    "name": "Untitled-6m",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-6m.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "body-lotions-6": {
+    "name": "Untitled-7c",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-7c.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "booties-1": {
+    "name": "51ahUKOxyHL",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/51ahUKOxyHL.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "booties-2": {
+    "name": "71mXd0ZGEyL._SY879_",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/71mXd0ZGEyL._SY879_.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "booties-3": {
+    "name": "Untitled-10-1",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-10-1.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "booties-4": {
+    "name": "Untitled-11-1",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-11-1.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "booties-5": {
+    "name": "Untitled-12",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-12.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "booties-6": {
+    "name": "Untitled-7b-1",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-7b-1.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "booties-7": {
+    "name": "Untitled-8b",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-8b.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "booties-8": {
+    "name": "Untitled-9-1",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-9-1.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "bottle-wash-1": {
+    "name": "534810a-2",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/534810a-2.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "bottle-wash-2": {
+    "name": "71-lPD685HL._SL1500_",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/71-lPD685HL._SL1500_.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "bottle-wash-3": {
+    "name": "Untitled-13",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/Untitled-13.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "bottle-wash-4": {
+    "name": "Untitled-14",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/Untitled-14.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "bottle-wash-5": {
+    "name": "Untitled-15-1",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/Untitled-15-1.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cap-sets-1": {
+    "name": "Untitled-2-3",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-2-3.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cap-sets-2": {
+    "name": "Untitled-33",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-33.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cap-sets-3": {
+    "name": "Untitled-44",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-44.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cap-sets-4": {
+    "name": "Untitled-55",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-55.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cloth-nappies-1": {
+    "name": "Cloth-Nappies-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cloth Nappies",
+    "img": "assets/baby-care/Sub catogory of Cloth Nappies/Cloth-Nappies-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cloth-nappies-2": {
+    "name": "Cloth-Nappies-02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cloth Nappies",
+    "img": "assets/baby-care/Sub catogory of Cloth Nappies/Cloth-Nappies-02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cloth-nappies-3": {
+    "name": "Cloth-Nappies",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cloth Nappies",
+    "img": "assets/baby-care/Sub catogory of Cloth Nappies/Cloth-Nappies.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cotton-towels-1": {
+    "name": "Cotton-Towels-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cotton-towels-2": {
+    "name": "Cotton-Towels-02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels-02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cotton-towels-3": {
+    "name": "Cotton-Towels-03",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels-03.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cotton-towels-4": {
+    "name": "Cotton-Towels",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cradle-nets-1": {
+    "name": "Cradle-Nets",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cradle Nets",
+    "img": "assets/baby-care/Sub catogory of Cradle Nets/Cradle-Nets.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cradle-sticks-and-ropes-1": {
+    "name": "Cradle-Sticks-And-Ropes-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cradle Sticks and Ropes",
+    "img": "assets/baby-care/Sub catogory of Cradle Sticks and Ropes/Cradle-Sticks-And-Ropes-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cradle-sticks-and-ropes-2": {
+    "name": "Cradle-Sticks-And-Ropes-02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cradle Sticks and Ropes",
+    "img": "assets/baby-care/Sub catogory of Cradle Sticks and Ropes/Cradle-Sticks-And-Ropes-02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "cradle-sticks-and-ropes-3": {
+    "name": "Cradle-Sticks-And-Ropes",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Cradle Sticks and Ropes",
+    "img": "assets/baby-care/Sub catogory of Cradle Sticks and Ropes/Cradle-Sticks-And-Ropes.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "diaper-rash-cream-1": {
+    "name": "Diaper-Rash-Cream-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "diaper-rash-cream-2": {
+    "name": "Diaper-Rash-Cream-02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "diaper-rash-cream-3": {
+    "name": "Diaper-Rash-Cream-03",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-03.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "diaper-rash-cream-4": {
+    "name": "Diaper-Rash-Cream-04",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-04.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "diaper-rash-cream-5": {
+    "name": "Diaper-Rash-Cream-05",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-05.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "diaper-rash-cream-6": {
+    "name": "Diaper-Rash-Cream",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "disposable-diapers-1": {
+    "name": "baby_pants",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/baby_pants.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "disposable-diapers-2": {
+    "name": "ggies",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/ggies.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "disposable-diapers-3": {
+    "name": "mampako",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/mampako.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "disposable-diapers-4": {
+    "name": "pampers-diaper-pants-medium",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/pampers-diaper-pants-medium.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "disposable-diapers-5": {
+    "name": "teddy",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/teddy.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "face-napkin-1": {
+    "name": "face-napkin-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "face-napkin-2": {
+    "name": "face-napkin-02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "face-napkin-3": {
+    "name": "face-napkin-03",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-03.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "face-napkin-4": {
+    "name": "face-napkin-04",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-04.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "face-napkin-5": {
+    "name": "face-napkin-05",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-05.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "face-napkin-6": {
+    "name": "face-napkin-06",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-06.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "face-napkin-7": {
+    "name": "face-napkin-07",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-07.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "face-napkin-8": {
+    "name": "face-napkin",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hair-oil-1": {
+    "name": "hair-oil-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hair Oil",
+    "img": "assets/baby-care/Sub catogory of Hair Oil/hair-oil-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hair-oil-2": {
+    "name": "hair-oil-02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hair Oil",
+    "img": "assets/baby-care/Sub catogory of Hair Oil/hair-oil-02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hair-oil-3": {
+    "name": "hair-oil",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hair Oil",
+    "img": "assets/baby-care/Sub catogory of Hair Oil/hair-oil.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-1": {
+    "name": "Hooded-Towels",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-2": {
+    "name": "Hooded-Towels01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-3": {
+    "name": "Hooded-Towels010",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels010.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-4": {
+    "name": "Hooded-Towels02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-5": {
+    "name": "Hooded-Towels03",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels03.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-6": {
+    "name": "Hooded-Towels04",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels04.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-7": {
+    "name": "Hooded-Towels05",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels05.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-8": {
+    "name": "Hooded-Towels06",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels06.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-9": {
+    "name": "Hooded-Towels07",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels07.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-10": {
+    "name": "Hooded-Towels08",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels08.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "hooded-towels-11": {
+    "name": "Hooded-Towels09",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels09.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "laundry-wash-1": {
+    "name": "Laundry-Wash",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "laundry-wash-2": {
+    "name": "Laundry-Wash01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "laundry-wash-3": {
+    "name": "Laundry-Wash02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "laundry-wash-4": {
+    "name": "Laundry-Wash03",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash03.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "massage-oil-1": {
+    "name": "massage-oil-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Massage Oil",
+    "img": "assets/baby-care/Sub catogory of Massage Oil/massage-oil-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "massage-oil-2": {
+    "name": "massage-oil",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Massage Oil",
+    "img": "assets/baby-care/Sub catogory of Massage Oil/massage-oil.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "mittens-1": {
+    "name": "Mittens",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "mittens-2": {
+    "name": "Mittens01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "mittens-3": {
+    "name": "Mittens02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "mittens-4": {
+    "name": "Mittens03",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens03.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "mittens-5": {
+    "name": "Mittens04",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens04.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "mosquitoes-net-1": {
+    "name": "mosqiuto-net-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "mosquitoes-net-2": {
+    "name": "mosqiuto-net-02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net-02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "mosquitoes-net-3": {
+    "name": "mosqiuto-net-03",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net-03.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "mosquitoes-net-4": {
+    "name": "mosqiuto-net",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "muslin-dress-1": {
+    "name": "MUSLIN-DRESS-1",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Muslin Dress",
+    "img": "assets/baby-care/Sub catogory of Muslin Dress/MUSLIN-DRESS-1.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "muslin-dress-2": {
+    "name": "MUSLIN-DRESS",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Muslin Dress",
+    "img": "assets/baby-care/Sub catogory of Muslin Dress/MUSLIN-DRESS.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "organic-dress-1": {
+    "name": "Organic-Dress-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "organic-dress-2": {
+    "name": "Organic-Dress-02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress-02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "organic-dress-3": {
+    "name": "Organic-Dress-03",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress-03.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "organic-dress-4": {
+    "name": "Organic-Dress",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "powder-1": {
+    "name": "powder",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "powder-2": {
+    "name": "powder01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "powder-3": {
+    "name": "powder02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "powder-4": {
+    "name": "powder03",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder03.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "powder-5": {
+    "name": "powder04",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder04.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "powder-6": {
+    "name": "powder05",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder05.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "quick-dry-sheets-1": {
+    "name": "quick-dry-sheet-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Quick Dry Sheets",
+    "img": "assets/baby-care/Sub catogory of Quick Dry Sheets/quick-dry-sheet-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "quick-dry-sheets-2": {
+    "name": "quick-dry-sheet-02",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Quick Dry Sheets",
+    "img": "assets/baby-care/Sub catogory of Quick Dry Sheets/quick-dry-sheet-02.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "quick-dry-sheets-3": {
+    "name": "quick-dry-sheet",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Quick Dry Sheets",
+    "img": "assets/baby-care/Sub catogory of Quick Dry Sheets/quick-dry-sheet.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "reusable-diapers-1": {
+    "name": "Reusable-Diapers-01",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Reusable Diapers",
+    "img": "assets/baby-care/Sub catogory of Reusable Diapers/Reusable-Diapers-01.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "reusable-diapers-2": {
+    "name": "Reusable-Diapers",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Reusable Diapers",
+    "img": "assets/baby-care/Sub catogory of Reusable Diapers/Reusable-Diapers.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-1": {
+    "name": "MM-1512-PINK",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1512-PINK.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-2": {
+    "name": "MM-1515-BLUE",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1515-BLUE.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-3": {
+    "name": "MM-1515-RED",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1515-RED.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-4": {
+    "name": "MM-1516-BLUE",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1516-BLUE.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-5": {
+    "name": "MM-1516-NAVY-BLUE",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1516-NAVY-BLUE.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-6": {
+    "name": "MM-1537-BLUE",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1537-BLUE.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-7": {
+    "name": "MM-1537-GREEN",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1537-GREEN.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-8": {
+    "name": "MM-1544",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1544.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-9": {
+    "name": "MM-1545-blue",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1545-blue.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-10": {
+    "name": "MM-1545-d-blue",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1545-d-blue.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-11": {
+    "name": "MM-1545-pink",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1545-pink.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-12": {
+    "name": "MM-1548-1523-PINK",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1548-1523-PINK.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-13": {
+    "name": "MM-1549-PINK",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1549-PINK.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-14": {
+    "name": "MM-1550-GREEN",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1550-GREEN.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-15": {
+    "name": "MM-1550-PINK",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1550-PINK.png",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-16": {
+    "name": "Towels-010",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-010.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-17": {
+    "name": "Towels-011",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-011.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-18": {
+    "name": "Towels-012",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-012.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-19": {
+    "name": "Towels-013",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-013.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-20": {
+    "name": "Towels-09",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-09.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
+  "towels-21": {
+    "name": "Towels08",
+    "price": 0,
+    "oldPrice": 0,
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels08.jpg",
+    "desc": "Comfortable and premium quality essentials for your little one."
+  },
   "maternity-wear-breast-pumps-1": {
     "name": "Breast Pumps",
     "category": "Breast Pumps",
@@ -3666,25 +5598,25 @@ const PRODUCT_DB = {
   "cotton-booties": {
     "name": "Booties",
     "category": "Booties",
-    "img": "assets/baby-care/booties.png",
+    "img": "assets/lookbook_product/booties.png",
     "desc": "Soft breathable cotton booties with adjustable ankle elastic."
   },
   "winter-booties": {
     "name": "Booties",
     "category": "Booties",
-    "img": "assets/baby-care/booties.png",
+    "img": "assets/lookbook_product/booties.png",
     "desc": "Fleece-lined extra warm booties keeping little feet snug."
   },
   "soft-sole-booties": {
     "name": "Booties",
     "category": "Booties",
-    "img": "assets/baby-care/booties.png",
+    "img": "assets/lookbook_product/booties.png",
     "desc": "Non-slip flexible soft-sole booties ideal for pre-walkers."
   },
   "cartoon-booties": {
     "name": "Booties",
     "category": "Booties",
-    "img": "assets/baby-care/booties.png",
+    "img": "assets/lookbook_product/booties.png",
     "desc": "Adorable animal-themed booties featuring playful rattle sounds."
   },
   "natural-bottle-wash": {
@@ -3714,25 +5646,25 @@ const PRODUCT_DB = {
   "newborn-cap-set": {
     "name": "Cap Sets",
     "category": "Cap Sets",
-    "img": "assets/baby-care/cap_sets.png",
+    "img": "assets/lookbook_product/cap_sets.png",
     "desc": "Pack of 3 soft organic cotton caps designed for tiny heads."
   },
   "winter-cap-set": {
     "name": "Cap Sets",
     "category": "Cap Sets",
-    "img": "assets/baby-care/cap_sets.png",
+    "img": "assets/lookbook_product/cap_sets.png",
     "desc": "Knit wool cap set complete with warm ear protection flaps."
   },
   "cotton-cap-set": {
     "name": "Cap Sets",
     "category": "Cap Sets",
-    "img": "assets/baby-care/cap_sets.png",
+    "img": "assets/lookbook_product/cap_sets.png",
     "desc": "Lightweight and breathable daily wear baby cotton beanies."
   },
   "printed-cap-set": {
     "name": "Cap Sets",
     "category": "Cap Sets",
-    "img": "assets/baby-care/cap_sets.png",
+    "img": "assets/lookbook_product/cap_sets.png",
     "desc": "Caps featuring cute pastel prints, stars, and animal details."
   },
   "reusable-cloth-nappies": {
@@ -6070,9 +8002,37 @@ const PRODUCT_DB = {
       "img": "assets/baby-gear/Sub catogory of Walker/walker_225-300.jpg",
       "desc": "Premium quality walker for your baby."
   },
-};
+  };
 
-const CATEGORY_PRODUCTS = {
+  const CATEGORY_PRODUCTS = {
+  "baby-gift-box": ["baby-care-baby-gift-box-1", "baby-care-baby-gift-box-2", "baby-care-baby-gift-box-3"],
+  "baby-soap": ["baby-care-baby-soap-1"],
+  "baby-socks": ["baby-care-baby-socks-1", "baby-care-baby-socks-2", "baby-care-baby-socks-3", "baby-care-baby-socks-4", "baby-care-baby-socks-5"],
+  "baby-soft-sweaters": ["baby-care-baby-soft-sweaters-1", "baby-care-baby-soft-sweaters-2", "baby-care-baby-soft-sweaters-3"],
+  "baby-wollen-sweater": ["baby-care-baby-wollen-sweater-1", "baby-care-baby-wollen-sweater-2", "baby-care-baby-wollen-sweater-3", "baby-care-baby-wollen-sweater-4", "baby-care-baby-wollen-sweater-5", "baby-care-baby-wollen-sweater-6"],
+  "body-lotions": ["baby-care-body-lotions-1", "baby-care-body-lotions-2", "baby-care-body-lotions-3", "baby-care-body-lotions-4", "baby-care-body-lotions-5", "baby-care-body-lotions-6"],
+  "booties": ["baby-care-booties-1", "baby-care-booties-2", "baby-care-booties-3", "baby-care-booties-4", "baby-care-booties-5", "baby-care-booties-6", "baby-care-booties-7", "baby-care-booties-8"],
+  "bottle-wash": ["baby-care-bottle-wash-1", "baby-care-bottle-wash-2", "baby-care-bottle-wash-3", "baby-care-bottle-wash-4", "baby-care-bottle-wash-5"],
+  "cap-sets": ["baby-care-cap-sets-1", "baby-care-cap-sets-2", "baby-care-cap-sets-3", "baby-care-cap-sets-4"],
+  "cloth-nappies": ["baby-care-cloth-nappies-1", "baby-care-cloth-nappies-2", "baby-care-cloth-nappies-3"],
+  "cotton-towels": ["baby-care-cotton-towels-1", "baby-care-cotton-towels-2", "baby-care-cotton-towels-3", "baby-care-cotton-towels-4"],
+  "cradle-nets": ["baby-care-cradle-nets-1"],
+  "cradle-sticks-and-ropes": ["baby-care-cradle-sticks-and-ropes-1", "baby-care-cradle-sticks-and-ropes-2", "baby-care-cradle-sticks-and-ropes-3"],
+  "diaper-rash-cream": ["baby-care-diaper-rash-cream-1", "baby-care-diaper-rash-cream-2", "baby-care-diaper-rash-cream-3", "baby-care-diaper-rash-cream-4", "baby-care-diaper-rash-cream-5", "baby-care-diaper-rash-cream-6"],
+  "disposable-diapers": ["baby-care-disposable-diapers-1", "baby-care-disposable-diapers-2", "baby-care-disposable-diapers-3", "baby-care-disposable-diapers-4", "baby-care-disposable-diapers-5"],
+  "face-napkin": ["baby-care-face-napkin-1", "baby-care-face-napkin-2", "baby-care-face-napkin-3", "baby-care-face-napkin-4", "baby-care-face-napkin-5", "baby-care-face-napkin-6", "baby-care-face-napkin-7", "baby-care-face-napkin-8"],
+  "hair-oil": ["baby-care-hair-oil-1", "baby-care-hair-oil-2", "baby-care-hair-oil-3"],
+  "hooded-towels": ["baby-care-hooded-towels-1", "baby-care-hooded-towels-2", "baby-care-hooded-towels-3", "baby-care-hooded-towels-4", "baby-care-hooded-towels-5", "baby-care-hooded-towels-6", "baby-care-hooded-towels-7", "baby-care-hooded-towels-8", "baby-care-hooded-towels-9", "baby-care-hooded-towels-10", "baby-care-hooded-towels-11"],
+  "laundry-wash": ["baby-care-laundry-wash-1", "baby-care-laundry-wash-2", "baby-care-laundry-wash-3", "baby-care-laundry-wash-4"],
+  "massage-oil": ["baby-care-massage-oil-1", "baby-care-massage-oil-2"],
+  "mittens": ["baby-care-mittens-1", "baby-care-mittens-2", "baby-care-mittens-3", "baby-care-mittens-4", "baby-care-mittens-5"],
+  "mosquitoes-net": ["baby-care-mosquitoes-net-1", "baby-care-mosquitoes-net-2", "baby-care-mosquitoes-net-3", "baby-care-mosquitoes-net-4"],
+  "muslin-dress": ["baby-care-muslin-dress-1", "baby-care-muslin-dress-2"],
+  "organic-dress": ["baby-care-organic-dress-1", "baby-care-organic-dress-2", "baby-care-organic-dress-3", "baby-care-organic-dress-4"],
+  "powder": ["baby-care-powder-1", "baby-care-powder-2", "baby-care-powder-3", "baby-care-powder-4", "baby-care-powder-5", "baby-care-powder-6"],
+  "quick-dry-sheets": ["baby-care-quick-dry-sheets-1", "baby-care-quick-dry-sheets-2", "baby-care-quick-dry-sheets-3"],
+  "reusable-diapers": ["baby-care-reusable-diapers-1", "baby-care-reusable-diapers-2"],
+  "towels": ["baby-care-towels-1", "baby-care-towels-2", "baby-care-towels-3", "baby-care-towels-4", "baby-care-towels-5", "baby-care-towels-6", "baby-care-towels-7", "baby-care-towels-8", "baby-care-towels-9", "baby-care-towels-10", "baby-care-towels-11", "baby-care-towels-12", "baby-care-towels-13", "baby-care-towels-14", "baby-care-towels-15", "baby-care-towels-16", "baby-care-towels-17", "baby-care-towels-18", "baby-care-towels-19", "baby-care-towels-20", "baby-care-towels-21"],
   // MATERNITY WEAR: breast-pumps
   "breast-pumps": ["mother-care-breast-pumps-1", "mother-care-breast-pumps-2", "mother-care-breast-pumps-3", "mother-care-breast-pumps-4", "mother-care-breast-pumps-5", "mother-care-breast-pumps-6", "mother-care-breast-pumps-7", "mother-care-breast-pumps-8"],
   // MATERNITY WEAR: feeding-gown
@@ -6129,7 +8089,7 @@ const CATEGORY_PRODUCTS = {
   "stationaries": ["preschool-stationaries-1", "preschool-stationaries-2", "preschool-stationaries-3", "preschool-stationaries-4", "preschool-stationaries-5", "preschool-stationaries-6", "preschool-stationaries-7", "preschool-stationaries-8", "preschool-stationaries-9", "preschool-stationaries-10"],
   "story-books": ["preschool-story-books-1", "preschool-story-books-2", "preschool-story-books-3", "preschool-story-books-4", "preschool-story-books-5", "preschool-story-books-6"],
   "sun-glasses": ["preschool-sun-glasses-1", "preschool-sun-glasses-2", "preschool-sun-glasses-3", "preschool-sun-glasses-4", "preschool-sun-glasses-5", "preschool-sun-glasses-6"],
-  "towels": ["preschool-towels-1", "preschool-towels-2", "preschool-towels-3"],
+  
   "water-bottles": ["preschool-water-bottles-1", "preschool-water-bottles-2", "preschool-water-bottles-3", "preschool-water-bottles-4", "preschool-water-bottles-5", "preschool-water-bottles-6", "preschool-water-bottles-7", "preschool-water-bottles-8", "preschool-water-bottles-9", "preschool-water-bottles-10", "preschool-water-bottles-11", "preschool-water-bottles-12", "preschool-water-bottles-13", "preschool-water-bottles-14"],
   "baby-panties": ["baby-dress-baby-panties-1", "baby-dress-baby-panties-2"],
   "boy-dress": ["baby-dress-boy-dress-1", "baby-dress-boy-dress-2", "baby-dress-boy-dress-3", "baby-dress-boy-dress-4", "baby-dress-boy-dress-5", "baby-dress-boy-dress-6", "baby-dress-boy-dress-7", "baby-dress-boy-dress-8"],
@@ -6140,8 +8100,8 @@ const CATEGORY_PRODUCTS = {
   "full-romper": ["baby-dress-full-romper-1", "baby-dress-full-romper-2", "baby-dress-full-romper-3", "baby-dress-full-romper-4", "baby-dress-full-romper-5", "baby-dress-full-romper-6"],
   "girl-dress": ["baby-dress-girl-dress-1", "baby-dress-girl-dress-2", "baby-dress-girl-dress-3", "baby-dress-girl-dress-4", "baby-dress-girl-dress-5", "baby-dress-girl-dress-6", "baby-dress-girl-dress-7", "baby-dress-girl-dress-8", "baby-dress-girl-dress-9", "baby-dress-girl-dress-10", "baby-dress-girl-dress-11", "baby-dress-girl-dress-12", "baby-dress-girl-dress-13", "baby-dress-girl-dress-14", "baby-dress-girl-dress-15", "baby-dress-girl-dress-16", "baby-dress-girl-dress-17", "baby-dress-girl-dress-18", "baby-dress-girl-dress-19", "baby-dress-girl-dress-20"],
   "half-romper": ["baby-dress-half-romper-1", "baby-dress-half-romper-2", "baby-dress-half-romper-3"],
-  "muslin-dress": ["baby-dress-muslin-dress-1", "baby-dress-muslin-dress-2", "baby-dress-muslin-dress-3", "baby-dress-muslin-dress-4", "baby-dress-muslin-dress-5", "baby-dress-muslin-dress-6", "baby-dress-muslin-dress-7", "baby-dress-muslin-dress-8"],
-  "organic-dress": ["baby-dress-organic-dress-1", "baby-dress-organic-dress-2", "baby-dress-organic-dress-3", "baby-dress-organic-dress-4", "baby-dress-organic-dress-5", "baby-dress-organic-dress-6", "baby-dress-organic-dress-7"],
+  
+  
   "resuable-diaper": ["baby-dress-resuable-diaper-1", "baby-dress-resuable-diaper-2"],
   "thermal-wear": ["baby-dress-thermal-wear-1", "baby-dress-thermal-wear-2", "baby-dress-thermal-wear-3", "baby-dress-thermal-wear-4", "baby-dress-thermal-wear-5", "baby-dress-thermal-wear-6", "baby-dress-thermal-wear-7", "baby-dress-thermal-wear-8", "baby-dress-thermal-wear-9", "baby-dress-thermal-wear-10", "baby-dress-thermal-wear-11", "baby-dress-thermal-wear-12", "baby-dress-thermal-wear-13", "baby-dress-thermal-wear-14", "baby-dress-thermal-wear-15"],
   "action-figure-toys": ["toys-action-figure-toys-1", "toys-action-figure-toys-2", "toys-action-figure-toys-3", "toys-action-figure-toys-4", "toys-action-figure-toys-5", "toys-action-figure-toys-6"],
@@ -6180,30 +8140,30 @@ const CATEGORY_PRODUCTS = {
   "light-shoes": ["footwear-light-shoes-1", "footwear-light-shoes-2", "footwear-light-shoes-3", "footwear-light-shoes-4", "footwear-light-shoes-5", "footwear-light-shoes-6", "footwear-light-shoes-7"],
   "sandals": ["footwear-sandals-1", "footwear-sandals-2", "footwear-sandals-3", "footwear-sandals-4", "footwear-sandals-5", "footwear-sandals-6", "footwear-sandals-7"],
   "stocking": ["footwear-stocking-1", "footwear-stocking-2", "footwear-stocking-3", "footwear-stocking-4"],
-  "booties": ["footwear-booties-1", "footwear-booties-2", "footwear-booties-3", "footwear-booties-4", "footwear-booties-5", "footwear-booties-6", "footwear-booties-7", "footwear-booties-8"],
-  "body-lotions": ["moisturizing-body-lotion", "aloe-vera-body-lotion", "milk-protein-body-lotion", "daily-care-baby-lotion"],
-  "baby-gift-box": ["newborn-gift-box", "premium-baby-gift-box", "baby-care-gift-set", "welcome-baby-gift-pack"],
-  "baby-socks": ["cotton-baby-socks", "anti-slip-baby-socks", "winter-baby-socks", "cartoon-baby-socks"],
-  "baby-soft-sweaters": ["full-sleeve-soft-sweater", "knitted-baby-sweater", "button-soft-sweater", "hooded-baby-sweater"],
+  
+  
+  
+  
+  
   "baby-woollen-sweater": ["winter-woollen-sweater", "hand-knit-sweater", "premium-woollen-sweater", "thick-warm-sweater"],
-  "bottle-wash": ["natural-bottle-wash", "foaming-bottle-wash", "fruit-based-bottle-wash", "anti-bacterial-bottle-wash"],
-  "cap-sets": ["newborn-cap-set", "winter-cap-set", "cotton-cap-set", "printed-cap-set"],
-  "cloth-nappies": ["reusable-cloth-nappies", "organic-cloth-nappies", "soft-cotton-nappies", "adjustable-nappies"],
-  "cotton-towels": ["premium-cotton-towel", "soft-baby-towel", "quick-dry-cotton-towel", "extra-absorbent-towel"],
-  "cradle-sticks-and-ropes": ["wooden-cradle-stick", "steel-cradle-stick", "cotton-cradle-rope", "heavy-duty-cradle-rope"],
-  "diaper-rash-cream": ["aloe-rash-cream", "herbal-rash-cream", "sensitive-skin-rash-cream", "protective-rash-cream"],
-  "disposable-diapers": ["newborn-diapers", "premium-dry-diapers", "overnight-diapers", "ultra-soft-diapers"],
-  "face-napkin": ["cotton-face-napkin", "printed-face-napkin", "soft-face-cloth", "baby-cleaning-napkin"],
-  "hair-oil": ["coconut-hair-oil", "herbal-hair-oil", "almond-hair-oil", "growth-care-hair-oil"],
-  "hooded-towels": ["animal-hooded-towel", "cotton-hooded-towel", "soft-hooded-towel", "premium-hooded-towel"],
-  "laundry-wash": ["baby-laundry-wash", "liquid-laundry-wash", "organic-laundry-wash", "gentle-fabric-wash"],
-  "massage-oil": ["coconut-massage-oil", "herbal-massage-oil", "almond-massage-oil", "nourishing-massage-oil"],
-  "mittens": ["cotton-mittens", "winter-mittens", "anti-scratch-mittens", "printed-mittens"],
-  "mosquitoes-net": ["foldable-mosquito-net", "baby-bed-mosquito-net", "portable-mosquito-net", "premium-protection-net"],
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   "baby-powder": ["herbal-baby-powder", "talc-free-powder", "sensitive-skin-powder", "daily-care-powder"],
-  "quick-dry-sheets": ["waterproof-quick-dry-sheet", "premium-dry-sheet", "reusable-dry-sheet", "travel-dry-sheet"],
-  "reusable-diapers": ["adjustable-reusable-diaper", "washable-diaper", "organic-reusable-diaper", "eco-friendly-diaper"],
-  "baby-soap": ["herbal-baby-soap", "milk-baby-soap", "moisturizing-baby-soap", "sensitive-skin-soap"],
+  
+  
+  
   "corner-guards": ["standard-corner-guards", "premium-corner-guards", "advanced-corner-guards", "compact-corner-guards"],
   "safety-gates": ["standard-safety-gates", "premium-safety-gates", "advanced-safety-gates", "compact-safety-gates"],
   "cabinet-locks": ["standard-cabinet-locks", "premium-cabinet-locks", "advanced-cabinet-locks", "compact-cabinet-locks"],
@@ -6239,7 +8199,7 @@ const CATEGORY_PRODUCTS = {
   "stroller": ["stroller-01", "stroller-02", "stroller-03", "stroller"],
   "tricycle": ["tricycle-01", "tricycle-02", "tricycle-03", "tricycle-04", "tricycle-05", "tricycle-06", "tricycle"],
   "walker": ["walker_01_225-300", "walker_02_225-300", "walker_03_225-300", "walker_04_225-300", "walker_05_225-300", "walker_06_225-300", "walker_225-300"],
-};
+  };
 
 /* =============================================
    WHATSAPP PRODUCT INQUIRY
@@ -8082,7 +10042,7 @@ function initializeBUDS() {
     const hotspotData = [
       {
         key: 'newborn-cap-set',
-        img: 'assets/baby-care/cap_sets.png',
+        img: 'assets/lookbook_product/cap_sets.png',
         title: 'Newborn Cap Set',
         price: '₹199.00',
         oldPrice: '₹299.00',
@@ -8090,7 +10050,7 @@ function initializeBUDS() {
       },
       {
         key: 'cotton-mittens',
-        img: 'assets/baby-care/lookbook_mittens.png',
+        img: 'assets/lookbook_product/lookbook_mittens.png',
         title: 'Cotton Mittens',
         price: '₹120.00',
         oldPrice: '₹199.00',
@@ -8098,7 +10058,7 @@ function initializeBUDS() {
       },
       {
         key: 'soft-sole-booties',
-        img: 'assets/baby-care/booties.png',
+        img: 'assets/lookbook_product/booties.png',
         title: 'Soft Sole Booties',
         price: '₹349.00',
         oldPrice: '₹499.00',
@@ -8106,7 +10066,7 @@ function initializeBUDS() {
       },
       {
         key: 'premium-cotton-towel',
-        img: 'assets/baby-care/lookbook_towel.png',
+        img: 'assets/lookbook_product/lookbook_towel.png',
         title: 'Premium Cotton Towel',
         price: '₹499.00',
         oldPrice: '₹699.00',
@@ -8126,14 +10086,14 @@ function initializeBUDS() {
       // Animation out
       imageWrap.classList.add('updating');
       featuredTitle.style.opacity = 0;
-      featuredPrice.parentElement.style.opacity = 0;
+      if (featuredPrice && featuredPrice.parentElement) featuredPrice.parentElement.style.opacity = 0;
 
       setTimeout(() => {
         const data = hotspotData[currentIndex];
         featuredImg.src = data.img;
         featuredTitle.textContent = data.title;
-        featuredPrice.textContent = data.price;
-        featuredOldPrice.textContent = data.oldPrice;
+        if (featuredPrice) featuredPrice.textContent = data.price;
+        if (featuredOldPrice) featuredOldPrice.textContent = data.oldPrice;
         if (featuredDiscount) featuredDiscount.textContent = data.discount;
         // if (actionBtn) actionBtn.href = `product-detail.html?product=${data.key}`;
         slideIndicator.textContent = `0${currentIndex + 1} / 0${hotspotData.length}`;
@@ -8141,7 +10101,7 @@ function initializeBUDS() {
         // Animation in
         imageWrap.classList.remove('updating');
         featuredTitle.style.opacity = 1;
-        featuredPrice.parentElement.style.opacity = 1;
+        if (featuredPrice && featuredPrice.parentElement) featuredPrice.parentElement.style.opacity = 1;
       }, 300);
     }
 
@@ -8197,3 +10157,4 @@ if (document.readyState === "loading") {
 } else {
   initializeBUDS();
 }
+

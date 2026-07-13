@@ -6846,3 +6846,82 @@ body {
   position: relative;
   z-index: 2;
 }
+
+/* --- MAGICAL HERO TITLE --- */
+.hero-text-custom {
+  max-width: 700px;
+  text-align: left;
+  position: relative;
+  z-index: 10;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  padding: 0 !important;
+  transform: translateY(-20px);
+}
+
+.hero-title-magical {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin: 0;
+  padding: 0;
+  white-space: normal !important;
+}
+
+.hero-title-magical .text-line-1 {
+  font-family: var(--font-display);
+  font-size: 55px;
+  font-weight: 800;
+  color: #ffffff;
+  text-shadow: 0 4px 15px rgba(0,0,0,0.5), 0 2px 4px rgba(0,0,0,0.4);
+  letter-spacing: -1px;
+  line-height: 1.1;
+}
+
+.hero-title-magical .text-line-2 {
+  font-family: var(--font-display);
+  font-size: 70px;
+  font-weight: 900;
+  background: linear-gradient(135deg, #ff9ac9, #ffd233);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.2;
+  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.5));
+  padding-bottom: 10px;
+}
+
+@media (max-width: 992px) {
+  .hero-text-custom {
+    padding: 20px;
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    transform: translateY(0);
+  }
+  .hero-title-magical .text-line-1 { font-size: 40px; }
+  .hero-title-magical .text-line-2 { font-size: 50px; }
+}
+
+@media (max-width: 576px) {
+  .hero-text-custom {
+    padding: 15px;
+  }
+  .hero-title-magical .text-line-1 { font-size: 30px; }
+  .hero-title-magical .text-line-2 { font-size: 38px; }
+}
+
+/* Hotspot Fixes */
+.featured-image-wrap {
+  background: rgba(0,0,0,0.03);
+  border-radius: 12px;
+  padding: 20px;
+}
+.featured-image-wrap img {
+  mix-blend-mode: multiply; /* Helps white images pop if there's any off-white background */
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
