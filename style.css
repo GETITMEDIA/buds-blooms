@@ -4541,6 +4541,41 @@ body {
   box-shadow: 0 8px 20px rgba(224, 83, 28, 0.3);
 }
 
+/* WhatsApp Inquiry Button */
+.subcat-whatsapp-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 12px;
+  width: 100%;
+  padding: 10px 16px;
+  background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
+  color: var(--white);
+  border: none;
+  border-radius: 100px;
+  font-size: 13px;
+  font-weight: 700;
+  font-family: var(--font-display);
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: 0 6px 16px rgba(37, 211, 102, 0.25);
+  transition: all 0.3s var(--ease-spring);
+  z-index: 3;
+  position: relative;
+}
+
+.subcat-whatsapp-btn i {
+  font-size: 15px;
+}
+
+.subcat-whatsapp-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(37, 211, 102, 0.35);
+  color: var(--white);
+}
+
 /* Playful background detail tags */
 .subcat-bg-shape {
   position: absolute;
@@ -5617,10 +5652,24 @@ body {
   color: var(--primary-blue);
 }
 
+.toast.whatsapp-fallback-toast {
+  border-left-color: #25d366;
+}
+
+.toast.whatsapp-fallback-toast .toast-icon {
+  background: rgba(37, 211, 102, 0.12);
+  color: #25d366;
+}
+
 .toast-message {
   font-size: 14px;
   font-weight: 600;
   color: var(--gray-800);
+}
+
+.toast-message a {
+  color: #128c7e;
+  text-decoration: underline;
 }
 
 /* --- General Modals --- */

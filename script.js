@@ -3,5626 +3,4220 @@
    ============================================= */
 const PRODUCT_DB = {
   "maternity-wear-breast-pumps-1": {
-    "name": "breast-pump-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-01.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-breast-pumps-2": {
-    "name": "breast-pump-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-02.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-breast-pumps-3": {
-    "name": "breast-pump-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-03.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-breast-pumps-4": {
-    "name": "breast-pump-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-04.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-breast-pumps-5": {
-    "name": "breast-pump-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-05.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-breast-pumps-6": {
-    "name": "breast-pump-06",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-06.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-breast-pumps-7": {
-    "name": "breast-pump-07",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-07.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-breast-pumps-8": {
-    "name": "breast-pump",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-gown-1": {
-    "name": "feeding-gown-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown-01.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-gown-2": {
-    "name": "feeding-gown-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown-02.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-gown-3": {
-    "name": "feeding-gown-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown-03.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-gown-4": {
-    "name": "feeding-gown-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown-04.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-gown-5": {
-    "name": "feeding-gown-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown-05.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-gown-6": {
-    "name": "feeding-gown",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-kurtis-1": {
-    "name": "feeding-kurthis-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Kurtis",
     "category": "Feeding Kurtis",
     "img": "assets/maternity-wear/Sub catogory of Feeding Kurtis/feeding-kurthis-01.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-kurtis-2": {
-    "name": "feeding-kurthis-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Kurtis",
     "category": "Feeding Kurtis",
     "img": "assets/maternity-wear/Sub catogory of Feeding Kurtis/feeding-kurthis-02.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-kurtis-3": {
-    "name": "feeding-kurthis-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Kurtis",
     "category": "Feeding Kurtis",
     "img": "assets/maternity-wear/Sub catogory of Feeding Kurtis/feeding-kurthis-03.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-nighties-1": {
-    "name": "feeding-nighties-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Nighties",
     "category": "Feeding Nighties",
     "img": "assets/maternity-wear/Sub catogory of Feeding Nighties/feeding-nighties-01.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-nighties-2": {
-    "name": "feeding-nighties",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Nighties",
     "category": "Feeding Nighties",
     "img": "assets/maternity-wear/Sub catogory of Feeding Nighties/feeding-nighties.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-shawl-1": {
-    "name": "feeding-shawl-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Shawl",
     "category": "Feeding Shawl",
     "img": "assets/maternity-wear/Sub catogory of Feeding Shawl/feeding-shawl-01.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-shawl-2": {
-    "name": "feeding-shawl-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Shawl",
     "category": "Feeding Shawl",
     "img": "assets/maternity-wear/Sub catogory of Feeding Shawl/feeding-shawl-02.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-feeding-shawl-3": {
-    "name": "feeding-shawl",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Shawl",
     "category": "Feeding Shawl",
     "img": "assets/maternity-wear/Sub catogory of Feeding Shawl/feeding-shawl.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-maternity-night-dress-1": {
-    "name": "maternity-night-dress-pending-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Night Dress",
     "category": "Maternity Night Dress",
     "img": "assets/maternity-wear/Sub catogory of Maternity Night Dress/maternity-night-dress-pending-01.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-maternity-night-dress-2": {
-    "name": "maternity-night-dress-pending-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Night Dress",
     "category": "Maternity Night Dress",
     "img": "assets/maternity-wear/Sub catogory of Maternity Night Dress/maternity-night-dress-pending-02.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-maternity-night-dress-3": {
-    "name": "maternity-night-dress-pending",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Night Dress",
     "category": "Maternity Night Dress",
     "img": "assets/maternity-wear/Sub catogory of Maternity Night Dress/maternity-night-dress-pending.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-maternity-pants-1": {
-    "name": "maternity-pants-pending-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Pants",
     "category": "Maternity Pants",
     "img": "assets/maternity-wear/Sub catogory of Maternity Pants/maternity-pants-pending-02.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-maternity-pants-2": {
-    "name": "maternity-pants-pending-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Pants",
     "category": "Maternity Pants",
     "img": "assets/maternity-wear/Sub catogory of Maternity Pants/maternity-pants-pending-03.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-maternity-pants-3": {
-    "name": "maternity-pants-pending-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Pants",
     "category": "Maternity Pants",
     "img": "assets/maternity-wear/Sub catogory of Maternity Pants/maternity-pants-pending-04.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-maternity-pants-4": {
-    "name": "maternity-pants-pending",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Pants",
     "category": "Maternity Pants",
     "img": "assets/maternity-wear/Sub catogory of Maternity Pants/maternity-pants-pending.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-maternity-tops-1": {
-    "name": "maternity-tops-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Tops",
     "category": "Maternity Tops",
     "img": "assets/maternity-wear/Sub catogory of Maternity Tops/maternity-tops-01.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-maternity-tops-2": {
-    "name": "maternity-tops-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Tops",
     "category": "Maternity Tops",
     "img": "assets/maternity-wear/Sub catogory of Maternity Tops/maternity-tops-02.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "maternity-wear-maternity-tops-3": {
-    "name": "maternity-tops",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Tops",
     "category": "Maternity Tops",
     "img": "assets/maternity-wear/Sub catogory of Maternity Tops/maternity-tops.jpg",
     "desc": "Comfortable and stylish maternity wear designed to support you."
   },
   "mother-care-abdomen-belt-1": {
-    "name": "abdomen-belt-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Abdomen Belt",
     "category": "Abdomen Belt",
     "img": "assets/mother-care/Sub catogory of Abdomen Belt/abdomen-belt-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-abdomen-belt-2": {
-    "name": "abdomen-belt-2",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Abdomen Belt",
     "category": "Abdomen Belt",
     "img": "assets/mother-care/Sub catogory of Abdomen Belt/abdomen-belt-2.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-abdomen-belt-3": {
-    "name": "abdomen-belt-3",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Abdomen Belt",
     "category": "Abdomen Belt",
     "img": "assets/mother-care/Sub catogory of Abdomen Belt/abdomen-belt-3.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-abdomen-belt-4": {
-    "name": "abdomen-belt-4",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Abdomen Belt",
     "category": "Abdomen Belt",
     "img": "assets/mother-care/Sub catogory of Abdomen Belt/abdomen-belt-4.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-abdomen-belt-5": {
-    "name": "abdomen-belt",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Abdomen Belt",
     "category": "Abdomen Belt",
     "img": "assets/mother-care/Sub catogory of Abdomen Belt/abdomen-belt.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pads-1": {
-    "name": "breast-pads-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pads",
     "category": "Breast Pads",
     "img": "assets/mother-care/Sub catogory of Breast Pads/breast-pads-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pads-2": {
-    "name": "breast-pads-052",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pads",
     "category": "Breast Pads",
     "img": "assets/mother-care/Sub catogory of Breast Pads/breast-pads-052.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pads-3": {
-    "name": "breast-pads",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pads",
     "category": "Breast Pads",
     "img": "assets/mother-care/Sub catogory of Breast Pads/breast-pads.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pumps-1": {
-    "name": "breast-pump-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pumps-2": {
-    "name": "breast-pump-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pumps-3": {
-    "name": "breast-pump-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-03.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pumps-4": {
-    "name": "breast-pump-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-04.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pumps-5": {
-    "name": "breast-pump-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-05.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pumps-6": {
-    "name": "breast-pump-06",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-06.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pumps-7": {
-    "name": "breast-pump-07",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-07.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-breast-pumps-8": {
-    "name": "breast-pump",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-c-section-panties-1": {
-    "name": "c-section-panties-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "C-section Panties",
     "category": "C-section Panties",
     "img": "assets/mother-care/Sub catogory of C-section Panties/c-section-panties-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-c-section-panties-2": {
-    "name": "c-section-panties-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "C-section Panties",
     "category": "C-section Panties",
     "img": "assets/mother-care/Sub catogory of C-section Panties/c-section-panties-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-c-section-panties-3": {
-    "name": "c-section-panties",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "C-section Panties",
     "category": "C-section Panties",
     "img": "assets/mother-care/Sub catogory of C-section Panties/c-section-panties.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-disposable-pad-fixator-1": {
-    "name": "disposable-pad-fixator-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Disposable pad fixator",
     "category": "Disposable pad fixator",
     "img": "assets/mother-care/Sub catogory of Disposable pad fixator/disposable-pad-fixator-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-disposable-pad-fixator-2": {
-    "name": "disposable-pad-fixator",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Disposable pad fixator",
     "category": "Disposable pad fixator",
     "img": "assets/mother-care/Sub catogory of Disposable pad fixator/disposable-pad-fixator.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-bra-1": {
-    "name": "feeding-bra",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Bra",
     "category": "Feeding Bra",
     "img": "assets/mother-care/Sub catogory of Feeding Bra/feeding-bra.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-bra-2": {
-    "name": "feeding-bra01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Bra",
     "category": "Feeding Bra",
     "img": "assets/mother-care/Sub catogory of Feeding Bra/feeding-bra01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-gown-1": {
-    "name": "feeding-gown-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-gown-2": {
-    "name": "feeding-gown-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-gown-3": {
-    "name": "feeding-gown-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown-03.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-gown-4": {
-    "name": "feeding-gown-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown-04.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-gown-5": {
-    "name": "feeding-gown-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown-05.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-gown-6": {
-    "name": "feeding-gown",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Gown",
     "category": "Feeding Gown",
     "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-kurtis-1": {
-    "name": "feeding-kurthis-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Kurtis",
     "category": "Feeding Kurtis",
     "img": "assets/mother-care/Sub catogory of Feeding Kurtis/feeding-kurthis-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-kurtis-2": {
-    "name": "feeding-kurthis-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Kurtis",
     "category": "Feeding Kurtis",
     "img": "assets/mother-care/Sub catogory of Feeding Kurtis/feeding-kurthis-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-kurtis-3": {
-    "name": "feeding-kurthis-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Kurtis",
     "category": "Feeding Kurtis",
     "img": "assets/mother-care/Sub catogory of Feeding Kurtis/feeding-kurthis-03.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-nighties-1": {
-    "name": "feeding-nighties-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Nighties",
     "category": "Feeding Nighties",
     "img": "assets/mother-care/Sub catogory of Feeding Nighties/feeding-nighties-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-nighties-2": {
-    "name": "feeding-nighties",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Nighties",
     "category": "Feeding Nighties",
     "img": "assets/mother-care/Sub catogory of Feeding Nighties/feeding-nighties.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-pillow-1": {
-    "name": "feeding-pillow-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Pillow",
     "category": "Feeding Pillow",
     "img": "assets/mother-care/Sub catogory of Feeding Pillow/feeding-pillow-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-pillow-2": {
-    "name": "feeding-pillow-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Pillow",
     "category": "Feeding Pillow",
     "img": "assets/mother-care/Sub catogory of Feeding Pillow/feeding-pillow-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-pillow-3": {
-    "name": "feeding-pillow-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Pillow",
     "category": "Feeding Pillow",
     "img": "assets/mother-care/Sub catogory of Feeding Pillow/feeding-pillow-03.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-pillow-4": {
-    "name": "feeding-pillow-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Pillow",
     "category": "Feeding Pillow",
     "img": "assets/mother-care/Sub catogory of Feeding Pillow/feeding-pillow-04.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-pillow-5": {
-    "name": "feeding-pillow",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Pillow",
     "category": "Feeding Pillow",
     "img": "assets/mother-care/Sub catogory of Feeding Pillow/feeding-pillow.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-shawl-1": {
-    "name": "feeding-shawl-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Shawl",
     "category": "Feeding Shawl",
     "img": "assets/mother-care/Sub catogory of Feeding Shawl/feeding-shawl-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-shawl-2": {
-    "name": "feeding-shawl-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Shawl",
     "category": "Feeding Shawl",
     "img": "assets/mother-care/Sub catogory of Feeding Shawl/feeding-shawl-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-feeding-shawl-3": {
-    "name": "feeding-shawl",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Feeding Shawl",
     "category": "Feeding Shawl",
     "img": "assets/mother-care/Sub catogory of Feeding Shawl/feeding-shawl.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-binder-1": {
-    "name": "maternity-binder-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Binder",
     "category": "Maternity Binder",
     "img": "assets/mother-care/Sub catogory of Maternity Binder/maternity-binder-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-binder-2": {
-    "name": "maternity-binder-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Binder",
     "category": "Maternity Binder",
     "img": "assets/mother-care/Sub catogory of Maternity Binder/maternity-binder-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-binder-3": {
-    "name": "maternity-binder-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Binder",
     "category": "Maternity Binder",
     "img": "assets/mother-care/Sub catogory of Maternity Binder/maternity-binder-03.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-binder-4": {
-    "name": "maternity-binder",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Binder",
     "category": "Maternity Binder",
     "img": "assets/mother-care/Sub catogory of Maternity Binder/maternity-binder.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-night-dress-1": {
-    "name": "maternity-night-dress-pending-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Night Dress",
     "category": "Maternity Night Dress",
     "img": "assets/mother-care/Sub catogory of Maternity Night Dress/maternity-night-dress-pending-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-night-dress-2": {
-    "name": "maternity-night-dress-pending-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Night Dress",
     "category": "Maternity Night Dress",
     "img": "assets/mother-care/Sub catogory of Maternity Night Dress/maternity-night-dress-pending-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-night-dress-3": {
-    "name": "maternity-night-dress-pending",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Night Dress",
     "category": "Maternity Night Dress",
     "img": "assets/mother-care/Sub catogory of Maternity Night Dress/maternity-night-dress-pending.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-pads-1": {
-    "name": "maternity-pads-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Pads",
     "category": "Maternity Pads",
     "img": "assets/mother-care/Sub catogory of Maternity Pads/maternity-pads-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-pads-2": {
-    "name": "maternity-pads",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Pads",
     "category": "Maternity Pads",
     "img": "assets/mother-care/Sub catogory of Maternity Pads/maternity-pads.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-pants-1": {
-    "name": "maternity-pants-pending-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Pants",
     "category": "Maternity Pants",
     "img": "assets/mother-care/Sub catogory of Maternity Pants/maternity-pants-pending-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-pants-2": {
-    "name": "maternity-pants-pending-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Pants",
     "category": "Maternity Pants",
     "img": "assets/mother-care/Sub catogory of Maternity Pants/maternity-pants-pending-03.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-pants-3": {
-    "name": "maternity-pants-pending-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Pants",
     "category": "Maternity Pants",
     "img": "assets/mother-care/Sub catogory of Maternity Pants/maternity-pants-pending-04.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-pants-4": {
-    "name": "maternity-pants-pending",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Pants",
     "category": "Maternity Pants",
     "img": "assets/mother-care/Sub catogory of Maternity Pants/maternity-pants-pending.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-support-belt-1": {
-    "name": "maternity-support-belts-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Support Belt",
     "category": "Maternity Support Belt",
     "img": "assets/mother-care/Sub catogory of Maternity Support Belt/maternity-support-belts-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-support-belt-2": {
-    "name": "maternity-support-belts",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Support Belt",
     "category": "Maternity Support Belt",
     "img": "assets/mother-care/Sub catogory of Maternity Support Belt/maternity-support-belts.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-tops-1": {
-    "name": "maternity-tops-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Tops",
     "category": "Maternity Tops",
     "img": "assets/mother-care/Sub catogory of Maternity Tops/maternity-tops-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-tops-2": {
-    "name": "maternity-tops-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Tops",
     "category": "Maternity Tops",
     "img": "assets/mother-care/Sub catogory of Maternity Tops/maternity-tops-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-maternity-tops-3": {
-    "name": "maternity-tops",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Maternity Tops",
     "category": "Maternity Tops",
     "img": "assets/mother-care/Sub catogory of Maternity Tops/maternity-tops.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-mother-bags-1": {
-    "name": "mother-bags-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Mother Bags",
     "category": "Mother Bags",
     "img": "assets/mother-care/Sub catogory of Mother Bags/mother-bags-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-mother-bags-2": {
-    "name": "mother-bags-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Mother Bags",
     "category": "Mother Bags",
     "img": "assets/mother-care/Sub catogory of Mother Bags/mother-bags-03.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-mother-bags-3": {
-    "name": "mother-bags-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Mother Bags",
     "category": "Mother Bags",
     "img": "assets/mother-care/Sub catogory of Mother Bags/mother-bags-04.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-mother-bags-4": {
-    "name": "mother-bags",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Mother Bags",
     "category": "Mother Bags",
     "img": "assets/mother-care/Sub catogory of Mother Bags/mother-bags.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-nipple-puller-1": {
-    "name": "nipple-puller-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Nipple Puller",
     "category": "Nipple Puller",
     "img": "assets/mother-care/Sub catogory of Nipple Puller/nipple-puller-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-nipple-puller-2": {
-    "name": "nipple-puller-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Nipple Puller",
     "category": "Nipple Puller",
     "img": "assets/mother-care/Sub catogory of Nipple Puller/nipple-puller-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-nipple-puller-3": {
-    "name": "nipple-puller",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Nipple Puller",
     "category": "Nipple Puller",
     "img": "assets/mother-care/Sub catogory of Nipple Puller/nipple-puller.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-nipple-shield-1": {
-    "name": "nipple-shield-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Nipple Shield",
     "category": "Nipple Shield",
     "img": "assets/mother-care/Sub catogory of Nipple Shield/nipple-shield-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-nipple-shield-2": {
-    "name": "nipple-shield-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Nipple Shield",
     "category": "Nipple Shield",
     "img": "assets/mother-care/Sub catogory of Nipple Shield/nipple-shield-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-nipple-shield-3": {
-    "name": "nipple-shield-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Nipple Shield",
     "category": "Nipple Shield",
     "img": "assets/mother-care/Sub catogory of Nipple Shield/nipple-shield-03.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-nipple-shield-4": {
-    "name": "nipple-shield",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Nipple Shield",
     "category": "Nipple Shield",
     "img": "assets/mother-care/Sub catogory of Nipple Shield/nipple-shield.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-pregnancy-panties-1": {
-    "name": "Pregnancy-panties-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Pregnancy Panties",
     "category": "Pregnancy Panties",
     "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-panties-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-pregnancy-panties-2": {
-    "name": "Pregnancy-panties-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Pregnancy Panties",
     "category": "Pregnancy Panties",
     "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-panties-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-pregnancy-panties-3": {
-    "name": "Pregnancy-panties-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Pregnancy Panties",
     "category": "Pregnancy Panties",
     "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-panties-04.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-pregnancy-panties-4": {
-    "name": "Pregnancy-panties-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Pregnancy Panties",
     "category": "Pregnancy Panties",
     "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-panties-05.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-pregnancy-panties-5": {
-    "name": "Pregnancy-panties",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Pregnancy Panties",
     "category": "Pregnancy Panties",
     "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-panties.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-pregnancy-panties-6": {
-    "name": "Pregnancy-pantiesc-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Pregnancy Panties",
     "category": "Pregnancy Panties",
     "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-pantiesc-03.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-pregnancy-pillow-1": {
-    "name": "pregnancy-pillow-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Pregnancy Pillow",
     "category": "Pregnancy Pillow",
     "img": "assets/mother-care/Sub catogory of Pregnancy Pillow/pregnancy-pillow-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-pregnancy-pillow-2": {
-    "name": "pregnancy-pillow",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Pregnancy Pillow",
     "category": "Pregnancy Pillow",
     "img": "assets/mother-care/Sub catogory of Pregnancy Pillow/pregnancy-pillow.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-shaping-panty-1": {
-    "name": "shaping-panty-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Shaping Panty",
     "category": "Shaping Panty",
     "img": "assets/mother-care/Sub catogory of Shaping Panty/shaping-panty-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-shaping-panty-2": {
-    "name": "shaping-panty-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Shaping Panty",
     "category": "Shaping Panty",
     "img": "assets/mother-care/Sub catogory of Shaping Panty/shaping-panty-02.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-shaping-panty-3": {
-    "name": "shaping-panty-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Shaping Panty",
     "category": "Shaping Panty",
     "img": "assets/mother-care/Sub catogory of Shaping Panty/shaping-panty-03.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-shaping-panty-4": {
-    "name": "shaping-panty",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Shaping Panty",
     "category": "Shaping Panty",
     "img": "assets/mother-care/Sub catogory of Shaping Panty/shaping-panty.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-shaping-shorts-1": {
-    "name": "shaping-shorts-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Shaping Shorts",
     "category": "Shaping Shorts",
     "img": "assets/mother-care/Sub catogory of Shaping Shorts/shaping-shorts-01.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "mother-care-shaping-shorts-2": {
-    "name": "shaping-shorts",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Shaping Shorts",
     "category": "Shaping Shorts",
     "img": "assets/mother-care/Sub catogory of Shaping Shorts/shaping-shorts.jpg",
     "desc": "Essential care products to support new mothers in their beautiful journey."
   },
   "party-cake-topper-1": {
-    "name": "Untitled-1",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Cake Topper",
     "category": "Cake Topper",
     "img": "assets/party-time/Sub product of Cake Topper/Untitled-1.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-cake-topper-2": {
-    "name": "Untitled-2",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Cake Topper",
     "category": "Cake Topper",
     "img": "assets/party-time/Sub product of Cake Topper/Untitled-2.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-cake-topper-3": {
-    "name": "Untitled-4",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Cake Topper",
     "category": "Cake Topper",
     "img": "assets/party-time/Sub product of Cake Topper/Untitled-4.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-cake-topper-4": {
-    "name": "Untitled-62-1",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Cake Topper",
     "category": "Cake Topper",
     "img": "assets/party-time/Sub product of Cake Topper/Untitled-62-1.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-curtains-1": {
-    "name": "Untitled-28",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Curtains",
     "category": "Curtains",
     "img": "assets/party-time/Sub product of Curtains/Untitled-28.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-curtains-2": {
-    "name": "Untitled-29",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Curtains",
     "category": "Curtains",
     "img": "assets/party-time/Sub product of Curtains/Untitled-29.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-curtains-3": {
-    "name": "Untitled-30",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Curtains",
     "category": "Curtains",
     "img": "assets/party-time/Sub product of Curtains/Untitled-30.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-curtains-4": {
-    "name": "Untitled-31",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Curtains",
     "category": "Curtains",
     "img": "assets/party-time/Sub product of Curtains/Untitled-31.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-foil-balloons-1": {
-    "name": "Untitled-10",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Foil balloons",
     "category": "Foil balloons",
     "img": "assets/party-time/Sub product of Foil balloons/Untitled-10.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-foil-balloons-2": {
-    "name": "Untitled-11",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Foil balloons",
     "category": "Foil balloons",
     "img": "assets/party-time/Sub product of Foil balloons/Untitled-11.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-foil-balloons-3": {
-    "name": "Untitled-12",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Foil balloons",
     "category": "Foil balloons",
     "img": "assets/party-time/Sub product of Foil balloons/Untitled-12.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-foil-balloons-4": {
-    "name": "Untitled-13",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Foil balloons",
     "category": "Foil balloons",
     "img": "assets/party-time/Sub product of Foil balloons/Untitled-13.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-foil-balloons-5": {
-    "name": "Untitled-14",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Foil balloons",
     "category": "Foil balloons",
     "img": "assets/party-time/Sub product of Foil balloons/Untitled-14.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-foil-balloons-6": {
-    "name": "Untitled-5",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Foil balloons",
     "category": "Foil balloons",
     "img": "assets/party-time/Sub product of Foil balloons/Untitled-5.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-foil-balloons-7": {
-    "name": "Untitled-6",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Foil balloons",
     "category": "Foil balloons",
     "img": "assets/party-time/Sub product of Foil balloons/Untitled-6.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-foil-balloons-8": {
-    "name": "Untitled-7",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Foil balloons",
     "category": "Foil balloons",
     "img": "assets/party-time/Sub product of Foil balloons/Untitled-7.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-foil-balloons-9": {
-    "name": "Untitled-8",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Foil balloons",
     "category": "Foil balloons",
     "img": "assets/party-time/Sub product of Foil balloons/Untitled-8.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-foil-balloons-10": {
-    "name": "Untitled-9",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Foil balloons",
     "category": "Foil balloons",
     "img": "assets/party-time/Sub product of Foil balloons/Untitled-9.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-part-banner-1": {
-    "name": "Untitled-21",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Part Banner",
     "category": "Part Banner",
     "img": "assets/party-time/Sub product of Part Banner/Untitled-21.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-part-banner-2": {
-    "name": "Untitled-22",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Part Banner",
     "category": "Part Banner",
     "img": "assets/party-time/Sub product of Part Banner/Untitled-22.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-part-banner-3": {
-    "name": "Untitled-23",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Part Banner",
     "category": "Part Banner",
     "img": "assets/party-time/Sub product of Part Banner/Untitled-23.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-part-banner-4": {
-    "name": "Untitled-24",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Part Banner",
     "category": "Part Banner",
     "img": "assets/party-time/Sub product of Part Banner/Untitled-24.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-accessories-1": {
-    "name": "Untitled-15",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Accessories",
     "category": "Party Accessories",
     "img": "assets/party-time/Sub product of Party Accessories/Untitled-15.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-accessories-2": {
-    "name": "Untitled-16",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Accessories",
     "category": "Party Accessories",
     "img": "assets/party-time/Sub product of Party Accessories/Untitled-16.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-accessories-3": {
-    "name": "Untitled-17",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Accessories",
     "category": "Party Accessories",
     "img": "assets/party-time/Sub product of Party Accessories/Untitled-17.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-accessories-4": {
-    "name": "Untitled-18",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Accessories",
     "category": "Party Accessories",
     "img": "assets/party-time/Sub product of Party Accessories/Untitled-18.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-accessories-5": {
-    "name": "Untitled-19",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Accessories",
     "category": "Party Accessories",
     "img": "assets/party-time/Sub product of Party Accessories/Untitled-19.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-accessories-6": {
-    "name": "Untitled-20",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Accessories",
     "category": "Party Accessories",
     "img": "assets/party-time/Sub product of Party Accessories/Untitled-20.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-accessories-7": {
-    "name": "Untitled-21",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Accessories",
     "category": "Party Accessories",
     "img": "assets/party-time/Sub product of Party Accessories/Untitled-21.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-accessories-8": {
-    "name": "Untitled-22",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Accessories",
     "category": "Party Accessories",
     "img": "assets/party-time/Sub product of Party Accessories/Untitled-22.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-accessories-9": {
-    "name": "Untitled-23",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Accessories",
     "category": "Party Accessories",
     "img": "assets/party-time/Sub product of Party Accessories/Untitled-23.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-accessories-10": {
-    "name": "Untitled-24",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Accessories",
     "category": "Party Accessories",
     "img": "assets/party-time/Sub product of Party Accessories/Untitled-24.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-balloons-1": {
-    "name": "Untitled-42",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Balloons",
     "category": "Party Balloons",
     "img": "assets/party-time/Sub product of Party Balloons/Untitled-42.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-balloons-2": {
-    "name": "Untitled-43",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Balloons",
     "category": "Party Balloons",
     "img": "assets/party-time/Sub product of Party Balloons/Untitled-43.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-balloons-3": {
-    "name": "Untitled-44",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Balloons",
     "category": "Party Balloons",
     "img": "assets/party-time/Sub product of Party Balloons/Untitled-44.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-balloons-4": {
-    "name": "Untitled-45",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Balloons",
     "category": "Party Balloons",
     "img": "assets/party-time/Sub product of Party Balloons/Untitled-45.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-caps-1": {
-    "name": "Untitled-25",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Caps",
     "category": "Party Caps",
     "img": "assets/party-time/Sub product of Party Caps/Untitled-25.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-caps-2": {
-    "name": "Untitled-26",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Caps",
     "category": "Party Caps",
     "img": "assets/party-time/Sub product of Party Caps/Untitled-26.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-caps-3": {
-    "name": "Untitled-27",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Caps",
     "category": "Party Caps",
     "img": "assets/party-time/Sub product of Party Caps/Untitled-27.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-glasses-1": {
-    "name": "Untitled-33",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Glasses",
     "category": "Party Glasses",
     "img": "assets/party-time/Sub product of Party Glasses/Untitled-33.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-glasses-2": {
-    "name": "Untitled-34",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Glasses",
     "category": "Party Glasses",
     "img": "assets/party-time/Sub product of Party Glasses/Untitled-34.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-glasses-3": {
-    "name": "Untitled-35",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Glasses",
     "category": "Party Glasses",
     "img": "assets/party-time/Sub product of Party Glasses/Untitled-35.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-glasses-4": {
-    "name": "Untitled-36",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Glasses",
     "category": "Party Glasses",
     "img": "assets/party-time/Sub product of Party Glasses/Untitled-36.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-glasses-5": {
-    "name": "Untitled-37",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Glasses",
     "category": "Party Glasses",
     "img": "assets/party-time/Sub product of Party Glasses/Untitled-37.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-glasses-6": {
-    "name": "Untitled-38",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Glasses",
     "category": "Party Glasses",
     "img": "assets/party-time/Sub product of Party Glasses/Untitled-38.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-popper-1": {
-    "name": "Untitled-39",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Popper",
     "category": "Party Popper",
     "img": "assets/party-time/Sub product of Party Popper/Untitled-39.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-popper-2": {
-    "name": "Untitled-40",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Popper",
     "category": "Party Popper",
     "img": "assets/party-time/Sub product of Party Popper/Untitled-40.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-popper-3": {
-    "name": "Untitled-70-1",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Popper",
     "category": "Party Popper",
     "img": "assets/party-time/Sub product of Party Popper/Untitled-70-1.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-swirls-1": {
-    "name": "Untitled-40",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Swirls",
     "category": "Party Swirls",
     "img": "assets/party-time/Sub product of Party Swirls/Untitled-40.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-swirls-2": {
-    "name": "Untitled-41",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Swirls",
     "category": "Party Swirls",
     "img": "assets/party-time/Sub product of Party Swirls/Untitled-41.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "party-party-swirls-3": {
-    "name": "Untitled-71-1",
-    "price": 199,
-    "oldPrice": 399,
+    "name": "Party Swirls",
     "category": "Party Swirls",
     "img": "assets/party-time/Sub product of Party Swirls/Untitled-71-1.jpg",
     "desc": "Make your baby's party memorable with these beautiful accessories."
   },
   "preschool-activity-books-1": {
-    "name": "interactive-and-activity-books-011",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Activity Books",
     "category": "Activity Books",
     "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-011.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-activity-books-2": {
-    "name": "interactive-and-activity-books-012",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Activity Books",
     "category": "Activity Books",
     "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-012.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-activity-books-3": {
-    "name": "interactive-and-activity-books-013",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Activity Books",
     "category": "Activity Books",
     "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-013.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-activity-books-4": {
-    "name": "interactive-and-activity-books-014",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Activity Books",
     "category": "Activity Books",
     "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-014.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-activity-books-5": {
-    "name": "interactive-and-activity-books-015",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Activity Books",
     "category": "Activity Books",
     "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-015.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-activity-books-6": {
-    "name": "interactive-and-activity-books-016",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Activity Books",
     "category": "Activity Books",
     "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-016.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-activity-books-7": {
-    "name": "interactive-and-activity-books-07",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Activity Books",
     "category": "Activity Books",
     "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-07.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-activity-books-8": {
-    "name": "interactive-and-activity-books-09",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Activity Books",
     "category": "Activity Books",
     "img": "assets/pre-school-care/Sub product of Activity Books/interactive-and-activity-books-09.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-bags-1": {
-    "name": "school-bag-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Bags",
     "category": "Bags",
     "img": "assets/pre-school-care/Sub product of Bags/school-bag-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-bags-2": {
-    "name": "school-bag-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Bags",
     "category": "Bags",
     "img": "assets/pre-school-care/Sub product of Bags/school-bag-03.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-bags-3": {
-    "name": "school-bag-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Bags",
     "category": "Bags",
     "img": "assets/pre-school-care/Sub product of Bags/school-bag-04.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-bags-4": {
-    "name": "school-bag-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Bags",
     "category": "Bags",
     "img": "assets/pre-school-care/Sub product of Bags/school-bag-05.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-bags-5": {
-    "name": "school-bag",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Bags",
     "category": "Bags",
     "img": "assets/pre-school-care/Sub product of Bags/school-bag.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-boarding-books-1": {
-    "name": "Board-books-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Boarding Books",
     "category": "Boarding Books",
     "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-boarding-books-2": {
-    "name": "Board-books-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Boarding Books",
     "category": "Boarding Books",
     "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-boarding-books-3": {
-    "name": "Board-books-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Boarding Books",
     "category": "Boarding Books",
     "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books-03.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-boarding-books-4": {
-    "name": "Board-books-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Boarding Books",
     "category": "Boarding Books",
     "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books-04.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-boarding-books-5": {
-    "name": "Board-books-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Boarding Books",
     "category": "Boarding Books",
     "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books-05.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-boarding-books-6": {
-    "name": "Board-books",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Boarding Books",
     "category": "Boarding Books",
     "img": "assets/pre-school-care/Sub product of Boarding Books/Board-books.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-caps-1": {
-    "name": "caps-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Caps",
     "category": "Caps",
     "img": "assets/pre-school-care/Sub product of Caps/caps-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-caps-2": {
-    "name": "caps-0103",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Caps",
     "category": "Caps",
     "img": "assets/pre-school-care/Sub product of Caps/caps-0103.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-caps-3": {
-    "name": "caps-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Caps",
     "category": "Caps",
     "img": "assets/pre-school-care/Sub product of Caps/caps-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-caps-4": {
-    "name": "caps-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Caps",
     "category": "Caps",
     "img": "assets/pre-school-care/Sub product of Caps/caps-03.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-caps-5": {
-    "name": "caps-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Caps",
     "category": "Caps",
     "img": "assets/pre-school-care/Sub product of Caps/caps-04.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-caps-6": {
-    "name": "caps-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Caps",
     "category": "Caps",
     "img": "assets/pre-school-care/Sub product of Caps/caps-05.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-caps-7": {
-    "name": "caps",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Caps",
     "category": "Caps",
     "img": "assets/pre-school-care/Sub product of Caps/caps.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-charts-1": {
-    "name": "chart-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Charts",
     "category": "Charts",
     "img": "assets/pre-school-care/Sub product of Charts/chart-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-charts-2": {
-    "name": "chart-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Charts",
     "category": "Charts",
     "img": "assets/pre-school-care/Sub product of Charts/chart-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-charts-3": {
-    "name": "chart",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Charts",
     "category": "Charts",
     "img": "assets/pre-school-care/Sub product of Charts/chart.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-coloring-book-1": {
-    "name": "colouring-books-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Coloring Book",
     "category": "Coloring Book",
     "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-coloring-book-2": {
-    "name": "colouring-books-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Coloring Book",
     "category": "Coloring Book",
     "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-coloring-book-3": {
-    "name": "colouring-books-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Coloring Book",
     "category": "Coloring Book",
     "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-03.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-coloring-book-4": {
-    "name": "colouring-books-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Coloring Book",
     "category": "Coloring Book",
     "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-04.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-coloring-book-5": {
-    "name": "colouring-books-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Coloring Book",
     "category": "Coloring Book",
     "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-05.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-coloring-book-6": {
-    "name": "colouring-books-06",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Coloring Book",
     "category": "Coloring Book",
     "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books-06.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-coloring-book-7": {
-    "name": "colouring-books",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Coloring Book",
     "category": "Coloring Book",
     "img": "assets/pre-school-care/Sub product of Coloring Book/colouring-books.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-1": {
-    "name": "early-learning-books-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-2": {
-    "name": "early-learning-books-010",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-010.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-3": {
-    "name": "early-learning-books-011",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-011.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-4": {
-    "name": "early-learning-books-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-5": {
-    "name": "early-learning-books-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-04.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-6": {
-    "name": "early-learning-books-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-05.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-7": {
-    "name": "early-learning-books-06",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-06.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-8": {
-    "name": "early-learning-books-07",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-07.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-9": {
-    "name": "early-learning-books-08",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-08.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-10": {
-    "name": "early-learning-books-09",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books-09.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-early-learning-books-11": {
-    "name": "early-learning-books",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Early Learning Books",
     "category": "Early Learning Books",
     "img": "assets/pre-school-care/Sub product of Early Learning Books/early-learning-books.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-lunch-box-1": {
-    "name": "lunch 1",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Lunch Box",
     "category": "Lunch Box",
     "img": "assets/pre-school-care/Sub product of Lunch Box/lunch 1.png",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-lunch-box-2": {
-    "name": "lunch2",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Lunch Box",
     "category": "Lunch Box",
     "img": "assets/pre-school-care/Sub product of Lunch Box/lunch2.png",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-lunch-box-3": {
-    "name": "lunch3",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Lunch Box",
     "category": "Lunch Box",
     "img": "assets/pre-school-care/Sub product of Lunch Box/lunch3.png",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-lunch-box-4": {
-    "name": "pngwing.com",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Lunch Box",
     "category": "Lunch Box",
     "img": "assets/pre-school-care/Sub product of Lunch Box/pngwing.com.png",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-plates-&-bowl-1": {
-    "name": "plates-and-bowl-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Plates & Bowl",
     "category": "Plates & Bowl",
     "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-plates-&-bowl-2": {
-    "name": "plates-and-bowl-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Plates & Bowl",
     "category": "Plates & Bowl",
     "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-plates-&-bowl-3": {
-    "name": "plates-and-bowl-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Plates & Bowl",
     "category": "Plates & Bowl",
     "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-03.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-plates-&-bowl-4": {
-    "name": "plates-and-bowl-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Plates & Bowl",
     "category": "Plates & Bowl",
     "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-04.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-plates-&-bowl-5": {
-    "name": "plates-and-bowl-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Plates & Bowl",
     "category": "Plates & Bowl",
     "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-05.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-plates-&-bowl-6": {
-    "name": "plates-and-bowl-06",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Plates & Bowl",
     "category": "Plates & Bowl",
     "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-06.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-plates-&-bowl-7": {
-    "name": "plates-and-bowl-07",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Plates & Bowl",
     "category": "Plates & Bowl",
     "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl-07.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-plates-&-bowl-8": {
-    "name": "plates-and-bowl",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Plates & Bowl",
     "category": "Plates & Bowl",
     "img": "assets/pre-school-care/Sub product of Plates & Bowl/plates-and-bowl.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-1": {
-    "name": "Snacks-box-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-2": {
-    "name": "Snacks-box-010",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-010.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-3": {
-    "name": "Snacks-box-011",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-011.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-4": {
-    "name": "Snacks-box-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-5": {
-    "name": "Snacks-box-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-03.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-6": {
-    "name": "Snacks-box-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-04.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-7": {
-    "name": "Snacks-box-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-05.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-8": {
-    "name": "Snacks-box-06",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-06.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-9": {
-    "name": "Snacks-box-07",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-07.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-10": {
-    "name": "Snacks-box-08",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-08.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-11": {
-    "name": "Snacks-box-09",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box-09.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-snacks-box-12": {
-    "name": "Snacks-box",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Snacks Box",
     "category": "Snacks Box",
     "img": "assets/pre-school-care/Sub product of Snacks Box/Snacks-box.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-spoons-1": {
-    "name": "spoons-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Spoons",
     "category": "Spoons",
     "img": "assets/pre-school-care/Sub product of Spoons/spoons-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-spoons-2": {
-    "name": "spoons-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Spoons",
     "category": "Spoons",
     "img": "assets/pre-school-care/Sub product of Spoons/spoons-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-spoons-3": {
-    "name": "spoons-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Spoons",
     "category": "Spoons",
     "img": "assets/pre-school-care/Sub product of Spoons/spoons-03.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-spoons-4": {
-    "name": "spoons",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Spoons",
     "category": "Spoons",
     "img": "assets/pre-school-care/Sub product of Spoons/spoons.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-stationaries-1": {
-    "name": "stationaries-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Stationaries",
     "category": "Stationaries",
     "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-stationaries-2": {
-    "name": "stationaries-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Stationaries",
     "category": "Stationaries",
     "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-stationaries-3": {
-    "name": "stationaries-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Stationaries",
     "category": "Stationaries",
     "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-03.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-stationaries-4": {
-    "name": "stationaries-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Stationaries",
     "category": "Stationaries",
     "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-04.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-stationaries-5": {
-    "name": "stationaries-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Stationaries",
     "category": "Stationaries",
     "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-05.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-stationaries-6": {
-    "name": "stationaries-06",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Stationaries",
     "category": "Stationaries",
     "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-06.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-stationaries-7": {
-    "name": "stationaries-07",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Stationaries",
     "category": "Stationaries",
     "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-07.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-stationaries-8": {
-    "name": "stationaries-08",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Stationaries",
     "category": "Stationaries",
     "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-08.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-stationaries-9": {
-    "name": "stationaries-09",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Stationaries",
     "category": "Stationaries",
     "img": "assets/pre-school-care/Sub product of Stationaries/stationaries-09.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-stationaries-10": {
-    "name": "stationaries",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Stationaries",
     "category": "Stationaries",
     "img": "assets/pre-school-care/Sub product of Stationaries/stationaries.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-story-books-1": {
-    "name": "story-books-1",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Story Books",
     "category": "Story Books",
     "img": "assets/pre-school-care/Sub product of Story Books/story-books-1.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-story-books-2": {
-    "name": "story-books-2",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Story Books",
     "category": "Story Books",
     "img": "assets/pre-school-care/Sub product of Story Books/story-books-2.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-story-books-3": {
-    "name": "story-books-3",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Story Books",
     "category": "Story Books",
     "img": "assets/pre-school-care/Sub product of Story Books/story-books-3.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-story-books-4": {
-    "name": "story-books-4",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Story Books",
     "category": "Story Books",
     "img": "assets/pre-school-care/Sub product of Story Books/story-books-4.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-story-books-5": {
-    "name": "story-books-5",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Story Books",
     "category": "Story Books",
     "img": "assets/pre-school-care/Sub product of Story Books/story-books-5.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-story-books-6": {
-    "name": "story-books",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Story Books",
     "category": "Story Books",
     "img": "assets/pre-school-care/Sub product of Story Books/story-books.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-sun-glasses-1": {
-    "name": "baby-sun-glasses-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Sun Glasses",
     "category": "Sun Glasses",
     "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-sun-glasses-2": {
-    "name": "baby-sun-glasses-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Sun Glasses",
     "category": "Sun Glasses",
     "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-sun-glasses-3": {
-    "name": "baby-sun-glasses-03",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Sun Glasses",
     "category": "Sun Glasses",
     "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses-03.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-sun-glasses-4": {
-    "name": "baby-sun-glasses-04",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Sun Glasses",
     "category": "Sun Glasses",
     "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses-04.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-sun-glasses-5": {
-    "name": "baby-sun-glasses-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Sun Glasses",
     "category": "Sun Glasses",
     "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses-05.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-sun-glasses-6": {
-    "name": "baby-sun-glasses",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Sun Glasses",
     "category": "Sun Glasses",
     "img": "assets/pre-school-care/Sub product of Sun Glasses/baby-sun-glasses.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-towels-1": {
-    "name": "lunch-towel-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Towels",
     "category": "Towels",
     "img": "assets/pre-school-care/Sub product of Towels/lunch-towel-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-towels-2": {
-    "name": "lunch-towel-02",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Towels",
     "category": "Towels",
     "img": "assets/pre-school-care/Sub product of Towels/lunch-towel-02.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-towels-3": {
-    "name": "lunch-towel",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Towels",
     "category": "Towels",
     "img": "assets/pre-school-care/Sub product of Towels/lunch-towel.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-1": {
-    "name": "waterbottle-01",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-01.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-2": {
-    "name": "waterbottle-010",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-010.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-3": {
-    "name": "waterbottle-015",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-015.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-4": {
-    "name": "waterbottle-05",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-05.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-5": {
-    "name": "waterbottle-052",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-052.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-6": {
-    "name": "waterbottle-06",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-06.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-7": {
-    "name": "waterbottle-07",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-07.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-8": {
-    "name": "waterbottle-08",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-08.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-9": {
-    "name": "waterbottle-09",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-09.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-10": {
-    "name": "waterbottle-11",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-11.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-11": {
-    "name": "waterbottle-12",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-12.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-12": {
-    "name": "waterbottle-13",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-13.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-13": {
-    "name": "waterbottle-14",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle-14.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "preschool-water-bottles-14": {
-    "name": "waterbottle",
-    "price": 299,
-    "oldPrice": 499,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/Sub product of Water Bottles/waterbottle.jpg",
     "desc": "Perfect early learning and school essential for your child."
   },
   "baby-dress-baby-panties-1": {
-    "name": "baby-panties-013",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Baby Panties",
     "category": "Baby Panties",
     "img": "assets/baby-dress/Sub catogory of Baby Panties/baby-panties-013.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-baby-panties-2": {
-    "name": "baby-panties",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Baby Panties",
     "category": "Baby Panties",
     "img": "assets/baby-dress/Sub catogory of Baby Panties/baby-panties.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-boy-dress-1": {
-    "name": "BOY-BABY-01",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-01.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-boy-dress-2": {
-    "name": "BOY-BABY-02",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-02.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-boy-dress-3": {
-    "name": "BOY-BABY-03",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-03.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-boy-dress-4": {
-    "name": "BOY-BABY-04",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-04.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-boy-dress-5": {
-    "name": "BOY-BABY-05",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-05.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-boy-dress-6": {
-    "name": "BOY-BABY-06",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-06.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-boy-dress-7": {
-    "name": "BOY-BABY-07",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-07.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-boy-dress-8": {
-    "name": "BOY-BABY",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-diaper-panties-1": {
-    "name": "diaper-panties-01",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Diaper Panties",
     "category": "Diaper Panties",
     "img": "assets/baby-dress/Sub catogory of Diaper Panties/diaper-panties-01.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-diaper-panties-2": {
-    "name": "diaper-panties-03",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Diaper Panties",
     "category": "Diaper Panties",
     "img": "assets/baby-dress/Sub catogory of Diaper Panties/diaper-panties-03.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-diaper-panties-3": {
-    "name": "diaper-panties",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Diaper Panties",
     "category": "Diaper Panties",
     "img": "assets/baby-dress/Sub catogory of Diaper Panties/diaper-panties.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-1": {
-    "name": "front-open-top-01",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-01.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-2": {
-    "name": "front-open-top-02",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-02.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-3": {
-    "name": "front-open-top-03",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-03.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-4": {
-    "name": "front-open-top-04",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-04.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-5": {
-    "name": "front-open-top-05",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-05.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-6": {
-    "name": "front-open-top-06",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-06.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-7": {
-    "name": "front-open-top-07",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-07.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-8": {
-    "name": "front-open-top-08",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-08.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-9": {
-    "name": "front-open-top-09",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-09.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-10": {
-    "name": "front-open-top-11",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-11.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-11": {
-    "name": "front-open-top-12",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-12.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-front-open-top-12": {
-    "name": "front-open-top-13",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-13.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pant-sets-1": {
-    "name": "full-pants-02",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pant Sets",
     "category": "Full Pant Sets",
     "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-02.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pant-sets-2": {
-    "name": "full-pants-03",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pant Sets",
     "category": "Full Pant Sets",
     "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-03.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pant-sets-3": {
-    "name": "full-pants-04",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pant Sets",
     "category": "Full Pant Sets",
     "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-04.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pant-sets-4": {
-    "name": "full-pants-05",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pant Sets",
     "category": "Full Pant Sets",
     "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-05.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pant-sets-5": {
-    "name": "full-pants-10",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pant Sets",
     "category": "Full Pant Sets",
     "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-10.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pant-sets-6": {
-    "name": "full-pants",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pant Sets",
     "category": "Full Pant Sets",
     "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pants-1": {
-    "name": "full-pants-sets-01",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets-01.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pants-2": {
-    "name": "full-pants-sets",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pants-3": {
-    "name": "full-pants-sets02",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets02.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pants-4": {
-    "name": "full-pants-sets03",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets03.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pants-5": {
-    "name": "full-pants-sets04",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets04.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pants-6": {
-    "name": "full-pants-sets05",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets05.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pants-7": {
-    "name": "full-pants-sets06",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets06.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pants-8": {
-    "name": "full-pants-sets08",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets08.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-pants-9": {
-    "name": "full-pants-sets09",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets09.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-romper-1": {
-    "name": "full-Romper-01",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Romper",
     "category": "Full Romper",
     "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-01.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-romper-2": {
-    "name": "full-Romper-02",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Romper",
     "category": "Full Romper",
     "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-02.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-romper-3": {
-    "name": "full-Romper-03",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Romper",
     "category": "Full Romper",
     "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-03.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-romper-4": {
-    "name": "full-Romper-04",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Romper",
     "category": "Full Romper",
     "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-04.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-romper-5": {
-    "name": "full-Romper-05",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Romper",
     "category": "Full Romper",
     "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-05.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-full-romper-6": {
-    "name": "full-Romper",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Full Romper",
     "category": "Full Romper",
     "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-1": {
-    "name": "07",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/07.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-2": {
-    "name": "GIRL-BABY",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-3": {
-    "name": "GIRL-BABY01",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY01.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-4": {
-    "name": "GIRL-BABY010",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY010.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-5": {
-    "name": "GIRL-BABY011",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY011.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-6": {
-    "name": "GIRL-BABY013",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY013.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-7": {
-    "name": "GIRL-BABY015",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY015.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-8": {
-    "name": "GIRL-BABY016",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY016.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-9": {
-    "name": "GIRL-BABY017",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY017.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-10": {
-    "name": "GIRL-BABY018",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY018.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-11": {
-    "name": "GIRL-BABY019",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY019.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-12": {
-    "name": "GIRL-BABY02",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY02.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-13": {
-    "name": "GIRL-BABY020",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY020.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-14": {
-    "name": "GIRL-BABY03",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY03.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-15": {
-    "name": "GIRL-BABY04",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY04.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-16": {
-    "name": "GIRL-BABY05",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY05.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-17": {
-    "name": "GIRL-BABY06",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY06.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-18": {
-    "name": "GIRL-BABY07",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY07.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-19": {
-    "name": "GIRL-BABY08",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY08.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-girl-dress-20": {
-    "name": "GIRL-BABY09",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY09.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-half-romper-1": {
-    "name": "half-romper",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Half Romper",
     "category": "Half Romper",
     "img": "assets/baby-dress/Sub catogory of Half Romper/half-romper.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-half-romper-2": {
-    "name": "half-romper01",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Half Romper",
     "category": "Half Romper",
     "img": "assets/baby-dress/Sub catogory of Half Romper/half-romper01.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-half-romper-3": {
-    "name": "half-romper02",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Half Romper",
     "category": "Half Romper",
     "img": "assets/baby-dress/Sub catogory of Half Romper/half-romper02.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-muslin-dress-1": {
-    "name": "muslin-dress-01",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-01.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-muslin-dress-2": {
-    "name": "muslin-dress-02",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-02.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-muslin-dress-3": {
-    "name": "muslin-dress-03",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-03.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-muslin-dress-4": {
-    "name": "muslin-dress-04",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-04.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-muslin-dress-5": {
-    "name": "muslin-dress-05",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-05.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-muslin-dress-6": {
-    "name": "MUSLIN-DRESS-1",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-dress/Sub catogory of Muslin Dress/MUSLIN-DRESS-1.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-muslin-dress-7": {
-    "name": "muslin-dress-2",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-2.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-muslin-dress-8": {
-    "name": "MUSLIN-DRESS",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-dress/Sub catogory of Muslin Dress/MUSLIN-DRESS.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-organic-dress-1": {
-    "name": "Organic-Dress-01",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-Dress-01.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-organic-dress-2": {
-    "name": "Organic-Dress-02",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-Dress-02.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-organic-dress-3": {
-    "name": "Organic-dress-1-1",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-1-1.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-organic-dress-4": {
-    "name": "Organic-dress-3",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-3.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-organic-dress-5": {
-    "name": "Organic-dress-4",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-4.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-organic-dress-6": {
-    "name": "Organic-dress-5",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-5.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-organic-dress-7": {
-    "name": "Organic-dress-7",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-7.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-resuable-diaper-1": {
-    "name": "Reusable-Diapers-01",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Resuable Diaper",
     "category": "Resuable Diaper",
     "img": "assets/baby-dress/Sub catogory of Resuable Diaper/Reusable-Diapers-01.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-resuable-diaper-2": {
-    "name": "Reusable-Diapers",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Resuable Diaper",
     "category": "Resuable Diaper",
     "img": "assets/baby-dress/Sub catogory of Resuable Diaper/Reusable-Diapers.jpg",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-1": {
-    "name": "thermal-wear-1",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-1.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-2": {
-    "name": "thermal-wear-10",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-10.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-3": {
-    "name": "thermal-wear-11",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-11.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-4": {
-    "name": "thermal-wear-12",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-12.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-5": {
-    "name": "thermal-wear-13",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-13.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-6": {
-    "name": "thermal-wear-14",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-14.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-7": {
-    "name": "thermal-wear-15",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-15.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-8": {
-    "name": "thermal-wear-2",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-2.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-9": {
-    "name": "thermal-wear-3",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-3.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-10": {
-    "name": "thermal-wear-4",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-4.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-11": {
-    "name": "thermal-wear-5",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-5.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-12": {
-    "name": "thermal-wear-6",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-6.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-13": {
-    "name": "thermal-wear-7",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-7.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-14": {
-    "name": "thermal-wear-8",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-8.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "baby-dress-thermal-wear-15": {
-    "name": "thermal-wear-9",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-9.png",
     "desc": "Beautiful and comfortable baby dress."
   },
   "toys-action-figure-toys-1": {
-    "name": "Untitled-1-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Action figure toys",
     "category": "Action figure toys",
     "img": "assets/toys/Sub catogary of Action figure toys/Untitled-1-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-action-figure-toys-2": {
-    "name": "Untitled-2-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Action figure toys",
     "category": "Action figure toys",
     "img": "assets/toys/Sub catogary of Action figure toys/Untitled-2-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-action-figure-toys-3": {
-    "name": "Untitled-3-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Action figure toys",
     "category": "Action figure toys",
     "img": "assets/toys/Sub catogary of Action figure toys/Untitled-3-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-action-figure-toys-4": {
-    "name": "Untitled-4-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Action figure toys",
     "category": "Action figure toys",
     "img": "assets/toys/Sub catogary of Action figure toys/Untitled-4-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-action-figure-toys-5": {
-    "name": "Untitled-5-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Action figure toys",
     "category": "Action figure toys",
     "img": "assets/toys/Sub catogary of Action figure toys/Untitled-5-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-action-figure-toys-6": {
-    "name": "Untitled-6-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Action figure toys",
     "category": "Action figure toys",
     "img": "assets/toys/Sub catogary of Action figure toys/Untitled-6-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-animal-toys-1": {
-    "name": "Untitled-10-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Animal Toys",
     "category": "Animal Toys",
     "img": "assets/toys/Sub catogary of Animal Toys/Untitled-10-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-animal-toys-2": {
-    "name": "Untitled-11-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Animal Toys",
     "category": "Animal Toys",
     "img": "assets/toys/Sub catogary of Animal Toys/Untitled-11-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-animal-toys-3": {
-    "name": "Untitled-12-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Animal Toys",
     "category": "Animal Toys",
     "img": "assets/toys/Sub catogary of Animal Toys/Untitled-12-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-animal-toys-4": {
-    "name": "Untitled-7-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Animal Toys",
     "category": "Animal Toys",
     "img": "assets/toys/Sub catogary of Animal Toys/Untitled-7-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-animal-toys-5": {
-    "name": "Untitled-8-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Animal Toys",
     "category": "Animal Toys",
     "img": "assets/toys/Sub catogary of Animal Toys/Untitled-8-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-bath-toys-1": {
-    "name": "Untitled-13-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Bath Toys",
     "category": "Bath Toys",
     "img": "assets/toys/Sub catogary of Bath Toys/Untitled-13-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-bath-toys-2": {
-    "name": "Untitled-14-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Bath Toys",
     "category": "Bath Toys",
     "img": "assets/toys/Sub catogary of Bath Toys/Untitled-14-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-bath-toys-3": {
-    "name": "Untitled-15-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Bath Toys",
     "category": "Bath Toys",
     "img": "assets/toys/Sub catogary of Bath Toys/Untitled-15-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-bath-toys-4": {
-    "name": "Untitled-16-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Bath Toys",
     "category": "Bath Toys",
     "img": "assets/toys/Sub catogary of Bath Toys/Untitled-16-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-1": {
-    "name": "Untitled-17-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-17-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-2": {
-    "name": "Untitled-19-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-19-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-3": {
-    "name": "Untitled-20-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-20-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-4": {
-    "name": "Untitled-21-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-21-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-5": {
-    "name": "Untitled-22-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-22-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-6": {
-    "name": "Untitled-23-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-23-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-7": {
-    "name": "Untitled-24-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-24-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-8": {
-    "name": "Untitled-25-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-25-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-9": {
-    "name": "Untitled-26-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-26-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-10": {
-    "name": "Untitled-27-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-27-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-11": {
-    "name": "Untitled-28-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-28-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-battery-toys-12": {
-    "name": "Untitled-29-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Battery Toys",
     "category": "Battery Toys",
     "img": "assets/toys/Sub catogary of Battery Toys/Untitled-29-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-blocks-1": {
-    "name": "Untitled-1-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Blocks",
     "category": "Blocks",
     "img": "assets/toys/Sub catogary of Blocks/Untitled-1-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-blocks-2": {
-    "name": "Untitled-2-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Blocks",
     "category": "Blocks",
     "img": "assets/toys/Sub catogary of Blocks/Untitled-2-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-blocks-3": {
-    "name": "Untitled-3-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Blocks",
     "category": "Blocks",
     "img": "assets/toys/Sub catogary of Blocks/Untitled-3-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-blocks-4": {
-    "name": "Untitled-5-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Blocks",
     "category": "Blocks",
     "img": "assets/toys/Sub catogary of Blocks/Untitled-5-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-blocks-5": {
-    "name": "Untitled-6-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Blocks",
     "category": "Blocks",
     "img": "assets/toys/Sub catogary of Blocks/Untitled-6-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-blocks-6": {
-    "name": "Untitled-7-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Blocks",
     "category": "Blocks",
     "img": "assets/toys/Sub catogary of Blocks/Untitled-7-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-chu-chu-toys-1": {
-    "name": "unnamed-file",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Chu-chu Toys",
     "category": "Chu-chu Toys",
     "img": "assets/toys/Sub catogary of Chu-chu Toys/unnamed-file.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-chu-chu-toys-2": {
-    "name": "Untitled-10-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Chu-chu Toys",
     "category": "Chu-chu Toys",
     "img": "assets/toys/Sub catogary of Chu-chu Toys/Untitled-10-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-chu-chu-toys-3": {
-    "name": "Untitled-8-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Chu-chu Toys",
     "category": "Chu-chu Toys",
     "img": "assets/toys/Sub catogary of Chu-chu Toys/Untitled-8-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-chu-chu-toys-4": {
-    "name": "Untitled-9-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Chu-chu Toys",
     "category": "Chu-chu Toys",
     "img": "assets/toys/Sub catogary of Chu-chu Toys/Untitled-9-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-craft-toys-1": {
-    "name": "Untitled-11-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Craft Toys",
     "category": "Craft Toys",
     "img": "assets/toys/Sub catogary of Craft Toys/Untitled-11-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-craft-toys-2": {
-    "name": "Untitled-12-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Craft Toys",
     "category": "Craft Toys",
     "img": "assets/toys/Sub catogary of Craft Toys/Untitled-12-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-craft-toys-3": {
-    "name": "Untitled-13-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Craft Toys",
     "category": "Craft Toys",
     "img": "assets/toys/Sub catogary of Craft Toys/Untitled-13-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-craft-toys-4": {
-    "name": "Untitled-14-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Craft Toys",
     "category": "Craft Toys",
     "img": "assets/toys/Sub catogary of Craft Toys/Untitled-14-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-creativity-toys-1": {
-    "name": "Untitled-15-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Creativity Toys",
     "category": "Creativity Toys",
     "img": "assets/toys/Sub catogary of Creativity Toys/Untitled-15-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-creativity-toys-2": {
-    "name": "Untitled-16-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Creativity Toys",
     "category": "Creativity Toys",
     "img": "assets/toys/Sub catogary of Creativity Toys/Untitled-16-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-creativity-toys-3": {
-    "name": "Untitled-17-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Creativity Toys",
     "category": "Creativity Toys",
     "img": "assets/toys/Sub catogary of Creativity Toys/Untitled-17-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-creativity-toys-4": {
-    "name": "Untitled-18-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Creativity Toys",
     "category": "Creativity Toys",
     "img": "assets/toys/Sub catogary of Creativity Toys/Untitled-18-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-creativity-toys-5": {
-    "name": "Untitled-19-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Creativity Toys",
     "category": "Creativity Toys",
     "img": "assets/toys/Sub catogary of Creativity Toys/Untitled-19-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-cube-1": {
-    "name": "Untitled-21-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Cube",
     "category": "Cube",
     "img": "assets/toys/Sub catogary of Cube/Untitled-21-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-cube-2": {
-    "name": "Untitled-22-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Cube",
     "category": "Cube",
     "img": "assets/toys/Sub catogary of Cube/Untitled-22-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-cube-3": {
-    "name": "Untitled-23-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Cube",
     "category": "Cube",
     "img": "assets/toys/Sub catogary of Cube/Untitled-23-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-cube-4": {
-    "name": "Untitled-24-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Cube",
     "category": "Cube",
     "img": "assets/toys/Sub catogary of Cube/Untitled-24-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-dolls-1": {
-    "name": "Untitled-25-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Dolls",
     "category": "Dolls",
     "img": "assets/toys/Sub catogary of Dolls/Untitled-25-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-dolls-2": {
-    "name": "Untitled-26-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Dolls",
     "category": "Dolls",
     "img": "assets/toys/Sub catogary of Dolls/Untitled-26-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-dolls-3": {
-    "name": "Untitled-27-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Dolls",
     "category": "Dolls",
     "img": "assets/toys/Sub catogary of Dolls/Untitled-27-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-dolls-4": {
-    "name": "Untitled-28-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Dolls",
     "category": "Dolls",
     "img": "assets/toys/Sub catogary of Dolls/Untitled-28-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-dolls-5": {
-    "name": "Untitled-29-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Dolls",
     "category": "Dolls",
     "img": "assets/toys/Sub catogary of Dolls/Untitled-29-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-dolls-6": {
-    "name": "Untitled-30-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Dolls",
     "category": "Dolls",
     "img": "assets/toys/Sub catogary of Dolls/Untitled-30-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-educational-toys-1": {
-    "name": "Untitled-31-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Educational Toys",
     "category": "Educational Toys",
     "img": "assets/toys/Sub catogary of Educational Toys/Untitled-31-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-educational-toys-2": {
-    "name": "Untitled-32-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Educational Toys",
     "category": "Educational Toys",
     "img": "assets/toys/Sub catogary of Educational Toys/Untitled-32-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-educational-toys-3": {
-    "name": "Untitled-33-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Educational Toys",
     "category": "Educational Toys",
     "img": "assets/toys/Sub catogary of Educational Toys/Untitled-33-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-educational-toys-4": {
-    "name": "Untitled-34-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Educational Toys",
     "category": "Educational Toys",
     "img": "assets/toys/Sub catogary of Educational Toys/Untitled-34-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-educational-toys-5": {
-    "name": "Untitled-35-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Educational Toys",
     "category": "Educational Toys",
     "img": "assets/toys/Sub catogary of Educational Toys/Untitled-35-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-key-toys-1": {
-    "name": "Untitled-38-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Key Toys",
     "category": "Key Toys",
     "img": "assets/toys/Sub catogary of Key Toys/Untitled-38-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-key-toys-2": {
-    "name": "Untitled-39-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Key Toys",
     "category": "Key Toys",
     "img": "assets/toys/Sub catogary of Key Toys/Untitled-39-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-key-toys-3": {
-    "name": "Untitled-40-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Key Toys",
     "category": "Key Toys",
     "img": "assets/toys/Sub catogary of Key Toys/Untitled-40-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-key-toys-4": {
-    "name": "Untitled-41-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Key Toys",
     "category": "Key Toys",
     "img": "assets/toys/Sub catogary of Key Toys/Untitled-41-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-key-toys-5": {
-    "name": "Untitled-42-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Key Toys",
     "category": "Key Toys",
     "img": "assets/toys/Sub catogary of Key Toys/Untitled-42-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-key-toys-6": {
-    "name": "Untitled-43-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Key Toys",
     "category": "Key Toys",
     "img": "assets/toys/Sub catogary of Key Toys/Untitled-43-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-key-toys-7": {
-    "name": "Untitled-44-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Key Toys",
     "category": "Key Toys",
     "img": "assets/toys/Sub catogary of Key Toys/Untitled-44-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-key-toys-8": {
-    "name": "Untitled-45-1",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Key Toys",
     "category": "Key Toys",
     "img": "assets/toys/Sub catogary of Key Toys/Untitled-45-1.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-kitchen-sets-1": {
-    "name": "Untitled-47",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Kitchen Sets",
     "category": "Kitchen Sets",
     "img": "assets/toys/Sub catogary of Kitchen Sets/Untitled-47.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-kitchen-sets-2": {
-    "name": "Untitled-48",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Kitchen Sets",
     "category": "Kitchen Sets",
     "img": "assets/toys/Sub catogary of Kitchen Sets/Untitled-48.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-kitchen-sets-3": {
-    "name": "Untitled-49",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Kitchen Sets",
     "category": "Kitchen Sets",
     "img": "assets/toys/Sub catogary of Kitchen Sets/Untitled-49.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-kitchen-sets-4": {
-    "name": "Untitled-50",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Kitchen Sets",
     "category": "Kitchen Sets",
     "img": "assets/toys/Sub catogary of Kitchen Sets/Untitled-50.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-lego-style-toys-1": {
-    "name": "Untitled-51",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Lego Style Toys",
     "category": "Lego Style Toys",
     "img": "assets/toys/Sub catogary of Lego Style Toys/Untitled-51.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-lego-style-toys-2": {
-    "name": "Untitled-53",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Lego Style Toys",
     "category": "Lego Style Toys",
     "img": "assets/toys/Sub catogary of Lego Style Toys/Untitled-53.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-lego-style-toys-3": {
-    "name": "Untitled-54",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Lego Style Toys",
     "category": "Lego Style Toys",
     "img": "assets/toys/Sub catogary of Lego Style Toys/Untitled-54.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-lego-style-toys-4": {
-    "name": "Untitled-55",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Lego Style Toys",
     "category": "Lego Style Toys",
     "img": "assets/toys/Sub catogary of Lego Style Toys/Untitled-55.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-merry-go-round-1": {
-    "name": "Untitled-56",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Merry Go Round",
     "category": "Merry Go Round",
     "img": "assets/toys/Sub catogary of Merry Go Round/Untitled-56.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-merry-go-round-2": {
-    "name": "Untitled-57",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Merry Go Round",
     "category": "Merry Go Round",
     "img": "assets/toys/Sub catogary of Merry Go Round/Untitled-57.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-merry-go-round-3": {
-    "name": "Untitled-58",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Merry Go Round",
     "category": "Merry Go Round",
     "img": "assets/toys/Sub catogary of Merry Go Round/Untitled-58.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-pull-along-toys-1": {
-    "name": "Untitled-59",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Pull along Toys",
     "category": "Pull along Toys",
     "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-59.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-pull-along-toys-2": {
-    "name": "Untitled-60",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Pull along Toys",
     "category": "Pull along Toys",
     "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-60.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-pull-along-toys-3": {
-    "name": "Untitled-61",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Pull along Toys",
     "category": "Pull along Toys",
     "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-61.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-pull-along-toys-4": {
-    "name": "Untitled-62",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Pull along Toys",
     "category": "Pull along Toys",
     "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-62.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-pull-along-toys-5": {
-    "name": "Untitled-63",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Pull along Toys",
     "category": "Pull along Toys",
     "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-63.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-pull-along-toys-6": {
-    "name": "Untitled-64",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Pull along Toys",
     "category": "Pull along Toys",
     "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-64.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-pull-along-toys-7": {
-    "name": "Untitled-65",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Pull along Toys",
     "category": "Pull along Toys",
     "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-65.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-pull-along-toys-8": {
-    "name": "Untitled-66",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Pull along Toys",
     "category": "Pull along Toys",
     "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-66.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-pull-along-toys-9": {
-    "name": "Untitled-67",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Pull along Toys",
     "category": "Pull along Toys",
     "img": "assets/toys/Sub catogary of Pull along Toys/Untitled-67.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-pull-along-toys-10": {
-    "name": "Untitledw-58",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Pull along Toys",
     "category": "Pull along Toys",
     "img": "assets/toys/Sub catogary of Pull along Toys/Untitledw-58.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-puzzle-toys-1": {
-    "name": "Untitled-68",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Puzzle Toys",
     "category": "Puzzle Toys",
     "img": "assets/toys/Sub catogary of Puzzle Toys/Untitled-68.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-puzzle-toys-2": {
-    "name": "Untitled-69",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Puzzle Toys",
     "category": "Puzzle Toys",
     "img": "assets/toys/Sub catogary of Puzzle Toys/Untitled-69.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-puzzle-toys-3": {
-    "name": "Untitled-70",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Puzzle Toys",
     "category": "Puzzle Toys",
     "img": "assets/toys/Sub catogary of Puzzle Toys/Untitled-70.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-puzzle-toys-4": {
-    "name": "Untitled-71",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Puzzle Toys",
     "category": "Puzzle Toys",
     "img": "assets/toys/Sub catogary of Puzzle Toys/Untitled-71.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-puzzle-toys-5": {
-    "name": "Untitled-72",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Puzzle Toys",
     "category": "Puzzle Toys",
     "img": "assets/toys/Sub catogary of Puzzle Toys/Untitled-72.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-rattle-1": {
-    "name": "rattle-01",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Rattle",
     "category": "Rattle",
     "img": "assets/toys/Sub catogary of Rattle/rattle-01.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-rattle-2": {
-    "name": "rattle-02",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Rattle",
     "category": "Rattle",
     "img": "assets/toys/Sub catogary of Rattle/rattle-02.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-rattle-3": {
-    "name": "rattle-03",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Rattle",
     "category": "Rattle",
     "img": "assets/toys/Sub catogary of Rattle/rattle-03.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-rattle-4": {
-    "name": "rattle-04",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Rattle",
     "category": "Rattle",
     "img": "assets/toys/Sub catogary of Rattle/rattle-04.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-rattle-5": {
-    "name": "rattle-05",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Rattle",
     "category": "Rattle",
     "img": "assets/toys/Sub catogary of Rattle/rattle-05.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-rattle-6": {
-    "name": "rattle-06",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Rattle",
     "category": "Rattle",
     "img": "assets/toys/Sub catogary of Rattle/rattle-06.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-rattle-7": {
-    "name": "rattle-07-2",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Rattle",
     "category": "Rattle",
     "img": "assets/toys/Sub catogary of Rattle/rattle-07-2.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-rattle-8": {
-    "name": "rattle-08",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Rattle",
     "category": "Rattle",
     "img": "assets/toys/Sub catogary of Rattle/rattle-08.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-rattle-9": {
-    "name": "rattle-09",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Rattle",
     "category": "Rattle",
     "img": "assets/toys/Sub catogary of Rattle/rattle-09.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-rattle-10": {
-    "name": "rattle",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Rattle",
     "category": "Rattle",
     "img": "assets/toys/Sub catogary of Rattle/rattle.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-sleep-toys-1": {
-    "name": "Untitled-73",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Sleep Toys",
     "category": "Sleep Toys",
     "img": "assets/toys/Sub catogary of Sleep Toys/Untitled-73.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-sleep-toys-2": {
-    "name": "Untitled-74",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Sleep Toys",
     "category": "Sleep Toys",
     "img": "assets/toys/Sub catogary of Sleep Toys/Untitled-74.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-soft-toys-1": {
-    "name": "Untitled-75",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Soft Toys",
     "category": "Soft Toys",
     "img": "assets/toys/Sub catogary of Soft Toys/Untitled-75.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-soft-toys-2": {
-    "name": "Untitled-76",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Soft Toys",
     "category": "Soft Toys",
     "img": "assets/toys/Sub catogary of Soft Toys/Untitled-76.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-soft-toys-3": {
-    "name": "Untitled-77",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Soft Toys",
     "category": "Soft Toys",
     "img": "assets/toys/Sub catogary of Soft Toys/Untitled-77.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-sports-toys-1": {
-    "name": "Untitled-78",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Sports Toys",
     "category": "Sports Toys",
     "img": "assets/toys/Sub catogary of Sports Toys/Untitled-78.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-sports-toys-2": {
-    "name": "Untitled-79",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Sports Toys",
     "category": "Sports Toys",
     "img": "assets/toys/Sub catogary of Sports Toys/Untitled-79.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-sports-toys-3": {
-    "name": "Untitled-80",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Sports Toys",
     "category": "Sports Toys",
     "img": "assets/toys/Sub catogary of Sports Toys/Untitled-80.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-sports-toys-4": {
-    "name": "Untitled-81",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Sports Toys",
     "category": "Sports Toys",
     "img": "assets/toys/Sub catogary of Sports Toys/Untitled-81.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-sports-toys-5": {
-    "name": "Untitled-82",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Sports Toys",
     "category": "Sports Toys",
     "img": "assets/toys/Sub catogary of Sports Toys/Untitled-82.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-sports-toys-6": {
-    "name": "Untitled-83",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Sports Toys",
     "category": "Sports Toys",
     "img": "assets/toys/Sub catogary of Sports Toys/Untitled-83.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-sports-toys-7": {
-    "name": "Untitled-84",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Sports Toys",
     "category": "Sports Toys",
     "img": "assets/toys/Sub catogary of Sports Toys/Untitled-84.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-sports-toys-8": {
-    "name": "Untitled-85",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Sports Toys",
     "category": "Sports Toys",
     "img": "assets/toys/Sub catogary of Sports Toys/Untitled-85.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-tent-house-1": {
-    "name": "Untitled-86",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Tent House",
     "category": "Tent House",
     "img": "assets/toys/Sub catogary of Tent House/Untitled-86.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-tent-house-2": {
-    "name": "Untitled-87",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Tent House",
     "category": "Tent House",
     "img": "assets/toys/Sub catogary of Tent House/Untitled-87.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "toys-tent-house-3": {
-    "name": "Untitled-88",
-    "price": 599,
-    "oldPrice": 899,
+    "name": "Tent House",
     "category": "Tent House",
     "img": "assets/toys/Sub catogary of Tent House/Untitled-88.jpg",
     "desc": "Engaging and fun toy to stimulate your baby's development."
   },
   "bedding-carry-bed-1": {
-    "name": "carry-bed-01",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "carry bed",
     "category": "carry bed",
     "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed-01.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-carry-bed-2": {
-    "name": "carry-bed-02",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "carry bed",
     "category": "carry bed",
     "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed-02.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-carry-bed-3": {
-    "name": "carry-bed-03",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "carry bed",
     "category": "carry bed",
     "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed-03.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-carry-bed-4": {
-    "name": "carry-bed-04",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "carry bed",
     "category": "carry bed",
     "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed-04.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-carry-bed-5": {
-    "name": "carry-bed-05",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "carry bed",
     "category": "carry bed",
     "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed-05.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-carry-bed-6": {
-    "name": "carry-bed",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "carry bed",
     "category": "carry bed",
     "img": "assets/bedding/Sub catogary of Carry Bed/carry-bed.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-cradle-net-1": {
-    "name": "cradle-net-01",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "cradle net",
     "category": "cradle net",
     "img": "assets/bedding/Sub catogary of Cradle Net/cradle-net-01.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-cradle-net-2": {
-    "name": "cradle-net-02",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "cradle net",
     "category": "cradle net",
     "img": "assets/bedding/Sub catogary of Cradle Net/cradle-net-02.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-cradle-net-3": {
-    "name": "cradle-net",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "cradle net",
     "category": "cradle net",
     "img": "assets/bedding/Sub catogary of Cradle Net/cradle-net.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-cradle-net-4": {
-    "name": "Cradle-Nets",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "cradle net",
     "category": "cradle net",
     "img": "assets/bedding/Sub catogary of Cradle Net/Cradle-Nets.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-neck-pillow-1": {
-    "name": "neck-pillow-01",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "neck pillow",
     "category": "neck pillow",
     "img": "assets/bedding/Sub catogary of Neck Pillow/neck-pillow-01.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-neck-pillow-2": {
-    "name": "neck-pillow-02",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "neck pillow",
     "category": "neck pillow",
     "img": "assets/bedding/Sub catogary of Neck Pillow/neck-pillow-02.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-neck-pillow-3": {
-    "name": "neck-pillow-03",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "neck pillow",
     "category": "neck pillow",
     "img": "assets/bedding/Sub catogary of Neck Pillow/neck-pillow-03.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-neck-pillow-4": {
-    "name": "neck-pillow-04",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "neck pillow",
     "category": "neck pillow",
     "img": "assets/bedding/Sub catogary of Neck Pillow/neck-pillow-04.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-neck-pillow-5": {
-    "name": "neck-pillow",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "neck pillow",
     "category": "neck pillow",
     "img": "assets/bedding/Sub catogary of Neck Pillow/neck-pillow.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-play-gym-1": {
-    "name": "play-gym-01",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "play gym",
     "category": "play gym",
     "img": "assets/bedding/Sub catogary of Play Gym/play-gym-01.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-play-gym-2": {
-    "name": "play-gym-02",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "play gym",
     "category": "play gym",
     "img": "assets/bedding/Sub catogary of Play Gym/play-gym-02.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-play-gym-3": {
-    "name": "play-gym",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "play gym",
     "category": "play gym",
     "img": "assets/bedding/Sub catogary of Play Gym/play-gym.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-side-pillow-1": {
-    "name": "side-pillow-01",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "side pillow",
     "category": "side pillow",
     "img": "assets/bedding/Sub catogary of Side Pillow/side-pillow-01.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-side-pillow-2": {
-    "name": "side-pillow-02",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "side pillow",
     "category": "side pillow",
     "img": "assets/bedding/Sub catogary of Side Pillow/side-pillow-02.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-side-pillow-3": {
-    "name": "side-pillow-03",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "side pillow",
     "category": "side pillow",
     "img": "assets/bedding/Sub catogary of Side Pillow/side-pillow-03.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-side-pillow-4": {
-    "name": "side-pillow-04",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "side pillow",
     "category": "side pillow",
     "img": "assets/bedding/Sub catogary of Side Pillow/side-pillow-04.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-side-pillow-5": {
-    "name": "side-pillow",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "side pillow",
     "category": "side pillow",
     "img": "assets/bedding/Sub catogary of Side Pillow/side-pillow.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-sleep-bed-1": {
-    "name": "side-pillow-03",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "sleep bed",
     "category": "sleep bed",
     "img": "assets/bedding/Sub catogary of Sleep Bed/side-pillow-03.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-sleep-bed-2": {
-    "name": "sleep-bed-01",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "sleep bed",
     "category": "sleep bed",
     "img": "assets/bedding/Sub catogary of Sleep Bed/sleep-bed-01.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-sleep-bed-3": {
-    "name": "sleep-bed-02",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "sleep bed",
     "category": "sleep bed",
     "img": "assets/bedding/Sub catogary of Sleep Bed/sleep-bed-02.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-sleep-bed-4": {
-    "name": "sleep-bed-03",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "sleep bed",
     "category": "sleep bed",
     "img": "assets/bedding/Sub catogary of Sleep Bed/sleep-bed-03.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "bedding-sleep-bed-5": {
-    "name": "sleep-bed",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "sleep bed",
     "category": "sleep bed",
     "img": "assets/bedding/Sub catogary of Sleep Bed/sleep-bed.jpg",
     "desc": "Premium comfort for your baby's peaceful sleep."
   },
   "footwear-slippers-1": {
-    "name": "slippers-014",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "slippers",
     "category": "slippers",
     "img": "assets/footwear/Sub catogory of  Slipper/slippers-014.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-slippers-2": {
-    "name": "slippers-02",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "slippers",
     "category": "slippers",
     "img": "assets/footwear/Sub catogory of  Slipper/slippers-02.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-slippers-3": {
-    "name": "slippers-03",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "slippers",
     "category": "slippers",
     "img": "assets/footwear/Sub catogory of  Slipper/slippers-03.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-slippers-4": {
-    "name": "slippers-04",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "slippers",
     "category": "slippers",
     "img": "assets/footwear/Sub catogory of  Slipper/slippers-04.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-slippers-5": {
-    "name": "slippers-05",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "slippers",
     "category": "slippers",
     "img": "assets/footwear/Sub catogory of  Slipper/slippers-05.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-slippers-6": {
     "name": "slippers",
-    "price": 499,
-    "oldPrice": 699,
     "category": "slippers",
     "img": "assets/footwear/Sub catogory of  Slipper/slippers.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-casual-shoes-1": {
-    "name": "Untitled-26-2",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "casual shoes",
     "category": "casual shoes",
     "img": "assets/footwear/Sub catogory of Casual Shoes/Untitled-26-2.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-casual-shoes-2": {
-    "name": "Untitled-45",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "casual shoes",
     "category": "casual shoes",
     "img": "assets/footwear/Sub catogory of Casual Shoes/Untitled-45.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-casual-shoes-3": {
-    "name": "Untitled-46",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "casual shoes",
     "category": "casual shoes",
     "img": "assets/footwear/Sub catogory of Casual Shoes/Untitled-46.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-casual-shoes-4": {
-    "name": "Untitled-47",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "casual shoes",
     "category": "casual shoes",
     "img": "assets/footwear/Sub catogory of Casual Shoes/Untitled-47.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-chu-chu-shoes-1": {
-    "name": "chu-chu-shoes-01",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "chu chu shoes",
     "category": "chu chu shoes",
     "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes-01.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-chu-chu-shoes-2": {
-    "name": "chu-chu-shoes-02",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "chu chu shoes",
     "category": "chu chu shoes",
     "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes-02.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-chu-chu-shoes-3": {
-    "name": "chu-chu-shoes-03",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "chu chu shoes",
     "category": "chu chu shoes",
     "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes-03.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-chu-chu-shoes-4": {
-    "name": "chu-chu-shoes-04",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "chu chu shoes",
     "category": "chu chu shoes",
     "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes-04.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-chu-chu-shoes-5": {
-    "name": "chu-chu-shoes-05",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "chu chu shoes",
     "category": "chu chu shoes",
     "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes-05.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-chu-chu-shoes-6": {
-    "name": "chu-chu-shoes",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "chu chu shoes",
     "category": "chu chu shoes",
     "img": "assets/footwear/Sub catogory of Chu-Chu Shoes/chu-chu-shoes.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-crocks-1": {
-    "name": "crocks01",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "crocks",
     "category": "crocks",
     "img": "assets/footwear/Sub catogory of Crocks/crocks01.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-crocks-2": {
-    "name": "crocks02",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "crocks",
     "category": "crocks",
     "img": "assets/footwear/Sub catogory of Crocks/crocks02.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-crocks-3": {
-    "name": "crocks03",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "crocks",
     "category": "crocks",
     "img": "assets/footwear/Sub catogory of Crocks/crocks03.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-crocks-4": {
-    "name": "crocks04",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "crocks",
     "category": "crocks",
     "img": "assets/footwear/Sub catogory of Crocks/crocks04.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-crocks-5": {
-    "name": "crocks05",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "crocks",
     "category": "crocks",
     "img": "assets/footwear/Sub catogory of Crocks/crocks05.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-1": {
-    "name": "fancy-shoes",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-2": {
-    "name": "fancy-shoes01",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes01.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-3": {
-    "name": "fancy-shoes010",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes010.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-4": {
-    "name": "fancy-shoes011",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes011.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-5": {
-    "name": "fancy-shoes02",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes02.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-6": {
-    "name": "fancy-shoes03",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes03.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-7": {
-    "name": "fancy-shoes05",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes05.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-8": {
-    "name": "fancy-shoes06",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes06.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-9": {
-    "name": "fancy-shoes07",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes07.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-10": {
-    "name": "fancy-shoes08",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes08.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-fancy-shoes-11": {
-    "name": "fancy-shoes09",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "fancy shoes",
     "category": "fancy shoes",
     "img": "assets/footwear/Sub catogory of Fancy Shoes/fancy-shoes09.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-light-shoes-1": {
-    "name": "light-shoes",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "light shoes",
     "category": "light shoes",
     "img": "assets/footwear/Sub catogory of Light shoes/light-shoes.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-light-shoes-2": {
-    "name": "light-shoes01",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "light shoes",
     "category": "light shoes",
     "img": "assets/footwear/Sub catogory of Light shoes/light-shoes01.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-light-shoes-3": {
-    "name": "light-shoes02",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "light shoes",
     "category": "light shoes",
     "img": "assets/footwear/Sub catogory of Light shoes/light-shoes02.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-light-shoes-4": {
-    "name": "light-shoes03",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "light shoes",
     "category": "light shoes",
     "img": "assets/footwear/Sub catogory of Light shoes/light-shoes03.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-light-shoes-5": {
-    "name": "light-shoes04",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "light shoes",
     "category": "light shoes",
     "img": "assets/footwear/Sub catogory of Light shoes/light-shoes04.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-light-shoes-6": {
-    "name": "light-shoes05",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "light shoes",
     "category": "light shoes",
     "img": "assets/footwear/Sub catogory of Light shoes/light-shoes05.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-light-shoes-7": {
-    "name": "light-shoes06",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "light shoes",
     "category": "light shoes",
     "img": "assets/footwear/Sub catogory of Light shoes/light-shoes06.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-sandals-1": {
-    "name": "sandals-02",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "sandals",
     "category": "sandals",
     "img": "assets/footwear/Sub catogory of Sandals/sandals-02.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-sandals-2": {
-    "name": "sandals-03",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "sandals",
     "category": "sandals",
     "img": "assets/footwear/Sub catogory of Sandals/sandals-03.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-sandals-3": {
-    "name": "sandals-04",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "sandals",
     "category": "sandals",
     "img": "assets/footwear/Sub catogory of Sandals/sandals-04.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-sandals-4": {
-    "name": "sandals-05",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "sandals",
     "category": "sandals",
     "img": "assets/footwear/Sub catogory of Sandals/sandals-05.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-sandals-5": {
-    "name": "sandals-06",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "sandals",
     "category": "sandals",
     "img": "assets/footwear/Sub catogory of Sandals/sandals-06.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-sandals-6": {
-    "name": "sandals-1",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "sandals",
     "category": "sandals",
     "img": "assets/footwear/Sub catogory of Sandals/sandals-1.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-sandals-7": {
     "name": "sandals",
-    "price": 499,
-    "oldPrice": 699,
     "category": "sandals",
     "img": "assets/footwear/Sub catogory of Sandals/sandals.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-stocking-1": {
-    "name": "stockings-01",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "stocking",
     "category": "stocking",
     "img": "assets/footwear/Sub catogory og Stocking/stockings-01.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-stocking-2": {
-    "name": "stockings-02",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "stocking",
     "category": "stocking",
     "img": "assets/footwear/Sub catogory og Stocking/stockings-02.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-stocking-3": {
-    "name": "stockings-03",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "stocking",
     "category": "stocking",
     "img": "assets/footwear/Sub catogory og Stocking/stockings-03.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-stocking-4": {
-    "name": "stockings",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "stocking",
     "category": "stocking",
     "img": "assets/footwear/Sub catogory og Stocking/stockings.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-booties-1": {
-    "name": "51ahUKOxyHL",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "booties",
     "category": "booties",
     "img": "assets/footwear/Sud catogory of Booties/51ahUKOxyHL.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-booties-2": {
-    "name": "71mXd0ZGEyL._SY879_",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "booties",
     "category": "booties",
     "img": "assets/footwear/Sud catogory of Booties/71mXd0ZGEyL._SY879_.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-booties-3": {
-    "name": "Untitled-10-1",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "booties",
     "category": "booties",
     "img": "assets/footwear/Sud catogory of Booties/Untitled-10-1.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-booties-4": {
-    "name": "Untitled-11-1",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "booties",
     "category": "booties",
     "img": "assets/footwear/Sud catogory of Booties/Untitled-11-1.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-booties-5": {
-    "name": "Untitled-12",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "booties",
     "category": "booties",
     "img": "assets/footwear/Sud catogory of Booties/Untitled-12.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-booties-6": {
-    "name": "Untitled-7b-1",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "booties",
     "category": "booties",
     "img": "assets/footwear/Sud catogory of Booties/Untitled-7b-1.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-booties-7": {
-    "name": "Untitled-8b",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "booties",
     "category": "booties",
     "img": "assets/footwear/Sud catogory of Booties/Untitled-8b.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
   "footwear-booties-8": {
-    "name": "Untitled-9-1",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "booties",
     "category": "booties",
     "img": "assets/footwear/Sud catogory of Booties/Untitled-9-1.jpg",
     "desc": "Comfortable and stylish footwear for your little one."
   },
 
   "moisturizing-body-lotion": {
-    "name": "Moisturizing Body Lotion",
-    "price": 349,
-    "oldPrice": 499,
+    "name": "Body Lotions",
     "category": "Body Lotions",
     "img": "assets/baby-care/body_lotions.png",
     "desc": "Nourishing formula with natural oils for long-lasting hydration."
   },
   "aloe-vera-body-lotion": {
-    "name": "Aloe Vera Body Lotion",
-    "price": 379,
-    "oldPrice": 529,
+    "name": "Body Lotions",
     "category": "Body Lotions",
     "img": "assets/baby-care/body_lotions.png",
     "desc": "Soothes and cools baby skin with pure organic Aloe Vera extract."
   },
   "milk-protein-body-lotion": {
-    "name": "Milk Protein Body Lotion",
-    "price": 399,
-    "oldPrice": 549,
+    "name": "Body Lotions",
     "category": "Body Lotions",
     "img": "assets/baby-care/body_lotions.png",
     "desc": "Enriched with milk proteins to build a soft protective moisture barrier."
   },
   "daily-care-baby-lotion": {
-    "name": "Daily Care Baby Lotion",
-    "price": 320,
-    "oldPrice": 450,
+    "name": "Body Lotions",
     "category": "Body Lotions",
     "img": "assets/baby-care/body_lotions.png",
     "desc": "Gentle daily protection keeping newborn skin velvety soft and healthy."
   },
   "newborn-gift-box": {
-    "name": "Newborn Gift Box",
-    "price": 1299,
-    "oldPrice": 1799,
+    "name": "Baby Gift Box",
     "category": "Baby Gift Box",
     "img": "assets/baby-care/baby_gift_box.png",
     "desc": "Essential collection of soft cotton wear and gentle care products."
   },
   "premium-baby-gift-box": {
-    "name": "Premium Baby Gift Box",
-    "price": 1999,
-    "oldPrice": 2699,
+    "name": "Baby Gift Box",
     "category": "Baby Gift Box",
     "img": "assets/baby-care/baby_gift_box.png",
     "desc": "Deluxe assortment of luxury accessories, clothing, and toys."
   },
   "baby-care-gift-set": {
-    "name": "Baby Care Gift Set",
-    "price": 899,
-    "oldPrice": 1199,
+    "name": "Baby Gift Box",
     "category": "Baby Gift Box",
     "img": "assets/baby-care/baby_gift_box.png",
     "desc": "Perfect bundle of skin-friendly soaps, lotions, and powders."
   },
   "welcome-baby-gift-pack": {
-    "name": "Welcome Baby Gift Pack",
-    "price": 1499,
-    "oldPrice": 1999,
+    "name": "Baby Gift Box",
     "category": "Baby Gift Box",
     "img": "assets/baby-care/baby_gift_box.png",
     "desc": "Charming gift pack featuring newborn essentials and coordinates."
   },
   "cotton-baby-socks": {
-    "name": "Cotton Baby Socks",
-    "price": 199,
-    "oldPrice": 299,
+    "name": "Baby Socks",
     "category": "Baby Socks",
     "img": "assets/baby-care/baby_socks.png",
     "desc": "Premium combed cotton socks keeping tiny toes warm and cozy."
   },
   "anti-slip-baby-socks": {
-    "name": "Anti-Slip Baby Socks",
-    "price": 249,
-    "oldPrice": 349,
+    "name": "Baby Socks",
     "category": "Baby Socks",
     "img": "assets/baby-care/baby_socks.png",
     "desc": "Socks with rubber grip bottoms to prevent slips and slides."
   },
   "winter-baby-socks": {
-    "name": "Winter Baby Socks",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Baby Socks",
     "category": "Baby Socks",
     "img": "assets/baby-care/baby_socks.png",
     "desc": "Thick thermal knit socks designed for ultimate winter warmth."
   },
   "cartoon-baby-socks": {
-    "name": "Cartoon Baby Socks",
-    "price": 220,
-    "oldPrice": 320,
+    "name": "Baby Socks",
     "category": "Baby Socks",
     "img": "assets/baby-care/baby_socks.png",
     "desc": "Playful socks featuring cute animal faces and bright designs."
   },
   "full-sleeve-soft-sweater": {
-    "name": "Full Sleeve Soft Sweater",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Baby Soft Sweaters",
     "category": "Baby Soft Sweaters",
     "img": "assets/baby-care/baby_soft_sweaters.png",
     "desc": "Ultra-soft cotton sweater with full sleeves and premium knit."
   },
   "knitted-baby-sweater": {
-    "name": "Knitted Baby Sweater",
-    "price": 849,
-    "oldPrice": 1199,
+    "name": "Baby Soft Sweaters",
     "category": "Baby Soft Sweaters",
     "img": "assets/baby-care/baby_soft_sweaters.png",
     "desc": "Classic knit pattern sweater crafted with baby-safe acrylic yarn."
   },
   "button-soft-sweater": {
-    "name": "Button Soft Sweater",
-    "price": 899,
-    "oldPrice": 1249,
+    "name": "Baby Soft Sweaters",
     "category": "Baby Soft Sweaters",
     "img": "assets/baby-care/baby_soft_sweaters.png",
     "desc": "Easy-to-wear front button closure sweater made of soft fibers."
   },
   "hooded-baby-sweater": {
-    "name": "Hooded Baby Sweater",
-    "price": 999,
-    "oldPrice": 1399,
+    "name": "Baby Soft Sweaters",
     "category": "Baby Soft Sweaters",
     "img": "assets/baby-care/baby_soft_sweaters.png",
     "desc": "Cozy hooded sweater protecting baby's head and ears from drafts."
   },
   "winter-woollen-sweater": {
-    "name": "Winter Woollen Sweater",
-    "price": 1199,
-    "oldPrice": 1599,
+    "name": "Baby Woollen Sweater",
     "category": "Baby Woollen Sweater",
     "img": "assets/baby-care/baby_woollen_sweater.png",
     "desc": "Heavy knit 100% wool sweater built for freezing winter days."
   },
   "hand-knit-sweater": {
-    "name": "Hand Knit Sweater",
-    "price": 1499,
-    "oldPrice": 1999,
+    "name": "Baby Woollen Sweater",
     "category": "Baby Woollen Sweater",
     "img": "assets/baby-care/baby_woollen_sweater.png",
     "desc": "Charming hand-crafted wool sweater with complex, unique patterns."
   },
   "premium-woollen-sweater": {
-    "name": "Premium Woollen Sweater",
-    "price": 1399,
-    "oldPrice": 1899,
+    "name": "Baby Woollen Sweater",
     "category": "Baby Woollen Sweater",
     "img": "assets/baby-care/baby_woollen_sweater.png",
     "desc": "Luxurious merino wool blend sweater offering exceptional softness."
   },
   "thick-warm-sweater": {
-    "name": "Thick Warm Sweater",
-    "price": 1249,
-    "oldPrice": 1699,
+    "name": "Baby Woollen Sweater",
     "category": "Baby Woollen Sweater",
     "img": "assets/baby-care/baby_woollen_sweater.png",
     "desc": "Dual-layered insulated warm sweater for high cold protection."
   },
   "cotton-booties": {
-    "name": "Cotton Booties",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Booties",
     "category": "Booties",
     "img": "assets/baby-care/booties.png",
     "desc": "Soft breathable cotton booties with adjustable ankle elastic."
   },
   "winter-booties": {
-    "name": "Winter Booties",
-    "price": 399,
-    "oldPrice": 549,
+    "name": "Booties",
     "category": "Booties",
     "img": "assets/baby-care/booties.png",
     "desc": "Fleece-lined extra warm booties keeping little feet snug."
   },
   "soft-sole-booties": {
-    "name": "Soft Sole Booties",
-    "price": 349,
-    "oldPrice": 499,
+    "name": "Booties",
     "category": "Booties",
     "img": "assets/baby-care/booties.png",
     "desc": "Non-slip flexible soft-sole booties ideal for pre-walkers."
   },
   "cartoon-booties": {
-    "name": "Cartoon Booties",
-    "price": 320,
-    "oldPrice": 450,
+    "name": "Booties",
     "category": "Booties",
     "img": "assets/baby-care/booties.png",
     "desc": "Adorable animal-themed booties featuring playful rattle sounds."
   },
   "natural-bottle-wash": {
-    "name": "Natural Bottle Wash",
-    "price": 249,
-    "oldPrice": 349,
+    "name": "Bottle Wash",
     "category": "Bottle Wash",
     "img": "assets/baby-care/bottle_wash.png",
     "desc": "Eco-friendly liquid cleanser washing away milk residue safely."
   },
   "foaming-bottle-wash": {
-    "name": "Foaming Bottle Wash",
-    "price": 289,
-    "oldPrice": 399,
+    "name": "Bottle Wash",
     "category": "Bottle Wash",
     "img": "assets/baby-care/bottle_wash.png",
     "desc": "Instant pump-foam cleanser using minimal water for clean rinse."
   },
   "fruit-based-bottle-wash": {
-    "name": "Fruit Based Bottle Wash",
-    "price": 299,
-    "oldPrice": 429,
+    "name": "Bottle Wash",
     "category": "Bottle Wash",
     "img": "assets/baby-care/bottle_wash.png",
     "desc": "Made with plant-derived, edible ingredients to ensure safety."
   },
   "anti-bacterial-bottle-wash": {
-    "name": "Anti-Bacterial Bottle Wash",
-    "price": 279,
-    "oldPrice": 379,
+    "name": "Bottle Wash",
     "category": "Bottle Wash",
     "img": "assets/baby-care/bottle_wash.png",
     "desc": "Clinically proven to kill 99.9% of bacteria and milk mold."
   },
   "newborn-cap-set": {
-    "name": "Newborn Cap Set",
-    "price": 199,
-    "oldPrice": 299,
+    "name": "Cap Sets",
     "category": "Cap Sets",
     "img": "assets/baby-care/cap_sets.png",
     "desc": "Pack of 3 soft organic cotton caps designed for tiny heads."
   },
   "winter-cap-set": {
-    "name": "Winter Cap Set",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Cap Sets",
     "category": "Cap Sets",
     "img": "assets/baby-care/cap_sets.png",
     "desc": "Knit wool cap set complete with warm ear protection flaps."
   },
   "cotton-cap-set": {
-    "name": "Cotton Cap Set",
-    "price": 220,
-    "oldPrice": 320,
+    "name": "Cap Sets",
     "category": "Cap Sets",
     "img": "assets/baby-care/cap_sets.png",
     "desc": "Lightweight and breathable daily wear baby cotton beanies."
   },
   "printed-cap-set": {
-    "name": "Printed Cap Set",
-    "price": 249,
-    "oldPrice": 349,
+    "name": "Cap Sets",
     "category": "Cap Sets",
     "img": "assets/baby-care/cap_sets.png",
     "desc": "Caps featuring cute pastel prints, stars, and animal details."
   },
   "reusable-cloth-nappies": {
-    "name": "Reusable Cloth Nappies",
-    "price": 349,
-    "oldPrice": 499,
+    "name": "Cloth Nappies",
     "category": "Cloth Nappies",
     "img": "assets/baby-care/cloth_nappies.png",
     "desc": "Washable fabric diapers with adjustable size snap buttons."
   },
   "organic-cloth-nappies": {
-    "name": "Organic Cloth Nappies",
-    "price": 449,
-    "oldPrice": 599,
+    "name": "Cloth Nappies",
     "category": "Cloth Nappies",
     "img": "assets/baby-care/cloth_nappies.png",
     "desc": "100% certified organic cotton nappies suitable for hyper-sensitive skin."
   },
   "soft-cotton-nappies": {
-    "name": "Soft Cotton Nappies",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Cloth Nappies",
     "category": "Cloth Nappies",
     "img": "assets/baby-care/cloth_nappies.png",
     "desc": "Traditional soft muslin cloth nappies with tie-strings."
   },
   "adjustable-nappies": {
-    "name": "Adjustable Nappies",
-    "price": 399,
-    "oldPrice": 549,
+    "name": "Cloth Nappies",
     "category": "Cloth Nappies",
     "img": "assets/baby-care/cloth_nappies.png",
     "desc": "Comfort fit nappies with premium hook-and-loop waist tabs."
   },
   "premium-cotton-towel": {
-    "name": "Premium Cotton Towel",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Cotton Towels",
     "category": "Cotton Towels",
     "img": "assets/baby-care/cotton_towels.png",
     "desc": "High-grade Turkish cotton towel offering premium softness."
   },
   "soft-baby-towel": {
-    "name": "Soft Baby Towel",
-    "price": 399,
-    "oldPrice": 549,
+    "name": "Cotton Towels",
     "category": "Cotton Towels",
     "img": "assets/baby-care/cotton_towels.png",
     "desc": "Extra gentle towels made specifically for delicate post-bath skin."
   },
   "quick-dry-cotton-towel": {
-    "name": "Quick Dry Cotton Towel",
-    "price": 449,
-    "oldPrice": 599,
+    "name": "Cotton Towels",
     "category": "Cotton Towels",
     "img": "assets/baby-care/cotton_towels.png",
     "desc": "Special dry-weave towel absorbing moisture fast and drying rapidly."
   },
   "extra-absorbent-towel": {
-    "name": "Extra Absorbent Towel",
-    "price": 549,
-    "oldPrice": 799,
+    "name": "Cotton Towels",
     "category": "Cotton Towels",
     "img": "assets/baby-care/cotton_towels.png",
     "desc": "Thick double-loop cotton towel absorbing water instantly."
   },
   "premium-cradle-net": {
-    "name": "Premium Cradle Net",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Cradle Net",
     "category": "Cradle Net",
     "img": "assets/bedding/cradle_net.png",
     "desc": "High quality premium cradle net."
   },
   "mosquito-protection-net": {
-    "name": "Mosquito Protection Net",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Cradle Nets",
     "category": "Cradle Nets",
     "img": "assets/baby-care/cradle_nets.png",
     "desc": "Ultra-fine mesh keeping bugs and small mosquitoes away."
   },
   "foldable-cradle-net": {
-    "name": "Foldable Cradle Net",
-    "price": 649,
-    "oldPrice": 899,
+    "name": "Cradle Nets",
     "category": "Cradle Nets",
     "img": "assets/baby-care/cradle_nets.png",
     "desc": "Travel-friendly net with a flexible pop-up frame structure."
   },
   "breathable-cradle-net": {
-    "name": "Breathable Cradle Net",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Cradle Nets",
     "category": "Cradle Nets",
     "img": "assets/baby-care/cradle_nets.png",
     "desc": "Lightweight and airy netting ensuring proper cooling ventilation."
   },
   "wooden-cradle-stick": {
-    "name": "Wooden Cradle Stick",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Cradle Sticks and Ropes",
     "category": "Cradle Sticks and Ropes",
     "img": "assets/baby-care/cradle_sticks_and_ropes.png",
     "desc": "Smooth teakwood stick holding the cradle shape flat and safe."
   },
   "steel-cradle-stick": {
-    "name": "Steel Cradle Stick",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Cradle Sticks and Ropes",
     "category": "Cradle Sticks and Ropes",
     "img": "assets/baby-care/cradle_sticks_and_ropes.png",
     "desc": "Stainless steel rod providing durable weight suspension support."
   },
   "cotton-cradle-rope": {
-    "name": "Cotton Cradle Rope",
-    "price": 349,
-    "oldPrice": 499,
+    "name": "Cradle Sticks and Ropes",
     "category": "Cradle Sticks and Ropes",
     "img": "assets/baby-care/cradle_sticks_and_ropes.png",
     "desc": "Strong 100% cotton rope ensuring chemical-free hanging support."
   },
   "heavy-duty-cradle-rope": {
-    "name": "Heavy Duty Cradle Rope",
-    "price": 449,
-    "oldPrice": 599,
+    "name": "Cradle Sticks and Ropes",
     "category": "Cradle Sticks and Ropes",
     "img": "assets/baby-care/cradle_sticks_and_ropes.png",
     "desc": "Reinforced braided ropes holding up to 25kg safely."
   },
   "aloe-rash-cream": {
-    "name": "Aloe Rash Cream",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Diaper Rash Cream",
     "category": "Diaper Rash Cream",
     "img": "assets/baby-care/diaper_rash_cream.png",
     "desc": "Soothing cream with fresh aloe extract calming skin inflammation."
   },
   "herbal-rash-cream": {
-    "name": "Herbal Rash Cream",
-    "price": 349,
-    "oldPrice": 499,
+    "name": "Diaper Rash Cream",
     "category": "Diaper Rash Cream",
     "img": "assets/baby-care/diaper_rash_cream.png",
     "desc": "Formulated with organic chamomile and calendula oils."
   },
   "sensitive-skin-rash-cream": {
-    "name": "Sensitive Skin Rash Cream",
-    "price": 399,
-    "oldPrice": 549,
+    "name": "Diaper Rash Cream",
     "category": "Diaper Rash Cream",
     "img": "assets/baby-care/diaper_rash_cream.png",
     "desc": "Hypoallergenic cream designed for baby skin prone to allergy."
   },
   "protective-rash-cream": {
-    "name": "Protective Rash Cream",
-    "price": 320,
-    "oldPrice": 450,
+    "name": "Diaper Rash Cream",
     "category": "Diaper Rash Cream",
     "img": "assets/baby-care/diaper_rash_cream.png",
     "desc": "Creates a zinc-oxide protective layer locking out wetness."
   },
   "newborn-diapers": {
-    "name": "Newborn Diapers",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Disposable Diapers",
     "category": "Disposable Diapers",
     "img": "assets/baby-care/disposable_diapers.jpg",
     "desc": "Extra soft tape diapers with a cut-out design for the belly button."
   },
   "premium-dry-diapers": {
-    "name": "Premium Dry Diapers",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Disposable Diapers",
     "category": "Disposable Diapers",
     "img": "assets/baby-care/disposable_diapers.jpg",
     "desc": "Absorbs up to 12 hours with a dry-core bubble sheet lining."
   },
   "overnight-diapers": {
-    "name": "Overnight Diapers",
-    "price": 899,
-    "oldPrice": 1249,
+    "name": "Disposable Diapers",
     "category": "Disposable Diapers",
     "img": "assets/baby-care/disposable_diapers.jpg",
     "desc": "Max-absorption overnight pants preventing leaks in any position."
   },
   "ultra-soft-diapers": {
-    "name": "Ultra Soft Diapers",
-    "price": 649,
-    "oldPrice": 899,
+    "name": "Disposable Diapers",
     "category": "Disposable Diapers",
     "img": "assets/baby-care/disposable_diapers.jpg",
     "desc": "Feather-like diaper pants with air-breathable waistband."
   },
   "cotton-face-napkin": {
-    "name": "Cotton Face Napkin",
-    "price": 149,
-    "oldPrice": 199,
+    "name": "Face Napkin",
     "category": "Face Napkin",
     "img": "assets/baby-care/face_napkin.jpg",
     "desc": "Pack of 5 cotton face napkins ideal for spit-ups and cleaning."
   },
   "printed-face-napkin": {
-    "name": "Printed Face Napkin",
-    "price": 179,
-    "oldPrice": 249,
+    "name": "Face Napkin",
     "category": "Face Napkin",
     "img": "assets/baby-care/face_napkin.jpg",
     "desc": "Colourful printed napkins showing child-friendly cartoon elements."
   },
   "soft-face-cloth": {
-    "name": "Soft Face Cloth",
-    "price": 199,
-    "oldPrice": 299,
+    "name": "Face Napkin",
     "category": "Face Napkin",
     "img": "assets/baby-care/face_napkin.jpg",
     "desc": "Double-layered super soft muslin face cloths for bath time."
   },
   "baby-cleaning-napkin": {
-    "name": "Baby Cleaning Napkin",
-    "price": 160,
-    "oldPrice": 220,
+    "name": "Face Napkin",
     "category": "Face Napkin",
     "img": "assets/baby-care/face_napkin.jpg",
     "desc": "Highly durable cloth wipes designed for face and hands wipe."
   },
   "coconut-hair-oil": {
-    "name": "Coconut Hair Oil",
-    "price": 199,
-    "oldPrice": 299,
+    "name": "Hair Oil",
     "category": "Hair Oil",
     "img": "assets/baby-care/hair_oil.jpg",
     "desc": "Cold-pressed virgin coconut oil moisturizing baby's scalp."
   },
   "herbal-hair-oil": {
-    "name": "Herbal Hair Oil",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Hair Oil",
     "category": "Hair Oil",
     "img": "assets/baby-care/hair_oil.jpg",
     "desc": "Infused with bhringraj and amla supporting healthy hair root growth."
   },
   "almond-hair-oil": {
-    "name": "Almond Hair Oil",
-    "price": 249,
-    "oldPrice": 349,
+    "name": "Hair Oil",
     "category": "Hair Oil",
     "img": "assets/baby-care/hair_oil.jpg",
     "desc": "Sweet almond oil containing Vitamin E keeping hair roots nourished."
   },
   "growth-care-hair-oil": {
-    "name": "Growth Care Hair Oil",
-    "price": 329,
-    "oldPrice": 449,
+    "name": "Hair Oil",
     "category": "Hair Oil",
     "img": "assets/baby-care/hair_oil.jpg",
     "desc": "Mild natural seed oil blend promoting soft, healthy baby hair."
   },
   "animal-hooded-towel": {
-    "name": "Animal Hooded Towel",
-    "price": 449,
-    "oldPrice": 599,
+    "name": "Hooded Towels",
     "category": "Hooded Towels",
     "img": "assets/baby-care/hooded_towels.jpg",
     "desc": "Cute hooded bath towel showing animal ears and embroidery details."
   },
   "cotton-hooded-towel": {
-    "name": "Cotton Hooded Towel",
-    "price": 399,
-    "oldPrice": 549,
+    "name": "Cotton Towels",
     "category": "Cotton Towels",
     "img": "assets/baby-care/hooded_towels.jpg",
     "desc": "Soft cotton terry hood keeping baby's head warm post-bath."
   },
   "soft-hooded-towel": {
-    "name": "Soft Hooded Towel",
-    "price": 420,
-    "oldPrice": 579,
+    "name": "Hooded Towels",
     "category": "Hooded Towels",
     "img": "assets/baby-care/hooded_towels.jpg",
     "desc": "Extremely plush, fine loops drying skin without friction irritation."
   },
   "premium-hooded-towel": {
-    "name": "Premium Hooded Towel",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Hooded Towels",
     "category": "Hooded Towels",
     "img": "assets/baby-care/hooded_towels.jpg",
     "desc": "High-grade organic cotton hood towel presented in gift wrap."
   },
   "baby-laundry-wash": {
-    "name": "Baby Laundry Wash",
-    "price": 349,
-    "oldPrice": 499,
+    "name": "Laundry Wash",
     "category": "Laundry Wash",
     "img": "assets/baby-care/laundry_wash.jpg",
     "desc": "Gentle detergent removing milk spills and mud stains effectively."
   },
   "liquid-laundry-wash": {
-    "name": "Liquid Laundry Wash",
-    "price": 399,
-    "oldPrice": 549,
+    "name": "Laundry Wash",
     "category": "Laundry Wash",
     "img": "assets/baby-care/laundry_wash.jpg",
     "desc": "Anti-bacterial liquid wash protecting fabric softness and colors."
   },
   "organic-laundry-wash": {
-    "name": "Organic Laundry Wash",
-    "price": 449,
-    "oldPrice": 599,
+    "name": "Laundry Wash",
     "category": "Laundry Wash",
     "img": "assets/baby-care/laundry_wash.jpg",
     "desc": "100% plant-based organic soap nut wash without synthetic chemicals."
   },
   "gentle-fabric-wash": {
-    "name": "Gentle Fabric Wash",
-    "price": 320,
-    "oldPrice": 420,
+    "name": "Laundry Wash",
     "category": "Laundry Wash",
     "img": "assets/baby-care/laundry_wash.jpg",
     "desc": "Mild fabric conditioner keeping baby clothes static-free and soft."
   },
   "coconut-massage-oil": {
-    "name": "Coconut Massage Oil",
-    "price": 249,
-    "oldPrice": 349,
+    "name": "Massage Oil",
     "category": "Massage Oil",
     "img": "assets/baby-care/massage_oil.jpg",
     "desc": "Pure edible-grade coconut oil ideal for skin massage."
   },
   "herbal-massage-oil": {
-    "name": "Herbal Massage Oil",
-    "price": 349,
-    "oldPrice": 499,
+    "name": "Massage Oil",
     "category": "Massage Oil",
     "img": "assets/baby-care/massage_oil.jpg",
     "desc": "Infused with soothing olive and sesame oils relaxing muscles."
   },
   "almond-massage-oil": {
-    "name": "Almond Massage Oil",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Massage Oil",
     "category": "Massage Oil",
     "img": "assets/baby-care/massage_oil.jpg",
     "desc": "Sweet almond oil enriching skin barrier health and suppleness."
   },
   "nourishing-massage-oil": {
-    "name": "Nourishing Massage Oil",
-    "price": 320,
-    "oldPrice": 450,
+    "name": "Massage Oil",
     "category": "Massage Oil",
     "img": "assets/baby-care/massage_oil.jpg",
     "desc": "Hypoallergenic daily body rub oil promoting skin glow."
   },
   "cotton-mittens": {
-    "name": "Cotton Mittens",
-    "price": 120,
-    "oldPrice": 199,
+    "name": "Mittens",
     "category": "Mittens",
     "img": "assets/baby-care/mittens.jpg",
     "desc": "Light cotton mittens preventing newborn babies from scratching skin."
   },
   "winter-mittens": {
-    "name": "Winter Mittens",
-    "price": 180,
-    "oldPrice": 249,
+    "name": "Mittens",
     "category": "Mittens",
     "img": "assets/baby-care/mittens.jpg",
     "desc": "Fleece wool mittens keeping little hands safe from winter chills."
   },
   "anti-scratch-mittens": {
-    "name": "Anti-Scratch Mittens",
-    "price": 149,
-    "oldPrice": 199,
+    "name": "Mittens",
     "category": "Mittens",
     "img": "assets/baby-care/mittens.jpg",
     "desc": "Seamless wrist-elastic mittens staying securely on active hands."
   },
   "printed-mittens": {
-    "name": "Printed Mittens",
-    "price": 130,
-    "oldPrice": 189,
+    "name": "Mittens",
     "category": "Mittens",
     "img": "assets/baby-care/mittens.jpg",
     "desc": "Colorful mittens featuring sweet prints matching cap sets."
   },
   "foldable-mosquito-net": {
-    "name": "Foldable Mosquito Net",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Mosquitoes Net",
     "category": "Mosquitoes Net",
     "img": "assets/baby-care/mosquitoes_net.jpg",
     "desc": "Easy pop-up folding protective canopy net for cribs."
   },
   "baby-bed-mosquito-net": {
-    "name": "Baby Bed Mosquito Net",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Mosquitoes Net",
     "category": "Mosquitoes Net",
     "img": "assets/baby-care/mosquitoes_net.jpg",
     "desc": "Comes with an attached padded mattress bed and soft pillow."
   },
   "portable-mosquito-net": {
-    "name": "Portable Mosquito Net",
-    "price": 549,
-    "oldPrice": 799,
+    "name": "Mosquitoes Net",
     "category": "Mosquitoes Net",
     "img": "assets/baby-care/mosquitoes_net.jpg",
     "desc": "Compact travel mesh tent net packing down into a small bag."
   },
   "premium-protection-net": {
-    "name": "Premium Protection Net",
-    "price": 649,
-    "oldPrice": 899,
+    "name": "Mosquitoes Net",
     "category": "Mosquitoes Net",
     "img": "assets/baby-care/mosquitoes_net.jpg",
     "desc": "Extra tall structural net draping completely over large baby beds."
   },
   "printed-muslin-dress": {
-    "name": "Printed Muslin Dress",
-    "price": 699,
-    "oldPrice": 999,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-care/muslin_dress.jpg",
     "desc": "Charming printed summer frock made of pure muslin cotton."
   },
   "floral-muslin-dress": {
-    "name": "Floral Muslin Dress",
-    "price": 749,
-    "oldPrice": 1099,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-care/muslin_dress.jpg",
     "desc": "Sweet floral prints and embroidery detailing perfect for outings."
   },
   "soft-muslin-dress": {
-    "name": "Soft Muslin Dress",
-    "price": 649,
-    "oldPrice": 899,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-care/muslin_dress.jpg",
     "desc": "Breathable double-layered muslin dress ideal for humid days."
   },
   "premium-muslin-outfit": {
-    "name": "Premium Muslin Outfit",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Muslin Dress",
     "category": "Muslin Dress",
     "img": "assets/baby-care/muslin_dress.jpg",
     "desc": "Two-piece dress and bloomer coordinate set with designer laces."
   },
   "organic-cotton-dress": {
-    "name": "Organic Cotton Dress",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-care/organic_dress.jpg",
     "desc": "100% GOTS certified organic dress avoiding synthetic dyes."
   },
   "eco-friendly-dress": {
-    "name": "Eco Friendly Dress",
-    "price": 849,
-    "oldPrice": 1199,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-care/organic_dress.jpg",
     "desc": "Ethically sourced dress made using natural fabric blends."
   },
   "organic-baby-wear": {
-    "name": "Organic Baby Wear",
-    "price": 699,
-    "oldPrice": 999,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-care/organic_dress.jpg",
     "desc": "Super-soft play dress ensuring chemical-free comfort all day."
   },
   "premium-organic-outfit": {
-    "name": "Premium Organic Outfit",
-    "price": 999,
-    "oldPrice": 1399,
+    "name": "Organic Dress",
     "category": "Organic Dress",
     "img": "assets/baby-care/organic_dress.jpg",
     "desc": "Elegant designer organic cotton dress featuring cute ruffles."
   },
   "herbal-baby-powder": {
-    "name": "Herbal Baby Powder",
-    "price": 199,
-    "oldPrice": 299,
+    "name": "Baby Powder",
     "category": "Baby Powder",
     "img": "assets/baby-care/powder.jpg",
     "desc": "Enriched with khus and sandalwood oil absorbing moisture naturally."
   },
   "talc-free-powder": {
-    "name": "Talc Free Powder",
-    "price": 249,
-    "oldPrice": 349,
+    "name": "Baby Powder",
     "category": "Baby Powder",
     "img": "assets/baby-care/powder.jpg",
     "desc": "Made with safe cornstarch powder base avoiding harmful talc dust."
   },
   "sensitive-skin-powder": {
-    "name": "Sensitive Skin Powder",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Baby Powder",
     "category": "Baby Powder",
     "img": "assets/baby-care/powder.jpg",
     "desc": "Hypoallergenic cooling powder soothing heat rashes on folds."
   },
   "daily-care-powder": {
-    "name": "Daily Care Powder",
-    "price": 180,
-    "oldPrice": 250,
+    "name": "Baby Powder",
     "category": "Baby Powder",
     "img": "assets/baby-care/powder.jpg",
     "desc": "Keeps baby smelling fresh and feeling dry throughout the active day."
   },
   "waterproof-quick-dry-sheet": {
-    "name": "Waterproof Quick Dry Sheet",
-    "price": 349,
-    "oldPrice": 499,
+    "name": "Quick Dry Sheets",
     "category": "Quick Dry Sheets",
     "img": "assets/baby-care/quick_dry_sheets.jpg",
     "desc": "Absorbs water instantly while blocking mattress seepage."
   },
   "premium-dry-sheet": {
-    "name": "Premium Dry Sheet",
-    "price": 449,
-    "oldPrice": 599,
+    "name": "Quick Dry Sheets",
     "category": "Quick Dry Sheets",
     "img": "assets/baby-care/quick_dry_sheets.jpg",
     "desc": "Velvet feel fabric layer offering high-comfort sleeping surface."
   },
   "reusable-dry-sheet": {
-    "name": "Reusable Dry Sheet",
-    "price": 399,
-    "oldPrice": 549,
+    "name": "Quick Dry Sheets",
     "category": "Quick Dry Sheets",
     "img": "assets/baby-care/quick_dry_sheets.jpg",
     "desc": "Washable dry sheet retaining absorbency over 50 wash cycles."
   },
   "travel-dry-sheet": {
-    "name": "Travel Dry Sheet",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Quick Dry Sheets",
     "category": "Quick Dry Sheets",
     "img": "assets/baby-care/quick_dry_sheets.jpg",
     "desc": "Compact medium size sheet perfect for diapers change outdoors."
   },
   "adjustable-reusable-diaper": {
-    "name": "Adjustable Reusable Diaper",
-    "price": 399,
-    "oldPrice": 549,
+    "name": "Reusable Diapers",
     "category": "Reusable Diapers",
     "img": "assets/baby-care/reusable_diapers.jpg",
     "desc": "Grow-with-baby cloth diaper with adjustable sizing buttons."
   },
   "washable-diaper": {
-    "name": "Washable Diaper",
-    "price": 349,
-    "oldPrice": 499,
+    "name": "Reusable Diapers",
     "category": "Reusable Diapers",
     "img": "assets/baby-care/reusable_diapers.jpg",
     "desc": "Leak-free outer shell diaper featuring a highly absorbent insert pad."
   },
   "organic-reusable-diaper": {
-    "name": "Organic Reusable Diaper",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Reusable Diapers",
     "category": "Reusable Diapers",
     "img": "assets/baby-care/reusable_diapers.jpg",
     "desc": "Lined with organic cotton fleece preventing diaper friction rashes."
   },
   "eco-friendly-diaper": {
-    "name": "Eco Friendly Diaper",
-    "price": 449,
-    "oldPrice": 599,
+    "name": "Reusable Diapers",
     "category": "Reusable Diapers",
     "img": "assets/baby-care/reusable_diapers.jpg",
     "desc": "Saves waste landfill by offering a completely washable diaper cycle."
   },
   "bath-towel": {
-    "name": "Bath Towel",
-    "price": 399,
-    "oldPrice": 549,
+    "name": "Towels",
     "category": "Towels",
     "img": "assets/baby-care/towels.jpg",
     "desc": "Thick large-size cotton towel wrapped around baby comfortably."
   },
   "baby-towel": {
-    "name": "Baby Towel",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Towels",
     "category": "Towels",
     "img": "assets/baby-care/towels.jpg",
     "desc": "Gentle daily wipe bath towel crafted for baby skin hygiene."
   },
   "soft-towel": {
-    "name": "Soft Towel",
-    "price": 349,
-    "oldPrice": 499,
+    "name": "Towels",
     "category": "Towels",
     "img": "assets/baby-care/towels.jpg",
     "desc": "Lightweight and non-irritating loops absorbing moisture cleanly."
   },
   "premium-towel": {
-    "name": "Premium Towel",
-    "price": 449,
-    "oldPrice": 599,
+    "name": "Towels",
     "category": "Towels",
     "img": "assets/baby-care/towels.jpg",
     "desc": "Luxury cotton towel designed with attractive satin border details."
   },
   "herbal-baby-soap": {
-    "name": "Herbal Baby Soap",
-    "price": 149,
-    "oldPrice": 199,
+    "name": "Baby Soap",
     "category": "Baby Soap",
     "img": "assets/baby-care/baby_soap.jpg",
     "desc": "Infused with neem and tulsi extracts protecting skin naturally."
   },
   "milk-baby-soap": {
-    "name": "Milk Baby Soap",
-    "price": 169,
-    "oldPrice": 229,
+    "name": "Baby Soap",
     "category": "Baby Soap",
     "img": "assets/baby-care/baby_soap.jpg",
     "desc": "Deeply moisturizing soap bar made with rich goat milk extracts."
   },
   "moisturizing-baby-soap": {
-    "name": "Moisturizing Baby Soap",
-    "price": 179,
-    "oldPrice": 249,
+    "name": "Baby Soap",
     "category": "Baby Soap",
     "img": "assets/baby-care/baby_soap.jpg",
     "desc": "Enriched with honey and almond oil locking skin softness."
   },
   "sensitive-skin-soap": {
-    "name": "Sensitive Skin Soap",
-    "price": 199,
-    "oldPrice": 279,
+    "name": "Baby Soap",
     "category": "Baby Soap",
     "img": "assets/baby-care/baby_soap.jpg",
     "desc": "pH-balanced fragrance-free soap recommended by pediatricians."
   },
   "standard-corner-guards": {
-    "name": "Standard Corner Guards",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Corner Guards",
     "category": "Corner Guards",
     "img": "assets/baby-safety/corner_guards.png",
     "desc": "Protect your little one from sharp edges with our premium silicone Corner Guards. Easy to install with strong adhesive that won't damage your furniture. Includes 8 pieces.",
@@ -5634,9 +4228,7 @@ const PRODUCT_DB = {
     ]
   },
   "premium-corner-guards": {
-    "name": "Premium Corner Guards",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Corner Guards",
     "category": "Corner Guards",
     "img": "assets/baby-safety/corner_guards.png",
     "desc": "Ultra-thick, high-density foam corner protectors designed for maximum impact absorption. Perfect for glass tables and sharp wooden corners.",
@@ -5648,9 +4240,7 @@ const PRODUCT_DB = {
     ]
   },
   "advanced-corner-guards": {
-    "name": "Advanced Corner Guards",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Corner Guards",
     "category": "Corner Guards",
     "img": "assets/baby-safety/corner_guards.png",
     "desc": "Full edge and corner protection roll. Cut to fit any table size. Provides continuous protection along entire edges, not just corners.",
@@ -5662,9 +4252,7 @@ const PRODUCT_DB = {
     ]
   },
   "compact-corner-guards": {
-    "name": "Compact Corner Guards",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Corner Guards",
     "category": "Corner Guards",
     "img": "assets/baby-safety/corner_guards.png",
     "desc": "Minimalist, small-profile corner guards that blend seamlessly with modern furniture while still offering essential bump protection.",
@@ -5676,9 +4264,7 @@ const PRODUCT_DB = {
     ]
   },
   "standard-safety-gates": {
-    "name": "Standard Safety Gates",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Safety Gates",
     "category": "Safety Gates",
     "img": "assets/baby-care/cradle_nets.png",
     "desc": "Sturdy metal safety gate to restrict access to stairs and dangerous rooms. Features a simple one-handed operation lock.",
@@ -5690,9 +4276,7 @@ const PRODUCT_DB = {
     ]
   },
   "premium-safety-gates": {
-    "name": "Premium Safety Gates",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Safety Gates",
     "category": "Safety Gates",
     "img": "assets/baby-care/cradle_nets.png",
     "desc": "Auto-close wooden safety gate with an elegant design that fits your home decor. Features a dual-locking mechanism for extra security.",
@@ -5704,9 +4288,7 @@ const PRODUCT_DB = {
     ]
   },
   "advanced-safety-gates": {
-    "name": "Advanced Safety Gates",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Safety Gates",
     "category": "Safety Gates",
     "img": "assets/baby-care/cradle_nets.png",
     "desc": "Extra-wide retractable mesh safety gate. Perfect for wide doorways or open floor plans. Rolls up invisibly when not in use.",
@@ -5718,9 +4300,7 @@ const PRODUCT_DB = {
     ]
   },
   "compact-safety-gates": {
-    "name": "Compact Safety Gates",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Safety Gates",
     "category": "Safety Gates",
     "img": "assets/baby-care/cradle_nets.png",
     "desc": "Portable travel safety gate. Lightweight and easy to pack, pressure mounts instantly in any standard doorway without tools.",
@@ -5732,9 +4312,7 @@ const PRODUCT_DB = {
     ]
   },
   "standard-cabinet-locks": {
-    "name": "Standard Cabinet Locks",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Cabinet Locks",
     "category": "Cabinet Locks",
     "img": "assets/baby-care/diaper_rash_cream.png",
     "desc": "Keep hazardous cleaning supplies and medicines out of reach. Invisible magnetic locks install inside cabinets without drilling.",
@@ -5746,9 +4324,7 @@ const PRODUCT_DB = {
     ]
   },
   "premium-cabinet-locks": {
-    "name": "Premium Cabinet Locks",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Cabinet Locks",
     "category": "Cabinet Locks",
     "img": "assets/baby-care/diaper_rash_cream.png",
     "desc": "Heavy-duty strap locks for refrigerators, ovens, and cabinets. Features a dual-button release system that toddlers can't figure out.",
@@ -5760,9 +4336,7 @@ const PRODUCT_DB = {
     ]
   },
   "advanced-cabinet-locks": {
-    "name": "Advanced Cabinet Locks",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Cabinet Locks",
     "category": "Cabinet Locks",
     "img": "assets/baby-care/diaper_rash_cream.png",
     "desc": "Smart Bluetooth cabinet lock. Secure your most dangerous cabinets and unlock them via your smartphone.",
@@ -5774,9 +4348,7 @@ const PRODUCT_DB = {
     ]
   },
   "compact-cabinet-locks": {
-    "name": "Compact Cabinet Locks",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Cabinet Locks",
     "category": "Cabinet Locks",
     "img": "assets/baby-care/diaper_rash_cream.png",
     "desc": "Simple U-shaped slide locks for mushroom-shaped cabinet knobs or D-shaped handles. No adhesive or tools required.",
@@ -5788,9 +4360,7 @@ const PRODUCT_DB = {
     ]
   },
   "standard-outlet-covers": {
-    "name": "Standard Outlet Covers",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Outlet Covers",
     "category": "Outlet Covers",
     "img": "assets/baby-care/powder.jpg",
     "desc": "Prevent electrical shocks with our tight-fitting outlet plug covers. Difficult for children to remove but easy for adults with the included key.",
@@ -5802,9 +4372,7 @@ const PRODUCT_DB = {
     ]
   },
   "premium-outlet-covers": {
-    "name": "Premium Outlet Covers",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Outlet Covers",
     "category": "Outlet Covers",
     "img": "assets/baby-care/powder.jpg",
     "desc": "Self-closing outlet covers. Replaces your existing wall plate and automatically snaps shut when a plug is removed.",
@@ -5816,9 +4384,7 @@ const PRODUCT_DB = {
     ]
   },
   "advanced-outlet-covers": {
-    "name": "Advanced Outlet Covers",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Outlet Covers",
     "category": "Outlet Covers",
     "img": "assets/baby-care/powder.jpg",
     "desc": "Extra-large outlet box cover. Encloses the entire outlet and plugs, preventing children from pulling out cords.",
@@ -5830,9 +4396,7 @@ const PRODUCT_DB = {
     ]
   },
   "compact-outlet-covers": {
-    "name": "Compact Outlet Covers",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Outlet Covers",
     "category": "Outlet Covers",
     "img": "assets/baby-care/powder.jpg",
     "desc": "Clear, nearly invisible plug covers. Blends into your outlets to avoid drawing a toddler's attention.",
@@ -5844,9 +4408,7 @@ const PRODUCT_DB = {
     ]
   },
   "standard-baby-monitor": {
-    "name": "Standard Baby Monitor",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Baby Monitor",
     "category": "Baby Monitor",
     "img": "assets/baby-care/bottle_wash.png",
     "desc": "Reliable audio baby monitor with a 300-meter range. Features a sensitive microphone and visual sound level indicators.",
@@ -5858,9 +4420,7 @@ const PRODUCT_DB = {
     ]
   },
   "premium-baby-monitor": {
-    "name": "Premium Baby Monitor",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Baby Monitor",
     "category": "Baby Monitor",
     "img": "assets/baby-care/bottle_wash.png",
     "desc": "High-definition video baby monitor with a 5-inch color display. Includes night vision and temperature monitoring.",
@@ -5872,9 +4432,7 @@ const PRODUCT_DB = {
     ]
   },
   "advanced-baby-monitor": {
-    "name": "Advanced Baby Monitor",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Baby Monitor",
     "category": "Baby Monitor",
     "img": "assets/baby-care/bottle_wash.png",
     "desc": "Smart Wi-Fi baby monitor. Watch your baby from anywhere in the world on your smartphone in 1080p HD. Includes sleep tracking algorithms.",
@@ -5886,9 +4444,7 @@ const PRODUCT_DB = {
     ]
   },
   "compact-baby-monitor": {
-    "name": "Compact Baby Monitor",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Baby Monitor",
     "category": "Baby Monitor",
     "img": "assets/baby-care/bottle_wash.png",
     "desc": "Mini travel audio monitor. Extremely compact design with USB charging, perfect for vacations and hotel stays.",
@@ -5900,9 +4456,7 @@ const PRODUCT_DB = {
     ]
   },
   "standard-bed-rails": {
-    "name": "Standard Bed Rails",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Bed Rails",
     "category": "Bed Rails",
     "img": "assets/baby-care/mosquitoes_net.jpg",
     "desc": "Prevent nighttime falls with our sturdy mesh bed rail. Folds down easily during the day for bed making.",
@@ -5914,9 +4468,7 @@ const PRODUCT_DB = {
     ]
   },
   "premium-bed-rails": {
-    "name": "Premium Bed Rails",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Bed Rails",
     "category": "Bed Rails",
     "img": "assets/baby-care/mosquitoes_net.jpg",
     "desc": "Extra-long and extra-tall safety rail. Perfect for active sleepers and thicker mattresses.",
@@ -5928,9 +4480,7 @@ const PRODUCT_DB = {
     ]
   },
   "advanced-bed-rails": {
-    "name": "Advanced Bed Rails",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Bed Rails",
     "category": "Bed Rails",
     "img": "assets/baby-care/mosquitoes_net.jpg",
     "desc": "Inflatable bed bumper rail. Slips under the fitted sheet to create a soft, gentle barrier. Ideal for transitioning to a big kid bed.",
@@ -5942,9 +4492,7 @@ const PRODUCT_DB = {
     ]
   },
   "compact-bed-rails": {
-    "name": "Compact Bed Rails",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Bed Rails",
     "category": "Bed Rails",
     "img": "assets/baby-care/mosquitoes_net.jpg",
     "desc": "Foam bed bumper. A soft foam wedge that stays securely under the sheets. Lightweight and silent to install.",
@@ -5956,2090 +4504,1568 @@ const PRODUCT_DB = {
     ]
   },
   "standard-baby-panties": {
-    "name": "Standard Baby Panties",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Baby Panties",
     "category": "Baby Panties",
     "img": "assets/baby-dress/baby_panties.png",
     "desc": "Comfortable and essential baby panties for daily use."
   },
   "premium-baby-panties": {
-    "name": "Premium Baby Panties",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Baby Panties",
     "category": "Baby Panties",
     "img": "assets/baby-dress/baby_panties.png",
     "desc": "High quality premium baby panties."
   },
   "organic-baby-panties": {
-    "name": "Organic Baby Panties",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Baby Panties",
     "category": "Baby Panties",
     "img": "assets/baby-dress/baby_panties.png",
     "desc": "100% organic cotton baby panties."
   },
   "printed-baby-panties": {
-    "name": "Printed Baby Panties",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Baby Panties",
     "category": "Baby Panties",
     "img": "assets/baby-dress/baby_panties.png",
     "desc": "Beautifully printed baby panties."
   },
   "standard-boy-dress": {
-    "name": "Standard Boy Dress",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/boy_dress.png",
     "desc": "Comfortable and essential boy dress for daily use."
   },
   "premium-boy-dress": {
-    "name": "Premium Boy Dress",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/boy_dress.png",
     "desc": "High quality premium boy dress."
   },
   "organic-boy-dress": {
-    "name": "Organic Boy Dress",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/boy_dress.png",
     "desc": "100% organic cotton boy dress."
   },
   "printed-boy-dress": {
-    "name": "Printed Boy Dress",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Boy Dress",
     "category": "Boy Dress",
     "img": "assets/baby-dress/boy_dress.png",
     "desc": "Beautifully printed boy dress."
   },
   "standard-diaper-panties": {
-    "name": "Standard Diaper Panties",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Diaper Panties",
     "category": "Diaper Panties",
     "img": "assets/baby-dress/diaper_panties.png",
     "desc": "Comfortable and essential diaper panties for daily use."
   },
   "premium-diaper-panties": {
-    "name": "Premium Diaper Panties",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Diaper Panties",
     "category": "Diaper Panties",
     "img": "assets/baby-dress/diaper_panties.png",
     "desc": "High quality premium diaper panties."
   },
   "organic-diaper-panties": {
-    "name": "Organic Diaper Panties",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Diaper Panties",
     "category": "Diaper Panties",
     "img": "assets/baby-dress/diaper_panties.png",
     "desc": "100% organic cotton diaper panties."
   },
   "printed-diaper-panties": {
-    "name": "Printed Diaper Panties",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Diaper Panties",
     "category": "Diaper Panties",
     "img": "assets/baby-dress/diaper_panties.png",
     "desc": "Beautifully printed diaper panties."
   },
   "standard-front-open-top": {
-    "name": "Standard Front Open Top",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/front_open_top.png",
     "desc": "Comfortable and essential front open top for daily use."
   },
   "premium-front-open-top": {
-    "name": "Premium Front Open Top",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/front_open_top.png",
     "desc": "High quality premium front open top."
   },
   "organic-front-open-top": {
-    "name": "Organic Front Open Top",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/front_open_top.png",
     "desc": "100% organic cotton front open top."
   },
   "printed-front-open-top": {
-    "name": "Printed Front Open Top",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Front Open Top",
     "category": "Front Open Top",
     "img": "assets/baby-dress/front_open_top.png",
     "desc": "Beautifully printed front open top."
   },
   "standard-full-pants": {
-    "name": "Standard Full Pants",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/full_pants.png",
     "desc": "Comfortable and essential full pants for daily use."
   },
   "premium-full-pants": {
-    "name": "Premium Full Pants",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/full_pants.png",
     "desc": "High quality premium full pants."
   },
   "organic-full-pants": {
-    "name": "Organic Full Pants",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/full_pants.png",
     "desc": "100% organic cotton full pants."
   },
   "printed-full-pants": {
-    "name": "Printed Full Pants",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Full Pants",
     "category": "Full Pants",
     "img": "assets/baby-dress/full_pants.png",
     "desc": "Beautifully printed full pants."
   },
   "standard-full-pant-sets": {
-    "name": "Standard Full Pant Sets",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Full Pant Sets",
     "category": "Full Pant Sets",
     "img": "assets/baby-dress/full_pant_sets.png",
     "desc": "Comfortable and essential full pant sets for daily use."
   },
   "premium-full-pant-sets": {
-    "name": "Premium Full Pant Sets",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Full Pant Sets",
     "category": "Full Pant Sets",
     "img": "assets/baby-dress/full_pant_sets.png",
     "desc": "High quality premium full pant sets."
   },
   "organic-full-pant-sets": {
-    "name": "Organic Full Pant Sets",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Full Pant Sets",
     "category": "Full Pant Sets",
     "img": "assets/baby-dress/full_pant_sets.png",
     "desc": "100% organic cotton full pant sets."
   },
   "printed-full-pant-sets": {
-    "name": "Printed Full Pant Sets",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Full Pant Sets",
     "category": "Full Pant Sets",
     "img": "assets/baby-dress/full_pant_sets.png",
     "desc": "Beautifully printed full pant sets."
   },
   "standard-full-romper": {
-    "name": "Standard Full Romper",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Full Romper",
     "category": "Full Romper",
     "img": "assets/baby-dress/full_romper.png",
     "desc": "Comfortable and essential full romper for daily use."
   },
   "premium-full-romper": {
-    "name": "Premium Full Romper",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Full Romper",
     "category": "Full Romper",
     "img": "assets/baby-dress/full_romper.png",
     "desc": "High quality premium full romper."
   },
   "organic-full-romper": {
-    "name": "Organic Full Romper",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Full Romper",
     "category": "Full Romper",
     "img": "assets/baby-dress/full_romper.png",
     "desc": "100% organic cotton full romper."
   },
   "printed-full-romper": {
-    "name": "Printed Full Romper",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Full Romper",
     "category": "Full Romper",
     "img": "assets/baby-dress/full_romper.png",
     "desc": "Beautifully printed full romper."
   },
   "standard-girl-dress": {
-    "name": "Standard Girl Dress",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/girl_dress.png",
     "desc": "Comfortable and essential girl dress for daily use."
   },
   "premium-girl-dress": {
-    "name": "Premium Girl Dress",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/girl_dress.png",
     "desc": "High quality premium girl dress."
   },
   "organic-girl-dress": {
-    "name": "Organic Girl Dress",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/girl_dress.png",
     "desc": "100% organic cotton girl dress."
   },
   "printed-girl-dress": {
-    "name": "Printed Girl Dress",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Girl Dress",
     "category": "Girl Dress",
     "img": "assets/baby-dress/girl_dress.png",
     "desc": "Beautifully printed girl dress."
   },
   "standard-half-romper": {
-    "name": "Standard Half Romper",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Half Romper",
     "category": "Half Romper",
     "img": "assets/baby-dress/half_romper.png",
     "desc": "Comfortable and essential half romper for daily use."
   },
   "premium-half-romper": {
-    "name": "Premium Half Romper",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Half Romper",
     "category": "Half Romper",
     "img": "assets/baby-dress/half_romper.png",
     "desc": "High quality premium half romper."
   },
   "organic-half-romper": {
-    "name": "Organic Half Romper",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Half Romper",
     "category": "Half Romper",
     "img": "assets/baby-dress/half_romper.png",
     "desc": "100% organic cotton half romper."
   },
   "printed-half-romper": {
-    "name": "Printed Half Romper",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Half Romper",
     "category": "Half Romper",
     "img": "assets/baby-dress/half_romper.png",
     "desc": "Beautifully printed half romper."
   },
   "standard-thermal-wear": {
-    "name": "Standard Thermal Wear",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/thermal_wear.png",
     "desc": "Comfortable and essential thermal wear for daily use."
   },
   "premium-thermal-wear": {
-    "name": "Premium Thermal Wear",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/thermal_wear.png",
     "desc": "High quality premium thermal wear."
   },
   "organic-thermal-wear": {
-    "name": "Organic Thermal Wear",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/thermal_wear.png",
     "desc": "100% organic cotton thermal wear."
   },
   "printed-thermal-wear": {
-    "name": "Printed Thermal Wear",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Thermal Wear",
     "category": "Thermal Wear",
     "img": "assets/baby-dress/thermal_wear.png",
     "desc": "Beautifully printed thermal wear."
   },
   "standard-resuable-diaper": {
-    "name": "Standard Resuable Diaper",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Resuable Diaper",
     "category": "Resuable Diaper",
     "img": "assets/baby-care/resuable_diaper.jpg",
     "desc": "Comfortable and essential resuable diaper for daily use."
   },
   "premium-resuable-diaper": {
-    "name": "Premium Resuable Diaper",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Resuable Diaper",
     "category": "Resuable Diaper",
     "img": "assets/baby-care/resuable_diaper.jpg",
     "desc": "High quality premium resuable diaper."
   },
   "organic-resuable-diaper": {
-    "name": "Organic Resuable Diaper",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Resuable Diaper",
     "category": "Resuable Diaper",
     "img": "assets/baby-care/resuable_diaper.jpg",
     "desc": "100% organic cotton resuable diaper."
   },
   "printed-resuable-diaper": {
-    "name": "Printed Resuable Diaper",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Resuable Diaper",
     "category": "Resuable Diaper",
     "img": "assets/baby-care/resuable_diaper.jpg",
     "desc": "Beautifully printed resuable diaper."
   },
   "standard-carry-bed": {
-    "name": "Standard Carry Bed",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Carry Bed",
     "category": "Carry Bed",
     "img": "assets/bedding/carry_bed.png",
     "desc": "Comfortable and essential carry bed for daily use."
   },
   "premium-carry-bed": {
-    "name": "Premium Carry Bed",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Carry Bed",
     "category": "Carry Bed",
     "img": "assets/bedding/carry_bed.png",
     "desc": "High quality premium carry bed."
   },
   "organic-carry-bed": {
-    "name": "Organic Carry Bed",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Carry Bed",
     "category": "Carry Bed",
     "img": "assets/bedding/carry_bed.png",
     "desc": "100% organic cotton carry bed."
   },
   "printed-carry-bed": {
-    "name": "Printed Carry Bed",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Carry Bed",
     "category": "Carry Bed",
     "img": "assets/bedding/carry_bed.png",
     "desc": "Beautifully printed carry bed."
   },
   "standard-cradle-net": {
-    "name": "Standard Cradle Net",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Cradle Net",
     "category": "Cradle Net",
     "img": "assets/bedding/cradle_net.png",
     "desc": "Comfortable and essential cradle net for daily use."
   },
   "organic-cradle-net": {
-    "name": "Organic Cradle Net",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Cradle Net",
     "category": "Cradle Net",
     "img": "assets/bedding/cradle_net.png",
     "desc": "100% organic cotton cradle net."
   },
   "printed-cradle-net": {
-    "name": "Printed Cradle Net",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Cradle Net",
     "category": "Cradle Net",
     "img": "assets/bedding/cradle_net.png",
     "desc": "Beautifully printed cradle net."
   },
   "standard-neck-pillow": {
-    "name": "Standard Neck Pillow",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Neck Pillow",
     "category": "Neck Pillow",
     "img": "assets/bedding/neck_pillow.png",
     "desc": "Comfortable and essential neck pillow for daily use."
   },
   "premium-neck-pillow": {
-    "name": "Premium Neck Pillow",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Neck Pillow",
     "category": "Neck Pillow",
     "img": "assets/bedding/neck_pillow.png",
     "desc": "High quality premium neck pillow."
   },
   "organic-neck-pillow": {
-    "name": "Organic Neck Pillow",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Neck Pillow",
     "category": "Neck Pillow",
     "img": "assets/bedding/neck_pillow.png",
     "desc": "100% organic cotton neck pillow."
   },
   "printed-neck-pillow": {
-    "name": "Printed Neck Pillow",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Neck Pillow",
     "category": "Neck Pillow",
     "img": "assets/bedding/neck_pillow.png",
     "desc": "Beautifully printed neck pillow."
   },
   "standard-play-gym": {
-    "name": "Standard Play Gym",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Play Gym",
     "category": "Play Gym",
     "img": "assets/bedding/play_gym.png",
     "desc": "Comfortable and essential play gym for daily use."
   },
   "premium-play-gym": {
-    "name": "Premium Play Gym",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Play Gym",
     "category": "Play Gym",
     "img": "assets/bedding/play_gym.png",
     "desc": "High quality premium play gym."
   },
   "organic-play-gym": {
-    "name": "Organic Play Gym",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Play Gym",
     "category": "Play Gym",
     "img": "assets/bedding/play_gym.png",
     "desc": "100% organic cotton play gym."
   },
   "printed-play-gym": {
-    "name": "Printed Play Gym",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Play Gym",
     "category": "Play Gym",
     "img": "assets/bedding/play_gym.png",
     "desc": "Beautifully printed play gym."
   },
   "standard-side-pillow": {
-    "name": "Standard Side Pillow",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Side Pillow",
     "category": "Side Pillow",
     "img": "assets/bedding/side_pillow.png",
     "desc": "Comfortable and essential side pillow for daily use."
   },
   "premium-side-pillow": {
-    "name": "Premium Side Pillow",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Side Pillow",
     "category": "Side Pillow",
     "img": "assets/bedding/side_pillow.png",
     "desc": "High quality premium side pillow."
   },
   "organic-side-pillow": {
-    "name": "Organic Side Pillow",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Side Pillow",
     "category": "Side Pillow",
     "img": "assets/bedding/side_pillow.png",
     "desc": "100% organic cotton side pillow."
   },
   "printed-side-pillow": {
-    "name": "Printed Side Pillow",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Side Pillow",
     "category": "Side Pillow",
     "img": "assets/bedding/side_pillow.png",
     "desc": "Beautifully printed side pillow."
   },
   "standard-sleep-bed": {
-    "name": "Standard Sleep Bed",
-    "price": 299,
-    "oldPrice": 399,
+    "name": "Sleep Bed",
     "category": "Sleep Bed",
     "img": "assets/bedding/sleep_bed.png",
     "desc": "Comfortable and essential sleep bed for daily use."
   },
   "premium-sleep-bed": {
-    "name": "Premium Sleep Bed",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Sleep Bed",
     "category": "Sleep Bed",
     "img": "assets/bedding/sleep_bed.png",
     "desc": "High quality premium sleep bed."
   },
   "organic-sleep-bed": {
-    "name": "Organic Sleep Bed",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "Sleep Bed",
     "category": "Sleep Bed",
     "img": "assets/bedding/sleep_bed.png",
     "desc": "100% organic cotton sleep bed."
   },
   "printed-sleep-bed": {
-    "name": "Printed Sleep Bed",
-    "price": 349,
-    "oldPrice": 449,
+    "name": "Sleep Bed",
     "category": "Sleep Bed",
     "img": "assets/bedding/sleep_bed.png",
     "desc": "Beautifully printed sleep bed."
   },
   "standard-maternity-tops": {
-    "name": "Standard Maternity Tops",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Maternity Tops",
     "category": "Maternity Tops",
     "img": "assets/maternity-wear/Maternity Wear.png",
     "desc": "Essential maternity tops for your daily needs."
   },
   "premium-maternity-tops": {
-    "name": "Premium Maternity Tops",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Maternity Tops",
     "category": "Maternity Tops",
     "img": "assets/maternity-wear/Maternity Wear.png",
     "desc": "High quality premium maternity tops with extra comfort."
   },
   "advanced-maternity-tops": {
-    "name": "Advanced Maternity Tops",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Maternity Tops",
     "category": "Maternity Tops",
     "img": "assets/maternity-wear/Maternity Wear.png",
     "desc": "Advanced maternity tops with extra features."
   },
   "compact-maternity-tops": {
-    "name": "Compact Maternity Tops",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Maternity Tops",
     "category": "Maternity Tops",
     "img": "assets/maternity-wear/Maternity Wear.png",
     "desc": "Compact and casual maternity tops."
   },
   "standard-maternity-dresses": {
-    "name": "Standard Maternity Dresses",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Maternity Dresses",
     "category": "Maternity Dresses",
     "img": "assets/maternity-wear/Maternity.png",
     "desc": "Essential maternity dresses for your daily needs."
   },
   "premium-maternity-dresses": {
-    "name": "Premium Maternity Dresses",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Maternity Dresses",
     "category": "Maternity Dresses",
     "img": "assets/maternity-wear/Maternity party.png",
     "desc": "High quality premium maternity dresses with extra comfort."
   },
   "advanced-maternity-dresses": {
-    "name": "Advanced Maternity Dresses",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Maternity Dresses",
     "category": "Maternity Dresses",
     "img": "assets/maternity-wear/Maternity party.png",
     "desc": "Advanced maternity dresses with extra features."
   },
   "compact-maternity-dresses": {
-    "name": "Compact Maternity Dresses",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Maternity Dresses",
     "category": "Maternity Dresses",
     "img": "assets/maternity-wear/Maternity.png",
     "desc": "Compact and casual maternity dresses."
   },
   "standard-nursing-bras": {
-    "name": "Standard Nursing Bras",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Nursing Bras",
     "category": "Nursing Bras",
     "img": "assets/maternity-wear/nursing_bras.png",
     "desc": "Essential nursing bras for your daily needs."
   },
   "premium-nursing-bras": {
-    "name": "Premium Nursing Bras",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Nursing Bras",
     "category": "Nursing Bras",
     "img": "assets/maternity-wear/nursing_bras.png",
     "desc": "High quality premium nursing bras with extra comfort."
   },
   "advanced-nursing-bras": {
-    "name": "Advanced Nursing Bras",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Nursing Bras",
     "category": "Nursing Bras",
     "img": "assets/maternity-wear/nursing_bras.png",
     "desc": "Advanced nursing bras with extra features."
   },
   "compact-nursing-bras": {
-    "name": "Compact Nursing Bras",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Nursing Bras",
     "category": "Nursing Bras",
     "img": "assets/maternity-wear/nursing_bras.png",
     "desc": "Compact and casual nursing bras."
   },
   "standard-maternity-leggings": {
-    "name": "Standard Maternity Leggings",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Maternity Leggings",
     "category": "Maternity Leggings",
     "img": "assets/maternity-wear/Maternity yoga.png",
     "desc": "Essential maternity leggings for your daily needs."
   },
   "premium-maternity-leggings": {
-    "name": "Premium Maternity Leggings",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Maternity Leggings",
     "category": "Maternity Leggings",
     "img": "assets/maternity-wear/Maternity yoga.png",
     "desc": "High quality premium maternity leggings with extra comfort."
   },
   "advanced-maternity-leggings": {
-    "name": "Advanced Maternity Leggings",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Maternity Leggings",
     "category": "Maternity Leggings",
     "img": "assets/maternity-wear/Maternity yoga.png",
     "desc": "Advanced maternity leggings with extra features."
   },
   "compact-maternity-leggings": {
-    "name": "Compact Maternity Leggings",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Maternity Leggings",
     "category": "Maternity Leggings",
     "img": "assets/maternity-wear/Maternity yoga.png",
     "desc": "Compact and casual maternity leggings."
   },
   "standard-breast-pumps": {
-    "name": "Standard Breast Pumps",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/breast_pumps.jpg",
     "desc": "Essential breast pumps for your daily needs."
   },
   "premium-breast-pumps": {
-    "name": "Premium Breast Pumps",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/breast_pumps.jpg",
     "desc": "High quality premium breast pumps with extra comfort."
   },
   "advanced-breast-pumps": {
-    "name": "Advanced Breast Pumps",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/breast_pumps.jpg",
     "desc": "Advanced breast pumps with extra features."
   },
   "compact-breast-pumps": {
-    "name": "Compact Breast Pumps",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Breast Pumps",
     "category": "Breast Pumps",
     "img": "assets/mother-care/breast_pumps.jpg",
     "desc": "Compact and casual breast pumps."
   },
   "standard-nursing-pads": {
-    "name": "Standard Nursing Pads",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Nursing Pads",
     "category": "Nursing Pads",
     "img": "assets/mother-care/nursing_pads.jpg",
     "desc": "Essential nursing pads for your daily needs."
   },
   "premium-nursing-pads": {
-    "name": "Premium Nursing Pads",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Nursing Pads",
     "category": "Nursing Pads",
     "img": "assets/mother-care/nursing_pads.jpg",
     "desc": "High quality premium nursing pads with extra comfort."
   },
   "advanced-nursing-pads": {
-    "name": "Advanced Nursing Pads",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Nursing Pads",
     "category": "Nursing Pads",
     "img": "assets/mother-care/nursing_pads.jpg",
     "desc": "Advanced nursing pads with extra features."
   },
   "compact-nursing-pads": {
-    "name": "Compact Nursing Pads",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Nursing Pads",
     "category": "Nursing Pads",
     "img": "assets/mother-care/nursing_pads.jpg",
     "desc": "Compact and casual nursing pads."
   },
   "standard-postpartum-belts": {
-    "name": "Standard Postpartum Belts",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Postpartum Belts",
     "category": "Postpartum Belts",
     "img": "assets/mother-care/postpartum_belts.jpg",
     "desc": "Essential postpartum belts for your daily needs."
   },
   "premium-postpartum-belts": {
-    "name": "Premium Postpartum Belts",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Postpartum Belts",
     "category": "Postpartum Belts",
     "img": "assets/mother-care/postpartum_belts.jpg",
     "desc": "High quality premium postpartum belts with extra comfort."
   },
   "advanced-postpartum-belts": {
-    "name": "Advanced Postpartum Belts",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Postpartum Belts",
     "category": "Postpartum Belts",
     "img": "assets/mother-care/postpartum_belts.jpg",
     "desc": "Advanced postpartum belts with extra features."
   },
   "compact-postpartum-belts": {
-    "name": "Compact Postpartum Belts",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Postpartum Belts",
     "category": "Postpartum Belts",
     "img": "assets/mother-care/postpartum_belts.jpg",
     "desc": "Compact and casual postpartum belts."
   },
   "standard-nipple-creams": {
-    "name": "Standard Nipple Creams",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Nipple Creams",
     "category": "Nipple Creams",
     "img": "assets/mother-care/nipple_creams.jpg",
     "desc": "Essential nipple creams for your daily needs."
   },
   "premium-nipple-creams": {
-    "name": "Premium Nipple Creams",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Nipple Creams",
     "category": "Nipple Creams",
     "img": "assets/mother-care/nipple_creams.jpg",
     "desc": "High quality premium nipple creams with extra comfort."
   },
   "advanced-nipple-creams": {
-    "name": "Advanced Nipple Creams",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Nipple Creams",
     "category": "Nipple Creams",
     "img": "assets/mother-care/nipple_creams.jpg",
     "desc": "Advanced nipple creams with extra features."
   },
   "compact-nipple-creams": {
-    "name": "Compact Nipple Creams",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Nipple Creams",
     "category": "Nipple Creams",
     "img": "assets/mother-care/nipple_creams.jpg",
     "desc": "Compact and casual nipple creams."
   },
   "standard-rattles": {
-    "name": "Standard Rattles",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Rattles",
     "category": "Rattles",
     "img": "assets/toys/robtic.png",
     "desc": "Essential rattles for your daily needs."
   },
   "premium-rattles": {
-    "name": "Premium Rattles",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Rattles",
     "category": "Rattles",
     "img": "assets/toys/robtic.png",
     "desc": "High quality premium rattles with extra comfort."
   },
   "advanced-rattles": {
-    "name": "Advanced Rattles",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Rattles",
     "category": "Rattles",
     "img": "assets/toys/robtic.png",
     "desc": "Advanced rattles with extra features."
   },
   "compact-rattles": {
-    "name": "Compact Rattles",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Rattles",
     "category": "Rattles",
     "img": "assets/toys/robtic.png",
     "desc": "Compact and casual rattles."
   },
   "standard-soft-toys": {
-    "name": "Standard Soft Toys",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Soft Toys",
     "category": "Soft Toys",
     "img": "assets/toys/teddy.png",
     "desc": "Essential soft toys for your daily needs."
   },
   "premium-soft-toys": {
-    "name": "Premium Soft Toys",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Soft Toys",
     "category": "Soft Toys",
     "img": "assets/toys/teddy.png",
     "desc": "High quality premium soft toys with extra comfort."
   },
   "advanced-soft-toys": {
-    "name": "Advanced Soft Toys",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Soft Toys",
     "category": "Soft Toys",
     "img": "assets/toys/teddy.png",
     "desc": "Advanced soft toys with extra features."
   },
   "compact-soft-toys": {
-    "name": "Compact Soft Toys",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Soft Toys",
     "category": "Soft Toys",
     "img": "assets/toys/teddy.png",
     "desc": "Compact and casual soft toys."
   },
   "standard-educational-toys": {
-    "name": "Standard Educational Toys",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Educational Toys",
     "category": "Educational Toys",
     "img": "assets/toys/puzzles_toy.png",
     "desc": "Essential educational toys for your daily needs."
   },
   "premium-educational-toys": {
-    "name": "Premium Educational Toys",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Educational Toys",
     "category": "Educational Toys",
     "img": "assets/toys/puzzles_toy.png",
     "desc": "High quality premium educational toys with extra comfort."
   },
   "advanced-educational-toys": {
-    "name": "Advanced Educational Toys",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Educational Toys",
     "category": "Educational Toys",
     "img": "assets/toys/puzzles_toy.png",
     "desc": "Advanced educational toys with extra features."
   },
   "compact-educational-toys": {
-    "name": "Compact Educational Toys",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Educational Toys",
     "category": "Educational Toys",
     "img": "assets/toys/puzzles_toy.png",
     "desc": "Compact and casual educational toys."
   },
   "standard-action-figures": {
-    "name": "Standard Action Figures",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Action Figures",
     "category": "Action Figures",
     "img": "assets/toys/war_toys.png",
     "desc": "Essential action figures for your daily needs."
   },
   "premium-action-figures": {
-    "name": "Premium Action Figures",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Action Figures",
     "category": "Action Figures",
     "img": "assets/toys/war_toys.png",
     "desc": "High quality premium action figures with extra comfort."
   },
   "advanced-action-figures": {
-    "name": "Advanced Action Figures",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Action Figures",
     "category": "Action Figures",
     "img": "assets/toys/war_toys.png",
     "desc": "Advanced action figures with extra features."
   },
   "compact-action-figures": {
-    "name": "Compact Action Figures",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Action Figures",
     "category": "Action Figures",
     "img": "assets/toys/war_toys.png",
     "desc": "Compact and casual action figures."
   },
   "standard-party-dresses": {
-    "name": "Standard Party Dresses",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Party Dresses",
     "category": "Party Dresses",
     "img": "assets/party-time/standard_party_dresses.png",
     "desc": "Essential party dresses for your daily needs."
   },
   "premium-party-dresses": {
-    "name": "Premium Party Dresses",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Party Dresses",
     "category": "Party Dresses",
     "img": "assets/party-time/premium_party_dresses.png",
     "desc": "High quality premium party dresses with extra comfort."
   },
   "advanced-party-dresses": {
-    "name": "Advanced Party Dresses",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Party Dresses",
     "category": "Party Dresses",
     "img": "assets/party-time/advanced_party_dresses.png",
     "desc": "Advanced party dresses with extra features."
   },
   "compact-party-dresses": {
-    "name": "Compact Party Dresses",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Party Dresses",
     "category": "Party Dresses",
     "img": "assets/party-time/compact_party_dresses.png",
     "desc": "Compact and casual party dresses."
   },
   "standard-party-suits": {
-    "name": "Standard Party Suits",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Party Suits",
     "category": "Party Suits",
     "img": "assets/party-time/standard_party_suits.png",
     "desc": "Essential party suits for your daily needs."
   },
   "premium-party-suits": {
-    "name": "Premium Party Suits",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Party Suits",
     "category": "Party Suits",
     "img": "assets/party-time/premium_party_suits.png",
     "desc": "High quality premium party suits with extra comfort."
   },
   "advanced-party-suits": {
-    "name": "Advanced Party Suits",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Party Suits",
     "category": "Party Suits",
     "img": "assets/party-time/advanced_party_suits.png",
     "desc": "Advanced party suits with extra features."
   },
   "compact-party-suits": {
-    "name": "Compact Party Suits",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Party Suits",
     "category": "Party Suits",
     "img": "assets/party-time/compact_party_suits.png",
     "desc": "Compact and casual party suits."
   },
   "standard-birthday-decor": {
-    "name": "Standard Birthday Decor",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Birthday Decor",
     "category": "Birthday Decor",
     "img": "assets/party-time/standard_birthday_decor.png",
     "desc": "Essential birthday decor for your daily needs."
   },
   "premium-birthday-decor": {
-    "name": "Premium Birthday Decor",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Birthday Decor",
     "category": "Birthday Decor",
     "img": "assets/party-time/premium_birthday_decor.png",
     "desc": "High quality premium birthday decor with extra comfort."
   },
   "advanced-birthday-decor": {
-    "name": "Advanced Birthday Decor",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Birthday Decor",
     "category": "Birthday Decor",
     "img": "assets/party-time/advanced_birthday_decor.png",
     "desc": "Advanced birthday decor with extra features."
   },
   "compact-birthday-decor": {
-    "name": "Compact Birthday Decor",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Birthday Decor",
     "category": "Birthday Decor",
     "img": "assets/party-time/compact_birthday_decor.png",
     "desc": "Compact and casual birthday decor."
   },
   "standard-party-hats": {
-    "name": "Standard Party Hats",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Party Hats",
     "category": "Party Hats",
     "img": "assets/party-time/standard_party_hats.png",
     "desc": "Essential party hats for your daily needs."
   },
   "premium-party-hats": {
-    "name": "Premium Party Hats",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Party Hats",
     "category": "Party Hats",
     "img": "assets/party-time/premium_party_hats.png",
     "desc": "High quality premium party hats with extra comfort."
   },
   "advanced-party-hats": {
-    "name": "Advanced Party Hats",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Party Hats",
     "category": "Party Hats",
     "img": "assets/party-time/advanced_party_hats.png",
     "desc": "Advanced party hats with extra features."
   },
   "compact-party-hats": {
-    "name": "Compact Party Hats",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Party Hats",
     "category": "Party Hats",
     "img": "assets/party-time/compact_party_hats.png",
     "desc": "Compact and casual party hats."
   },
   "standard-backpacks": {
-    "name": "Standard Backpacks",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Backpacks",
     "category": "Backpacks",
     "img": "assets/pre-school-care/standard_backpacks.png",
     "desc": "Essential backpacks for your daily needs."
   },
   "premium-backpacks": {
-    "name": "Premium Backpacks",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Backpacks",
     "category": "Backpacks",
     "img": "assets/pre-school-care/premium_backpacks.png",
     "desc": "High quality premium backpacks with extra comfort."
   },
   "advanced-backpacks": {
-    "name": "Advanced Backpacks",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Backpacks",
     "category": "Backpacks",
     "img": "assets/pre-school-care/backpack.png",
     "desc": "Advanced backpacks with extra features."
   },
   "compact-backpacks": {
-    "name": "Compact Backpacks",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Backpacks",
     "category": "Backpacks",
     "img": "assets/pre-school-care/backpack.png",
     "desc": "Compact and casual backpacks."
   },
   "standard-lunch-boxes": {
-    "name": "Standard Lunch Boxes",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Lunch Boxes",
     "category": "Lunch Boxes",
     "img": "assets/pre-school-care/lunch_box.png",
     "desc": "Essential lunch boxes for your daily needs."
   },
   "premium-lunch-boxes": {
-    "name": "Premium Lunch Boxes",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Lunch Boxes",
     "category": "Lunch Boxes",
     "img": "assets/pre-school-care/lunch_box.png",
     "desc": "High quality premium lunch boxes with extra comfort."
   },
   "advanced-lunch-boxes": {
-    "name": "Advanced Lunch Boxes",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Lunch Boxes",
     "category": "Lunch Boxes",
     "img": "assets/pre-school-care/lunch_box.png",
     "desc": "Advanced lunch boxes with extra features."
   },
   "compact-lunch-boxes": {
-    "name": "Compact Lunch Boxes",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Lunch Boxes",
     "category": "Lunch Boxes",
     "img": "assets/pre-school-care/lunch_box.png",
     "desc": "Compact and casual lunch boxes."
   },
   "standard-water-bottles": {
-    "name": "Standard Water Bottles",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/water_bottle.png",
     "desc": "Essential water bottles for your daily needs."
   },
   "premium-water-bottles": {
-    "name": "Premium Water Bottles",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/water_bottle.png",
     "desc": "High quality premium water bottles with extra comfort."
   },
   "advanced-water-bottles": {
-    "name": "Advanced Water Bottles",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/water_bottle.png",
     "desc": "Advanced water bottles with extra features."
   },
   "compact-water-bottles": {
-    "name": "Compact Water Bottles",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Water Bottles",
     "category": "Water Bottles",
     "img": "assets/pre-school-care/water_bottle.png",
     "desc": "Compact and casual water bottles."
   },
   "standard-art-supplies": {
-    "name": "Standard Art Supplies",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Art Supplies",
     "category": "Art Supplies",
     "img": "assets/pre-school-care/art_supplies.png",
     "desc": "Essential art supplies for your daily needs."
   },
   "premium-art-supplies": {
-    "name": "Premium Art Supplies",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Art Supplies",
     "category": "Art Supplies",
     "img": "assets/pre-school-care/art_supplies.png",
     "desc": "High quality premium art supplies with extra comfort."
   },
   "advanced-art-supplies": {
-    "name": "Advanced Art Supplies",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Art Supplies",
     "category": "Art Supplies",
     "img": "assets/pre-school-care/art_supplies.png",
     "desc": "Advanced art supplies with extra features."
   },
   "compact-art-supplies": {
-    "name": "Compact Art Supplies",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Art Supplies",
     "category": "Art Supplies",
     "img": "assets/pre-school-care/art_supplies.png",
     "desc": "Compact and casual art supplies."
   },
   "standard-silver-anklets": {
-    "name": "Standard Silver Anklets",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Silver Anklets",
     "category": "Silver Anklets",
     "img": "assets/baby-charms/silver_anklets.png",
     "desc": "Essential silver anklets for your daily needs."
   },
   "premium-silver-anklets": {
-    "name": "Premium Silver Anklets",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Silver Anklets",
     "category": "Silver Anklets",
     "img": "assets/baby-charms/silver_anklets.png",
     "desc": "High quality premium silver anklets with extra comfort."
   },
   "advanced-silver-anklets": {
-    "name": "Advanced Silver Anklets",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Silver Anklets",
     "category": "Silver Anklets",
     "img": "assets/baby-charms/silver_anklets.png",
     "desc": "Advanced silver anklets with extra features."
   },
   "compact-silver-anklets": {
-    "name": "Compact Silver Anklets",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Silver Anklets",
     "category": "Silver Anklets",
     "img": "assets/baby-charms/silver_anklets.png",
     "desc": "Compact and casual silver anklets."
   },
   "standard-gold-bracelets": {
-    "name": "Standard Gold Bracelets",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Gold Bracelets",
     "category": "Gold Bracelets",
     "img": "assets/baby-charms/gold_bracelets.png",
     "desc": "Essential gold bracelets for your daily needs."
   },
   "premium-gold-bracelets": {
-    "name": "Premium Gold Bracelets",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Gold Bracelets",
     "category": "Gold Bracelets",
     "img": "assets/baby-charms/gold_bracelets.png",
     "desc": "High quality premium gold bracelets with extra comfort."
   },
   "advanced-gold-bracelets": {
-    "name": "Advanced Gold Bracelets",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Gold Bracelets",
     "category": "Gold Bracelets",
     "img": "assets/baby-charms/gold_bracelets.png",
     "desc": "Advanced gold bracelets with extra features."
   },
   "compact-gold-bracelets": {
-    "name": "Compact Gold Bracelets",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Gold Bracelets",
     "category": "Gold Bracelets",
     "img": "assets/baby-charms/gold_bracelets.png",
     "desc": "Compact and casual gold bracelets."
   },
   "standard-protection-charms": {
-    "name": "Standard Protection Charms",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Protection Charms",
     "category": "Protection Charms",
     "img": "assets/baby-charms/protection_charms.png",
     "desc": "Essential protection charms for your daily needs."
   },
   "premium-protection-charms": {
-    "name": "Premium Protection Charms",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Protection Charms",
     "category": "Protection Charms",
     "img": "assets/baby-charms/protection_charms.png",
     "desc": "High quality premium protection charms with extra comfort."
   },
   "advanced-protection-charms": {
-    "name": "Advanced Protection Charms",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Protection Charms",
     "category": "Protection Charms",
     "img": "assets/baby-charms/protection_charms.png",
     "desc": "Advanced protection charms with extra features."
   },
   "compact-protection-charms": {
-    "name": "Compact Protection Charms",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Protection Charms",
     "category": "Protection Charms",
     "img": "assets/baby-charms/protection_charms.png",
     "desc": "Compact and casual protection charms."
   },
   "standard-id-bracelets": {
-    "name": "Standard ID Bracelets",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "ID Bracelets",
     "category": "ID Bracelets",
     "img": "assets/baby-charms/id_bracelets.png",
     "desc": "Essential id bracelets for your daily needs."
   },
   "premium-id-bracelets": {
-    "name": "Premium ID Bracelets",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "ID Bracelets",
     "category": "ID Bracelets",
     "img": "assets/baby-charms/id_bracelets.png",
     "desc": "High quality premium id bracelets with extra comfort."
   },
   "advanced-id-bracelets": {
-    "name": "Advanced ID Bracelets",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "ID Bracelets",
     "category": "ID Bracelets",
     "img": "assets/baby-charms/id_bracelets.png",
     "desc": "Advanced id bracelets with extra features."
   },
   "compact-id-bracelets": {
-    "name": "Compact ID Bracelets",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "ID Bracelets",
     "category": "ID Bracelets",
     "img": "assets/baby-charms/id_bracelets.png",
     "desc": "Compact and casual id bracelets."
   },
   "standard-strollers": {
-    "name": "Standard Strollers",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Strollers",
     "category": "Strollers",
     "img": "assets/baby-gear/strollers.png",
     "desc": "Essential strollers for your daily needs."
   },
   "premium-strollers": {
-    "name": "Premium Strollers",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Strollers",
     "category": "Strollers",
     "img": "assets/baby-gear/strollers.png",
     "desc": "High quality premium strollers with extra comfort."
   },
   "advanced-strollers": {
-    "name": "Advanced Strollers",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Strollers",
     "category": "Strollers",
     "img": "assets/baby-gear/strollers.png",
     "desc": "Advanced strollers with extra features."
   },
   "compact-strollers": {
-    "name": "Compact Strollers",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Strollers",
     "category": "Strollers",
     "img": "assets/baby-gear/strollers.png",
     "desc": "Compact and casual strollers."
   },
   "standard-car-seats": {
-    "name": "Standard Car Seats",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Car Seats",
     "category": "Car Seats",
     "img": "assets/baby-gear/car_seats.png",
     "desc": "Essential car seats for your daily needs."
   },
   "premium-car-seats": {
-    "name": "Premium Car Seats",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Car Seats",
     "category": "Car Seats",
     "img": "assets/baby-gear/car_seats.png",
     "desc": "High quality premium car seats with extra comfort."
   },
   "advanced-car-seats": {
-    "name": "Advanced Car Seats",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Car Seats",
     "category": "Car Seats",
     "img": "assets/baby-gear/car_seats.png",
     "desc": "Advanced car seats with extra features."
   },
   "compact-car-seats": {
-    "name": "Compact Car Seats",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Car Seats",
     "category": "Car Seats",
     "img": "assets/baby-gear/car_seats.png",
     "desc": "Compact and casual car seats."
   },
   "standard-high-chairs": {
-    "name": "Standard High Chairs",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "High Chairs",
     "category": "High Chairs",
     "img": "assets/baby-gear/high_chairs.png",
     "desc": "Essential high chairs for your daily needs."
   },
   "premium-high-chairs": {
-    "name": "Premium High Chairs",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "High Chairs",
     "category": "High Chairs",
     "img": "assets/baby-gear/high_chairs.png",
     "desc": "High quality premium high chairs with extra comfort."
   },
   "advanced-high-chairs": {
-    "name": "Advanced High Chairs",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "High Chairs",
     "category": "High Chairs",
     "img": "assets/baby-gear/high_chairs.png",
     "desc": "Advanced high chairs with extra features."
   },
   "compact-high-chairs": {
-    "name": "Compact High Chairs",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "High Chairs",
     "category": "High Chairs",
     "img": "assets/baby-gear/high_chairs.png",
     "desc": "Compact and casual high chairs."
   },
   "standard-baby-carriers": {
-    "name": "Standard Baby Carriers",
-    "price": 499,
-    "oldPrice": 699,
+    "name": "Baby Carriers",
     "category": "Baby Carriers",
     "img": "assets/baby-gear/baby_carriers.png",
     "desc": "Essential baby carriers for your daily needs."
   },
   "premium-baby-carriers": {
-    "name": "Premium Baby Carriers",
-    "price": 899,
-    "oldPrice": 1299,
+    "name": "Baby Carriers",
     "category": "Baby Carriers",
     "img": "assets/baby-gear/baby_carriers.png",
     "desc": "High quality premium baby carriers with extra comfort."
   },
   "advanced-baby-carriers": {
-    "name": "Advanced Baby Carriers",
-    "price": 1299,
-    "oldPrice": 1699,
+    "name": "Baby Carriers",
     "category": "Baby Carriers",
     "img": "assets/baby-gear/baby_carriers.png",
     "desc": "Advanced baby carriers with extra features."
   },
   "compact-baby-carriers": {
-    "name": "Compact Baby Carriers",
-    "price": 549,
-    "oldPrice": 749,
+    "name": "Baby Carriers",
     "category": "Baby Carriers",
     "img": "assets/baby-gear/baby_carriers.png",
     "desc": "Compact and casual baby carriers."
   },
   "standard-stocking": {
-    "name": "Standard Stocking",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Stocking",
     "category": "Stocking",
     "img": "assets/baby-care/baby_socks.png",
     "desc": "Comfortable and essential stocking for daily use."
   },
   "premium-stocking": {
-    "name": "Premium Stocking",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Stocking",
     "category": "Stocking",
     "img": "assets/baby-care/baby_socks.png",
     "desc": "High quality premium stocking with soft cushion."
   },
   "party-stocking": {
-    "name": "Party Stocking",
-    "price": 999,
-    "oldPrice": 1399,
+    "name": "Stocking",
     "category": "Stocking",
     "img": "assets/baby-care/baby_socks.png",
     "desc": "Stylish party wear stocking."
   },
   "casual-stocking": {
-    "name": "Casual Stocking",
-    "price": 449,
-    "oldPrice": 649,
+    "name": "Stocking",
     "category": "Stocking",
     "img": "assets/baby-care/baby_socks.png",
     "desc": "Everyday casual stocking."
   },
   "standard-casual-shoes": {
-    "name": "Standard Casual Shoes",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Casual Shoes",
     "category": "Casual Shoes",
     "img": "assets/footwear/Playground Sneakers.png",
     "desc": "Comfortable and essential casual shoes for daily use."
   },
   "premium-casual-shoes": {
-    "name": "Premium Casual Shoes",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Casual Shoes",
     "category": "Casual Shoes",
     "img": "assets/footwear/Playground Sneakers.png",
     "desc": "High quality premium casual shoes with soft cushion."
   },
   "party-casual-shoes": {
-    "name": "Party Casual Shoes",
-    "price": 999,
-    "oldPrice": 1399,
+    "name": "Casual Shoes",
     "category": "Casual Shoes",
     "img": "assets/footwear/Playground Sneakers.png",
     "desc": "Stylish party wear casual shoes."
   },
   "casual-casual-shoes": {
-    "name": "Casual Casual Shoes",
-    "price": 449,
-    "oldPrice": 649,
+    "name": "Casual Shoes",
     "category": "Casual Shoes",
     "img": "assets/footwear/Playground Sneakers.png",
     "desc": "Everyday casual casual shoes."
   },
   "standard-chu-chu-shoes": {
-    "name": "Standard Chu-Chu Shoes",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Chu-Chu Shoes",
     "category": "Chu-Chu Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "Comfortable and essential chu-chu shoes for daily use."
   },
   "premium-chu-chu-shoes": {
-    "name": "Premium Chu-Chu Shoes",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Chu-Chu Shoes",
     "category": "Chu-Chu Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "High quality premium chu-chu shoes with soft cushion."
   },
   "party-chu-chu-shoes": {
-    "name": "Party Chu-Chu Shoes",
-    "price": 999,
-    "oldPrice": 1399,
+    "name": "Chu-Chu Shoes",
     "category": "Chu-Chu Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "Stylish party wear chu-chu shoes."
   },
   "casual-chu-chu-shoes": {
-    "name": "Casual Chu-Chu Shoes",
-    "price": 449,
-    "oldPrice": 649,
+    "name": "Chu-Chu Shoes",
     "category": "Chu-Chu Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "Everyday casual chu-chu shoes."
   },
   "standard-crocks": {
-    "name": "Standard Crocks",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Crocks",
     "category": "Crocks",
     "img": "assets/footwear/girls_crocks.png",
     "desc": "Comfortable and essential crocks for daily use."
   },
   "premium-crocks": {
-    "name": "Premium Crocks",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Crocks",
     "category": "Crocks",
     "img": "assets/footwear/girls_crocks.png",
     "desc": "High quality premium crocks with soft cushion."
   },
   "party-crocks": {
-    "name": "Party Crocks",
-    "price": 999,
-    "oldPrice": 1399,
+    "name": "Crocks",
     "category": "Crocks",
     "img": "assets/footwear/girls_crocks.png",
     "desc": "Stylish party wear crocks."
   },
   "casual-crocks": {
-    "name": "Casual Crocks",
-    "price": 449,
-    "oldPrice": 649,
+    "name": "Crocks",
     "category": "Crocks",
     "img": "assets/footwear/girls_crocks.png",
     "desc": "Everyday casual crocks."
   },
   "standard-fancy-shoes": {
-    "name": "Standard Fancy Shoes",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Fancy Shoes",
     "category": "Fancy Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "Comfortable and essential fancy shoes for daily use."
   },
   "premium-fancy-shoes": {
-    "name": "Premium Fancy Shoes",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Fancy Shoes",
     "category": "Fancy Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "High quality premium fancy shoes with soft cushion."
   },
   "party-fancy-shoes": {
-    "name": "Party Fancy Shoes",
-    "price": 999,
-    "oldPrice": 1399,
+    "name": "Fancy Shoes",
     "category": "Fancy Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "Stylish party wear fancy shoes."
   },
   "casual-fancy-shoes": {
-    "name": "Casual Fancy Shoes",
-    "price": 449,
-    "oldPrice": 649,
+    "name": "Fancy Shoes",
     "category": "Fancy Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "Everyday casual fancy shoes."
   },
   "standard-light-shoes": {
-    "name": "Standard Light Shoes",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Light Shoes",
     "category": "Light Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "Comfortable and essential light shoes for daily use."
   },
   "premium-light-shoes": {
-    "name": "Premium Light Shoes",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Light Shoes",
     "category": "Light Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "High quality premium light shoes with soft cushion."
   },
   "party-light-shoes": {
-    "name": "Party Light Shoes",
-    "price": 999,
-    "oldPrice": 1399,
+    "name": "Light Shoes",
     "category": "Light Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "Stylish party wear light shoes."
   },
   "casual-light-shoes": {
-    "name": "Casual Light Shoes",
-    "price": 449,
-    "oldPrice": 649,
+    "name": "Light Shoes",
     "category": "Light Shoes",
     "img": "assets/footwear/Princess sneakers.png",
     "desc": "Everyday casual light shoes."
   },
   "standard-sandals": {
-    "name": "Standard Sandals",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Sandals",
     "category": "Sandals",
     "img": "assets/footwear/girls_footwaer.png",
     "desc": "Comfortable and essential sandals for daily use."
   },
   "premium-sandals": {
-    "name": "Premium Sandals",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Sandals",
     "category": "Sandals",
     "img": "assets/footwear/girls_footwaer.png",
     "desc": "High quality premium sandals with soft cushion."
   },
   "party-sandals": {
-    "name": "Party Sandals",
-    "price": 999,
-    "oldPrice": 1399,
+    "name": "Sandals",
     "category": "Sandals",
     "img": "assets/footwear/girls_footwaer.png",
     "desc": "Stylish party wear sandals."
   },
   "casual-sandals": {
-    "name": "Casual Sandals",
-    "price": 449,
-    "oldPrice": 649,
+    "name": "Sandals",
     "category": "Sandals",
     "img": "assets/footwear/girls_footwaer.png",
     "desc": "Everyday casual sandals."
   },
   "standard-slippers": {
-    "name": "Standard Slippers",
-    "price": 399,
-    "oldPrice": 599,
+    "name": "Slippers",
     "category": "Slippers",
     "img": "assets/footwear/Cozy Koala Slippers.png",
     "desc": "Comfortable and essential slippers for daily use."
   },
   "premium-slippers": {
-    "name": "Premium Slippers",
-    "price": 799,
-    "oldPrice": 1099,
+    "name": "Slippers",
     "category": "Slippers",
     "img": "assets/footwear/Cozy Koala Slippers.png",
     "desc": "High quality premium slippers with soft cushion."
   },
   "party-slippers": {
-    "name": "Party Slippers",
-    "price": 999,
-    "oldPrice": 1399,
+    "name": "Slippers",
     "category": "Slippers",
     "img": "assets/footwear/Cozy Koala Slippers.png",
     "desc": "Stylish party wear slippers."
   },
   "casual-slippers": {
-    "name": "Casual Slippers",
-    "price": 449,
-    "oldPrice": 649,
+    "name": "Slippers",
     "category": "Slippers",
     "img": "assets/footwear/Cozy Koala Slippers.png",
     "desc": "Everyday casual slippers."
   }
 ,
 "2": {
-      "name": "2",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Bouncer",
       "category": "Bouncer",
       "img": "assets/baby-gear/Sub catogory of Bouncer/2.jpg",
       "desc": "Premium quality bouncer for your baby."
   },
   "activity-walker-01": {
-      "name": "Activity Walker 01",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Activity Walker",
       "category": "Activity Walker",
       "img": "assets/baby-gear/Sub catogory of Activity Walker/Activity-walker-01.jpg",
       "desc": "Premium quality activity walker for your baby."
   },
   "activity-walker-02": {
-      "name": "Activity Walker 02",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Activity Walker",
       "category": "Activity Walker",
       "img": "assets/baby-gear/Sub catogory of Activity Walker/Activity-walker-02.jpg",
       "desc": "Premium quality activity walker for your baby."
   },
   "activity-walker": {
       "name": "Activity Walker",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Activity Walker",
       "img": "assets/baby-gear/Sub catogory of Activity Walker/Activity-walker.jpg",
       "desc": "Premium quality activity walker for your baby."
   },
   "battery-bike-01": {
-      "name": "Battery Bike 01",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Battery Bike",
       "category": "Battery Bike",
       "img": "assets/baby-gear/Sub catogory of Battery Bike/Battery-bike-01.jpg",
       "desc": "Premium quality battery bike for your baby."
   },
   "battery-bike-02": {
-      "name": "Battery Bike 02",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Battery Bike",
       "category": "Battery Bike",
       "img": "assets/baby-gear/Sub catogory of Battery Bike/Battery-bike-02.jpg",
       "desc": "Premium quality battery bike for your baby."
   },
   "battery-bike": {
       "name": "Battery Bike",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Battery Bike",
       "img": "assets/baby-gear/Sub catogory of Battery Bike/Battery-bike.jpg",
       "desc": "Premium quality battery bike for your baby."
   },
   "battery-car-01": {
-      "name": "Battery Car 01",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Battery Car",
       "category": "Battery Car",
       "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car-01.jpg",
       "desc": "Premium quality battery car for your baby."
   },
   "battery-car-02": {
-      "name": "Battery Car 02",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Battery Car",
       "category": "Battery Car",
       "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car-02.jpg",
       "desc": "Premium quality battery car for your baby."
   },
   "battery-car-03": {
-      "name": "Battery Car 03",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Battery Car",
       "category": "Battery Car",
       "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car-03.jpg",
       "desc": "Premium quality battery car for your baby."
   },
   "battery-car": {
       "name": "Battery Car",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Battery Car",
       "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car.jpg",
       "desc": "Premium quality battery car for your baby."
   },
   "v": {
-      "name": "V",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Bouncer",
       "category": "Bouncer",
       "img": "assets/baby-gear/Sub catogory of Bouncer/v.jpg",
       "desc": "Premium quality bouncer for your baby."
   },
   "cradle-014": {
-      "name": "Cradle 014",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Cradle",
       "category": "Cradle",
       "img": "assets/baby-gear/Sub catogory of Cradle/cradle-014.jpg",
       "desc": "Premium quality cradle for your baby."
   },
   "cradle": {
       "name": "Cradle",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Cradle",
       "img": "assets/baby-gear/Sub catogory of Cradle/cradle.jpg",
       "desc": "Premium quality cradle for your baby."
   },
   "cradle02": {
-      "name": "Cradle02",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Cradle",
       "category": "Cradle",
       "img": "assets/baby-gear/Sub catogory of Cradle/cradle02.jpg",
       "desc": "Premium quality cradle for your baby."
   },
   "cradle03": {
-      "name": "Cradle03",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Cradle",
       "category": "Cradle",
       "img": "assets/baby-gear/Sub catogory of Cradle/cradle03.jpg",
       "desc": "Premium quality cradle for your baby."
   },
   "cradle04": {
-      "name": "Cradle04",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Cradle",
       "category": "Cradle",
       "img": "assets/baby-gear/Sub catogory of Cradle/cradle04.jpg",
       "desc": "Premium quality cradle for your baby."
   },
   "cradle06": {
-      "name": "Cradle06",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Cradle",
       "category": "Cradle",
       "img": "assets/baby-gear/Sub catogory of Cradle/cradle06.jpg",
       "desc": "Premium quality cradle for your baby."
   },
   "magic-car-1": {
-      "name": "Magic Car 1",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Magic Car",
       "category": "Magic Car",
       "img": "assets/baby-gear/Sub catogory of Magic Car/magic-car-1.jpg",
       "desc": "Premium quality magic car for your baby."
   },
   "magic-car-2": {
-      "name": "Magic Car 2",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Magic Car",
       "category": "Magic Car",
       "img": "assets/baby-gear/Sub catogory of Magic Car/magic-car-2.jpg",
       "desc": "Premium quality magic car for your baby."
   },
   "magic-car": {
       "name": "Magic Car",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Magic Car",
       "img": "assets/baby-gear/Sub catogory of Magic Car/magic-car.jpg",
       "desc": "Premium quality magic car for your baby."
   },
   "rideon-01": {
-      "name": "Rideon 01",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Rideon",
       "category": "Rideon",
       "img": "assets/baby-gear/Sub catogory of Rideon/Rideon-01.jpg",
       "desc": "Premium quality rideon for your baby."
   },
   "rideon-02": {
-      "name": "Rideon 02",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Rideon",
       "category": "Rideon",
       "img": "assets/baby-gear/Sub catogory of Rideon/Rideon-02.jpg",
       "desc": "Premium quality rideon for your baby."
   },
   "rideon-03": {
-      "name": "Rideon 03",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Rideon",
       "category": "Rideon",
       "img": "assets/baby-gear/Sub catogory of Rideon/Rideon-03.jpg",
       "desc": "Premium quality rideon for your baby."
   },
   "rideon": {
       "name": "Rideon",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Rideon",
       "img": "assets/baby-gear/Sub catogory of Rideon/Rideon.jpg",
       "desc": "Premium quality rideon for your baby."
   },
   "rocker-01": {
-      "name": "Rocker 01",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Rocker",
       "category": "Rocker",
       "img": "assets/baby-gear/Sub catogory of Rocker/Rocker-01.jpg",
       "desc": "Premium quality rocker for your baby."
   },
   "rocker-02": {
-      "name": "Rocker 02",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Rocker",
       "category": "Rocker",
       "img": "assets/baby-gear/Sub catogory of Rocker/Rocker-02.jpg",
       "desc": "Premium quality rocker for your baby."
   },
   "rocker": {
       "name": "Rocker",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Rocker",
       "img": "assets/baby-gear/Sub catogory of Rocker/Rocker.jpg",
       "desc": "Premium quality rocker for your baby."
   },
   "skating-scooter-02": {
-      "name": "Skating Scooter 02",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Skating Scooter",
       "category": "Skating Scooter",
       "img": "assets/baby-gear/Sub catogory of Skating Scooter/Skating-scooter-02.jpg",
       "desc": "Premium quality skating scooter for your baby."
   },
   "skating-scooter-03": {
-      "name": "Skating Scooter 03",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Skating Scooter",
       "category": "Skating Scooter",
       "img": "assets/baby-gear/Sub catogory of Skating Scooter/Skating-scooter-03.jpg",
       "desc": "Premium quality skating scooter for your baby."
   },
   "skating-scooter-04": {
-      "name": "Skating Scooter 04",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Skating Scooter",
       "category": "Skating Scooter",
       "img": "assets/baby-gear/Sub catogory of Skating Scooter/Skating-scooter-04.jpg",
       "desc": "Premium quality skating scooter for your baby."
   },
   "skating-scooter": {
       "name": "Skating Scooter",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Skating Scooter",
       "img": "assets/baby-gear/Sub catogory of Skating Scooter/Skating-scooter.jpg",
       "desc": "Premium quality skating scooter for your baby."
   },
   "stroller-01": {
-      "name": "Stroller 01",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Stroller",
       "category": "Stroller",
       "img": "assets/baby-gear/Sub catogory of Stroller/stroller-01.jpg",
       "desc": "Premium quality stroller for your baby."
   },
   "stroller-02": {
-      "name": "Stroller 02",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Stroller",
       "category": "Stroller",
       "img": "assets/baby-gear/Sub catogory of Stroller/stroller-02.jpg",
       "desc": "Premium quality stroller for your baby."
   },
   "stroller-03": {
-      "name": "Stroller 03",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Stroller",
       "category": "Stroller",
       "img": "assets/baby-gear/Sub catogory of Stroller/stroller-03.jpg",
       "desc": "Premium quality stroller for your baby."
   },
   "stroller": {
       "name": "Stroller",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Stroller",
       "img": "assets/baby-gear/Sub catogory of Stroller/stroller.jpg",
       "desc": "Premium quality stroller for your baby."
   },
   "tricycle-01": {
-      "name": "Tricycle 01",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Tricycle",
       "category": "Tricycle",
       "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-01.jpg",
       "desc": "Premium quality tricycle for your baby."
   },
   "tricycle-02": {
-      "name": "Tricycle 02",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Tricycle",
       "category": "Tricycle",
       "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-02.jpg",
       "desc": "Premium quality tricycle for your baby."
   },
   "tricycle-03": {
-      "name": "Tricycle 03",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Tricycle",
       "category": "Tricycle",
       "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-03.jpg",
       "desc": "Premium quality tricycle for your baby."
   },
   "tricycle-04": {
-      "name": "Tricycle 04",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Tricycle",
       "category": "Tricycle",
       "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-04.jpg",
       "desc": "Premium quality tricycle for your baby."
   },
   "tricycle-05": {
-      "name": "Tricycle 05",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Tricycle",
       "category": "Tricycle",
       "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-05.jpg",
       "desc": "Premium quality tricycle for your baby."
   },
   "tricycle-06": {
-      "name": "Tricycle 06",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Tricycle",
       "category": "Tricycle",
       "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle-06.jpg",
       "desc": "Premium quality tricycle for your baby."
   },
   "tricycle": {
       "name": "Tricycle",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Tricycle",
       "img": "assets/baby-gear/Sub catogory of Tricycle/tricycle.jpg",
       "desc": "Premium quality tricycle for your baby."
   },
   "walker_01_225-300": {
-      "name": "Walker 01",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Walker",
       "category": "Walker",
       "img": "assets/baby-gear/Sub catogory of Walker/walker_01_225-300.jpg",
       "desc": "Premium quality walker for your baby."
   },
   "walker_02_225-300": {
-      "name": "Walker 02",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Walker",
       "category": "Walker",
       "img": "assets/baby-gear/Sub catogory of Walker/walker_02_225-300.jpg",
       "desc": "Premium quality walker for your baby."
   },
   "walker_03_225-300": {
-      "name": "Walker 03",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Walker",
       "category": "Walker",
       "img": "assets/baby-gear/Sub catogory of Walker/walker_03_225-300.jpg",
       "desc": "Premium quality walker for your baby."
   },
   "walker_04_225-300": {
-      "name": "Walker 04",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Walker",
       "category": "Walker",
       "img": "assets/baby-gear/Sub catogory of Walker/walker_04_225-300.jpg",
       "desc": "Premium quality walker for your baby."
   },
   "walker_05_225-300": {
-      "name": "Walker 05",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Walker",
       "category": "Walker",
       "img": "assets/baby-gear/Sub catogory of Walker/walker_05_225-300.jpg",
       "desc": "Premium quality walker for your baby."
   },
   "walker_06_225-300": {
-      "name": "Walker 06",
-      "price": 1999,
-      "oldPrice": 2499,
+      "name": "Walker",
       "category": "Walker",
       "img": "assets/baby-gear/Sub catogory of Walker/walker_06_225-300.jpg",
       "desc": "Premium quality walker for your baby."
   },
   "walker_225-300": {
       "name": "Walker",
-      "price": 1999,
-      "oldPrice": 2499,
       "category": "Walker",
       "img": "assets/baby-gear/Sub catogory of Walker/walker_225-300.jpg",
       "desc": "Premium quality walker for your baby."
@@ -8214,6 +6240,157 @@ const CATEGORY_PRODUCTS = {
   "tricycle": ["tricycle-01", "tricycle-02", "tricycle-03", "tricycle-04", "tricycle-05", "tricycle-06", "tricycle"],
   "walker": ["walker_01_225-300", "walker_02_225-300", "walker_03_225-300", "walker_04_225-300", "walker_05_225-300", "walker_06_225-300", "walker_225-300"],
 };
+
+/* =============================================
+   WHATSAPP PRODUCT INQUIRY
+   ============================================= */
+const WHATSAPP_INQUIRY_NUMBER = "919043370533";
+
+function buildWhatsAppMessageText(product) {
+  const absoluteImageUrl = product.img ? new URL(product.img, window.location.href).href : "";
+  const parts = [
+    "Hello,",
+    "",
+    "I am interested in this product.",
+    "",
+    `Product Name: ${product.name}`,
+  ];
+  
+  // Only add the image URL to the text if it's a real live website (not a local file)
+  if (absoluteImageUrl && !absoluteImageUrl.startsWith("file://") && !absoluteImageUrl.includes("127.0.0.1") && !absoluteImageUrl.includes("localhost")) {
+    parts.push(`Product Image: ${absoluteImageUrl}`);
+  }
+  
+  parts.push(
+    "",
+    "Product Details:",
+    product.desc || "N/A",
+    "",
+    "Please share the complete details, price, availability, and delivery information.",
+    "",
+    "Thank you."
+  );
+  
+  return parts.join("\n");
+}
+
+function canShareFiles() {
+  if (!navigator.share || !navigator.canShare) return false;
+  try {
+    const probe = new File([], "probe.jpg", { type: "image/jpeg" });
+    return navigator.canShare({ files: [probe] });
+  } catch (err) {
+    return false;
+  }
+}
+
+// Attempts to hand the actual product photo + message to the native
+// share sheet (WhatsApp on Android/iOS accepts image+text this way).
+// Browsers give scripts no way to attach a file directly into WhatsApp
+// Web's chat box, so anything short of navigator.share falls back to a
+// text-only wa.me chat plus a manual-save link for the photo.
+async function shareProductOnWhatsApp(product) {
+  const message = buildWhatsAppMessageText(product);
+
+  if (product.img && canShareFiles()) {
+    try {
+      const absoluteImageUrl = new URL(product.img, window.location.href).href;
+      const response = await fetch(absoluteImageUrl);
+      const blob = await response.blob();
+      const fileName = product.img.split("/").pop();
+      const file = new File([blob], fileName, { type: blob.type || "image/jpeg" });
+
+      if (navigator.canShare({ files: [file] })) {
+        await navigator.share({
+          title: product.name,
+          text: message,
+          files: [file],
+        });
+        return;
+      }
+    } catch (err) {
+      if (err && err.name === "AbortError") return; // user cancelled the share sheet
+      // any other failure (fetch/network/share) falls through to the fallback below
+    }
+  }
+
+  openWhatsAppFallback(product, message);
+}
+
+async function openWhatsAppFallback(product, message) {
+  const waUrl = `https://wa.me/${WHATSAPP_INQUIRY_NUMBER}?text=${encodeURIComponent(message)}`;
+  
+  let copiedToClipboard = false;
+  if (product.img) {
+    try {
+      const absoluteImageUrl = new URL(product.img, window.location.href).href;
+      const response = await fetch(absoluteImageUrl);
+      const blob = await response.blob();
+      
+      // Try copying to clipboard (works on most modern desktop browsers)
+      if (navigator.clipboard && navigator.clipboard.write) {
+        await navigator.clipboard.write([
+          new ClipboardItem({
+            [blob.type]: blob
+          })
+        ]);
+        copiedToClipboard = true;
+      }
+    } catch (err) {
+      console.log("Could not auto-copy image to clipboard", err);
+    }
+  }
+
+  window.open(waUrl, "_blank", "noopener,noreferrer");
+  notifyWhatsAppImageFallback(product, copiedToClipboard);
+}
+
+function notifyWhatsAppImageFallback(product, copiedToClipboard) {
+  let container = document.getElementById("toastContainer");
+  if (!container) {
+    container = document.createElement("div");
+    container.className = "toast-container";
+    container.id = "toastContainer";
+    document.body.appendChild(container);
+  }
+
+  const imageUrl = product.img ? new URL(product.img, window.location.href).href : "";
+  const toast = document.createElement("div");
+  toast.className = "toast whatsapp-fallback-toast";
+  
+  let toastMsg = "";
+  if (copiedToClipboard) {
+    toastMsg = `The product image has been <b>copied to your clipboard!</b><br>Just press <b>Ctrl+V</b> (or Right Click -> Paste) in the WhatsApp chat to send the image!`;
+  } else {
+    toastMsg = `Direct photo attachment works best on Mobile.<br>We opened your chat — <a href="${imageUrl}" target="_blank" rel="noopener noreferrer" download="${product.name}">tap here to save the photo</a> and attach it manually.`;
+  }
+
+  toast.innerHTML = `
+    <div class="toast-icon"><i class="fab fa-whatsapp"></i></div>
+    <div class="toast-message">
+      ${toastMsg}
+    </div>
+  `;
+
+  container.appendChild(toast);
+  setTimeout(() => toast.classList.add("active"), 10);
+  setTimeout(() => {
+    toast.classList.remove("active");
+    setTimeout(() => toast.remove(), 400);
+  }, 8000);
+}
+
+function createWhatsAppInquiryButton(product) {
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "subcat-whatsapp-btn";
+  btn.innerHTML = '<i class="fab fa-whatsapp"></i> Enquire on WhatsApp';
+  btn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    shareProductOnWhatsApp(product);
+  });
+  return btn;
+}
 
 function initializeBUDS() {
   /* ---- ON LOAD SCROLL CHECK ---- */
@@ -8949,42 +7126,32 @@ function initializeBUDS() {
       itemRow.className = "drawer-item";
       itemRow.innerHTML = `
         <img class="drawer-item-img" src="${item.img}" alt="${item.name}">
-        <div class="drawer-item-details">
-          <div>
-            <div class="drawer-item-title">${item.name}</div>
-            <div class="drawer-item-variant">${item.variant}</div>
-          </div>
-          <div class="drawer-item-price">₹${(item.price * item.qty).toFixed(2)}</div>
-        </div>
-        <div class="drawer-item-actions" style="flex-direction: column; justify-content: space-between; align-items: flex-end;">
-          <button class="drawer-item-remove-btn" data-id="${item.id}"><i class="fas fa-trash-alt"></i></button>
-          <div class="drawer-item-qty">
-            <button class="drawer-item-qty-btn qty-minus" data-id="${item.id}"><i class="fas fa-minus"></i></button>
-            <input class="drawer-item-qty-input" type="text" value="${item.qty}" readonly>
-            <button class="drawer-item-qty-btn qty-plus" data-id="${item.id}"><i class="fas fa-plus"></i></button>
-          </div>
+        <div class="drawer-item-details" style="display: flex; flex: 1; align-items: center; justify-content: space-between;">
+          <div class="drawer-item-title" style="margin-bottom: 0;">${item.name}</div>
+          <button class="drawer-item-remove-btn" data-id="${item.id}" style="margin-left: auto; margin-right: 15px;"><i class="fas fa-trash-alt"></i></button>
         </div>
       `;
 
-      itemRow.querySelector(".qty-minus").addEventListener("click", () => updateQty(item.id, item.qty - 1));
-      itemRow.querySelector(".qty-plus").addEventListener("click", () => updateQty(item.id, item.qty + 1));
       itemRow.querySelector(".drawer-item-remove-btn").addEventListener("click", () => removeFromCart(item.id));
 
       itemsContainer.appendChild(itemRow);
     });
 
-    const subtotal = cart.reduce((acc, item) => acc + (item.price * item.qty), 0);
     footerContainer.innerHTML = `
-      <div class="drawer-subtotal-row">
-        <span class="drawer-subtotal-label">Subtotal</span>
-        <span class="drawer-subtotal-value">₹${subtotal.toFixed(2)}</span>
-      </div>
-      <button class="drawer-btn" id="drawerCheckoutBtn">Proceed to Checkout</button>
+      <button class="drawer-btn" style="background: #25d366; color: white; margin-top: 20px;" id="drawerCheckoutBtn"><i class="fab fa-whatsapp"></i> Enquire All on WhatsApp</button>
     `;
 
     document.getElementById("drawerCheckoutBtn").addEventListener("click", () => {
+      if (cart.length === 0) return;
+      let msg = "Hello,\n\nI am interested in the following products:\n\n";
+      cart.forEach((item, i) => {
+        msg += `${i+1}. ${item.name} (Qty: ${item.qty})\n`;
+      });
+      msg += "\nPlease share the complete details, availability, and delivery information.\n\nThank you.";
+      
+      const waUrl = `https://wa.me/${WHATSAPP_INQUIRY_NUMBER}?text=${encodeURIComponent(msg)}`;
+      window.open(waUrl, "_blank", "noopener,noreferrer");
       closeDrawers();
-      openCheckoutModal();
     });
   }
 
@@ -9382,11 +7549,13 @@ function initializeBUDS() {
         </div>
         <button class="subcat-title-pill">${p.name}</button>
       `;
-      
+
       /* card.addEventListener("click", () => {
         window.location.href = `product-detail.html?product=${k}`;
       }); */
-      
+
+      card.appendChild(createWhatsAppInquiryButton(p));
+
       grid.appendChild(card);
       setTimeout(() => card.classList.add("visible"), index * 75);
     });
@@ -9476,13 +7645,41 @@ function initializeBUDS() {
                 </div>
               </div>
             `;
-            
+
             /* card.addEventListener("click", (e) => {
               if (!e.target.closest(".subcat-wishlist-btn")) {
                 window.location.href = `product-detail.html?product=${k}`;
               }
             }); */
+
+            const actionsDiv = document.createElement("div");
+            actionsDiv.style.display = "flex";
+            actionsDiv.style.flexDirection = "column";
+            actionsDiv.style.gap = "8px";
+            actionsDiv.style.padding = "0 10px 15px 10px";
+
+            const addBtn = document.createElement("button");
+            addBtn.className = "subcat-whatsapp-btn";
+            addBtn.style.background = "#fff";
+            addBtn.style.color = "#4a90e2";
+            addBtn.style.border = "1px solid #4a90e2";
+            addBtn.innerHTML = '<i class="fas fa-plus"></i> Add to Inquiry List';
+            addBtn.addEventListener("click", (e) => {
+              e.stopPropagation();
+              addToCart(k);
+              
+              // Open cart drawer automatically
+              document.getElementById("mobileOverlay").classList.add("active");
+              document.getElementById("cartDrawer").classList.add("active");
+            });
+
+            const waBtn = createWhatsAppInquiryButton(product);
             
+            actionsDiv.appendChild(addBtn);
+            actionsDiv.appendChild(waBtn);
+            
+            card.appendChild(actionsDiv);
+
             grid.appendChild(card);
             setTimeout(() => card.classList.add("visible"), index * 75);
           }
