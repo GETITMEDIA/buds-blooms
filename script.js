@@ -9573,13 +9573,9 @@ function initializeBUDS() {
             addBtn.style.color = "#4a90e2";
             addBtn.style.border = "1px solid #4a90e2";
             addBtn.innerHTML = '<i class="fas fa-plus"></i> Add to Inquiry List';
-            addBtn.addEventListener("click", (e) => {
+                        addBtn.addEventListener("click", (e) => {
               e.stopPropagation();
               addToCart(k);
-              
-              // Open cart drawer automatically
-              document.getElementById("mobileOverlay").classList.add("active");
-              document.getElementById("cartDrawer").classList.add("active");
             });
 
             const waBtn = createWhatsAppInquiryButton(product);
