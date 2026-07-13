@@ -6982,7 +6982,21 @@ function initializeBUDS() {
 
   function saveCart() {
     localStorage.setItem("buds_cart", JSON.stringify(cart));
-    updateBadges();
+    
+  // Inject Header Decorations dynamically
+  const headerTopRow = document.querySelector(".header-top-row");
+  if (headerTopRow && !document.querySelector(".nav-decor-container")) {
+    const decorHTML = `
+      <div class="nav-decor-container">
+        <i class="fas fa-heart nav-decor nav-decor-1"></i>
+        <i class="fas fa-star nav-decor nav-decor-2"></i>
+        <i class="fas fa-circle nav-decor nav-decor-3"></i>
+      </div>
+    `;
+    headerTopRow.insertAdjacentHTML('beforeend', decorHTML);
+  }
+
+  updateBadges();
     renderCartDrawer();
   }
 
@@ -6990,7 +7004,7 @@ function initializeBUDS() {
     localStorage.setItem("buds_wishlist", JSON.stringify(wishlist));
     updateBadges();
     renderWishlistDrawer();
-    updateListingHeartIcons();
+    
   }
 
   function updateBadges() {
@@ -7013,7 +7027,7 @@ function initializeBUDS() {
     if (!container) return;
 
     const toast = document.createElement("div");
-    toast.className = `toast ${type === 'wishlist' ? 'wishlist-toast' : ''}`;
+    toast.className = `toast toast-enter ${type === 'wishlist' ? 'wishlist-toast' : ''}`;
     
     const iconClass = type === 'wishlist' ? 'fas fa-heart' : 'fas fa-shopping-basket';
     toast.innerHTML = `
@@ -7021,13 +7035,29 @@ function initializeBUDS() {
       <div class="toast-message">${message}</div>
     `;
 
-    container.appendChild(toast);
+    container.prepend(toast);
 
-    setTimeout(() => toast.classList.add("active"), 10);
+    function updateToastStack() {
+      const allToasts = Array.from(container.querySelectorAll('.toast:not(.toast-leave)'));
+      allToasts.forEach((t, i) => {
+        t.style.setProperty('--toast-idx', i);
+      });
+    }
+    
+    updateToastStack();
+
+    setTimeout(() => {
+      toast.classList.remove("toast-enter");
+      toast.classList.add("active");
+    }, 10);
 
     setTimeout(() => {
       toast.classList.remove("active");
-      setTimeout(() => toast.remove(), 400);
+      toast.classList.add("toast-leave");
+      updateToastStack();
+      setTimeout(() => {
+        if(toast.parentElement) toast.remove();
+      }, 400);
     }, 3000);
   }
 
@@ -7155,81 +7185,8 @@ function initializeBUDS() {
     });
   }
 
-  function renderWishlistDrawer() {
-    const itemsContainer = document.getElementById("wishlistDrawerItems");
-    if (!itemsContainer) return;
-
-    if (wishlist.length === 0) {
-      itemsContainer.innerHTML = `
-        <div class="drawer-empty-state">
-          <i class="far fa-heart"></i>
-          <p>Your wishlist is empty.</p>
-          <button id="wishlistStartShoppingBtn">Discover Essentials</button>
-        </div>
-      `;
-      const startShoppingBtn = document.getElementById("wishlistStartShoppingBtn");
-      if (startShoppingBtn) {
-        startShoppingBtn.addEventListener("click", () => {
-          closeDrawers();
-          if (!window.location.pathname.includes("baby-care.html")) {
-            window.location.href = "baby-care.html";
-          }
-        });
-      }
-      return;
-    }
-
-    itemsContainer.innerHTML = "";
-    wishlist.forEach(key => {
-      const product = PRODUCT_DB[key] || { name: key.replace(/-/g, ' '), price: 499.00, img: `assets/baby-care/${key.replace(/-/g, '_')}.png` };
-      const itemRow = document.createElement("div");
-      itemRow.className = "drawer-item";
-      itemRow.innerHTML = `
-        <img class="drawer-item-img" src="${product.img}" alt="${product.name}">
-        <div class="drawer-item-details" style="justify-content: center; gap: 8px;">
-          <div>
-            <div class="drawer-item-title">${product.name}</div>
-            <div class="drawer-item-price">₹${product.price.toFixed(2)}</div>
-          </div>
-          <div>
-            <button class="drawer-wishlist-add-btn" data-key="${key}">Add to Cart</button>
-          </div>
-        </div>
-        <div style="display: flex; align-items: center;">
-          <button class="drawer-item-remove-btn" data-key="${key}"><i class="fas fa-times"></i></button>
-        </div>
-      `;
-
-      itemRow.querySelector(".drawer-wishlist-add-btn").addEventListener("click", () => {
-        addToCart(key);
-        toggleWishlist(key);
-      });
-
-      itemRow.querySelector(".drawer-item-remove-btn").addEventListener("click", () => {
-        toggleWishlist(key);
-      });
-
-      itemsContainer.appendChild(itemRow);
-    });
-  }
-
-  function updateListingHeartIcons() {
-    const wishButtons = document.querySelectorAll(".subcat-wishlist-btn");
-    wishButtons.forEach(btn => {
-      const card = btn.closest(".subcat-card");
-      if (card) {
-        const rawName = card.getAttribute("data-name") || "";
-        const key = rawName.toLowerCase().replace(/\s+/g, '-');
-        const isActive = wishlist.includes(key);
-        
-        btn.classList.toggle("active", isActive);
-        btn.querySelector("i").className = isActive ? "fas fa-heart" : "far fa-heart";
-      }
-    });
-  }
-
   function closeDrawers() {
-    document.querySelectorAll(".ecommerce-drawer-overlay, .ecommerce-drawer").forEach(el => {
+    document.querySelectorAll(".ecommerce-drawer-overlay, .ecommerce-drawer, .side-drawer, .mobile-overlay").forEach(el => {
       el.classList.remove("active");
     });
     document.body.style.overflow = "";
@@ -7237,25 +7194,24 @@ function initializeBUDS() {
 
   function openCartDrawer() {
     closeDrawers();
-    document.getElementById("cartDrawerOverlay").classList.add("active");
-    document.getElementById("cartDrawer").classList.add("active");
+    if (document.getElementById("mobileOverlay")) {
+      document.getElementById("mobileOverlay").classList.add("active");
+    }
+    if (document.getElementById("cartDrawer")) {
+      document.getElementById("cartDrawer").classList.add("active");
+    }
     document.body.style.overflow = "hidden";
   }
 
-  function openWishlistDrawer() {
-    closeDrawers();
-    document.getElementById("wishlistDrawerOverlay").classList.add("active");
-    document.getElementById("wishlistDrawer").classList.add("active");
-    document.body.style.overflow = "hidden";
-  }
+  function renderWishlistDrawer() {}
 
-  injectEcommerceHTML();
+  if (typeof injectEcommerceHTML === "function") {
+    injectEcommerceHTML();
+  }
+  
   renderCartDrawer();
-  renderWishlistDrawer();
 
   const cartBtn = document.getElementById("headerCartBtn");
-  const wishlistBtn = document.getElementById("headerWishlistBtn");
-
   if (cartBtn) {
     cartBtn.addEventListener("click", (e) => {
       e.preventDefault();
@@ -7263,14 +7219,7 @@ function initializeBUDS() {
     });
   }
 
-  if (wishlistBtn) {
-    wishlistBtn.addEventListener("click", (e) => {
-      e.preventDefault();
-      openWishlistDrawer();
-    });
-  }
-
-  document.querySelectorAll(".ecommerce-drawer-overlay, .drawer-close-btn").forEach(el => {
+  document.querySelectorAll(".ecommerce-drawer-overlay, .drawer-close-btn, .mobile-overlay").forEach(el => {
     el.addEventListener("click", closeDrawers);
   });
 
@@ -7560,7 +7509,7 @@ function initializeBUDS() {
       setTimeout(() => card.classList.add("visible"), index * 75);
     });
 
-    injectHearts();
+    
   }
 
   // --- GLOBAL SEARCH INTEGRATIONS ---
@@ -7685,8 +7634,8 @@ function initializeBUDS() {
           }
         });
         
-        injectHearts();
-        updateListingHeartIcons();
+        
+        
       }
     } else {
       window.location.href = "baby-care.html";
@@ -8234,7 +8183,7 @@ function initializeBUDS() {
 
   // --- INITIALIZE ---
   updateBadges();
-  updateListingHeartIcons();
+  
   
   // Initialize playful animations
   initButterflies();

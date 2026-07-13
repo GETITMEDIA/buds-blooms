@@ -95,14 +95,15 @@ body {
 .header-top-row {
   position: relative;
   z-index: 9005;
-  background: var(--white);
+  background: linear-gradient(120deg, #ffffff 0%, #f4f7ff 50%, #fff5f8 100%);
+  border-bottom: 2px solid rgba(236, 107, 168, 0.15);
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 40px;
-  min-height: 100px;
-  /* max-width: 1440px; */
+  min-height: 130px;
   margin: 0 auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
 }
 
 /* ---------- LOCATIONS ---------- */
@@ -190,12 +191,13 @@ body {
 
 
 .brand-logo {
-  height: 100px;
+  height: 130px;
   width: auto;
   object-fit: contain;
-  transition: transform 0.3s var(--ease-spring);
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   position: relative;
   z-index: 2;
+  filter: drop-shadow(0px 8px 12px rgba(236, 107, 168, 0.15));
 }
 
 .brand-logo:hover {
@@ -1755,6 +1757,7 @@ body {
   }
 
   .header-top-row {
+    min-height: 90px;
     flex-wrap: wrap;
     padding: 16px 16px;
     justify-content: center;
@@ -1774,7 +1777,7 @@ body {
   }
 
   .brand-logo {
-    height: 90px;
+    height: 110px;
   }
 
   .header-actions {
@@ -1867,7 +1870,7 @@ body {
   }
 
   .brand-logo {
-    height: 80px;
+    height: 100px;
   }
 
   .action-item {
@@ -1889,7 +1892,7 @@ body {
   }
 
   .brand-logo {
-    height: 70px;
+    height: 90px;
   }
 
   .action-item {
@@ -1912,7 +1915,7 @@ body {
   }
 
   .brand-logo {
-    height: 65px;
+    height: 80px;
   }
 
   .action-item {
@@ -5602,16 +5605,17 @@ body {
   bottom: 24px;
   right: 24px;
   z-index: 10005;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
+  width: 340px;
+  height: 80px;
   pointer-events: none;
 }
 
 .toast {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
   pointer-events: auto;
-  min-width: 320px;
-  max-width: 400px;
   background: rgba(255, 255, 255, 0.95);
   backdrop-filter: blur(15px);
   -webkit-backdrop-filter: blur(15px);
@@ -5622,12 +5626,22 @@ body {
   display: flex;
   align-items: center;
   gap: 12px;
-  transform: translateX(120%);
+  
+  --toast-idx: 0;
+  transform: translateY(calc(var(--toast-idx) * -16px)) scale(calc(1 - (var(--toast-idx) * 0.05)));
+  z-index: calc(1000 - var(--toast-idx));
+  opacity: calc(1 - (var(--toast-idx) * 0.2));
   transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-.toast.active {
-  transform: translateX(0);
+.toast.toast-enter {
+  transform: translateX(120%) scale(0.9);
+  opacity: 0;
+}
+
+.toast.toast-leave {
+  transform: translateY(calc(var(--toast-idx) * -16px - 30px)) scale(calc(1 - (var(--toast-idx) * 0.05) - 0.1));
+  opacity: 0;
 }
 
 .toast.wishlist-toast {
@@ -6720,3 +6734,115 @@ body {
   }
 }
 
+
+/* --- HEADER DECORATIONS --- */
+.header-top-row::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  pointer-events: none;
+  z-index: 1;
+  /* Cute subtle polka dot pattern */
+  background-image: radial-gradient(rgba(236, 107, 168, 0.08) 2px, transparent 2px), radial-gradient(rgba(54, 184, 242, 0.08) 2px, transparent 2px);
+  background-size: 40px 40px;
+  background-position: 0 0, 20px 20px;
+  opacity: 0.8;
+}
+
+.header-top-row::after {
+  content: '★';
+  position: absolute;
+  top: 15%;
+  left: 12%;
+  font-size: 24px;
+  color: rgba(255, 181, 46, 0.4);
+  z-index: 1;
+  pointer-events: none;
+  animation: floatStar 4s ease-in-out infinite alternate;
+  text-shadow: 
+    65vw 40px 0 rgba(54, 184, 242, 0.3),
+    15vw 60px 0 rgba(236, 107, 168, 0.3),
+    80vw 10px 0 rgba(255, 181, 46, 0.4);
+}
+
+@keyframes floatStar {
+  0% { transform: translateY(0) rotate(0deg) scale(1); }
+  50% { transform: translateY(-10px) rotate(15deg) scale(1.1); }
+  100% { transform: translateY(0) rotate(-10deg) scale(1); }
+}
+
+/* Add a playful bouncing decoration container */
+.nav-decor-container {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.nav-decor {
+  position: absolute;
+  pointer-events: none;
+  opacity: 0.6;
+  font-size: 18px;
+  animation: floatNavDecor 6s infinite ease-in-out alternate;
+}
+
+.nav-decor-1 { top: 25%; right: 15%; color: var(--primary-pink); font-size: 20px; animation-delay: 0s; }
+.nav-decor-2 { bottom: 20%; left: 25%; color: var(--primary-blue); font-size: 14px; animation-delay: 1s; }
+.nav-decor-3 { top: 60%; right: 35%; color: var(--primary-yellow); font-size: 16px; animation-delay: 2s; }
+
+@keyframes floatNavDecor {
+  0% { transform: translate(0, 0) rotate(0deg); }
+  100% { transform: translate(15px, -15px) rotate(25deg); }
+}
+
+/* --- LOGO MAGICAL BACKGROUND DECORATION --- */
+.header-logo::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 180px;
+  height: 180px;
+  transform: translate(-50%, -50%);
+  background: radial-gradient(circle, rgba(236,107,168,0.2) 0%, rgba(54,184,242,0.15) 50%, rgba(255,181,46,0.1) 100%);
+  border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
+  z-index: 1;
+  animation: blobFloat 8s infinite alternate ease-in-out;
+  filter: blur(8px);
+  pointer-events: none;
+}
+
+@keyframes blobFloat {
+  0% { border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%; transform: translate(-50%, -50%) rotate(0deg) scale(0.9); }
+  50% { border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; transform: translate(-50%, -50%) rotate(180deg) scale(1.1); }
+  100% { border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%; transform: translate(-50%, -50%) rotate(360deg) scale(0.9); }
+}
+
+.header-logo::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 190px;
+  height: 190px;
+  transform: translate(-50%, -50%);
+  background: conic-gradient(from 0deg, transparent 0deg, rgba(255,181,46,0.15) 20deg, transparent 40deg, rgba(236,107,168,0.15) 60deg, transparent 80deg, rgba(54,184,242,0.15) 100deg, transparent 120deg, rgba(255,181,46,0.15) 140deg, transparent 160deg, rgba(236,107,168,0.15) 180deg, transparent 200deg, rgba(54,184,242,0.15) 220deg, transparent 240deg, rgba(255,181,46,0.15) 260deg, transparent 280deg, rgba(236,107,168,0.15) 300deg, transparent 320deg, rgba(54,184,242,0.15) 340deg, transparent 360deg);
+  border-radius: 50%;
+  z-index: 1;
+  animation: sunburstSpin 20s infinite linear;
+  filter: blur(3px);
+  pointer-events: none;
+}
+
+@keyframes sunburstSpin {
+  from { transform: translate(-50%, -50%) rotate(0deg); }
+  to { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+/* Ensure the image itself sits above the decorations */
+.brand-logo {
+  position: relative;
+  z-index: 2;
+}
