@@ -2,6 +2,942 @@
    BUDS PREMIUM — PRODUCT DATABASE (112 Products)
    ============================================= */
 const PRODUCT_DB = {
+  "maternity-wear-breast-pumps-1": {
+    "name": "breast-pump-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-01.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-breast-pumps-2": {
+    "name": "breast-pump-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-02.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-breast-pumps-3": {
+    "name": "breast-pump-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-03.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-breast-pumps-4": {
+    "name": "breast-pump-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-04.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-breast-pumps-5": {
+    "name": "breast-pump-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-05.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-breast-pumps-6": {
+    "name": "breast-pump-06",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-06.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-breast-pumps-7": {
+    "name": "breast-pump-07",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump-07.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-breast-pumps-8": {
+    "name": "breast-pump",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/maternity-wear/Sub catogory of Breast Pumps/breast-pump.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-gown-1": {
+    "name": "feeding-gown-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown-01.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-gown-2": {
+    "name": "feeding-gown-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown-02.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-gown-3": {
+    "name": "feeding-gown-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown-03.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-gown-4": {
+    "name": "feeding-gown-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown-04.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-gown-5": {
+    "name": "feeding-gown-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown-05.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-gown-6": {
+    "name": "feeding-gown",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Gown/feeding-gown.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-kurtis-1": {
+    "name": "feeding-kurthis-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Kurtis",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Kurtis/feeding-kurthis-01.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-kurtis-2": {
+    "name": "feeding-kurthis-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Kurtis",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Kurtis/feeding-kurthis-02.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-kurtis-3": {
+    "name": "feeding-kurthis-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Kurtis",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Kurtis/feeding-kurthis-03.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-nighties-1": {
+    "name": "feeding-nighties-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Nighties",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Nighties/feeding-nighties-01.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-nighties-2": {
+    "name": "feeding-nighties",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Nighties",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Nighties/feeding-nighties.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-shawl-1": {
+    "name": "feeding-shawl-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Shawl",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Shawl/feeding-shawl-01.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-shawl-2": {
+    "name": "feeding-shawl-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Shawl",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Shawl/feeding-shawl-02.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-feeding-shawl-3": {
+    "name": "feeding-shawl",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Shawl",
+    "img": "assets/maternity-wear/Sub catogory of Feeding Shawl/feeding-shawl.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-maternity-night-dress-1": {
+    "name": "maternity-night-dress-pending-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Night Dress",
+    "img": "assets/maternity-wear/Sub catogory of Maternity Night Dress/maternity-night-dress-pending-01.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-maternity-night-dress-2": {
+    "name": "maternity-night-dress-pending-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Night Dress",
+    "img": "assets/maternity-wear/Sub catogory of Maternity Night Dress/maternity-night-dress-pending-02.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-maternity-night-dress-3": {
+    "name": "maternity-night-dress-pending",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Night Dress",
+    "img": "assets/maternity-wear/Sub catogory of Maternity Night Dress/maternity-night-dress-pending.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-maternity-pants-1": {
+    "name": "maternity-pants-pending-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Pants",
+    "img": "assets/maternity-wear/Sub catogory of Maternity Pants/maternity-pants-pending-02.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-maternity-pants-2": {
+    "name": "maternity-pants-pending-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Pants",
+    "img": "assets/maternity-wear/Sub catogory of Maternity Pants/maternity-pants-pending-03.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-maternity-pants-3": {
+    "name": "maternity-pants-pending-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Pants",
+    "img": "assets/maternity-wear/Sub catogory of Maternity Pants/maternity-pants-pending-04.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-maternity-pants-4": {
+    "name": "maternity-pants-pending",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Pants",
+    "img": "assets/maternity-wear/Sub catogory of Maternity Pants/maternity-pants-pending.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-maternity-tops-1": {
+    "name": "maternity-tops-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Tops",
+    "img": "assets/maternity-wear/Sub catogory of Maternity Tops/maternity-tops-01.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-maternity-tops-2": {
+    "name": "maternity-tops-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Tops",
+    "img": "assets/maternity-wear/Sub catogory of Maternity Tops/maternity-tops-02.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "maternity-wear-maternity-tops-3": {
+    "name": "maternity-tops",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Tops",
+    "img": "assets/maternity-wear/Sub catogory of Maternity Tops/maternity-tops.jpg",
+    "desc": "Comfortable and stylish maternity wear designed to support you."
+  },
+  "mother-care-abdomen-belt-1": {
+    "name": "abdomen-belt-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Abdomen Belt",
+    "img": "assets/mother-care/Sub catogory of Abdomen Belt/abdomen-belt-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-abdomen-belt-2": {
+    "name": "abdomen-belt-2",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Abdomen Belt",
+    "img": "assets/mother-care/Sub catogory of Abdomen Belt/abdomen-belt-2.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-abdomen-belt-3": {
+    "name": "abdomen-belt-3",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Abdomen Belt",
+    "img": "assets/mother-care/Sub catogory of Abdomen Belt/abdomen-belt-3.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-abdomen-belt-4": {
+    "name": "abdomen-belt-4",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Abdomen Belt",
+    "img": "assets/mother-care/Sub catogory of Abdomen Belt/abdomen-belt-4.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-abdomen-belt-5": {
+    "name": "abdomen-belt",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Abdomen Belt",
+    "img": "assets/mother-care/Sub catogory of Abdomen Belt/abdomen-belt.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pads-1": {
+    "name": "breast-pads-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pads",
+    "img": "assets/mother-care/Sub catogory of Breast Pads/breast-pads-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pads-2": {
+    "name": "breast-pads-052",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pads",
+    "img": "assets/mother-care/Sub catogory of Breast Pads/breast-pads-052.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pads-3": {
+    "name": "breast-pads",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pads",
+    "img": "assets/mother-care/Sub catogory of Breast Pads/breast-pads.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pumps-1": {
+    "name": "breast-pump-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pumps-2": {
+    "name": "breast-pump-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pumps-3": {
+    "name": "breast-pump-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-03.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pumps-4": {
+    "name": "breast-pump-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-04.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pumps-5": {
+    "name": "breast-pump-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-05.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pumps-6": {
+    "name": "breast-pump-06",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-06.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pumps-7": {
+    "name": "breast-pump-07",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump-07.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-breast-pumps-8": {
+    "name": "breast-pump",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Breast Pumps",
+    "img": "assets/mother-care/Sub catogory of Breast Pumps/breast-pump.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-c-section-panties-1": {
+    "name": "c-section-panties-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "C-section Panties",
+    "img": "assets/mother-care/Sub catogory of C-section Panties/c-section-panties-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-c-section-panties-2": {
+    "name": "c-section-panties-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "C-section Panties",
+    "img": "assets/mother-care/Sub catogory of C-section Panties/c-section-panties-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-c-section-panties-3": {
+    "name": "c-section-panties",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "C-section Panties",
+    "img": "assets/mother-care/Sub catogory of C-section Panties/c-section-panties.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-disposable-pad-fixator-1": {
+    "name": "disposable-pad-fixator-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Disposable pad fixator",
+    "img": "assets/mother-care/Sub catogory of Disposable pad fixator/disposable-pad-fixator-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-disposable-pad-fixator-2": {
+    "name": "disposable-pad-fixator",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Disposable pad fixator",
+    "img": "assets/mother-care/Sub catogory of Disposable pad fixator/disposable-pad-fixator.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-bra-1": {
+    "name": "feeding-bra",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Bra",
+    "img": "assets/mother-care/Sub catogory of Feeding Bra/feeding-bra.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-bra-2": {
+    "name": "feeding-bra01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Bra",
+    "img": "assets/mother-care/Sub catogory of Feeding Bra/feeding-bra01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-gown-1": {
+    "name": "feeding-gown-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-gown-2": {
+    "name": "feeding-gown-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-gown-3": {
+    "name": "feeding-gown-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown-03.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-gown-4": {
+    "name": "feeding-gown-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown-04.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-gown-5": {
+    "name": "feeding-gown-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown-05.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-gown-6": {
+    "name": "feeding-gown",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Gown",
+    "img": "assets/mother-care/Sub catogory of Feeding Gown/feeding-gown.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-kurtis-1": {
+    "name": "feeding-kurthis-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Kurtis",
+    "img": "assets/mother-care/Sub catogory of Feeding Kurtis/feeding-kurthis-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-kurtis-2": {
+    "name": "feeding-kurthis-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Kurtis",
+    "img": "assets/mother-care/Sub catogory of Feeding Kurtis/feeding-kurthis-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-kurtis-3": {
+    "name": "feeding-kurthis-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Kurtis",
+    "img": "assets/mother-care/Sub catogory of Feeding Kurtis/feeding-kurthis-03.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-nighties-1": {
+    "name": "feeding-nighties-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Nighties",
+    "img": "assets/mother-care/Sub catogory of Feeding Nighties/feeding-nighties-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-nighties-2": {
+    "name": "feeding-nighties",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Nighties",
+    "img": "assets/mother-care/Sub catogory of Feeding Nighties/feeding-nighties.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-pillow-1": {
+    "name": "feeding-pillow-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Pillow",
+    "img": "assets/mother-care/Sub catogory of Feeding Pillow/feeding-pillow-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-pillow-2": {
+    "name": "feeding-pillow-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Pillow",
+    "img": "assets/mother-care/Sub catogory of Feeding Pillow/feeding-pillow-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-pillow-3": {
+    "name": "feeding-pillow-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Pillow",
+    "img": "assets/mother-care/Sub catogory of Feeding Pillow/feeding-pillow-03.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-pillow-4": {
+    "name": "feeding-pillow-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Pillow",
+    "img": "assets/mother-care/Sub catogory of Feeding Pillow/feeding-pillow-04.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-pillow-5": {
+    "name": "feeding-pillow",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Pillow",
+    "img": "assets/mother-care/Sub catogory of Feeding Pillow/feeding-pillow.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-shawl-1": {
+    "name": "feeding-shawl-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Shawl",
+    "img": "assets/mother-care/Sub catogory of Feeding Shawl/feeding-shawl-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-shawl-2": {
+    "name": "feeding-shawl-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Shawl",
+    "img": "assets/mother-care/Sub catogory of Feeding Shawl/feeding-shawl-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-feeding-shawl-3": {
+    "name": "feeding-shawl",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Feeding Shawl",
+    "img": "assets/mother-care/Sub catogory of Feeding Shawl/feeding-shawl.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-binder-1": {
+    "name": "maternity-binder-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Binder",
+    "img": "assets/mother-care/Sub catogory of Maternity Binder/maternity-binder-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-binder-2": {
+    "name": "maternity-binder-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Binder",
+    "img": "assets/mother-care/Sub catogory of Maternity Binder/maternity-binder-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-binder-3": {
+    "name": "maternity-binder-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Binder",
+    "img": "assets/mother-care/Sub catogory of Maternity Binder/maternity-binder-03.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-binder-4": {
+    "name": "maternity-binder",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Binder",
+    "img": "assets/mother-care/Sub catogory of Maternity Binder/maternity-binder.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-night-dress-1": {
+    "name": "maternity-night-dress-pending-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Night Dress",
+    "img": "assets/mother-care/Sub catogory of Maternity Night Dress/maternity-night-dress-pending-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-night-dress-2": {
+    "name": "maternity-night-dress-pending-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Night Dress",
+    "img": "assets/mother-care/Sub catogory of Maternity Night Dress/maternity-night-dress-pending-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-night-dress-3": {
+    "name": "maternity-night-dress-pending",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Night Dress",
+    "img": "assets/mother-care/Sub catogory of Maternity Night Dress/maternity-night-dress-pending.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-pads-1": {
+    "name": "maternity-pads-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Pads",
+    "img": "assets/mother-care/Sub catogory of Maternity Pads/maternity-pads-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-pads-2": {
+    "name": "maternity-pads",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Pads",
+    "img": "assets/mother-care/Sub catogory of Maternity Pads/maternity-pads.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-pants-1": {
+    "name": "maternity-pants-pending-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Pants",
+    "img": "assets/mother-care/Sub catogory of Maternity Pants/maternity-pants-pending-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-pants-2": {
+    "name": "maternity-pants-pending-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Pants",
+    "img": "assets/mother-care/Sub catogory of Maternity Pants/maternity-pants-pending-03.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-pants-3": {
+    "name": "maternity-pants-pending-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Pants",
+    "img": "assets/mother-care/Sub catogory of Maternity Pants/maternity-pants-pending-04.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-pants-4": {
+    "name": "maternity-pants-pending",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Pants",
+    "img": "assets/mother-care/Sub catogory of Maternity Pants/maternity-pants-pending.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-support-belt-1": {
+    "name": "maternity-support-belts-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Support Belt",
+    "img": "assets/mother-care/Sub catogory of Maternity Support Belt/maternity-support-belts-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-support-belt-2": {
+    "name": "maternity-support-belts",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Support Belt",
+    "img": "assets/mother-care/Sub catogory of Maternity Support Belt/maternity-support-belts.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-tops-1": {
+    "name": "maternity-tops-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Tops",
+    "img": "assets/mother-care/Sub catogory of Maternity Tops/maternity-tops-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-tops-2": {
+    "name": "maternity-tops-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Tops",
+    "img": "assets/mother-care/Sub catogory of Maternity Tops/maternity-tops-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-maternity-tops-3": {
+    "name": "maternity-tops",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Maternity Tops",
+    "img": "assets/mother-care/Sub catogory of Maternity Tops/maternity-tops.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-mother-bags-1": {
+    "name": "mother-bags-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Mother Bags",
+    "img": "assets/mother-care/Sub catogory of Mother Bags/mother-bags-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-mother-bags-2": {
+    "name": "mother-bags-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Mother Bags",
+    "img": "assets/mother-care/Sub catogory of Mother Bags/mother-bags-03.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-mother-bags-3": {
+    "name": "mother-bags-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Mother Bags",
+    "img": "assets/mother-care/Sub catogory of Mother Bags/mother-bags-04.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-mother-bags-4": {
+    "name": "mother-bags",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Mother Bags",
+    "img": "assets/mother-care/Sub catogory of Mother Bags/mother-bags.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-nipple-puller-1": {
+    "name": "nipple-puller-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Nipple Puller",
+    "img": "assets/mother-care/Sub catogory of Nipple Puller/nipple-puller-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-nipple-puller-2": {
+    "name": "nipple-puller-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Nipple Puller",
+    "img": "assets/mother-care/Sub catogory of Nipple Puller/nipple-puller-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-nipple-puller-3": {
+    "name": "nipple-puller",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Nipple Puller",
+    "img": "assets/mother-care/Sub catogory of Nipple Puller/nipple-puller.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-nipple-shield-1": {
+    "name": "nipple-shield-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Nipple Shield",
+    "img": "assets/mother-care/Sub catogory of Nipple Shield/nipple-shield-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-nipple-shield-2": {
+    "name": "nipple-shield-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Nipple Shield",
+    "img": "assets/mother-care/Sub catogory of Nipple Shield/nipple-shield-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-nipple-shield-3": {
+    "name": "nipple-shield-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Nipple Shield",
+    "img": "assets/mother-care/Sub catogory of Nipple Shield/nipple-shield-03.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-nipple-shield-4": {
+    "name": "nipple-shield",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Nipple Shield",
+    "img": "assets/mother-care/Sub catogory of Nipple Shield/nipple-shield.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-pregnancy-panties-1": {
+    "name": "Pregnancy-panties-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Pregnancy Panties",
+    "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-panties-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-pregnancy-panties-2": {
+    "name": "Pregnancy-panties-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Pregnancy Panties",
+    "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-panties-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-pregnancy-panties-3": {
+    "name": "Pregnancy-panties-04",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Pregnancy Panties",
+    "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-panties-04.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-pregnancy-panties-4": {
+    "name": "Pregnancy-panties-05",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Pregnancy Panties",
+    "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-panties-05.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-pregnancy-panties-5": {
+    "name": "Pregnancy-panties",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Pregnancy Panties",
+    "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-panties.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-pregnancy-panties-6": {
+    "name": "Pregnancy-pantiesc-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Pregnancy Panties",
+    "img": "assets/mother-care/Sub catogory of Pregnancy Panties/Pregnancy-pantiesc-03.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-pregnancy-pillow-1": {
+    "name": "pregnancy-pillow-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Pregnancy Pillow",
+    "img": "assets/mother-care/Sub catogory of Pregnancy Pillow/pregnancy-pillow-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-pregnancy-pillow-2": {
+    "name": "pregnancy-pillow",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Pregnancy Pillow",
+    "img": "assets/mother-care/Sub catogory of Pregnancy Pillow/pregnancy-pillow.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-shaping-panty-1": {
+    "name": "shaping-panty-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Shaping Panty",
+    "img": "assets/mother-care/Sub catogory of Shaping Panty/shaping-panty-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-shaping-panty-2": {
+    "name": "shaping-panty-02",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Shaping Panty",
+    "img": "assets/mother-care/Sub catogory of Shaping Panty/shaping-panty-02.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-shaping-panty-3": {
+    "name": "shaping-panty-03",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Shaping Panty",
+    "img": "assets/mother-care/Sub catogory of Shaping Panty/shaping-panty-03.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-shaping-panty-4": {
+    "name": "shaping-panty",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Shaping Panty",
+    "img": "assets/mother-care/Sub catogory of Shaping Panty/shaping-panty.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-shaping-shorts-1": {
+    "name": "shaping-shorts-01",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Shaping Shorts",
+    "img": "assets/mother-care/Sub catogory of Shaping Shorts/shaping-shorts-01.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
+  "mother-care-shaping-shorts-2": {
+    "name": "shaping-shorts",
+    "price": 299,
+    "oldPrice": 499,
+    "category": "Shaping Shorts",
+    "img": "assets/mother-care/Sub catogory of Shaping Shorts/shaping-shorts.jpg",
+    "desc": "Essential care products to support new mothers in their beautiful journey."
+  },
   "party-cake-topper-1": {
     "name": "Untitled-1",
     "price": 199,
@@ -7111,6 +8047,38 @@ const PRODUCT_DB = {
 };
 
 const CATEGORY_PRODUCTS = {
+  // MATERNITY WEAR: breast-pumps
+  "breast-pumps": ["mother-care-breast-pumps-1", "mother-care-breast-pumps-2", "mother-care-breast-pumps-3", "mother-care-breast-pumps-4", "mother-care-breast-pumps-5", "mother-care-breast-pumps-6", "mother-care-breast-pumps-7", "mother-care-breast-pumps-8"],
+  // MATERNITY WEAR: feeding-gown
+  "feeding-gown": ["mother-care-feeding-gown-1", "mother-care-feeding-gown-2", "mother-care-feeding-gown-3", "mother-care-feeding-gown-4", "mother-care-feeding-gown-5", "mother-care-feeding-gown-6"],
+  // MATERNITY WEAR: feeding-kurtis
+  "feeding-kurtis": ["mother-care-feeding-kurtis-1", "mother-care-feeding-kurtis-2", "mother-care-feeding-kurtis-3"],
+  // MATERNITY WEAR: feeding-nighties
+  "feeding-nighties": ["mother-care-feeding-nighties-1", "mother-care-feeding-nighties-2"],
+  // MATERNITY WEAR: feeding-shawl
+  "feeding-shawl": ["mother-care-feeding-shawl-1", "mother-care-feeding-shawl-2", "mother-care-feeding-shawl-3"],
+  // MATERNITY WEAR: maternity-night-dress
+  "maternity-night-dress": ["mother-care-maternity-night-dress-1", "mother-care-maternity-night-dress-2", "mother-care-maternity-night-dress-3"],
+  // MATERNITY WEAR: maternity-pants
+  "maternity-pants": ["mother-care-maternity-pants-1", "mother-care-maternity-pants-2", "mother-care-maternity-pants-3", "mother-care-maternity-pants-4"],
+  // MATERNITY WEAR: maternity-tops
+  "maternity-tops": ["mother-care-maternity-tops-1", "mother-care-maternity-tops-2", "mother-care-maternity-tops-3"],
+  "abdomen-belt": ["mother-care-abdomen-belt-1", "mother-care-abdomen-belt-2", "mother-care-abdomen-belt-3", "mother-care-abdomen-belt-4", "mother-care-abdomen-belt-5"],
+  "breast-pads": ["mother-care-breast-pads-1", "mother-care-breast-pads-2", "mother-care-breast-pads-3"],
+  "c-section-panties": ["mother-care-c-section-panties-1", "mother-care-c-section-panties-2", "mother-care-c-section-panties-3"],
+  "disposable-pad-fixator": ["mother-care-disposable-pad-fixator-1", "mother-care-disposable-pad-fixator-2"],
+  "feeding-bra": ["mother-care-feeding-bra-1", "mother-care-feeding-bra-2"],
+  "feeding-pillow": ["mother-care-feeding-pillow-1", "mother-care-feeding-pillow-2", "mother-care-feeding-pillow-3", "mother-care-feeding-pillow-4", "mother-care-feeding-pillow-5"],
+  "maternity-binder": ["mother-care-maternity-binder-1", "mother-care-maternity-binder-2", "mother-care-maternity-binder-3", "mother-care-maternity-binder-4"],
+  "maternity-pads": ["mother-care-maternity-pads-1", "mother-care-maternity-pads-2"],
+  "maternity-support-belt": ["mother-care-maternity-support-belt-1", "mother-care-maternity-support-belt-2"],
+  "mother-bags": ["mother-care-mother-bags-1", "mother-care-mother-bags-2", "mother-care-mother-bags-3", "mother-care-mother-bags-4"],
+  "nipple-puller": ["mother-care-nipple-puller-1", "mother-care-nipple-puller-2", "mother-care-nipple-puller-3"],
+  "nipple-shield": ["mother-care-nipple-shield-1", "mother-care-nipple-shield-2", "mother-care-nipple-shield-3", "mother-care-nipple-shield-4"],
+  "pregnancy-panties": ["mother-care-pregnancy-panties-1", "mother-care-pregnancy-panties-2", "mother-care-pregnancy-panties-3", "mother-care-pregnancy-panties-4", "mother-care-pregnancy-panties-5", "mother-care-pregnancy-panties-6"],
+  "pregnancy-pillow": ["mother-care-pregnancy-pillow-1", "mother-care-pregnancy-pillow-2"],
+  "shaping-panty": ["mother-care-shaping-panty-1", "mother-care-shaping-panty-2", "mother-care-shaping-panty-3", "mother-care-shaping-panty-4"],
+  "shaping-shorts": ["mother-care-shaping-shorts-1", "mother-care-shaping-shorts-2"],
   "cake-topper": ["party-cake-topper-1", "party-cake-topper-2", "party-cake-topper-3", "party-cake-topper-4"],
   "curtains": ["party-curtains-1", "party-curtains-2", "party-curtains-3", "party-curtains-4"],
   "foil-balloons": ["party-foil-balloons-1", "party-foil-balloons-2", "party-foil-balloons-3", "party-foil-balloons-4", "party-foil-balloons-5", "party-foil-balloons-6", "party-foil-balloons-7", "party-foil-balloons-8", "party-foil-balloons-9", "party-foil-balloons-10"],
@@ -7192,11 +8160,11 @@ const CATEGORY_PRODUCTS = {
   "baby-socks": ["cotton-baby-socks", "anti-slip-baby-socks", "winter-baby-socks", "cartoon-baby-socks"],
   "baby-soft-sweaters": ["full-sleeve-soft-sweater", "knitted-baby-sweater", "button-soft-sweater", "hooded-baby-sweater"],
   "baby-woollen-sweater": ["winter-woollen-sweater", "hand-knit-sweater", "premium-woollen-sweater", "thick-warm-sweater"],
-    "bottle-wash": ["natural-bottle-wash", "foaming-bottle-wash", "fruit-based-bottle-wash", "anti-bacterial-bottle-wash"],
+  "bottle-wash": ["natural-bottle-wash", "foaming-bottle-wash", "fruit-based-bottle-wash", "anti-bacterial-bottle-wash"],
   "cap-sets": ["newborn-cap-set", "winter-cap-set", "cotton-cap-set", "printed-cap-set"],
   "cloth-nappies": ["reusable-cloth-nappies", "organic-cloth-nappies", "soft-cotton-nappies", "adjustable-nappies"],
   "cotton-towels": ["premium-cotton-towel", "soft-baby-towel", "quick-dry-cotton-towel", "extra-absorbent-towel"],
-    "cradle-sticks-and-ropes": ["wooden-cradle-stick", "steel-cradle-stick", "cotton-cradle-rope", "heavy-duty-cradle-rope"],
+  "cradle-sticks-and-ropes": ["wooden-cradle-stick", "steel-cradle-stick", "cotton-cradle-rope", "heavy-duty-cradle-rope"],
   "diaper-rash-cream": ["aloe-rash-cream", "herbal-rash-cream", "sensitive-skin-rash-cream", "protective-rash-cream"],
   "disposable-diapers": ["newborn-diapers", "premium-dry-diapers", "overnight-diapers", "ultra-soft-diapers"],
   "face-napkin": ["cotton-face-napkin", "printed-face-napkin", "soft-face-cloth", "baby-cleaning-napkin"],
@@ -7206,10 +8174,10 @@ const CATEGORY_PRODUCTS = {
   "massage-oil": ["coconut-massage-oil", "herbal-massage-oil", "almond-massage-oil", "nourishing-massage-oil"],
   "mittens": ["cotton-mittens", "winter-mittens", "anti-scratch-mittens", "printed-mittens"],
   "mosquitoes-net": ["foldable-mosquito-net", "baby-bed-mosquito-net", "portable-mosquito-net", "premium-protection-net"],
-      "baby-powder": ["herbal-baby-powder", "talc-free-powder", "sensitive-skin-powder", "daily-care-powder"],
+  "baby-powder": ["herbal-baby-powder", "talc-free-powder", "sensitive-skin-powder", "daily-care-powder"],
   "quick-dry-sheets": ["waterproof-quick-dry-sheet", "premium-dry-sheet", "reusable-dry-sheet", "travel-dry-sheet"],
   "reusable-diapers": ["adjustable-reusable-diaper", "washable-diaper", "organic-reusable-diaper", "eco-friendly-diaper"],
-    "baby-soap": ["herbal-baby-soap", "milk-baby-soap", "moisturizing-baby-soap", "sensitive-skin-soap"],
+  "baby-soap": ["herbal-baby-soap", "milk-baby-soap", "moisturizing-baby-soap", "sensitive-skin-soap"],
   "corner-guards": ["standard-corner-guards", "premium-corner-guards", "advanced-corner-guards", "compact-corner-guards"],
   "safety-gates": ["standard-safety-gates", "premium-safety-gates", "advanced-safety-gates", "compact-safety-gates"],
   "cabinet-locks": ["standard-cabinet-locks", "premium-cabinet-locks", "advanced-cabinet-locks", "compact-cabinet-locks"],
@@ -7217,21 +8185,14 @@ const CATEGORY_PRODUCTS = {
   "baby-monitor": ["standard-baby-monitor", "premium-baby-monitor", "advanced-baby-monitor", "compact-baby-monitor"],
   "bed-rails": ["standard-bed-rails", "premium-bed-rails", "advanced-bed-rails", "compact-bed-rails"],
 
-                                    "maternity-tops": ["standard-maternity-tops", "premium-maternity-tops", "advanced-maternity-tops", "compact-maternity-tops"],
-  "maternity-dresses": ["standard-maternity-dresses", "premium-maternity-dresses", "advanced-maternity-dresses", "compact-maternity-dresses"],
-  "nursing-bras": ["standard-nursing-bras", "premium-nursing-bras", "advanced-nursing-bras", "compact-nursing-bras"],
-  "maternity-leggings": ["standard-maternity-leggings", "premium-maternity-leggings", "advanced-maternity-leggings", "compact-maternity-leggings"],
-  "breast-pumps": ["standard-breast-pumps", "premium-breast-pumps", "advanced-breast-pumps", "compact-breast-pumps"],
-  "nursing-pads": ["standard-nursing-pads", "premium-nursing-pads", "advanced-nursing-pads", "compact-nursing-pads"],
-  "postpartum-belts": ["standard-postpartum-belts", "premium-postpartum-belts", "advanced-postpartum-belts", "compact-postpartum-belts"],
-  "nipple-creams": ["standard-nipple-creams", "premium-nipple-creams", "advanced-nipple-creams", "compact-nipple-creams"],
-          "party-dresses": ["standard-party-dresses", "premium-party-dresses", "advanced-party-dresses", "compact-party-dresses"],
+
+  "party-dresses": ["standard-party-dresses", "premium-party-dresses", "advanced-party-dresses", "compact-party-dresses"],
   "party-suits": ["standard-party-suits", "premium-party-suits", "advanced-party-suits", "compact-party-suits"],
   "birthday-decor": ["standard-birthday-decor", "premium-birthday-decor", "advanced-birthday-decor", "compact-birthday-decor"],
   "party-hats": ["standard-party-hats", "premium-party-hats", "advanced-party-hats", "compact-party-hats"],
   "backpacks": ["standard-backpacks", "premium-backpacks", "advanced-backpacks", "compact-backpacks"],
   "lunch-boxes": ["standard-lunch-boxes", "premium-lunch-boxes", "advanced-lunch-boxes", "compact-lunch-boxes"],
-    "art-supplies": ["standard-art-supplies", "premium-art-supplies", "advanced-art-supplies", "compact-art-supplies"],
+  "art-supplies": ["standard-art-supplies", "premium-art-supplies", "advanced-art-supplies", "compact-art-supplies"],
   "silver-anklets": ["standard-silver-anklets", "premium-silver-anklets", "advanced-silver-anklets", "compact-silver-anklets"],
   "gold-bracelets": ["standard-gold-bracelets", "premium-gold-bracelets", "advanced-gold-bracelets", "compact-gold-bracelets"],
   "protection-charms": ["standard-protection-charms", "premium-protection-charms", "advanced-protection-charms", "compact-protection-charms"],
@@ -7240,18 +8201,18 @@ const CATEGORY_PRODUCTS = {
   "car-seats": ["standard-car-seats", "premium-car-seats", "advanced-car-seats", "compact-car-seats"],
   "high-chairs": ["standard-high-chairs", "premium-high-chairs", "advanced-high-chairs", "compact-high-chairs"],
   "baby-carriers": ["standard-baby-carriers", "premium-baby-carriers", "advanced-baby-carriers", "compact-baby-carriers"],
-                "activity-walker": ["activity-walker-01","activity-walker-02","activity-walker"],
-  "battery-bike": ["battery-bike-01","battery-bike-02","battery-bike"],
-  "battery-car": ["battery-car-01","battery-car-02","battery-car-03","battery-car"],
-  "bouncer": ["2","v"],
-  "cradle": ["cradle-014","cradle","cradle02","cradle03","cradle04","cradle06"],
-  "magic-car": ["magic-car-1","magic-car-2","magic-car"],
-  "rideon": ["rideon-01","rideon-02","rideon-03","rideon"],
-  "rocker": ["rocker-01","rocker-02","rocker"],
-  "skating-scooter": ["skating-scooter-02","skating-scooter-03","skating-scooter-04","skating-scooter"],
-  "stroller": ["stroller-01","stroller-02","stroller-03","stroller"],
-  "tricycle": ["tricycle-01","tricycle-02","tricycle-03","tricycle-04","tricycle-05","tricycle-06","tricycle"],
-  "walker": ["walker_01_225-300","walker_02_225-300","walker_03_225-300","walker_04_225-300","walker_05_225-300","walker_06_225-300","walker_225-300"],
+  "activity-walker": ["activity-walker-01", "activity-walker-02", "activity-walker"],
+  "battery-bike": ["battery-bike-01", "battery-bike-02", "battery-bike"],
+  "battery-car": ["battery-car-01", "battery-car-02", "battery-car-03", "battery-car"],
+  "bouncer": ["2", "v"],
+  "cradle": ["cradle-014", "cradle", "cradle02", "cradle03", "cradle04", "cradle06"],
+  "magic-car": ["magic-car-1", "magic-car-2", "magic-car"],
+  "rideon": ["rideon-01", "rideon-02", "rideon-03", "rideon"],
+  "rocker": ["rocker-01", "rocker-02", "rocker"],
+  "skating-scooter": ["skating-scooter-02", "skating-scooter-03", "skating-scooter-04", "skating-scooter"],
+  "stroller": ["stroller-01", "stroller-02", "stroller-03", "stroller"],
+  "tricycle": ["tricycle-01", "tricycle-02", "tricycle-03", "tricycle-04", "tricycle-05", "tricycle-06", "tricycle"],
+  "walker": ["walker_01_225-300", "walker_02_225-300", "walker_03_225-300", "walker_04_225-300", "walker_05_225-300", "walker_06_225-300", "walker_225-300"],
 };
 
 function initializeBUDS() {
