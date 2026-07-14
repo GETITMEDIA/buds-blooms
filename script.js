@@ -11303,18 +11303,7 @@ function initializeBUDS() {
   function saveCart() {
     localStorage.setItem("buds_cart", JSON.stringify(cart));
     
-  // Inject Header Decorations dynamically
-  const headerTopRow = document.querySelector(".header-top-row");
-  if (headerTopRow && !document.querySelector(".nav-decor-container")) {
-    const decorHTML = `
-      <div class="nav-decor-container">
-        <i class="fas fa-heart nav-decor nav-decor-1"></i>
-        <i class="fas fa-star nav-decor nav-decor-2"></i>
-        <i class="fas fa-circle nav-decor nav-decor-3"></i>
-      </div>
-    `;
-    headerTopRow.insertAdjacentHTML('beforeend', decorHTML);
-  }
+
 
   updateBadges();
     renderCartDrawer();
