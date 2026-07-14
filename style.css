@@ -111,6 +111,7 @@ body {
   display: flex;
   align-items: center;
   gap: 12px;
+  flex: 1;
 }
 
 .loc-link {
@@ -179,14 +180,12 @@ body {
 
 /* ---------- LOGO ---------- */
 .header-logo {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  position: relative;
   display: flex;
   align-items: center;
   text-decoration: none;
   border-radius: 50%;
+  z-index: 9010;
 }
 
 
@@ -209,6 +208,8 @@ body {
   display: flex;
   align-items: center;
   gap: 24px;
+  flex: 1;
+  justify-content: flex-end;
 }
 
 .action-item {
@@ -220,6 +221,18 @@ body {
   display: flex;
   align-items: center;
   gap: 8px;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.action-item:hover {
+  color: var(--primary-pink);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 1024px) {
+  .hide-mobile {
+    display: none !important;
+  }
 }
 
 .action-item i {
@@ -300,11 +313,10 @@ body {
   height: 100%;
   gap: 2px;
   width: 100%;
+  justify-content: center;
 }
 
-.nav-links li.nav-item:first-of-type {
-  margin-right: auto;
-}
+/* margin-right: auto removed since Home is moved to header-actions */
 
 .nav-item {
   position: relative;
@@ -6828,5 +6840,6 @@ body {
   height: auto;
   object-fit: contain;
 }
+
 
 
