@@ -10970,7 +10970,7 @@ function initializeBUDS() {
           <video class="v-grid-video" muted loop playsinline src="${product.videoSrc}"></video>
           <div class="v-play-btn"><i class="fas fa-play"></i></div>
         </div>
-        <a href="baby-care.html" class="v-info" style="display: block; text-decoration: none; text-align: center; padding: 16px 12px; background: #ffccd5; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
+        <a href="${product.title.toLowerCase().replace(/ /g, '-')}.html" class="v-info" style="display: block; text-decoration: none; text-align: center; padding: 16px 12px; background: #ffccd5; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
           <p class="v-title" style="margin: 0; font-size: 16px; font-weight: 700; color: #222;">${product.title}</p>
         </a>
       `;
@@ -12513,4 +12513,5 @@ if (document.readyState === "loading") {
 } else {
   initializeBUDS();
 }
+
 
