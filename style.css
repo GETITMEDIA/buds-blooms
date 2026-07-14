@@ -257,7 +257,7 @@ body {
   align-items: center;
   justify-content: center;
   height: var(--nav-h);
-  padding: 0 16px;
+  padding: 0 40px;
   position: relative;
   /* max-width: 1440px; */
   margin: 0 auto;
@@ -299,6 +299,11 @@ body {
   align-items: center;
   height: 100%;
   gap: 2px;
+  width: 100%;
+}
+
+.nav-links li.nav-item:first-of-type {
+  margin-right: auto;
 }
 
 .nav-item {
@@ -6823,3 +6828,5 @@ body {
   height: auto;
   object-fit: contain;
 }
+
+

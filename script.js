@@ -8338,6 +8338,1968 @@ const PRODUCT_DB = {
     "img": "assets/baby-safety/Sub catogory of baby chair/Untitled-9-2.jpg",
     "desc": "Premium quality baby safety products."
   },
+  "baby-dress-baby-panties-1": {
+    "name": "Baby Panties",
+    "category": "Baby Panties",
+    "img": "assets/baby-dress/Sub catogory of Baby Panties/baby-panties-013.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-baby-panties-2": {
+    "name": "Baby Panties",
+    "category": "Baby Panties",
+    "img": "assets/baby-dress/Sub catogory of Baby Panties/baby-panties.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-boy-dress-1": {
+    "name": "Boy Dress",
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-boy-dress-2": {
+    "name": "Boy Dress",
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-boy-dress-3": {
+    "name": "Boy Dress",
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-boy-dress-4": {
+    "name": "Boy Dress",
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-boy-dress-5": {
+    "name": "Boy Dress",
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-boy-dress-6": {
+    "name": "Boy Dress",
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-06.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-boy-dress-7": {
+    "name": "Boy Dress",
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY-07.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-boy-dress-8": {
+    "name": "Boy Dress",
+    "category": "Boy Dress",
+    "img": "assets/baby-dress/Sub catogory of Boy Dress/BOY-BABY.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-1": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-2": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress1.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-3": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress10.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-4": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress114.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-5": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress15.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-6": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress16.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-7": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress3.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-8": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress4.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-9": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress5.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-10": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress6.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-11": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress7.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-12": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress8.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-casual-dress-13": {
+    "name": "Casual Dress",
+    "category": "Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Casual Dress/casual-dress9.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-1": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-010.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-2": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-011.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-3": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-012.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-4": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-5": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-6": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-7": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-8": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-06.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-9": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-07.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-10": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-08.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-11": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks-09.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-cotton-frocks-12": {
+    "name": "Cotton Frocks",
+    "category": "Cotton Frocks",
+    "img": "assets/baby-dress/Sub catogory of Cotton Frocks/cotton-frocks.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-diaper-panties-1": {
+    "name": "Diaper Panties",
+    "category": "Diaper Panties",
+    "img": "assets/baby-dress/Sub catogory of Diaper Panties/diaper-panties-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-diaper-panties-2": {
+    "name": "Diaper Panties",
+    "category": "Diaper Panties",
+    "img": "assets/baby-dress/Sub catogory of Diaper Panties/diaper-panties-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-diaper-panties-3": {
+    "name": "Diaper Panties",
+    "category": "Diaper Panties",
+    "img": "assets/baby-dress/Sub catogory of Diaper Panties/diaper-panties.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-1": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-2": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear1.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-3": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear10.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-4": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear2.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-5": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear3.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-6": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear4.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-7": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear5.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-8": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear6.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-9": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear7.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-10": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear8.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-ethnic-dress-11": {
+    "name": "Ethnic Dress",
+    "category": "Ethnic Dress",
+    "img": "assets/baby-dress/Sub catogory of Ethnic Dress/Ethnic-wear9.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-fancy-frocks-1": {
+    "name": "Fancy Frocks",
+    "category": "Fancy Frocks",
+    "img": "assets/baby-dress/Sub catogory of Fancy Frocks/fancy-frocks-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-fancy-frocks-2": {
+    "name": "Fancy Frocks",
+    "category": "Fancy Frocks",
+    "img": "assets/baby-dress/Sub catogory of Fancy Frocks/fancy-frocks-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-fancy-frocks-3": {
+    "name": "Fancy Frocks",
+    "category": "Fancy Frocks",
+    "img": "assets/baby-dress/Sub catogory of Fancy Frocks/fancy-frocks-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-fancy-frocks-4": {
+    "name": "Fancy Frocks",
+    "category": "Fancy Frocks",
+    "img": "assets/baby-dress/Sub catogory of Fancy Frocks/fancy-frocks-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-fancy-frocks-5": {
+    "name": "Fancy Frocks",
+    "category": "Fancy Frocks",
+    "img": "assets/baby-dress/Sub catogory of Fancy Frocks/fancy-frocks-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-fancy-frocks-6": {
+    "name": "Fancy Frocks",
+    "category": "Fancy Frocks",
+    "img": "assets/baby-dress/Sub catogory of Fancy Frocks/fancy-frocks-06.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-fancy-frocks-7": {
+    "name": "Fancy Frocks",
+    "category": "Fancy Frocks",
+    "img": "assets/baby-dress/Sub catogory of Fancy Frocks/fancy-frocks-07.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-fancy-frocks-8": {
+    "name": "Fancy Frocks",
+    "category": "Fancy Frocks",
+    "img": "assets/baby-dress/Sub catogory of Fancy Frocks/fancy-frocks.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-1": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-2": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-3": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-4": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-5": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-6": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-06.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-7": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-07.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-8": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-08.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-9": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-09.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-10": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-11.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-11": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-12.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-front-open-top-12": {
+    "name": "Front Open Top",
+    "category": "Front Open Top",
+    "img": "assets/baby-dress/Sub catogory of Front Open Top/front-open-top-13.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pant-sets-1": {
+    "name": "Full Pant Sets",
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pant-sets-2": {
+    "name": "Full Pant Sets",
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pant-sets-3": {
+    "name": "Full Pant Sets",
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pant-sets-4": {
+    "name": "Full Pant Sets",
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pant-sets-5": {
+    "name": "Full Pant Sets",
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants-10.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pant-sets-6": {
+    "name": "Full Pant Sets",
+    "category": "Full Pant Sets",
+    "img": "assets/baby-dress/Sub catogory of Full Pant Sets/full-pants.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pants-1": {
+    "name": "Full Pants",
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pants-2": {
+    "name": "Full Pants",
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pants-3": {
+    "name": "Full Pants",
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pants-4": {
+    "name": "Full Pants",
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pants-5": {
+    "name": "Full Pants",
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pants-6": {
+    "name": "Full Pants",
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pants-7": {
+    "name": "Full Pants",
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets06.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pants-8": {
+    "name": "Full Pants",
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets08.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-pants-9": {
+    "name": "Full Pants",
+    "category": "Full Pants",
+    "img": "assets/baby-dress/Sub catogory of Full Pants/full-pants-sets09.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-romper-1": {
+    "name": "Full Romper",
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-romper-2": {
+    "name": "Full Romper",
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-romper-3": {
+    "name": "Full Romper",
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-romper-4": {
+    "name": "Full Romper",
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-romper-5": {
+    "name": "Full Romper",
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-full-romper-6": {
+    "name": "Full Romper",
+    "category": "Full Romper",
+    "img": "assets/baby-dress/Sub catogory of Full Romper/full-Romper.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-casual-dress-1": {
+    "name": "Girl Casual Dress",
+    "category": "Girl Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Casual Dress/girl-casual-dress-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-casual-dress-2": {
+    "name": "Girl Casual Dress",
+    "category": "Girl Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Casual Dress/girl-casual-dress-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-casual-dress-3": {
+    "name": "Girl Casual Dress",
+    "category": "Girl Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Casual Dress/girl-casual-dress-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-casual-dress-4": {
+    "name": "Girl Casual Dress",
+    "category": "Girl Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Casual Dress/girl-casual-dress-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-casual-dress-5": {
+    "name": "Girl Casual Dress",
+    "category": "Girl Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Casual Dress/girl-casual-dress-06.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-casual-dress-6": {
+    "name": "Girl Casual Dress",
+    "category": "Girl Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Casual Dress/girl-casual-dress-07.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-casual-dress-7": {
+    "name": "Girl Casual Dress",
+    "category": "Girl Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Casual Dress/girl-casual-dress-08.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-casual-dress-8": {
+    "name": "Girl Casual Dress",
+    "category": "Girl Casual Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Casual Dress/girl-casual-dress.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-1": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/07.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-2": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-3": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-4": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY010.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-5": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY011.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-6": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY013.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-7": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY015.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-8": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY016.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-9": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY017.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-10": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY018.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-11": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY019.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-12": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-13": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY020.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-14": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-15": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-16": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-17": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY06.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-18": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY07.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-19": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY08.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-dress-20": {
+    "name": "Girl Dress",
+    "category": "Girl Dress",
+    "img": "assets/baby-dress/Sub catogory of Girl Dress/GIRL-BABY09.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-western-dress-1": {
+    "name": "Girl western dress",
+    "category": "Girl western dress",
+    "img": "assets/baby-dress/Sub catogory of Girl western dress/western-dress-0.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-western-dress-2": {
+    "name": "Girl western dress",
+    "category": "Girl western dress",
+    "img": "assets/baby-dress/Sub catogory of Girl western dress/western-dress-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-western-dress-3": {
+    "name": "Girl western dress",
+    "category": "Girl western dress",
+    "img": "assets/baby-dress/Sub catogory of Girl western dress/western-dress-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-western-dress-4": {
+    "name": "Girl western dress",
+    "category": "Girl western dress",
+    "img": "assets/baby-dress/Sub catogory of Girl western dress/western-dress-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-western-dress-5": {
+    "name": "Girl western dress",
+    "category": "Girl western dress",
+    "img": "assets/baby-dress/Sub catogory of Girl western dress/western-dress-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-western-dress-6": {
+    "name": "Girl western dress",
+    "category": "Girl western dress",
+    "img": "assets/baby-dress/Sub catogory of Girl western dress/western-dress-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-girl-western-dress-7": {
+    "name": "Girl western dress",
+    "category": "Girl western dress",
+    "img": "assets/baby-dress/Sub catogory of Girl western dress/western-dress.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-half-romper-1": {
+    "name": "Half Romper",
+    "category": "Half Romper",
+    "img": "assets/baby-dress/Sub catogory of Half Romper/half-romper.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-half-romper-2": {
+    "name": "Half Romper",
+    "category": "Half Romper",
+    "img": "assets/baby-dress/Sub catogory of Half Romper/half-romper01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-half-romper-3": {
+    "name": "Half Romper",
+    "category": "Half Romper",
+    "img": "assets/baby-dress/Sub catogory of Half Romper/half-romper02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-imported-frocks-1": {
+    "name": "Imported Frocks",
+    "category": "Imported Frocks",
+    "img": "assets/baby-dress/Sub catogory of Imported Frocks/Imported-frocks-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-imported-frocks-2": {
+    "name": "Imported Frocks",
+    "category": "Imported Frocks",
+    "img": "assets/baby-dress/Sub catogory of Imported Frocks/Imported-frocks-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-imported-frocks-3": {
+    "name": "Imported Frocks",
+    "category": "Imported Frocks",
+    "img": "assets/baby-dress/Sub catogory of Imported Frocks/Imported-frocks-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-imported-frocks-4": {
+    "name": "Imported Frocks",
+    "category": "Imported Frocks",
+    "img": "assets/baby-dress/Sub catogory of Imported Frocks/Imported-frocks-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-imported-frocks-5": {
+    "name": "Imported Frocks",
+    "category": "Imported Frocks",
+    "img": "assets/baby-dress/Sub catogory of Imported Frocks/Imported-frocks-06.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-imported-frocks-6": {
+    "name": "Imported Frocks",
+    "category": "Imported Frocks",
+    "img": "assets/baby-dress/Sub catogory of Imported Frocks/Imported-frocks.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-indo-western-1": {
+    "name": "Indo Western",
+    "category": "Indo Western",
+    "img": "assets/baby-dress/Sub catogory of Indo Western/Indo-western-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-indo-western-2": {
+    "name": "Indo Western",
+    "category": "Indo Western",
+    "img": "assets/baby-dress/Sub catogory of Indo Western/Indo-western-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-indo-western-3": {
+    "name": "Indo Western",
+    "category": "Indo Western",
+    "img": "assets/baby-dress/Sub catogory of Indo Western/Indo-western-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-indo-western-4": {
+    "name": "Indo Western",
+    "category": "Indo Western",
+    "img": "assets/baby-dress/Sub catogory of Indo Western/Indo-western-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-indo-western-5": {
+    "name": "Indo Western",
+    "category": "Indo Western",
+    "img": "assets/baby-dress/Sub catogory of Indo Western/Indo-western.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-muslin-dress-1": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-muslin-dress-2": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-muslin-dress-3": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-muslin-dress-4": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-muslin-dress-5": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-muslin-dress-6": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/MUSLIN-DRESS-1.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-muslin-dress-7": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/muslin-dress-2.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-muslin-dress-8": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-dress/Sub catogory of Muslin Dress/MUSLIN-DRESS.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-organic-dress-1": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-Dress-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-organic-dress-2": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-Dress-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-organic-dress-3": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-1-1.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-organic-dress-4": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-3.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-organic-dress-5": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-4.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-organic-dress-6": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-5.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-organic-dress-7": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-dress/Sub catogory of Organic Dress/Organic-dress-7.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-resuable-diaper-1": {
+    "name": "Resuable Diaper",
+    "category": "Resuable Diaper",
+    "img": "assets/baby-dress/Sub catogory of Resuable Diaper/Reusable-Diapers-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-resuable-diaper-2": {
+    "name": "Resuable Diaper",
+    "category": "Resuable Diaper",
+    "img": "assets/baby-dress/Sub catogory of Resuable Diaper/Reusable-Diapers.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-shirt-and-pant-1": {
+    "name": "Shirt and Pant",
+    "category": "Shirt and Pant",
+    "img": "assets/baby-dress/Sub catogory of Shirt and Pant/shirt-and-pant-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-shirt-and-pant-2": {
+    "name": "Shirt and Pant",
+    "category": "Shirt and Pant",
+    "img": "assets/baby-dress/Sub catogory of Shirt and Pant/shirt-and-pant-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-shirt-and-pant-3": {
+    "name": "Shirt and Pant",
+    "category": "Shirt and Pant",
+    "img": "assets/baby-dress/Sub catogory of Shirt and Pant/shirt-and-pant-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-shirt-and-pant-4": {
+    "name": "Shirt and Pant",
+    "category": "Shirt and Pant",
+    "img": "assets/baby-dress/Sub catogory of Shirt and Pant/shirt-and-pant-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-shirt-and-pant-5": {
+    "name": "Shirt and Pant",
+    "category": "Shirt and Pant",
+    "img": "assets/baby-dress/Sub catogory of Shirt and Pant/shirt-and-pant-09.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-shirt-and-pant-6": {
+    "name": "Shirt and Pant",
+    "category": "Shirt and Pant",
+    "img": "assets/baby-dress/Sub catogory of Shirt and Pant/shirt-and-pant-11.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-shirt-and-pant-7": {
+    "name": "Shirt and Pant",
+    "category": "Shirt and Pant",
+    "img": "assets/baby-dress/Sub catogory of Shirt and Pant/shirt-and-pant.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-skirts-and-tops-1": {
+    "name": "Skirts and Tops",
+    "category": "Skirts and Tops",
+    "img": "assets/baby-dress/Sub catogory of Skirts and Tops/skirt-and-tops-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-skirts-and-tops-2": {
+    "name": "Skirts and Tops",
+    "category": "Skirts and Tops",
+    "img": "assets/baby-dress/Sub catogory of Skirts and Tops/skirt-and-tops-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-skirts-and-tops-3": {
+    "name": "Skirts and Tops",
+    "category": "Skirts and Tops",
+    "img": "assets/baby-dress/Sub catogory of Skirts and Tops/skirt-and-tops-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-skirts-and-tops-4": {
+    "name": "Skirts and Tops",
+    "category": "Skirts and Tops",
+    "img": "assets/baby-dress/Sub catogory of Skirts and Tops/skirt-and-tops-04.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-skirts-and-tops-5": {
+    "name": "Skirts and Tops",
+    "category": "Skirts and Tops",
+    "img": "assets/baby-dress/Sub catogory of Skirts and Tops/skirt-and-tops-05.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-skirts-and-tops-6": {
+    "name": "Skirts and Tops",
+    "category": "Skirts and Tops",
+    "img": "assets/baby-dress/Sub catogory of Skirts and Tops/skirt-and-tops-06.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-skirts-and-tops-7": {
+    "name": "Skirts and Tops",
+    "category": "Skirts and Tops",
+    "img": "assets/baby-dress/Sub catogory of Skirts and Tops/skirt-and-tops.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-1": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-1.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-2": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-10.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-3": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-11.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-4": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-12.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-5": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-13.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-6": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-14.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-7": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-15.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-8": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-2.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-9": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-3.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-10": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-4.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-11": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-5.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-12": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-6.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-13": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-7.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-14": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-8.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-thermal-wear-15": {
+    "name": "Thermal Wear",
+    "category": "Thermal Wear",
+    "img": "assets/baby-dress/Sub catogory of Thermal Wear/thermal-wear-9.png",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-coat-sets-1": {
+    "name": "Coat Sets",
+    "category": "Coat Sets",
+    "img": "assets/baby-dress/Sub catogory og Coat Sets/boys-coat-suits-01.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-coat-sets-2": {
+    "name": "Coat Sets",
+    "category": "Coat Sets",
+    "img": "assets/baby-dress/Sub catogory og Coat Sets/boys-coat-suits-02.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-coat-sets-3": {
+    "name": "Coat Sets",
+    "category": "Coat Sets",
+    "img": "assets/baby-dress/Sub catogory og Coat Sets/boys-coat-suits-03.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-dress-coat-sets-4": {
+    "name": "Coat Sets",
+    "category": "Coat Sets",
+    "img": "assets/baby-dress/Sub catogory og Coat Sets/boys-coat-suits.jpg",
+    "desc": "Premium quality baby dress products."
+  },
+  "baby-care-baby-gift-box-1": {
+    "name": "Baby Gift Box",
+    "category": "Baby Gift Box",
+    "img": "assets/baby-care/Sub catogory of Baby Gift Box/Untitled-1-1.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-gift-box-2": {
+    "name": "Baby Gift Box",
+    "category": "Baby Gift Box",
+    "img": "assets/baby-care/Sub catogory of Baby Gift Box/Untitled-2-1.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-gift-box-3": {
+    "name": "Baby Gift Box",
+    "category": "Baby Gift Box",
+    "img": "assets/baby-care/Sub catogory of Baby Gift Box/Untitled-3bg.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-soap-1": {
+    "name": "Baby Soap",
+    "category": "Baby Soap",
+    "img": "assets/baby-care/Sub catogory of Baby Soap/powder01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-socks-1": {
+    "name": "Baby Socks",
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-4.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-socks-2": {
+    "name": "Baby Socks",
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-5fs.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-socks-3": {
+    "name": "Baby Socks",
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-6ks.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-socks-4": {
+    "name": "Baby Socks",
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-7sf.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-socks-5": {
+    "name": "Baby Socks",
+    "category": "Baby Socks",
+    "img": "assets/baby-care/Sub catogory of Baby Socks/Untitled-8ffs.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-soft-sweaters-1": {
+    "name": "Baby Soft Sweaters",
+    "category": "Baby Soft Sweaters",
+    "img": "assets/baby-care/Sub catogory of Baby Soft Sweaters/Untitled-10.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-soft-sweaters-2": {
+    "name": "Baby Soft Sweaters",
+    "category": "Baby Soft Sweaters",
+    "img": "assets/baby-care/Sub catogory of Baby Soft Sweaters/Untitled-11.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-soft-sweaters-3": {
+    "name": "Baby Soft Sweaters",
+    "category": "Baby Soft Sweaters",
+    "img": "assets/baby-care/Sub catogory of Baby Soft Sweaters/Untitled-9.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-wollen-sweater-1": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-1-2.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-wollen-sweater-2": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-2-2.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-wollen-sweater-3": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-3W.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-wollen-sweater-4": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-4W.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-wollen-sweater-5": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-5w.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-baby-wollen-sweater-6": {
+    "name": "Baby Wollen Sweater",
+    "category": "Baby Wollen Sweater",
+    "img": "assets/baby-care/Sub catogory of Baby Wollen Sweater/Untitled-6w.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-body-lotions-1": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/11177793a-247x300.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-body-lotions-2": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-2.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-body-lotions-3": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-3j.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-body-lotions-4": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-5s.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-body-lotions-5": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-6m.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-body-lotions-6": {
+    "name": "Body Lotions",
+    "category": "Body Lotions",
+    "img": "assets/baby-care/Sub catogory of Body Lotions/Untitled-7c.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-booties-1": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/51ahUKOxyHL.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-booties-2": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/71mXd0ZGEyL._SY879_.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-booties-3": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-10-1.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-booties-4": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-11-1.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-booties-5": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-12.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-booties-6": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-7b-1.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-booties-7": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-8b.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-booties-8": {
+    "name": "Booties",
+    "category": "Booties",
+    "img": "assets/baby-care/Sub catogory of Booties/Untitled-9-1.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-bottle-wash-1": {
+    "name": "Bottle Wash",
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/534810a-2.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-bottle-wash-2": {
+    "name": "Bottle Wash",
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/71-lPD685HL._SL1500_.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-bottle-wash-3": {
+    "name": "Bottle Wash",
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/Untitled-13.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-bottle-wash-4": {
+    "name": "Bottle Wash",
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/Untitled-14.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-bottle-wash-5": {
+    "name": "Bottle Wash",
+    "category": "Bottle Wash",
+    "img": "assets/baby-care/Sub catogory of Bottle Wash/Untitled-15-1.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cap-sets-1": {
+    "name": "Cap Sets",
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-2-3.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cap-sets-2": {
+    "name": "Cap Sets",
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-33.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cap-sets-3": {
+    "name": "Cap Sets",
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-44.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cap-sets-4": {
+    "name": "Cap Sets",
+    "category": "Cap Sets",
+    "img": "assets/baby-care/Sub catogory of Cap Sets/Untitled-55.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cloth-nappies-1": {
+    "name": "Cloth Nappies",
+    "category": "Cloth Nappies",
+    "img": "assets/baby-care/Sub catogory of Cloth Nappies/Cloth-Nappies-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cloth-nappies-2": {
+    "name": "Cloth Nappies",
+    "category": "Cloth Nappies",
+    "img": "assets/baby-care/Sub catogory of Cloth Nappies/Cloth-Nappies-02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cloth-nappies-3": {
+    "name": "Cloth Nappies",
+    "category": "Cloth Nappies",
+    "img": "assets/baby-care/Sub catogory of Cloth Nappies/Cloth-Nappies.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cotton-towels-1": {
+    "name": "Cotton Towels",
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cotton-towels-2": {
+    "name": "Cotton Towels",
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels-02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cotton-towels-3": {
+    "name": "Cotton Towels",
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels-03.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cotton-towels-4": {
+    "name": "Cotton Towels",
+    "category": "Cotton Towels",
+    "img": "assets/baby-care/Sub catogory of Cotton Towels/Cotton-Towels.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cradle-nets-1": {
+    "name": "Cradle Nets",
+    "category": "Cradle Nets",
+    "img": "assets/baby-care/Sub catogory of Cradle Nets/Cradle-Nets.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cradle-sticks-and-ropes-1": {
+    "name": "Cradle Sticks and Ropes",
+    "category": "Cradle Sticks and Ropes",
+    "img": "assets/baby-care/Sub catogory of Cradle Sticks and Ropes/Cradle-Sticks-And-Ropes-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cradle-sticks-and-ropes-2": {
+    "name": "Cradle Sticks and Ropes",
+    "category": "Cradle Sticks and Ropes",
+    "img": "assets/baby-care/Sub catogory of Cradle Sticks and Ropes/Cradle-Sticks-And-Ropes-02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-cradle-sticks-and-ropes-3": {
+    "name": "Cradle Sticks and Ropes",
+    "category": "Cradle Sticks and Ropes",
+    "img": "assets/baby-care/Sub catogory of Cradle Sticks and Ropes/Cradle-Sticks-And-Ropes.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-diaper-rash-cream-1": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-diaper-rash-cream-2": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-diaper-rash-cream-3": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-03.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-diaper-rash-cream-4": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-04.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-diaper-rash-cream-5": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream-05.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-diaper-rash-cream-6": {
+    "name": "Diaper Rash Cream",
+    "category": "Diaper Rash Cream",
+    "img": "assets/baby-care/Sub catogory of Diaper Rash Cream/Diaper-Rash-Cream.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-disposable-diapers-1": {
+    "name": "Disposable Diapers",
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/baby_pants.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-disposable-diapers-2": {
+    "name": "Disposable Diapers",
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/ggies.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-disposable-diapers-3": {
+    "name": "Disposable Diapers",
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/mampako.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-disposable-diapers-4": {
+    "name": "Disposable Diapers",
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/pampers-diaper-pants-medium.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-disposable-diapers-5": {
+    "name": "Disposable Diapers",
+    "category": "Disposable Diapers",
+    "img": "assets/baby-care/Sub catogory of Disposable Diapers/teddy.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-face-napkin-1": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-face-napkin-2": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-face-napkin-3": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-03.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-face-napkin-4": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-04.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-face-napkin-5": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-05.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-face-napkin-6": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-06.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-face-napkin-7": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin-07.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-face-napkin-8": {
+    "name": "Face Napkin",
+    "category": "Face Napkin",
+    "img": "assets/baby-care/Sub catogory of Face Napkin/face-napkin.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hair-oil-1": {
+    "name": "Hair Oil",
+    "category": "Hair Oil",
+    "img": "assets/baby-care/Sub catogory of Hair Oil/hair-oil-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hair-oil-2": {
+    "name": "Hair Oil",
+    "category": "Hair Oil",
+    "img": "assets/baby-care/Sub catogory of Hair Oil/hair-oil-02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hair-oil-3": {
+    "name": "Hair Oil",
+    "category": "Hair Oil",
+    "img": "assets/baby-care/Sub catogory of Hair Oil/hair-oil.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-1": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-2": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-3": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels010.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-4": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-5": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels03.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-6": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels04.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-7": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels05.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-8": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels06.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-9": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels07.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-10": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels08.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-hooded-towels-11": {
+    "name": "Hooded Towels",
+    "category": "Hooded Towels",
+    "img": "assets/baby-care/Sub catogory of Hooded Towels/Hooded-Towels09.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-laundry-wash-1": {
+    "name": "Laundry Wash",
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-laundry-wash-2": {
+    "name": "Laundry Wash",
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-laundry-wash-3": {
+    "name": "Laundry Wash",
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-laundry-wash-4": {
+    "name": "Laundry Wash",
+    "category": "Laundry Wash",
+    "img": "assets/baby-care/Sub catogory of Laundry Wash/Laundry-Wash03.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-massage-oil-1": {
+    "name": "Massage Oil",
+    "category": "Massage Oil",
+    "img": "assets/baby-care/Sub catogory of Massage Oil/massage-oil-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-massage-oil-2": {
+    "name": "Massage Oil",
+    "category": "Massage Oil",
+    "img": "assets/baby-care/Sub catogory of Massage Oil/massage-oil.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-mittens-1": {
+    "name": "Mittens",
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-mittens-2": {
+    "name": "Mittens",
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-mittens-3": {
+    "name": "Mittens",
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-mittens-4": {
+    "name": "Mittens",
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens03.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-mittens-5": {
+    "name": "Mittens",
+    "category": "Mittens",
+    "img": "assets/baby-care/Sub catogory of Mittens/Mittens04.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-mosquitoes-net-1": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-mosquitoes-net-2": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net-02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-mosquitoes-net-3": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net-03.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-mosquitoes-net-4": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-care/Sub catogory of Mosquitoes Net/mosqiuto-net.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-muslin-dress-1": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-care/Sub catogory of Muslin Dress/MUSLIN-DRESS-1.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-muslin-dress-2": {
+    "name": "Muslin Dress",
+    "category": "Muslin Dress",
+    "img": "assets/baby-care/Sub catogory of Muslin Dress/MUSLIN-DRESS.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-organic-dress-1": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-organic-dress-2": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress-02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-organic-dress-3": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress-03.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-organic-dress-4": {
+    "name": "Organic Dress",
+    "category": "Organic Dress",
+    "img": "assets/baby-care/Sub catogory of Organic Dress/Organic-Dress.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-powder-1": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-powder-2": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-powder-3": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-powder-4": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder03.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-powder-5": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder04.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-powder-6": {
+    "name": "Powder",
+    "category": "Powder",
+    "img": "assets/baby-care/Sub catogory of Powder/powder05.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-quick-dry-sheets-1": {
+    "name": "Quick Dry Sheets",
+    "category": "Quick Dry Sheets",
+    "img": "assets/baby-care/Sub catogory of Quick Dry Sheets/quick-dry-sheet-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-quick-dry-sheets-2": {
+    "name": "Quick Dry Sheets",
+    "category": "Quick Dry Sheets",
+    "img": "assets/baby-care/Sub catogory of Quick Dry Sheets/quick-dry-sheet-02.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-quick-dry-sheets-3": {
+    "name": "Quick Dry Sheets",
+    "category": "Quick Dry Sheets",
+    "img": "assets/baby-care/Sub catogory of Quick Dry Sheets/quick-dry-sheet.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-reusable-diapers-1": {
+    "name": "Reusable Diapers",
+    "category": "Reusable Diapers",
+    "img": "assets/baby-care/Sub catogory of Reusable Diapers/Reusable-Diapers-01.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-reusable-diapers-2": {
+    "name": "Reusable Diapers",
+    "category": "Reusable Diapers",
+    "img": "assets/baby-care/Sub catogory of Reusable Diapers/Reusable-Diapers.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-1": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1512-PINK.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-2": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1515-BLUE.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-3": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1515-RED.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-4": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1516-BLUE.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-5": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1516-NAVY-BLUE.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-6": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1537-BLUE.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-7": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1537-GREEN.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-8": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1544.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-9": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1545-blue.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-10": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1545-d-blue.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-11": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1545-pink.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-12": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1548-1523-PINK.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-13": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1549-PINK.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-14": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1550-GREEN.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-15": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/MM-1550-PINK.png",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-16": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-010.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-17": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-011.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-18": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-012.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-19": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-013.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-20": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels-09.jpg",
+    "desc": "Premium quality baby care products."
+  },
+  "baby-care-towels-21": {
+    "name": "Towels",
+    "category": "Towels",
+    "img": "assets/baby-care/Sub catogory of Towels/Towels08.jpg",
+    "desc": "Premium quality baby care products."
+  },
   };
 
   const CATEGORY_PRODUCTS = {
@@ -8545,12 +10507,64 @@ const PRODUCT_DB = {
   "neck-pillow": ["baby-safety-neck-pillow-1", "baby-safety-neck-pillow-2", "baby-safety-neck-pillow-3", "baby-safety-neck-pillow-4", "baby-safety-neck-pillow-5"],
   "shower-caps": ["baby-safety-shower-caps-1", "baby-safety-shower-caps-2", "baby-safety-shower-caps-3", "baby-safety-shower-caps-4"],
   "baby-chair": ["baby-safety-baby-chair-1", "baby-safety-baby-chair-2"],
+  "baby-panties": ["baby-dress-baby-panties-1", "baby-dress-baby-panties-2"],
+  "boy-dress": ["baby-dress-boy-dress-1", "baby-dress-boy-dress-2", "baby-dress-boy-dress-3", "baby-dress-boy-dress-4", "baby-dress-boy-dress-5", "baby-dress-boy-dress-6", "baby-dress-boy-dress-7", "baby-dress-boy-dress-8"],
+  "casual-dress": ["baby-dress-casual-dress-1", "baby-dress-casual-dress-2", "baby-dress-casual-dress-3", "baby-dress-casual-dress-4", "baby-dress-casual-dress-5", "baby-dress-casual-dress-6", "baby-dress-casual-dress-7", "baby-dress-casual-dress-8", "baby-dress-casual-dress-9", "baby-dress-casual-dress-10", "baby-dress-casual-dress-11", "baby-dress-casual-dress-12", "baby-dress-casual-dress-13"],
+  "cotton-frocks": ["baby-dress-cotton-frocks-1", "baby-dress-cotton-frocks-2", "baby-dress-cotton-frocks-3", "baby-dress-cotton-frocks-4", "baby-dress-cotton-frocks-5", "baby-dress-cotton-frocks-6", "baby-dress-cotton-frocks-7", "baby-dress-cotton-frocks-8", "baby-dress-cotton-frocks-9", "baby-dress-cotton-frocks-10", "baby-dress-cotton-frocks-11", "baby-dress-cotton-frocks-12"],
+  "diaper-panties": ["baby-dress-diaper-panties-1", "baby-dress-diaper-panties-2", "baby-dress-diaper-panties-3"],
+  "ethnic-dress": ["baby-dress-ethnic-dress-1", "baby-dress-ethnic-dress-2", "baby-dress-ethnic-dress-3", "baby-dress-ethnic-dress-4", "baby-dress-ethnic-dress-5", "baby-dress-ethnic-dress-6", "baby-dress-ethnic-dress-7", "baby-dress-ethnic-dress-8", "baby-dress-ethnic-dress-9", "baby-dress-ethnic-dress-10", "baby-dress-ethnic-dress-11"],
+  "fancy-frocks": ["baby-dress-fancy-frocks-1", "baby-dress-fancy-frocks-2", "baby-dress-fancy-frocks-3", "baby-dress-fancy-frocks-4", "baby-dress-fancy-frocks-5", "baby-dress-fancy-frocks-6", "baby-dress-fancy-frocks-7", "baby-dress-fancy-frocks-8"],
+  "front-open-top": ["baby-dress-front-open-top-1", "baby-dress-front-open-top-2", "baby-dress-front-open-top-3", "baby-dress-front-open-top-4", "baby-dress-front-open-top-5", "baby-dress-front-open-top-6", "baby-dress-front-open-top-7", "baby-dress-front-open-top-8", "baby-dress-front-open-top-9", "baby-dress-front-open-top-10", "baby-dress-front-open-top-11", "baby-dress-front-open-top-12"],
+  "full-pant-sets": ["baby-dress-full-pant-sets-1", "baby-dress-full-pant-sets-2", "baby-dress-full-pant-sets-3", "baby-dress-full-pant-sets-4", "baby-dress-full-pant-sets-5", "baby-dress-full-pant-sets-6"],
+  "full-pants": ["baby-dress-full-pants-1", "baby-dress-full-pants-2", "baby-dress-full-pants-3", "baby-dress-full-pants-4", "baby-dress-full-pants-5", "baby-dress-full-pants-6", "baby-dress-full-pants-7", "baby-dress-full-pants-8", "baby-dress-full-pants-9"],
+  "full-romper": ["baby-dress-full-romper-1", "baby-dress-full-romper-2", "baby-dress-full-romper-3", "baby-dress-full-romper-4", "baby-dress-full-romper-5", "baby-dress-full-romper-6"],
+  "girl-casual-dress": ["baby-dress-girl-casual-dress-1", "baby-dress-girl-casual-dress-2", "baby-dress-girl-casual-dress-3", "baby-dress-girl-casual-dress-4", "baby-dress-girl-casual-dress-5", "baby-dress-girl-casual-dress-6", "baby-dress-girl-casual-dress-7", "baby-dress-girl-casual-dress-8"],
+  "girl-dress": ["baby-dress-girl-dress-1", "baby-dress-girl-dress-2", "baby-dress-girl-dress-3", "baby-dress-girl-dress-4", "baby-dress-girl-dress-5", "baby-dress-girl-dress-6", "baby-dress-girl-dress-7", "baby-dress-girl-dress-8", "baby-dress-girl-dress-9", "baby-dress-girl-dress-10", "baby-dress-girl-dress-11", "baby-dress-girl-dress-12", "baby-dress-girl-dress-13", "baby-dress-girl-dress-14", "baby-dress-girl-dress-15", "baby-dress-girl-dress-16", "baby-dress-girl-dress-17", "baby-dress-girl-dress-18", "baby-dress-girl-dress-19", "baby-dress-girl-dress-20"],
+  "girl-western-dress": ["baby-dress-girl-western-dress-1", "baby-dress-girl-western-dress-2", "baby-dress-girl-western-dress-3", "baby-dress-girl-western-dress-4", "baby-dress-girl-western-dress-5", "baby-dress-girl-western-dress-6", "baby-dress-girl-western-dress-7"],
+  "half-romper": ["baby-dress-half-romper-1", "baby-dress-half-romper-2", "baby-dress-half-romper-3"],
+  "imported-frocks": ["baby-dress-imported-frocks-1", "baby-dress-imported-frocks-2", "baby-dress-imported-frocks-3", "baby-dress-imported-frocks-4", "baby-dress-imported-frocks-5", "baby-dress-imported-frocks-6"],
+  "indo-western": ["baby-dress-indo-western-1", "baby-dress-indo-western-2", "baby-dress-indo-western-3", "baby-dress-indo-western-4", "baby-dress-indo-western-5"],
+  "muslin-dress": ["baby-dress-muslin-dress-1", "baby-dress-muslin-dress-2", "baby-dress-muslin-dress-3", "baby-dress-muslin-dress-4", "baby-dress-muslin-dress-5", "baby-dress-muslin-dress-6", "baby-dress-muslin-dress-7", "baby-dress-muslin-dress-8"],
+  "organic-dress": ["baby-dress-organic-dress-1", "baby-dress-organic-dress-2", "baby-dress-organic-dress-3", "baby-dress-organic-dress-4", "baby-dress-organic-dress-5", "baby-dress-organic-dress-6", "baby-dress-organic-dress-7"],
+  "resuable-diaper": ["baby-dress-resuable-diaper-1", "baby-dress-resuable-diaper-2"],
+  "shirt-and-pant": ["baby-dress-shirt-and-pant-1", "baby-dress-shirt-and-pant-2", "baby-dress-shirt-and-pant-3", "baby-dress-shirt-and-pant-4", "baby-dress-shirt-and-pant-5", "baby-dress-shirt-and-pant-6", "baby-dress-shirt-and-pant-7"],
+  "skirts-and-tops": ["baby-dress-skirts-and-tops-1", "baby-dress-skirts-and-tops-2", "baby-dress-skirts-and-tops-3", "baby-dress-skirts-and-tops-4", "baby-dress-skirts-and-tops-5", "baby-dress-skirts-and-tops-6", "baby-dress-skirts-and-tops-7"],
+  "thermal-wear": ["baby-dress-thermal-wear-1", "baby-dress-thermal-wear-2", "baby-dress-thermal-wear-3", "baby-dress-thermal-wear-4", "baby-dress-thermal-wear-5", "baby-dress-thermal-wear-6", "baby-dress-thermal-wear-7", "baby-dress-thermal-wear-8", "baby-dress-thermal-wear-9", "baby-dress-thermal-wear-10", "baby-dress-thermal-wear-11", "baby-dress-thermal-wear-12", "baby-dress-thermal-wear-13", "baby-dress-thermal-wear-14", "baby-dress-thermal-wear-15"],
+  "coat-sets": ["baby-dress-coat-sets-1", "baby-dress-coat-sets-2", "baby-dress-coat-sets-3", "baby-dress-coat-sets-4"],
+  "baby-gift-box": ["baby-care-baby-gift-box-1", "baby-care-baby-gift-box-2", "baby-care-baby-gift-box-3"],
+  "baby-soap": ["baby-care-baby-soap-1"],
+  "baby-socks": ["baby-care-baby-socks-1", "baby-care-baby-socks-2", "baby-care-baby-socks-3", "baby-care-baby-socks-4", "baby-care-baby-socks-5"],
+  "baby-soft-sweaters": ["baby-care-baby-soft-sweaters-1", "baby-care-baby-soft-sweaters-2", "baby-care-baby-soft-sweaters-3"],
+  "baby-wollen-sweater": ["baby-care-baby-wollen-sweater-1", "baby-care-baby-wollen-sweater-2", "baby-care-baby-wollen-sweater-3", "baby-care-baby-wollen-sweater-4", "baby-care-baby-wollen-sweater-5", "baby-care-baby-wollen-sweater-6"],
+  "body-lotions": ["baby-care-body-lotions-1", "baby-care-body-lotions-2", "baby-care-body-lotions-3", "baby-care-body-lotions-4", "baby-care-body-lotions-5", "baby-care-body-lotions-6"],
+  "booties": ["baby-care-booties-1", "baby-care-booties-2", "baby-care-booties-3", "baby-care-booties-4", "baby-care-booties-5", "baby-care-booties-6", "baby-care-booties-7", "baby-care-booties-8"],
+  "bottle-wash": ["baby-care-bottle-wash-1", "baby-care-bottle-wash-2", "baby-care-bottle-wash-3", "baby-care-bottle-wash-4", "baby-care-bottle-wash-5"],
+  "cap-sets": ["baby-care-cap-sets-1", "baby-care-cap-sets-2", "baby-care-cap-sets-3", "baby-care-cap-sets-4"],
+  "cloth-nappies": ["baby-care-cloth-nappies-1", "baby-care-cloth-nappies-2", "baby-care-cloth-nappies-3"],
+  "cotton-towels": ["baby-care-cotton-towels-1", "baby-care-cotton-towels-2", "baby-care-cotton-towels-3", "baby-care-cotton-towels-4"],
+  "cradle-nets": ["baby-care-cradle-nets-1"],
+  "cradle-sticks-and-ropes": ["baby-care-cradle-sticks-and-ropes-1", "baby-care-cradle-sticks-and-ropes-2", "baby-care-cradle-sticks-and-ropes-3"],
+  "diaper-rash-cream": ["baby-care-diaper-rash-cream-1", "baby-care-diaper-rash-cream-2", "baby-care-diaper-rash-cream-3", "baby-care-diaper-rash-cream-4", "baby-care-diaper-rash-cream-5", "baby-care-diaper-rash-cream-6"],
+  "disposable-diapers": ["baby-care-disposable-diapers-1", "baby-care-disposable-diapers-2", "baby-care-disposable-diapers-3", "baby-care-disposable-diapers-4", "baby-care-disposable-diapers-5"],
+  "face-napkin": ["baby-care-face-napkin-1", "baby-care-face-napkin-2", "baby-care-face-napkin-3", "baby-care-face-napkin-4", "baby-care-face-napkin-5", "baby-care-face-napkin-6", "baby-care-face-napkin-7", "baby-care-face-napkin-8"],
+  "hair-oil": ["baby-care-hair-oil-1", "baby-care-hair-oil-2", "baby-care-hair-oil-3"],
+  "hooded-towels": ["baby-care-hooded-towels-1", "baby-care-hooded-towels-2", "baby-care-hooded-towels-3", "baby-care-hooded-towels-4", "baby-care-hooded-towels-5", "baby-care-hooded-towels-6", "baby-care-hooded-towels-7", "baby-care-hooded-towels-8", "baby-care-hooded-towels-9", "baby-care-hooded-towels-10", "baby-care-hooded-towels-11"],
+  "laundry-wash": ["baby-care-laundry-wash-1", "baby-care-laundry-wash-2", "baby-care-laundry-wash-3", "baby-care-laundry-wash-4"],
+  "massage-oil": ["baby-care-massage-oil-1", "baby-care-massage-oil-2"],
+  "mittens": ["baby-care-mittens-1", "baby-care-mittens-2", "baby-care-mittens-3", "baby-care-mittens-4", "baby-care-mittens-5"],
+  "mosquitoes-net": ["baby-care-mosquitoes-net-1", "baby-care-mosquitoes-net-2", "baby-care-mosquitoes-net-3", "baby-care-mosquitoes-net-4"],
+  "muslin-dress": ["baby-care-muslin-dress-1", "baby-care-muslin-dress-2"],
+  "organic-dress": ["baby-care-organic-dress-1", "baby-care-organic-dress-2", "baby-care-organic-dress-3", "baby-care-organic-dress-4"],
+  "powder": ["baby-care-powder-1", "baby-care-powder-2", "baby-care-powder-3", "baby-care-powder-4", "baby-care-powder-5", "baby-care-powder-6"],
+  "quick-dry-sheets": ["baby-care-quick-dry-sheets-1", "baby-care-quick-dry-sheets-2", "baby-care-quick-dry-sheets-3"],
+  "reusable-diapers": ["baby-care-reusable-diapers-1", "baby-care-reusable-diapers-2"],
+  "towels": ["baby-care-towels-1", "baby-care-towels-2", "baby-care-towels-3", "baby-care-towels-4", "baby-care-towels-5", "baby-care-towels-6", "baby-care-towels-7", "baby-care-towels-8", "baby-care-towels-9", "baby-care-towels-10", "baby-care-towels-11", "baby-care-towels-12", "baby-care-towels-13", "baby-care-towels-14", "baby-care-towels-15", "baby-care-towels-16", "baby-care-towels-17", "baby-care-towels-18", "baby-care-towels-19", "baby-care-towels-20", "baby-care-towels-21"],
   };
 
 /* =============================================
    WHATSAPP PRODUCT INQUIRY
    ============================================= */
-const WHATSAPP_INQUIRY_NUMBER = "919043370533";
+const WHATSAPP_INQUIRY_NUMBER = "919092233778";
 
 function buildWhatsAppMessageText(product) {
   const absoluteImageUrl = product.img ? new URL(product.img, window.location.href).href : "";
