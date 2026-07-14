@@ -8002,6 +8002,342 @@ const PRODUCT_DB = {
       "img": "assets/baby-gear/Sub catogory of Walker/walker_225-300.jpg",
       "desc": "Premium quality walker for your baby."
   },
+  "baby-charms-crown-1": {
+    "name": "Crown",
+    "category": "Crown",
+    "img": "assets/baby-charms/Sub catogory of Crown/crown-01.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-crown-2": {
+    "name": "Crown",
+    "category": "Crown",
+    "img": "assets/baby-charms/Sub catogory of Crown/crown-02.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-crown-3": {
+    "name": "Crown",
+    "category": "Crown",
+    "img": "assets/baby-charms/Sub catogory of Crown/crown.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-bands-1": {
+    "name": "Hair Bands",
+    "category": "Hair Bands",
+    "img": "assets/baby-charms/Sub catogory og Hair Bands/hair-bands-01.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-bands-2": {
+    "name": "Hair Bands",
+    "category": "Hair Bands",
+    "img": "assets/baby-charms/Sub catogory og Hair Bands/hair-bands-02.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-bands-3": {
+    "name": "Hair Bands",
+    "category": "Hair Bands",
+    "img": "assets/baby-charms/Sub catogory og Hair Bands/hair-bands-03.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-bands-4": {
+    "name": "Hair Bands",
+    "category": "Hair Bands",
+    "img": "assets/baby-charms/Sub catogory og Hair Bands/hair-bands-04.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-bands-5": {
+    "name": "Hair Bands",
+    "category": "Hair Bands",
+    "img": "assets/baby-charms/Sub catogory og Hair Bands/hair-bands-05.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-bands-6": {
+    "name": "Hair Bands",
+    "category": "Hair Bands",
+    "img": "assets/baby-charms/Sub catogory og Hair Bands/hair-bands-06.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-bands-7": {
+    "name": "Hair Bands",
+    "category": "Hair Bands",
+    "img": "assets/baby-charms/Sub catogory og Hair Bands/hair-bands-07.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-bands-8": {
+    "name": "Hair Bands",
+    "category": "Hair Bands",
+    "img": "assets/baby-charms/Sub catogory og Hair Bands/hair-bands-08.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-bands-9": {
+    "name": "Hair Bands",
+    "category": "Hair Bands",
+    "img": "assets/baby-charms/Sub catogory og Hair Bands/hair-bands-09.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-bands-10": {
+    "name": "Hair Bands",
+    "category": "Hair Bands",
+    "img": "assets/baby-charms/Sub catogory og Hair Bands/hair-bands.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-tic-tacs-pins-1": {
+    "name": "Hair Tic-tacs Pins",
+    "category": "Hair Tic-tacs Pins",
+    "img": "assets/baby-charms/Sub catogory of Hair Tic-tacs Pins/hair-tic-tak-pins-02.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-tic-tacs-pins-2": {
+    "name": "Hair Tic-tacs Pins",
+    "category": "Hair Tic-tacs Pins",
+    "img": "assets/baby-charms/Sub catogory of Hair Tic-tacs Pins/hair-tic-tak-pins-03.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-tic-tacs-pins-3": {
+    "name": "Hair Tic-tacs Pins",
+    "category": "Hair Tic-tacs Pins",
+    "img": "assets/baby-charms/Sub catogory of Hair Tic-tacs Pins/hair-tic-tak-pins-04.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-tic-tacs-pins-4": {
+    "name": "Hair Tic-tacs Pins",
+    "category": "Hair Tic-tacs Pins",
+    "img": "assets/baby-charms/Sub catogory of Hair Tic-tacs Pins/hair-tic-tak-pins-05.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-tic-tacs-pins-5": {
+    "name": "Hair Tic-tacs Pins",
+    "category": "Hair Tic-tacs Pins",
+    "img": "assets/baby-charms/Sub catogory of Hair Tic-tacs Pins/hair-tic-tak-pins-06.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-tic-tacs-pins-6": {
+    "name": "Hair Tic-tacs Pins",
+    "category": "Hair Tic-tacs Pins",
+    "img": "assets/baby-charms/Sub catogory of Hair Tic-tacs Pins/hair-tic-tak-pins-07.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-tic-tacs-pins-7": {
+    "name": "Hair Tic-tacs Pins",
+    "category": "Hair Tic-tacs Pins",
+    "img": "assets/baby-charms/Sub catogory of Hair Tic-tacs Pins/hair-tic-tak-pins-08.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-tic-tacs-pins-8": {
+    "name": "Hair Tic-tacs Pins",
+    "category": "Hair Tic-tacs Pins",
+    "img": "assets/baby-charms/Sub catogory of Hair Tic-tacs Pins/hair-tic-tak-pins-09.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-tic-tacs-pins-9": {
+    "name": "Hair Tic-tacs Pins",
+    "category": "Hair Tic-tacs Pins",
+    "img": "assets/baby-charms/Sub catogory of Hair Tic-tacs Pins/hair-tic-tak-pins-1.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-hair-tic-tacs-pins-10": {
+    "name": "Hair Tic-tacs Pins",
+    "category": "Hair Tic-tacs Pins",
+    "img": "assets/baby-charms/Sub catogory of Hair Tic-tacs Pins/hair-tic-tak-pins.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-rubber-bands-1": {
+    "name": "Rubber Bands",
+    "category": "Rubber Bands",
+    "img": "assets/baby-charms/Sub catogory of Rubber Bands/rubber-bands-01.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-rubber-bands-2": {
+    "name": "Rubber Bands",
+    "category": "Rubber Bands",
+    "img": "assets/baby-charms/Sub catogory of Rubber Bands/rubber-bands-02.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-rubber-bands-3": {
+    "name": "Rubber Bands",
+    "category": "Rubber Bands",
+    "img": "assets/baby-charms/Sub catogory of Rubber Bands/rubber-bands-03.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-rubber-bands-4": {
+    "name": "Rubber Bands",
+    "category": "Rubber Bands",
+    "img": "assets/baby-charms/Sub catogory of Rubber Bands/rubber-bands-04.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-rubber-bands-5": {
+    "name": "Rubber Bands",
+    "category": "Rubber Bands",
+    "img": "assets/baby-charms/Sub catogory of Rubber Bands/rubber-bands-05.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-rubber-bands-6": {
+    "name": "Rubber Bands",
+    "category": "Rubber Bands",
+    "img": "assets/baby-charms/Sub catogory of Rubber Bands/rubber-bands-06.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-rubber-bands-7": {
+    "name": "Rubber Bands",
+    "category": "Rubber Bands",
+    "img": "assets/baby-charms/Sub catogory of Rubber Bands/rubber-bands-07.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-charms-rubber-bands-8": {
+    "name": "Rubber Bands",
+    "category": "Rubber Bands",
+    "img": "assets/baby-charms/Sub catogory of Rubber Bands/rubber-bands-08.jpg",
+    "desc": "Premium quality baby charms."
+  },
+  "baby-safety-cradle-net-1": {
+    "name": "Cradle Net",
+    "category": "Cradle Net",
+    "img": "assets/baby-safety/Sub catogary of Cradle Net/cradle-net-01.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-cradle-net-2": {
+    "name": "Cradle Net",
+    "category": "Cradle Net",
+    "img": "assets/baby-safety/Sub catogary of Cradle Net/cradle-net-02.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-cradle-net-3": {
+    "name": "Cradle Net",
+    "category": "Cradle Net",
+    "img": "assets/baby-safety/Sub catogary of Cradle Net/cradle-net.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-cradle-net-4": {
+    "name": "Cradle Net",
+    "category": "Cradle Net",
+    "img": "assets/baby-safety/Sub catogary of Cradle Net/Cradle-Nets.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-cradle-1": {
+    "name": "Cradle",
+    "category": "Cradle",
+    "img": "assets/baby-safety/Sub catogory of Cradle/cradle-014.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-cradle-2": {
+    "name": "Cradle",
+    "category": "Cradle",
+    "img": "assets/baby-safety/Sub catogory of Cradle/cradle.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-cradle-3": {
+    "name": "Cradle",
+    "category": "Cradle",
+    "img": "assets/baby-safety/Sub catogory of Cradle/cradle02.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-cradle-4": {
+    "name": "Cradle",
+    "category": "Cradle",
+    "img": "assets/baby-safety/Sub catogory of Cradle/cradle03.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-cradle-5": {
+    "name": "Cradle",
+    "category": "Cradle",
+    "img": "assets/baby-safety/Sub catogory of Cradle/cradle04.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-cradle-6": {
+    "name": "Cradle",
+    "category": "Cradle",
+    "img": "assets/baby-safety/Sub catogory of Cradle/cradle06.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-mosquitoes-net-1": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-safety/Sub catogory of Mosquitoes Net/mosqiuto-net-01.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-mosquitoes-net-2": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-safety/Sub catogory of Mosquitoes Net/mosqiuto-net-02.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-mosquitoes-net-3": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-safety/Sub catogory of Mosquitoes Net/mosqiuto-net-03.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-mosquitoes-net-4": {
+    "name": "Mosquitoes Net",
+    "category": "Mosquitoes Net",
+    "img": "assets/baby-safety/Sub catogory of Mosquitoes Net/mosqiuto-net.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-neck-pillow-1": {
+    "name": "Neck Pillow",
+    "category": "Neck Pillow",
+    "img": "assets/baby-safety/Sub catogary of Neck Pillow/neck-pillow-01.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-neck-pillow-2": {
+    "name": "Neck Pillow",
+    "category": "Neck Pillow",
+    "img": "assets/baby-safety/Sub catogary of Neck Pillow/neck-pillow-02.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-neck-pillow-3": {
+    "name": "Neck Pillow",
+    "category": "Neck Pillow",
+    "img": "assets/baby-safety/Sub catogary of Neck Pillow/neck-pillow-03.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-neck-pillow-4": {
+    "name": "Neck Pillow",
+    "category": "Neck Pillow",
+    "img": "assets/baby-safety/Sub catogary of Neck Pillow/neck-pillow-04.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-neck-pillow-5": {
+    "name": "Neck Pillow",
+    "category": "Neck Pillow",
+    "img": "assets/baby-safety/Sub catogary of Neck Pillow/neck-pillow.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-shower-caps-1": {
+    "name": "Shower Caps",
+    "category": "Shower Caps",
+    "img": "assets/baby-safety/Sub catogory of Shower caps/shower-caps-02.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-shower-caps-2": {
+    "name": "Shower Caps",
+    "category": "Shower Caps",
+    "img": "assets/baby-safety/Sub catogory of Shower caps/shower-caps-03.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-shower-caps-3": {
+    "name": "Shower Caps",
+    "category": "Shower Caps",
+    "img": "assets/baby-safety/Sub catogory of Shower caps/shower-caps-04.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-shower-caps-4": {
+    "name": "Shower Caps",
+    "category": "Shower Caps",
+    "img": "assets/baby-safety/Sub catogory of Shower caps/shower-caps.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-baby-chair-1": {
+    "name": "Baby Chair",
+    "category": "Baby Chair",
+    "img": "assets/baby-safety/Sub catogory of baby chair/Untitled-10-2.jpg",
+    "desc": "Premium quality baby safety products."
+  },
+  "baby-safety-baby-chair-2": {
+    "name": "Baby Chair",
+    "category": "Baby Chair",
+    "img": "assets/baby-safety/Sub catogory of baby chair/Untitled-9-2.jpg",
+    "desc": "Premium quality baby safety products."
+  },
   };
 
   const CATEGORY_PRODUCTS = {
@@ -8199,6 +8535,16 @@ const PRODUCT_DB = {
   "stroller": ["stroller-01", "stroller-02", "stroller-03", "stroller"],
   "tricycle": ["tricycle-01", "tricycle-02", "tricycle-03", "tricycle-04", "tricycle-05", "tricycle-06", "tricycle"],
   "walker": ["walker_01_225-300", "walker_02_225-300", "walker_03_225-300", "walker_04_225-300", "walker_05_225-300", "walker_06_225-300", "walker_225-300"],
+  "crown": ["baby-charms-crown-1", "baby-charms-crown-2", "baby-charms-crown-3"],
+  "hair-bands": ["baby-charms-hair-bands-1", "baby-charms-hair-bands-2", "baby-charms-hair-bands-3", "baby-charms-hair-bands-4", "baby-charms-hair-bands-5", "baby-charms-hair-bands-6", "baby-charms-hair-bands-7", "baby-charms-hair-bands-8", "baby-charms-hair-bands-9", "baby-charms-hair-bands-10"],
+  "hair-tic-tacs-pins": ["baby-charms-hair-tic-tacs-pins-1", "baby-charms-hair-tic-tacs-pins-2", "baby-charms-hair-tic-tacs-pins-3", "baby-charms-hair-tic-tacs-pins-4", "baby-charms-hair-tic-tacs-pins-5", "baby-charms-hair-tic-tacs-pins-6", "baby-charms-hair-tic-tacs-pins-7", "baby-charms-hair-tic-tacs-pins-8", "baby-charms-hair-tic-tacs-pins-9", "baby-charms-hair-tic-tacs-pins-10"],
+  "rubber-bands": ["baby-charms-rubber-bands-1", "baby-charms-rubber-bands-2", "baby-charms-rubber-bands-3", "baby-charms-rubber-bands-4", "baby-charms-rubber-bands-5", "baby-charms-rubber-bands-6", "baby-charms-rubber-bands-7", "baby-charms-rubber-bands-8"],
+  "cradle-net": ["baby-safety-cradle-net-1", "baby-safety-cradle-net-2", "baby-safety-cradle-net-3", "baby-safety-cradle-net-4"],
+  "cradle": ["baby-safety-cradle-1", "baby-safety-cradle-2", "baby-safety-cradle-3", "baby-safety-cradle-4", "baby-safety-cradle-5", "baby-safety-cradle-6"],
+  "mosquitoes-net": ["baby-safety-mosquitoes-net-1", "baby-safety-mosquitoes-net-2", "baby-safety-mosquitoes-net-3", "baby-safety-mosquitoes-net-4"],
+  "neck-pillow": ["baby-safety-neck-pillow-1", "baby-safety-neck-pillow-2", "baby-safety-neck-pillow-3", "baby-safety-neck-pillow-4", "baby-safety-neck-pillow-5"],
+  "shower-caps": ["baby-safety-shower-caps-1", "baby-safety-shower-caps-2", "baby-safety-shower-caps-3", "baby-safety-shower-caps-4"],
+  "baby-chair": ["baby-safety-baby-chair-1", "baby-safety-baby-chair-2"],
   };
 
 /* =============================================
