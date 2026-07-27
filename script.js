@@ -10713,6 +10713,12 @@ function createWhatsAppInquiryButton(product) {
 }
 
 function initializeBUDS() {
+  /* ---- FOOTER YEAR ---- */
+  const footerYearEl = document.getElementById("footerYear");
+  if (footerYearEl) {
+    footerYearEl.textContent = new Date().getFullYear();
+  }
+
   /* ---- ON LOAD SCROLL CHECK ---- */
   const urlParams = new URLSearchParams(window.location.search);
   const scrollCat = urlParams.get('scroll');

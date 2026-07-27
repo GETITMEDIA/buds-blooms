@@ -1429,6 +1429,31 @@ body {
   align-items: flex-start;
 }
 
+@media (max-width: 767px) {
+  .footer-brand-section {
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-story {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .footer-socials-premium {
+    justify-content: center;
+  }
+
+  .footer-contact-info {
+    align-items: center;
+  }
+
+  .contact-item {
+    width: auto;
+    max-width: 100%;
+  }
+}
+
 .footer-premium-logo {
   display: inline-block;
   margin-bottom: 24px;
@@ -1514,6 +1539,7 @@ body {
 .footer-connect-section {
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   gap: 30px;
 }
 
@@ -1604,19 +1630,24 @@ body {
 .footer-contact-info {
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  align-items: flex-start;
+  gap: 28px;
   padding: 0 10px;
+  text-align: left;
 }
 
 .contact-item {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 18px;
+  text-align: left;
+  width: 100%;
 }
 
 .contact-icon {
   width: 36px;
   height: 36px;
+  flex-shrink: 0;
   border-radius: 50%;
   background: rgba(236, 107, 168, 0.1);
   color: var(--primary-pink);
@@ -1630,7 +1661,24 @@ body {
   font-size: 15px;
   color: var(--gray-700);
   font-weight: 600;
+  line-height: 1.6;
   margin: 0;
+  text-align: left;
+}
+
+.contact-item p strong {
+  font-weight: 700;
+}
+
+.contact-item p a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-item p a:hover {
+  color: var(--primary-pink);
+  text-decoration: underline;
 }
 
 .footer-premium-bottom {
@@ -1661,6 +1709,17 @@ body {
   color: var(--gray-500);
   margin: 0;
   font-weight: 600;
+}
+
+.footer-bottom-inner p a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-bottom-inner p a:hover {
+  color: var(--primary-pink);
+  text-decoration: underline;
 }
 
 .footer-legal-links {
@@ -1950,10 +2009,6 @@ body {
 /* =============================================
    VIDEO GRID SECTION
    ============================================= */
-.video-section {
-  background: var(--gray-50);
-}
-
 .v-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
@@ -2544,7 +2599,6 @@ body {
    ============================================= */
 .testimonials-section-premium {
   position: relative;
-  background: var(--gray-50);
   padding: 120px 20px;
   text-align: center;
   overflow: hidden;
@@ -2867,18 +2921,9 @@ body {
 .cta-container {
   max-width: 1200px;
   margin: 0 auto;
-  background: rgba(255, 255, 255, 0.6);
-  backdrop-filter: blur(40px);
-  -webkit-backdrop-filter: blur(40px);
-  border-radius: 40px;
-  border: 1px solid rgba(255, 255, 255, 0.8);
   display: flex;
   align-items: center;
   position: relative;
-  box-shadow:
-    0 40px 100px rgba(0, 0, 0, 0.04),
-    inset 0 0 0 1px rgba(255, 255, 255, 0.5);
-  padding: 60px 70px;
   overflow: visible;
 }
 
@@ -3250,10 +3295,6 @@ body {
 
 /* Responsive adjustments */
 @media (max-width: 1024px) {
-  .cta-container {
-    padding: 50px 40px;
-  }
-
   .cta-right {
     padding-left: 40px;
   }
@@ -3270,9 +3311,7 @@ body {
 
   .cta-container {
     flex-direction: column;
-    padding: 40px 20px;
     gap: 40px;
-    border-radius: 30px;
   }
 
   .cta-left,
@@ -6279,34 +6318,6 @@ body {
 /* --- Hotspot Showcase Section --- */
 .hotspot-showcase-section {
   position: relative;
-  background: linear-gradient(135deg, #f8fbff 0%, #ffffff 100%);
-  overflow: hidden;
-}
-
-.hotspot-showcase-section::before,
-.hotspot-showcase-section::after {
-  content: '';
-  position: absolute;
-  border-radius: 50%;
-  filter: blur(80px);
-  z-index: 0;
-  pointer-events: none;
-}
-
-.hotspot-showcase-section::before {
-  top: -10%;
-  left: -5%;
-  width: 400px;
-  height: 400px;
-  background: rgba(236, 107, 168, 0.12);
-}
-
-.hotspot-showcase-section::after {
-  bottom: -10%;
-  right: -5%;
-  width: 500px;
-  height: 500px;
-  background: rgba(54, 184, 242, 0.12);
 }
 
 .hotspot-container {
