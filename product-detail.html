@@ -61,7 +61,7 @@
         <!-- Right: Actions -->
         <div class="header-actions">
           <a href="index.html" class="action-item hide-mobile"><i class="fas fa-home"></i> HOME</a>
-          <a href="about.html" class="action-item hide-mobile"><i class="fas fa-info-circle"></i> ABOUT US</a>
+          <a href="about.html" class="action-item hide-mobile"><i class="fas fa-user"></i> ABOUT US</a>
           <a href="contact.html" class="action-item hide-mobile"><i class="fas fa-phone-alt"></i> CONTACT US</a>
           
           
@@ -201,8 +201,8 @@
           <h1 class="pdp-title" id="pdpTitle">Premium Baby Product</h1>
           
           <div class="pdp-price-wrap">
-            <span class="pdp-price" id="pdpPrice">₹499.00</span>
-            <span class="pdp-price-old">₹699.00</span>
+            <span class="pdp-price" id="pdpPrice">ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹499.00</span>
+            <span class="pdp-price-old">ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹699.00</span>
             <span class="pdp-discount-badge">Save 28%</span>
           </div>
           <p class="pdp-tax-note">Tax included. Shipping calculated at checkout.</p>
@@ -266,7 +266,7 @@
                 <i class="fas fa-chevron-down"></i>
               </button>
               <div class="accordion-content">
-                <p>Free standard shipping on orders over ₹999. Returns accepted within 14 days of purchase. Conditions apply.</p>
+                <p>Free standard shipping on orders over ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹999. Returns accepted within 14 days of purchase. Conditions apply.</p>
               </div>
             </div>
           </div>
@@ -294,7 +294,7 @@
           </a>
           <h3 class="footer-tagline">Nurturing comfort, celebrating style.</h3>
           <p class="footer-story">
-            More than just clothing, we bring you carefully crafted essentials for your little ones and mothers. Soft fabrics, magical designs, and endless love — for the beautiful journey of parenthood.
+            More than just clothing, we bring you carefully crafted essentials for your little ones and mothers. Soft fabrics, magical designs, and endless love &mdash; for the beautiful journey of parenthood.
           </p>
           
           <div class="footer-socials-premium">
@@ -315,11 +315,11 @@
           <div class="footer-contact-info">
             <div class="contact-item">
               <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
-              <p><strong>Kathirkamam Branch</strong><br>No. 278, Vazhudavur Rd,<br>opp. SBI ATM,<br>Kathirkamam,<br>Puducherry – 605009</p>
+              <p><strong>Kathirkamam Branch</strong><br>No. 278, Vazhudavur Rd,<br>opp. SBI ATM,<br>Kathirkamam,<br>Puducherry &ndash; 605009</p>
             </div>
             <div class="contact-item">
               <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
-              <p><strong>Mission Street Branch</strong><br>No. 31, Thiagar Mudaliar Street,<br>Mission Street Corner,<br>Puducherry – 605001</p>
+              <p><strong>Mission Street Branch</strong><br>No. 31, Thiagar Mudaliar Street,<br>Mission Street Corner,<br>Puducherry &ndash; 605001</p>
             </div>
             <div class="contact-item">
               <div class="contact-icon"><i class="fas fa-phone-alt"></i></div>
@@ -332,8 +332,8 @@
       <!-- Bottom Legal -->
       <div class="footer-premium-bottom">
         <div class="footer-bottom-inner">
-          <p class="footer-credit">Proudly created with ❤️ by <a href="https://www.getitmediasolutions.com/" target="_blank" rel="noopener noreferrer"><strong>GETIT MEDIA SOLUTIONS PVT LTD</strong></a></p>
-          <p class="footer-copyright"><span id="footerYear">2026</span> © Buds and Blooms. All Rights Reserved.</p>
+          <p class="footer-credit">Proudly created with <i class="fas fa-heart" style="color: #FF6B9E;"></i> by <a href="https://www.getitmediasolutions.com/" target="_blank" rel="noopener noreferrer"><strong>GETIT MEDIA SOLUTIONS PVT LTD</strong></a></p>
+          <p class="footer-copyright"><span id="footerYear">2026</span> &copy; Buds and Blooms. All Rights Reserved.</p>
         </div>
       </div>
 
@@ -431,13 +431,13 @@
             document.title = dbProduct.name + " - BUDS & Blooms";
             
             // Set price
-            document.getElementById('pdpPrice').textContent = `₹${dbProduct.price.toFixed(2)}`;
+            document.getElementById('pdpPrice').textContent = `ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹${dbProduct.price.toFixed(2)}`;
             
             // Set old price and discount
             const oldPriceEl = document.querySelector('.pdp-price-old');
             const discountBadge = document.querySelector('.pdp-discount-badge');
             if (oldPriceEl && dbProduct.oldPrice) {
-              oldPriceEl.textContent = `₹${dbProduct.oldPrice.toFixed(2)}`;
+              oldPriceEl.textContent = `ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹${dbProduct.oldPrice.toFixed(2)}`;
               oldPriceEl.style.display = 'inline-block';
               if (discountBadge) {
                 const discountPercent = Math.round(((dbProduct.oldPrice - dbProduct.price) / dbProduct.oldPrice) * 100);
