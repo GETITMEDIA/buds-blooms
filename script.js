@@ -12500,8 +12500,20 @@ function initializeBUDS() {
   initButterflies();
   initHeroStars();
   initHotspotShowcase();
+  initWhatsAppFloatingButton();
 }
 
+function initWhatsAppFloatingButton() {
+  if (document.getElementById("global-wa-btn")) return;
+  const a = document.createElement("a");
+  a.id = "global-wa-btn";
+  a.href = "https://wa.me/919092233778";
+  a.target = "_blank";
+  a.rel = "noopener noreferrer";
+  a.className = "whatsapp-float-btn";
+  a.innerHTML = '<i class="fab fa-whatsapp"></i>';
+  document.body.appendChild(a);
+}
 
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", initializeBUDS);
