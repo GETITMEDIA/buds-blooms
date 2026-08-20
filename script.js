@@ -11815,7 +11815,7 @@ function initializeBUDS() {
       `;
 
       /* card.addEventListener("click", () => {
-        window.location.href = `product-detail.html?product=${k}`;
+        // window.location.href = `product-detail.html?product=${k}`;
       }); */
 
       card.appendChild(createWhatsAppInquiryButton(p));
@@ -11876,7 +11876,12 @@ function initializeBUDS() {
       
       if (breadcrumbCat) breadcrumbCat.textContent = categoryTitle;
       if (subcatTitle) {
-        subcatTitle.innerHTML = categoryTitle;
+        let titleWords = categoryTitle.trim().split(/\s+/);
+        if (titleWords.length === 1) {
+            subcatTitle.innerHTML = titleWords[0];
+        } else if (titleWords.length > 1) {
+            subcatTitle.innerHTML = `${titleWords[0]} <span class="text-pink">${titleWords.slice(1).join(' ')}</span>`;
+        }
       }
       document.title = categoryTitle + " - BUDS & Blooms";
 
@@ -11920,7 +11925,7 @@ function initializeBUDS() {
 
             /* card.addEventListener("click", (e) => {
               if (!e.target.closest(".subcat-wishlist-btn")) {
-                window.location.href = `product-detail.html?product=${k}`;
+                // window.location.href = `product-detail.html?product=${k}`;
               }
             }); */
 
@@ -12405,7 +12410,8 @@ function initializeBUDS() {
         title: 'Newborn Cap Set',
         price: '₹199.00',
         oldPrice: '₹299.00',
-        discount: 'Save 33%'
+        discount: 'Save 33%',
+        link: 'baby-care.html'
       },
       {
         key: 'cotton-mittens',
@@ -12413,7 +12419,8 @@ function initializeBUDS() {
         title: 'Cotton Mittens',
         price: '₹120.00',
         oldPrice: '₹199.00',
-        discount: 'Save 40%'
+        discount: 'Save 40%',
+        link: 'baby-care.html'
       },
       {
         key: 'soft-sole-booties',
@@ -12421,7 +12428,8 @@ function initializeBUDS() {
         title: 'Soft Sole Booties',
         price: '₹349.00',
         oldPrice: '₹499.00',
-        discount: 'Save 30%'
+        discount: 'Save 30%',
+        link: 'footwear.html'
       },
       {
         key: 'premium-cotton-towel',
@@ -12429,7 +12437,8 @@ function initializeBUDS() {
         title: 'Premium Cotton Towel',
         price: '₹499.00',
         oldPrice: '₹699.00',
-        discount: 'Save 29%'
+        discount: 'Save 29%',
+        link: 'bedding.html'
       }
     ];
 
@@ -12454,7 +12463,7 @@ function initializeBUDS() {
         if (featuredPrice) featuredPrice.textContent = data.price;
         if (featuredOldPrice) featuredOldPrice.textContent = data.oldPrice;
         if (featuredDiscount) featuredDiscount.textContent = data.discount;
-        // if (actionBtn) actionBtn.href = `product-detail.html?product=${data.key}`;
+        if (actionBtn) actionBtn.href = data.link;
         slideIndicator.textContent = `0${currentIndex + 1} / 0${hotspotData.length}`;
         
         // Animation in
