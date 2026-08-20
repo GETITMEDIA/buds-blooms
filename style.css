@@ -2975,7 +2975,7 @@ body {
 
 .cta-badge-yellow {
   background: linear-gradient(135deg, #ffd233 0%, #ffb52e 100%);
-  color: #fff;
+  color: #333;
   top: -25px;
   left: 50px;
   transform: rotate(-4deg);
@@ -2984,7 +2984,7 @@ body {
 
 .cta-badge-blue {
   background: linear-gradient(135deg, #ffffff 0%, #f0f8ff 100%);
-  color: var(--primary-pink);
+  color: #333;
   bottom: -20px;
   right: 80px;
   transform: rotate(3deg);
