@@ -11890,7 +11890,17 @@ function initializeBUDS() {
       if (heroSection) {
         const parentParamLocal = urlParams.get('parent');
         const parentFolder = parentParamLocal ? parentParamLocal.toLowerCase().replace(/\s+/g, '-') : 'baby-care';
-        const imgPath = `assets/hero/${parentFolder}-hero.png`;
+        
+        const heroMap = {
+          'bedding': 'Bedding_hero1.png',
+          'baby-safety': 'Baby_safety_hero1.png',
+          'mother-care': 'Mother_care_hero1.png',
+          'toys': 'Toys_hero1.png',
+          'baby-charms': 'Baby_charms_hero1.png'
+        };
+        
+        const fileName = heroMap[parentFolder] || `${parentFolder}-hero.png`;
+        const imgPath = `assets/hero/${fileName}`;
         heroSection.style.setProperty('background-image', `url('${imgPath}')`, 'important');
       }
       
