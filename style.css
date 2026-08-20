@@ -95,7 +95,7 @@ body {
 .header-top-row {
   position: relative;
   z-index: 9005;
-  background: #74a09f;
+  background: #004D40;
   border-bottom: 2px solid rgba(0, 0, 0, 0.05);
   display: flex;
   align-items: center;
@@ -118,7 +118,7 @@ body {
   display: flex;
   align-items: center;
   gap: 8px;
-  color: var(--black);
+  color: var(--white);
   text-decoration: none;
   font-size: 13.5px;
   font-weight: 700;
@@ -131,7 +131,7 @@ body {
 }
 
 .loc-text {
-  background: var(--black);
+  background: var(--white);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: all 0.3s ease;
@@ -210,7 +210,7 @@ body {
 }
 
 .action-item {
-  color: var(--black);
+  color: var(--white);
   text-decoration: none;
   font-size: 12px;
   font-weight: 600;
@@ -259,7 +259,7 @@ body {
 }
 
 .sticky-navbar {
-  background: #bba5e1;
+  background: #880E4F;
   position: relative;
   z-index: 9001;
   width: 100%;
@@ -327,7 +327,7 @@ body {
 
 .nav-link {
   display: inline-block;
-  color: var(--black);
+  color: var(--white);
   text-decoration: none;
   font-weight: 800;
   font-size: 13px;
@@ -6943,3 +6943,50 @@ body {
 
 
 
+
+/* === Premium Nav Bar Enhancements === */
+.header-top-row {
+  background: linear-gradient(135deg, #00695C 0%, #004D40 100%) !important;
+  box-shadow: 0 4px 20px rgba(0, 77, 64, 0.4) !important;
+}
+
+.header-top-row .loc-text,
+.header-top-row .action-item {
+  color: #ffffff !important;
+  -webkit-text-fill-color: #ffffff !important;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.2) !important;
+}
+
+.header-top-row .loc-pin {
+  color: #ffb52e !important;
+  text-shadow: 0 2px 5px rgba(255, 181, 46, 0.5);
+}
+
+.header-top-row .action-item:hover,
+.header-top-row .loc-link:hover .loc-text {
+  color: #ffe6a0 !important;
+  -webkit-text-fill-color: #ffe6a0 !important;
+}
+
+.sticky-navbar {
+  background: linear-gradient(135deg, #C2185B 0%, #880E4F 100%) !important;
+  box-shadow: 0 8px 25px rgba(136, 14, 79, 0.4) !important;
+  border-top: 1px solid rgba(255,255,255,0.3);
+}
+
+.sticky-navbar .nav-link {
+  color: #ffffff !important;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.15) !important;
+  font-weight: 900 !important;
+  letter-spacing: 0.05em;
+}
+
+.sticky-navbar .nav-link:hover {
+  text-shadow: 0 0 12px rgba(255,255,255,0.8) !important;
+  transform: translateY(-2px);
+}
+
+.sticky-navbar .nav-link::after {
+  background: #ffffff !important;
+  box-shadow: 0 0 8px rgba(255,255,255,0.8);
+}

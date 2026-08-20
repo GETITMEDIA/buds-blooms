@@ -11876,10 +11876,18 @@ function initializeBUDS() {
       
       if (breadcrumbCat) breadcrumbCat.textContent = categoryTitle;
       if (subcatTitle) {
-        // Find if there's any span in the title, or replace content
         subcatTitle.innerHTML = categoryTitle;
       }
       document.title = categoryTitle + " - BUDS & Blooms";
+
+      // Dynamically update the hero image based on the parent category
+      const heroSection = document.querySelector('.about-hero.baby-care-hero');
+      if (heroSection) {
+        const parentParamLocal = urlParams.get('parent');
+        const parentFolder = parentParamLocal ? parentParamLocal.toLowerCase().replace(/\s+/g, '-') : 'baby-care';
+        const imgPath = `assets/hero/${parentFolder}-hero.png`;
+        heroSection.style.setProperty('background-image', `url('${imgPath}')`, 'important');
+      }
       
       const grid = document.getElementById("subcatProductsGrid");
       if (grid) {
