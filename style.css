@@ -3411,6 +3411,201 @@ body {
   animation: float 10s infinite alternate-reverse;
 }
 
+.cta-btn-modern:hover {
+  transform: translateY(-5px) scale(1.03);
+  box-shadow:
+    0 20px 40px rgba(236, 107, 168, 0.4),
+    0 10px 20px rgba(54, 184, 242, 0.3);
+}
+
+.btn-pulse-icon {
+  width: 48px;
+  height: 48px;
+  background: #fff;
+  color: var(--primary-pink);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  position: relative;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Pulsing outer glow */
+.btn-pulse-icon::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border: 2px solid rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  animation: ctaIconPulse 2s infinite;
+}
+
+@keyframes ctaIconPulse {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(1.6);
+    opacity: 0;
+  }
+}
+
+.btn-label-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.btn-main-label {
+  font-size: 16px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  font-family: var(--font-display);
+}
+
+.btn-sub-label {
+  font-size: 12px;
+  font-weight: 600;
+  opacity: 0.9;
+  margin-top: 2px;
+}
+
+/* Reassurance row */
+.cta-reassurance-row {
+  display: flex;
+  gap: 24px;
+  width: 100%;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  padding-top: 24px;
+}
+
+.reassurance-tag {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #64748b;
+}
+
+.reassurance-tag i {
+  font-size: 15px;
+}
+
+.text-pink {
+  color: var(--primary-pink);
+}
+
+.text-blue {
+  color: var(--primary-blue);
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .cta-right {
+    padding-left: 40px;
+  }
+
+  .cta-title {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  .cta-section-premium {
+    padding: 40px 15px 40px;
+  }
+
+  .cta-container {
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .cta-left,
+  .cta-right {
+    flex: 0 0 100%;
+    width: 100%;
+    padding: 0;
+  }
+
+  .cta-image-wrapper {
+    max-width: 320px;
+  }
+
+  .cta-right {
+    align-items: center;
+    text-align: center;
+  }
+
+  .cta-title {
+    font-size: 34px;
+  }
+
+  .cta-text {
+    max-width: 100%;
+    margin-bottom: 25px;
+  }
+
+  .cta-reassurance-row {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding-top: 20px;
+  }
+
+  .cta-badge-sticker {
+    display: none;
+    /* Hide stickers on mobile to avoid overcrowding */
+  }
+}
+
+/* =============================================
+   ABOUT US PAGE STYLES (Ultra-Modern Glassmorphic)
+   ============================================= */
+.about-hero {
+  position: relative;
+  width: 100%;
+  height: 45vh;
+  min-height: 380px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(135deg, #ffe9f2 0%, #eaf7ff 50%, #fffbe6 100%);
+  overflow: hidden;
+}
+
+.about-hero::before {
+  content: '';
+  position: absolute;
+  top: -10%;
+  left: -10%;
+  width: 45%;
+  height: 90%;
+  background: radial-gradient(circle, rgba(54, 184, 242, 0.25) 0%, transparent 70%);
+  border-radius: 50%;
+  z-index: 0;
+  animation: float 8s infinite alternate;
+}
+
+.about-hero::after {
+  content: '';
+  position: absolute;
+  bottom: -10%;
+  right: -10%;
+  width: 45%;
+  height: 90%;
+  background: radial-gradient(circle, rgba(236, 107, 168, 0.25) 0%, transparent 70%);
+  border-radius: 50%;
+  z-index: 0;
+  animation: float 10s infinite alternate-reverse;
+}
+
 .about-hero-content {
   position: relative;
   z-index: 2;
@@ -3426,11 +3621,16 @@ body {
   margin-bottom: 20px;
   text-transform: uppercase;
   letter-spacing: -1px;
+  text-shadow: 
+    -2px -2px 0 #fff,  
+     2px -2px 0 #fff,
+    -2px  2px 0 #fff,
+     2px  2px 0 #fff,
+     0px  4px 15px rgba(255, 255, 255, 0.6);
 }
 
 .about-subtitle {
   font-size: 20px;
-  color: var(--gray-600);
   line-height: 1.6;
   max-width: 600px;
   margin: 0 auto;
