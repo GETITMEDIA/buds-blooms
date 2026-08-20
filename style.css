@@ -704,11 +704,12 @@ body {
   left: -310px;
   width: 300px;
   height: 100dvh;
-  background: var(--primary);
+  background: linear-gradient(135deg, #880E4F 0%, #C2185B 100%);
   z-index: 9500;
   overflow-y: auto;
   transition: left 0.32s var(--ease-out);
-  padding: 20px 20px 40px;
+  padding: 30px 24px;
+  box-shadow: 10px 0 30px rgba(136, 14, 79, 0.25);
 }
 
 .mobile-drawer.open {
@@ -727,15 +728,19 @@ body {
 }
 
 .mobile-logo {
-  color: var(--white);
-  text-decoration: none;
-  font-size: 28px;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
   display: block;
   margin-bottom: 28px;
-  font-family: var(--font);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.15);
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.mobile-logo img {
+  max-width: 210px;
+  width: 100%;
+  height: auto;
+  display: inline-block;
+  margin: 0 auto;
 }
 
 .mobile-drawer .mobile-logo,
@@ -883,14 +888,16 @@ body {
 }
 
 .mobile-nav-link-flat {
-  display: block;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   width: 100%;
   color: var(--white);
   font-size: 15px;
   font-weight: 700;
   padding: 16px 8px;
   text-decoration: none;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   font-family: var(--font);
   transition:
     opacity 0.35s var(--ease-out),
@@ -901,9 +908,24 @@ body {
   transform: translateX(-18px);
 }
 
+.mobile-nav-link-flat::after {
+  content: "\f105";
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  font-size: 14px;
+  opacity: 0.5;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
 .mobile-nav-link-flat:hover {
   color: var(--primary-yellow);
   padding-left: 14px;
+}
+
+.mobile-nav-link-flat:hover::after {
+  transform: translateX(4px);
+  opacity: 1;
+  color: var(--primary-yellow);
 }
 
 .mobile-drawer.open .mobile-nav-link-flat {
