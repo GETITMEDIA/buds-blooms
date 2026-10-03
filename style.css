@@ -7168,30 +7168,76 @@ body {
 
 /* === Premium Nav Bar Enhancements === */
 .header-top-row {
-  background: linear-gradient(135deg, #00695C 0%, #004D40 100%) !important;
-  box-shadow: 0 4px 20px rgba(0, 77, 64, 0.4) !important;
+  background: linear-gradient(135deg, #E0F7F1 0%, #CDEFE6 100%) !important;
+  box-shadow: 0 4px 20px rgba(77, 182, 160, 0.18) !important;
 }
 
 .header-top-row .loc-text,
 .header-top-row .action-item {
-  color: #ffffff !important;
-  -webkit-text-fill-color: #ffffff !important;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.2) !important;
+  color: #1F5F55 !important;
+  -webkit-text-fill-color: #1F5F55 !important;
+  text-shadow: none !important;
 }
 
 .header-top-row .loc-pin {
-  color: #ffb52e !important;
-  text-shadow: 0 2px 5px rgba(255, 181, 46, 0.5);
+  color: #E8789E !important;
+  text-shadow: none;
 }
 
 .header-top-row .action-item:hover,
 .header-top-row .loc-link:hover .loc-text {
-  color: #ffe6a0 !important;
-  -webkit-text-fill-color: #ffe6a0 !important;
+  color: #D9668F !important;
+  -webkit-text-fill-color: #D9668F !important;
 }
 
 .sticky-navbar {
-  background: linear-gradient(135deg, #C2185B 0%, #880E4F 100%) !important;
-  box-shadow: 0 8px 25px rgba(136, 14, 79, 0.4) !important;
-  border-top: 1px solid rgba(255,255,255,0.3);
+  background: linear-gradient(135deg, #FDE2EC 0%, #F9D3E2 100%) !important;
+  box-shadow: 0 8px 25px rgba(217, 102, 143, 0.15) !important;
+  border-top: 1px solid rgba(255,255,255,0.6);
+}
+
+.sticky-navbar .nav-link,
+.sticky-navbar .nav-item:hover > .nav-link,
+.sticky-navbar .nav-item.open > .nav-link {
+  color: #7A2E4D !important;
+}
+
+.sticky-navbar .nav-link::after {
+  background: #D9668F !important;
+}
+
+.header .hamburger span {
+  background: #1F5F55 !important;
+}
+
+/* === Pastel Mobile Drawer === */
+.mobile-drawer {
+  background: linear-gradient(160deg, #FDE7EF 0%, #E3F6F0 100%) !important;
+}
+
+.mobile-drawer .drawer-close {
+  color: #7A2E4D !important;
+}
+
+.mobile-drawer .mobile-logo {
+  border-bottom-color: rgba(122, 46, 77, 0.15) !important;
+}
+
+.mobile-drawer .mobile-nav-link-flat {
+  color: #7A2E4D !important;
+  border-bottom-color: rgba(122, 46, 77, 0.12) !important;
+}
+
+.mobile-drawer .mobile-nav-link-flat:hover,
+.mobile-drawer .mobile-nav-link-flat:hover::after {
+  color: #D9668F !important;
+}
+
+.mobile-drawer .mobile-nav-item {
+  border-bottom-color: rgba(122, 46, 77, 0.12) !important;
+}
+
+.mobile-drawer .mobile-nav-toggle,
+.mobile-drawer .mobile-nav-sub a {
+  color: #7A2E4D !important;
 }
