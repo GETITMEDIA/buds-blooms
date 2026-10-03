@@ -7726,48 +7726,6 @@ const PRODUCT_DB = {
       "img": "assets/baby-gear/Sub catogory of Activity Walker/Activity-walker.jpg",
       "desc": "Premium quality activity walker for your baby."
   },
-  "battery-bike-01": {
-      "name": "Battery Bike",
-      "category": "Battery Bike",
-      "img": "assets/baby-gear/Sub catogory of Battery Bike/Battery-bike-01.jpg",
-      "desc": "Premium quality battery bike for your baby."
-  },
-  "battery-bike-02": {
-      "name": "Battery Bike",
-      "category": "Battery Bike",
-      "img": "assets/baby-gear/Sub catogory of Battery Bike/Battery-bike-02.jpg",
-      "desc": "Premium quality battery bike for your baby."
-  },
-  "battery-bike": {
-      "name": "Battery Bike",
-      "category": "Battery Bike",
-      "img": "assets/baby-gear/Sub catogory of Battery Bike/Battery-bike.jpg",
-      "desc": "Premium quality battery bike for your baby."
-  },
-  "battery-car-01": {
-      "name": "Battery Car",
-      "category": "Battery Car",
-      "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car-01.jpg",
-      "desc": "Premium quality battery car for your baby."
-  },
-  "battery-car-02": {
-      "name": "Battery Car",
-      "category": "Battery Car",
-      "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car-02.jpg",
-      "desc": "Premium quality battery car for your baby."
-  },
-  "battery-car-03": {
-      "name": "Battery Car",
-      "category": "Battery Car",
-      "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car-03.jpg",
-      "desc": "Premium quality battery car for your baby."
-  },
-  "battery-car": {
-      "name": "Battery Car",
-      "category": "Battery Car",
-      "img": "assets/baby-gear/Sub catogory of Battery Car/battery-car.jpg",
-      "desc": "Premium quality battery car for your baby."
-  },
   "v": {
       "name": "Bouncer",
       "category": "Bouncer",
@@ -10486,8 +10444,6 @@ const PRODUCT_DB = {
   "high-chairs": ["standard-high-chairs", "premium-high-chairs", "advanced-high-chairs", "compact-high-chairs"],
   "baby-carriers": ["standard-baby-carriers", "premium-baby-carriers", "advanced-baby-carriers", "compact-baby-carriers"],
   "activity-walker": ["activity-walker-01", "activity-walker-02", "activity-walker"],
-  "battery-bike": ["battery-bike-01", "battery-bike-02", "battery-bike"],
-  "battery-car": ["battery-car-01", "battery-car-02", "battery-car-03", "battery-car"],
   "bouncer": ["2", "v"],
   "cradle": ["cradle-014", "cradle", "cradle02", "cradle03", "cradle04", "cradle06"],
   "magic-car": ["magic-car-1", "magic-car-2", "magic-car"],
