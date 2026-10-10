@@ -1047,7 +1047,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  min-height: 70vh;
+  height: 100%;
   opacity: 0;
   transition:
     opacity 1.2s var(--ease-out),
@@ -7093,23 +7093,108 @@ body {
 }
 
 @media (max-width: 992px) {
+  .hero-carousel {
+    height: 440px !important;
+  }
+  .hero-slide {
+    background-position: 72% center !important;
+  }
+  .hero-overlay-split {
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 6%;
+  }
   .hero-text-custom {
     padding: 0 !important;
-    max-width: 75%;
+    max-width: 55%;
     margin: 0;
     text-align: left;
     transform: translateY(0);
   }
-  .hero-title-magical .text-line-1 { font-size: 40px; }
-  .hero-title-magical .text-line-2 { font-size: 50px; }
+  .hero-title-magical .text-line-1 { font-size: 26px; }
+  .hero-title-magical .text-line-2 { font-size: 34px; }
+}
+
+@media (max-width: 768px) {
+  .hero-carousel {
+    height: 380px !important;
+  }
+  .hero-slide {
+    background-position: 75% center !important;
+  }
+  .hero-overlay-split {
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 5%;
+  }
+  .hero-text-custom {
+    max-width: 58%;
+  }
+  .hero-title-magical .text-line-1 { font-size: 22px; }
+  .hero-title-magical .text-line-2 { font-size: 28px; }
 }
 
 @media (max-width: 576px) {
-  .hero-text-custom {
-    padding: 15px;
+  .hero-carousel {
+    height: 330px !important;
   }
-  .hero-title-magical .text-line-1 { font-size: 30px; }
-  .hero-title-magical .text-line-2 { font-size: 38px; }
+  .hero-slide {
+    background-position: 78% center !important;
+  }
+  .hero-overlay-split {
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 16px;
+  }
+  .hero-text-custom {
+    padding: 0 !important;
+    max-width: 58%;
+  }
+  .hero-title-magical {
+    gap: 2px;
+  }
+  .hero-title-magical .text-line-1 { 
+    font-size: 18px; 
+    letter-spacing: -0.3px;
+    text-shadow: 
+      -1.5px -1.5px 0 #fff,  
+       1.5px -1.5px 0 #fff,
+      -1.5px  1.5px 0 #fff,
+       1.5px  1.5px 0 #fff,
+       0px  2px 8px rgba(255, 255, 255, 0.9);
+  }
+  .hero-title-magical .text-line-2 { 
+    font-size: 23px; 
+    padding-bottom: 2px;
+    text-shadow: 
+      -1.5px -1.5px 0 #fff,  
+       1.5px -1.5px 0 #fff,
+      -1.5px  1.5px 0 #fff,
+       1.5px  1.5px 0 #fff,
+       0px  2px 8px rgba(255, 255, 255, 0.9);
+  }
+  .carousel-indicators {
+    bottom: 15px;
+  }
+}
+
+@media (max-width: 380px) {
+  .hero-carousel {
+    height: 290px !important;
+  }
+  .hero-slide {
+    background-position: 80% center !important;
+  }
+  .hero-overlay-split {
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 14px;
+  }
+  .hero-text-custom {
+    max-width: 60%;
+  }
+  .hero-title-magical .text-line-1 { font-size: 16px; }
+  .hero-title-magical .text-line-2 { font-size: 20px; }
 }
 
 /* Hotspot Fixes */
